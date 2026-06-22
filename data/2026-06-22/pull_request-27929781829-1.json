@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-22T04:33:24.648698Z",
+  "title": "fix(tool): merge base64 tool response chunks by bytes",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1901",
+  "number": 1901,
+  "body": "## AgentScope Version\n\n`2.0.3`\n\n## Description\n\nFixes #1900.\n\n### Background\n\n`ToolResponse.append_chunk` merges `DataBlock` instances with the same block id when accumulating streamed tool output. Wh…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "wang-zhengxin",
+    "head_sha": "49a1965e0499c8b1450d2bba05cec408afc9867b",
+    "base_ref": "main",
+    "additions": 64,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
