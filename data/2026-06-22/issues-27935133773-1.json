@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-22T06:56:03.921717Z",
+  "title": "feat(workspace): extend workspace backend support in AgentScope 2.0",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1914",
+  "number": 1914,
+  "body": "**Background**\n\nAgentScope currently supports three workspace backends: local filesystem, Docker, and E2B. To improve flexibility and meet broader user needs, we should introduce and support additiona…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
