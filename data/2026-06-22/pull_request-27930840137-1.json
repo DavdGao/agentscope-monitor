@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-22T05:06:10.099987Z",
+  "title": "fix(agent): avoid shared default configs",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1906",
+  "number": 1906,
+  "body": "## Summary\n- replace mutable Agent config defaults with None sentinels\n- instantiate fresh ModelConfig, ContextConfig, and ReActConfig per Agent when omitted\n- add a regression test proving default-cr…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "Premsenareddy",
+    "head_sha": "def1b8303c336719a0ef5863d430e1c8b6ac5719",
+    "base_ref": "main",
+    "additions": 42,
+    "deletions": 6,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
