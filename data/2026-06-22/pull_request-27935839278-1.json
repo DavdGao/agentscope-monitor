@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-22T07:11:24.137807Z",
+  "title": "feat(k8s): support K8s as workspace backend in AgentScope",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1850",
+  "number": 1850,
+  "body": "## PR Title Format\n\nPlease ensure your PR title follows the Conventional Commits format:\n- Format: `<type>(<scope>): <description>`\n- Example: `feat(memory): add redis cache support`\n- Allowed types: …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "a0486edaea52ba8b4161016495ef1da7470b02f9",
+    "base_ref": "main",
+    "additions": 1423,
+    "deletions": 0,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
