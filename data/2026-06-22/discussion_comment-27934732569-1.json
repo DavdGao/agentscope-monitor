@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-22T06:46:49.451000Z",
+  "title": "AgentScope v2 roadmap for AgentScope Studio as a production client delivery layer?",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1909#discussioncomment-17388393",
+  "number": 1909,
+  "body": "@zhijianma Plz check this discussion.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "nottydadie"
+  },
+  "at_mobiles": []
+}
