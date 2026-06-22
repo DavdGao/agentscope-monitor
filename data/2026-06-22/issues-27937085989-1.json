@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-22T07:37:42.545429Z",
+  "title": "feat(workspace): share workspace across different agents",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1919",
+  "number": 1919,
+  "body": "**Background**\n\nIn agent-team, the subagents and leader need to operate the same workspace or directory. However, their tools should be isolated from each other, espeicially for the stateful MCP clien…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
