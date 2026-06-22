@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "YingchaoX",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-22T07:54:19.093755Z",
+  "title": "feat: add DashScope CosyVoice TTS model",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1866#issuecomment-4766087630",
+  "number": 1866,
+  "body": "This workflow seems to fail for fork PR review events because `secrets.STORAGE_REPO_TOKEN` is unavailable (`Secret source: None`), so `actions/checkout` receives an empty `token` while checking out `D…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "YingchaoX",
+    "commenter": "YingchaoX"
+  },
+  "at_mobiles": []
+}
