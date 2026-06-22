@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-22T11:02:33.424271Z",
+  "title": "feat(agent-team): support to expose the subagent hitl events to the leader's session",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1890",
+  "number": 1890,
+  "body": "**Background**\n\nThe team leader and its subagents run in separate sessions. As a result, API-based users connected to the leader's session are unable to receive HITL (Human-in-the-Loop) events trigger…",
+  "labels": [],
+  "assignees": [
+    "DavdGao"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
