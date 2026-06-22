@@ -2,12 +2,20 @@ name: Daily Summary
 
 on:
   schedule:
-    # 02:00 UTC = 10:00 Asia/Shanghai
+    # 02:00 UTC = 10:00 Asia/Shanghai  → digest of YESTERDAY
     - cron: '0 2 * * *'
+    # 08:00 UTC = 16:00 Asia/Shanghai  → digest of TODAY so far
+    - cron: '0 8 * * *'
   workflow_dispatch:
     inputs:
+      report_scope:
+        description: 'yesterday | today (default: yesterday)'
+        required: false
+        default: 'yesterday'
+        type: choice
+        options: [yesterday, today]
       report_day:
-        description: 'Day to summarize (YYYY-MM-DD). Defaults to yesterday (Asia/Shanghai).'
+        description: 'Explicit YYYY-MM-DD (overrides report_scope).'
         required: false
         default: ''
       dry_run:
@@ -39,6 +47,12 @@ jobs:
         env:
           DINGTALK_WEBHOOK: ${{ secrets.DINGTALK_WEBHOOK }}
           DINGTALK_SECRET: ${{ secrets.DINGTALK_SECRET }}
+          # Pick the scope:
+          #  - manual dispatch → user-provided
+          #  - 02:00 UTC cron → yesterday
+          #  - 08:00 UTC cron → today
+          REPORT_SCOPE: ${{ github.event.inputs.report_scope || (github.event.schedule == '0 8 * * *' && 'today' || 'yesterday') }}
           REPORT_DAY: ${{ github.event.inputs.report_day }}
           DRY_RUN: ${{ github.event.inputs.dry_run }}
         run: python -m scripts.summary
+

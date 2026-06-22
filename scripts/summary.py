@@ -18,9 +18,28 @@ from .config import MONITORED_REPO, TIMEZONE
 from .storage import list_events_for_day
 
 
+def _today_str() -> str:
+    return datetime.now(TIMEZONE).date().strftime("%Y-%m-%d")
+
+
 def _yesterday_str() -> str:
     today = datetime.now(TIMEZONE).date()
     return (today - timedelta(days=1)).strftime("%Y-%m-%d")
+
+
+def _resolve_day_and_label() -> tuple[str, str]:
+    """Return (YYYY-MM-DD, human-readable label) based on env vars."""
+    explicit = os.environ.get("REPORT_DAY", "").strip()
+    if explicit:
+        return explicit, explicit
+
+    scope = (os.environ.get("REPORT_SCOPE") or "yesterday").strip().lower()
+    if scope == "today":
+        day = _today_str()
+        return day, f"{day}（今日截至 {datetime.now(TIMEZONE).strftime('%H:%M')}）"
+    # default
+    day = _yesterday_str()
+    return day, f"{day}（昨日）"
 
 
 def _bucket(events: list[dict[str, Any]]) -> dict[str, Any]:
@@ -109,10 +128,10 @@ def _format_comment_group(comment_counts: dict[tuple[str, int, str, str], int], 
     return [r[1] for r in rows]
 
 
-def build_markdown(day: str, buckets: dict[str, Any]) -> tuple[str, str]:
-    title = f"📊 {MONITORED_REPO} 日报 · {day}"
+def build_markdown(label: str, buckets: dict[str, Any]) -> tuple[str, str]:
+    title = f"📊 {MONITORED_REPO} 日报 · {label}"
 
-    sections: list[str] = [f"## 📊 GitHub 监控日报 · {day}", f"**仓库**：`{MONITORED_REPO}`", ""]
+    sections: list[str] = [f"## 📊 GitHub 监控日报 · {label}", f"**仓库**：`{MONITORED_REPO}`", ""]
 
     # 1. 新建
     sections.append("---")
@@ -138,12 +157,12 @@ def build_markdown(day: str, buckets: dict[str, Any]) -> tuple[str, str]:
 
 
 def main() -> int:
-    day = os.environ.get("REPORT_DAY") or _yesterday_str()
+    day, label = _resolve_day_and_label()
     events = list_events_for_day(day)
-    print(f"[info] loaded {len(events)} events for {day}")
+    print(f"[info] loaded {len(events)} events for {day} (label={label})")
 
     buckets = _bucket(events)
-    title, text = build_markdown(day, buckets)
+    title, text = build_markdown(label, buckets)
 
     if os.environ.get("DRY_RUN") == "1":
         print(title)
