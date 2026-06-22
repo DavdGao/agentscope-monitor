@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "zuojie2024",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-22T10:53:20.733963Z",
+  "title": "如何为ReActAgent提供一套友好的web ui",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1695#issuecomment-4767508355",
+  "number": 1695,
+  "body": "> 页面端创建Agent 没反应 一直显示加载中 是什么问题 [@DavdGao](https://github.com/DavdGao)\n\nI'm experiencing this too. I used AgentScope 1.0 extensively, but I'm running into many issues since moving to 2.0. Will there be…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "liangwp001",
+    "commenter": "zuojie2024"
+  },
+  "at_mobiles": []
+}
