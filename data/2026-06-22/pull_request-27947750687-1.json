@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-22T10:57:33.745949Z",
+  "title": "feat(agent-team): support to expose the hitl events in the team leader's session",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1918",
+  "number": 1918,
+  "body": "## PR Title Format\n\nPlease ensure your PR title follows the Conventional Commits format:\n- Format: `<type>(<scope>): <description>`\n- Example: `feat(memory): add redis cache support`\n- Allowed types: …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "c330981af3ce5ae8a0e0f89ca86465c80a860e00",
+    "base_ref": "main",
+    "additions": 1538,
+    "deletions": 78,
+    "changed_files": 23
+  },
+  "at_mobiles": []
+}
