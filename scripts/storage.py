@@ -73,36 +73,22 @@ def save_event(event: dict[str, Any], event_id: str) -> str:
 
 
 def list_events_for_day(day: str) -> list[dict[str, Any]]:
-    """Read all event JSONs for a given YYYY-MM-DD from the storage repo.
+    """Read all event JSONs for a given YYYY-MM-DD from the local checkout.
 
-    Used by the daily summary, which runs inside the storage repo itself —
-    so it reads from the local checkout when available, falling back to API.
+    The daily summary always runs inside the storage repo with
+    `actions/checkout`, so the data directory is on disk. A missing
+    directory simply means no events were recorded for that day.
     """
     from pathlib import Path
 
     local = Path("data") / day
     records: list[dict[str, Any]] = []
-    if local.exists():
-        for fp in sorted(local.glob("*.json")):
-            try:
-                records.append(json.loads(fp.read_text("utf-8")))
-            except (OSError, json.JSONDecodeError) as e:
-                print(f"[warn] skipping {fp}: {e}")
+    if not local.exists():
+        print(f"[info] no data directory for {day}, returning 0 events")
         return records
-
-    # Fallback: pull via API (rare — only when run outside checkout).
-    url = f"{API_ROOT}/repos/{STORAGE_REPO}/contents/data/{day}"
-    resp = requests.get(url, headers=_headers(), timeout=15)
-    if resp.status_code == 404:
-        return []
-    resp.raise_for_status()
-    for item in resp.json():
-        if item["type"] != "file":
-            continue
-        f_resp = requests.get(item["download_url"], timeout=15)
-        f_resp.raise_for_status()
+    for fp in sorted(local.glob("*.json")):
         try:
-            records.append(f_resp.json())
-        except ValueError:
-            pass
+            records.append(json.loads(fp.read_text("utf-8")))
+        except (OSError, json.JSONDecodeError) as e:
+            print(f"[warn] skipping {fp}: {e}")
     return records
