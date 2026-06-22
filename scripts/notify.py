@@ -74,6 +74,11 @@ def _render_markdown(event: dict) -> tuple[str, str]:
 
 def main() -> int:
     event_name = require_env("EVENT_NAME")
+    # pull_request_target carries an identical payload structure to pull_request,
+    # but lets the workflow access secrets when triggered from a fork PR. We
+    # normalize so the rest of the pipeline only needs to know about pull_request.
+    if event_name == "pull_request_target":
+        event_name = "pull_request"
     repo = require_env("REPO_NAME")
     raw_payload = require_env("EVENT_PAYLOAD")
     try:
