@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "itxaiohanglover",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-22T15:02:51.294187Z",
+  "title": "[Feature Request] Will Python version features catch up with Java version?",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1910#issuecomment-4769710168",
+  "number": 1910,
+  "body": "Looking at agentscope-java recent features, here are some that would be valuable in the Python version:\n\n1. Middleware system — agentscope-java just added ToolkitAware middleware for intercepting tool…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "wxxlamp",
+    "commenter": "itxaiohanglover"
+  },
+  "at_mobiles": []
+}
