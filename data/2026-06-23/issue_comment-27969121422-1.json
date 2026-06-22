@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "itxaiohanglover",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-22T16:49:00.691164Z",
+  "title": "[Feature Request] Will Python version features catch up with Java version?",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1910#issuecomment-4770724075",
+  "number": 1910,
+  "body": "Thanks @qbc2016 for the update! Good to hear channel support is in progress.\n\nTo add to my earlier list, the most impactful gaps from a production user perspective:\n\n1. **Model fallback** — when the p…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "wxxlamp",
+    "commenter": "itxaiohanglover"
+  },
+  "at_mobiles": []
+}
