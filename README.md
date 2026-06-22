@@ -92,10 +92,12 @@ For the daily digest workflow:
 |---|---|---|
 | `DINGTALK_WEBHOOK` | yes | bot webhook URL |
 | `DINGTALK_SECRET`  | optional | bot signing secret (only if you enabled 加签) |
+| `DING_OWNER_MAP`   | optional | JSON `{"nickname":"mobile",...}` — only needed if you want the 10:00 digest to @ on-call people. See [@ rotation](#-mention-people-in-real-time-messages). |
 
 ```bash
 gh secret set DINGTALK_WEBHOOK   -R DavdGao/agentscope-monitor
 gh secret set DINGTALK_SECRET    -R DavdGao/agentscope-monitor   # if used
+gh secret set DING_OWNER_MAP     -R DavdGao/agentscope-monitor   # if used
 ```
 
 ### 5. Configure secrets on the monitored repo (`agentscope-ai/agentscope`)
@@ -107,11 +109,13 @@ For the real-time notification workflow:
 | `STORAGE_REPO_TOKEN` | yes | the Fine-grained PAT from step 2 |
 | `DINGTALK_WEBHOOK`   | yes | bot webhook URL |
 | `DINGTALK_SECRET`    | optional | bot signing secret |
+| `DING_OWNER_MAP`     | optional | same JSON as above; needed if you ever want realtime events to @ someone |
 
 ```bash
 gh secret set STORAGE_REPO_TOKEN -R agentscope-ai/agentscope
 gh secret set DINGTALK_WEBHOOK   -R agentscope-ai/agentscope
 gh secret set DINGTALK_SECRET    -R agentscope-ai/agentscope     # if used
+gh secret set DING_OWNER_MAP     -R agentscope-ai/agentscope     # if used
 ```
 
 ### 6. Add the monitor workflow to the monitored repo
@@ -138,17 +142,60 @@ open a PR.
 `templates/github-monitor.yml` — edit the `on:` block.
 `scripts/config.py` — `WATCHED_EVENTS` filters again at the script level.
 
-### @-mention people in real-time messages
+### @-mention people
 
-Currently disabled by default (the mention rule tables in
-`scripts/config.py` are empty).
+Mobile numbers are PII and **never live in git**. They are stored in a
+single GitHub Secret called `DING_OWNER_MAP` (a JSON object), and the
+nickname-based rotation tables in `scripts/config.py` reference those
+nicknames.
 
-- **Rule-based**: fill `OWNER_MAP` (GitHub login → Dingtalk mobile),
-  `LABEL_OWNER_MAP` (label → list of logins), and `MODULE_OWNER_MAP`
-  (path prefix → list of logins). `scripts/mentions.resolve_mentions`
-  picks them up automatically.
-- **LLM-based**: replace `resolve_mentions` in `scripts/mentions.py`
-  with a call to your LLM and return the resolved mobile list.
+#### Step 1 — set `DING_OWNER_MAP` secret
+
+```bash
+echo '{"dawei":"13xxxxxxxxx","chenguan":"13yyyyyyyyy"}' | \
+    gh secret set DING_OWNER_MAP -R DavdGao/agentscope-monitor
+
+# repeat for the monitored repo if you want realtime @ too:
+echo '{"dawei":"13xxxxxxxxx","chenguan":"13yyyyyyyyy"}' | \
+    gh secret set DING_OWNER_MAP -R agentscope-ai/agentscope
+```
+
+The keys (`dawei`, `chenguan`, …) are arbitrary nicknames you reuse
+below. To add/remove a person, re-run `gh secret set` with the full
+updated JSON (secrets are write-only — you can't merge values).
+
+#### Step 2 — weekly on-call rotation (10:00 digest only)
+
+Edit `scripts/config.py`:
+
+```python
+WEEKDAY_ON_CALL = {
+    0: ["dawei", "chenguan"],   # 周一
+    1: ["someone"],             # 周二
+    2: ["dawei", "chenguan"],   # 周三
+    3: ["someone"],             # 周四
+    4: ["dawei", "chenguan"],   # 周五
+    5: ["someone"],             # 周六
+    6: [],                      # 周日: no @
+}
+```
+
+Commit and push — no PII, just nicknames.
+
+#### Step 3 (optional) — real-time @ for specific labels / paths
+
+`LABEL_OWNER_MAP`, `MODULE_OWNER_MAP` in `scripts/config.py` work the
+same way (nicknames only). For a smarter router, replace
+`resolve_mentions` in `scripts/mentions.py` with a call to your LLM
+and return a list of nicknames (or directly mobiles).
+
+#### Notes / caveats
+
+- Only **mobile numbers** trigger a real Dingtalk push notification in
+  a self-built robot group. atUserIds, 阿里钉号, email prefixes only
+  render the @ text without notifying.
+- Nicknames in `WEEKDAY_ON_CALL` that are missing from `DING_OWNER_MAP`
+  are silently dropped (so an empty / unset secret simply means "no @").
 
 ### Change the digest time
 

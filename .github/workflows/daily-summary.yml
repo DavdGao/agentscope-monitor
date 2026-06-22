@@ -47,6 +47,7 @@ jobs:
         env:
           DINGTALK_WEBHOOK: ${{ secrets.DINGTALK_WEBHOOK }}
           DINGTALK_SECRET: ${{ secrets.DINGTALK_SECRET }}
+          DING_OWNER_MAP: ${{ secrets.DING_OWNER_MAP }}
           # Pick the scope:
           #  - manual dispatch → user-provided
           #  - 02:00 UTC cron → yesterday

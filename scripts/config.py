@@ -1,7 +1,9 @@
 """Centralized configuration for the AgentScope GitHub monitor."""
 from __future__ import annotations
 
+import json
 import os
+import sys
 from zoneinfo import ZoneInfo
 
 # ─── Repos ──────────────────────────────────────────────────────────────────
@@ -80,23 +82,47 @@ ACTION_CN = {
 }
 
 # ─── @ Mention configuration ────────────────────────────────────────────────
-# Fill these in to enable real @ in the Dingtalk group.
+# Mobile numbers are PII and live OUTSIDE this repo — only in GitHub Secrets.
+# This file uses nicknames only.
+#
+# Required secret on every repo that runs notify.py or summary.py:
+#   DING_OWNER_MAP   JSON string mapping nickname → Dingtalk mobile number,
+#                    e.g. {"dawei":"13xxxxxxxxx","chenguan":"13yyyyyyyyy"}.
+#
 # IMPORTANT: only mobile numbers really trigger a Dingtalk push notification
 # in a普通群 / 自定义机器人. atUserIds / 阿里钉号 / 邮箱前缀 都不行（只是文本渲染）.
 
-# Nickname → Dingtalk-registered mobile number.
-# The nickname is just a key you'll reference in the rotation tables below.
-OWNER_MAP: dict[str, str] = {
-    # "dawei":      "13800000000",
-    # "chenguan":   "13800000001",
-}
+
+def _load_owner_map() -> dict[str, str]:
+    raw = os.environ.get("DING_OWNER_MAP", "").strip()
+    if not raw:
+        return {}
+    try:
+        data = json.loads(raw)
+    except json.JSONDecodeError as e:
+        print(
+            f"[warn] DING_OWNER_MAP is not valid JSON ({e}); ignoring",
+            file=sys.stderr,
+        )
+        return {}
+    if not isinstance(data, dict):
+        print("[warn] DING_OWNER_MAP must be a JSON object; ignoring", file=sys.stderr)
+        return {}
+    # normalize: keys are str nicknames, values must be str mobiles
+    return {str(k): str(v) for k, v in data.items() if v}
+
+
+# Nickname → Dingtalk-registered mobile number. Loaded from DING_OWNER_MAP
+# secret at import time. Empty dict if the secret is not set (no @ happens).
+OWNER_MAP: dict[str, str] = _load_owner_map()
 
 # Weekly on-call rotation for the 10:00 (yesterday) daily summary.
 # Key: Python weekday (0 = Monday ... 6 = Sunday).
 # Value: list of nicknames from OWNER_MAP to @ in that day's summary.
 # Empty list → no one is @-ed that day.
+# Nicknames that are not in OWNER_MAP are silently skipped.
 WEEKDAY_ON_CALL: dict[int, list[str]] = {
-    0: [],   # Mon  周一  ─ fill with names from OWNER_MAP, e.g. ["dawei"]
+    0: [],   # Mon  周一  ─ e.g. ["dawei", "chenguan"]
     1: [],   # Tue  周二
     2: [],   # Wed  周三
     3: [],   # Thu  周四

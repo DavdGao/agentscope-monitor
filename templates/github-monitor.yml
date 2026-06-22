@@ -60,4 +60,5 @@ jobs:
           STORAGE_REPO_TOKEN: ${{ secrets.STORAGE_REPO_TOKEN }}
           DINGTALK_WEBHOOK: ${{ secrets.DINGTALK_WEBHOOK }}
           DINGTALK_SECRET: ${{ secrets.DINGTALK_SECRET }}
+          DING_OWNER_MAP: ${{ secrets.DING_OWNER_MAP }}
         run: python -m scripts.notify
