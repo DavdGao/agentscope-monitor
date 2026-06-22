@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-22T03:09:49.376199Z",
+  "title": "[Feature Request] Will Python version features catch up with Java version?",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1910#issuecomment-4764358828",
+  "number": 1910,
+  "body": "Hi @wxxlamp, thanks for raising this! Could you share which specific features you feel are missing or lagging in the Python version compared to the Java version? That would help us prioritize more eff…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "wxxlamp",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
