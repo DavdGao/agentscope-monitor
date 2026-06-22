@@ -29,7 +29,13 @@ WATCHED_EVENTS = {
     "pull_request_review_comment",
     "discussion",
     "discussion_comment",
-    "push",
+}
+
+# (event_name, action) tuples that are STORED to the repo but NOT sent
+# to Dingtalk in real time. Used to keep raw data for the daily digest
+# while avoiding noisy chat messages.
+SILENT_REALTIME_EVENTS: set[tuple[str, str]] = {
+    ("pull_request", "synchronize"),   # author pushed new commits — daily summary handles it
 }
 
 EVENT_EMOJI = {
@@ -40,7 +46,6 @@ EVENT_EMOJI = {
     "pull_request_review_comment": "💭",
     "discussion": "🗣️",
     "discussion_comment": "💬",
-    "push": "📦",
 }
 
 EVENT_CN = {
@@ -51,7 +56,6 @@ EVENT_CN = {
     "pull_request_review_comment": "PR 行评论",
     "discussion": "Discussion",
     "discussion_comment": "Discussion 评论",
-    "push": "Push",
 }
 
 ACTION_CN = {

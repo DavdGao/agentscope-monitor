@@ -10,7 +10,7 @@ import os
 import sys
 
 from . import dingtalk
-from .config import WATCHED_EVENTS, require_env
+from .config import SILENT_REALTIME_EVENTS, WATCHED_EVENTS, require_env
 from .mentions import resolve_mentions
 from .parser import parse_event
 from .storage import save_event
@@ -103,7 +103,11 @@ def main() -> int:
         storage_error = e
         print(f"[warn] failed to store event: {e}", file=sys.stderr)
 
-    # 2) notify
+    # 2) notify (skip Dingtalk for silent events — they're stored only)
+    if (event_name, event.get("action", "")) in SILENT_REALTIME_EVENTS:
+        print(f"[skip] {event_name}/{event.get('action')} is silent, stored only")
+        return 0 if storage_error is None else 3
+
     title, text = _render_markdown(event)
     try:
         dingtalk.send_markdown(title=title, text=text, at_mobiles=event["at_mobiles"])

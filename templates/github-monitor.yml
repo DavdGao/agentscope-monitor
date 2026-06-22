@@ -12,21 +12,21 @@ name: GitHub Monitor
 
 on:
   issues:
-    types: [opened, closed, reopened, edited, assigned, unassigned, labeled, unlabeled]
+    types: [opened, closed, reopened]
   issue_comment:
-    types: [created, edited, deleted]
+    types: [created]
   pull_request:
-    types: [opened, closed, reopened, edited, synchronize, review_requested, ready_for_review]
+    # synchronize is silent (stored only) — see SILENT_REALTIME_EVENTS in scripts/config.py.
+    # It's needed for the daily "PRs with new commits to re-review" section.
+    types: [opened, closed, reopened, synchronize, review_requested]
   pull_request_review:
     types: [submitted]
   pull_request_review_comment:
     types: [created]
   discussion:
-    types: [created, edited, deleted, answered, unanswered, category_changed]
+    types: [created, answered]
   discussion_comment:
-    types: [created, edited, deleted]
-  push:
-    branches: [main]
+    types: [created]
 
 permissions:
   contents: read

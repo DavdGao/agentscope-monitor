@@ -156,8 +156,14 @@ CASES = [
     ("pull_request_review", PR_REVIEW),
     ("discussion", DISCUSSION_CREATED),
     ("discussion_comment", DISCUSSION_COMMENT),
-    ("push", PUSH),
 ]
+
+
+def test_silent_events():
+    from scripts.config import SILENT_REALTIME_EVENTS
+    assert ("pull_request", "synchronize") in SILENT_REALTIME_EVENTS, \
+        "PR synchronize must be silent"
+    print("[ok] silent events configured correctly")
 
 
 def test_parser():
@@ -197,3 +203,4 @@ def test_summary(parsed):
 if __name__ == "__main__":
     parsed = test_parser()
     test_summary(parsed)
+    test_silent_events()
