@@ -30,6 +30,21 @@ def _ensure_keyword(text: str) -> str:
     return text
 
 
+def _build_at_text(at_mobiles: Sequence[str] | None, at_user_ids: Sequence[str] | None) -> str:
+    """Render visible @ tokens for the markdown body.
+
+    The webhook only sends the *notification* badge when atMobiles / atUserIds
+    is set; to show a blue highlighted "@xxx" inside the message bubble, the
+    text itself must contain `@<mobile>` or `@<userid>`.
+    """
+    parts: list[str] = []
+    for m in at_mobiles or []:
+        parts.append(f"@{m}")
+    for uid in at_user_ids or []:
+        parts.append(f"@{uid}")
+    return " ".join(parts)
+
+
 def _signed_url(webhook: str, secret: str) -> str:
     timestamp = str(round(time.time() * 1000))
     string_to_sign = f"{timestamp}\n{secret}"
@@ -81,6 +96,13 @@ def send_markdown(
 ) -> dict:
     title = _ensure_keyword(title)
     text = _ensure_keyword(text)
+    # Dingtalk only highlights @ in the bubble when the literal "@<mobile>"
+    # appears in the text. The atMobiles field alone triggers the push
+    # notification but renders no visual @ tag.
+    if at_mobiles:
+        missing = [m for m in at_mobiles if f"@{m}" not in text]
+        if missing:
+            text = text + "\n\n" + " ".join(f"@{m}" for m in missing)
     payload = {
         "msgtype": "markdown",
         "markdown": {"title": title, "text": text},

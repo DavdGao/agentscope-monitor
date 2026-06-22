@@ -15,6 +15,7 @@ from typing import Any
 
 from . import dingtalk
 from .config import MONITORED_REPO, TIMEZONE
+from .mentions import resolve_on_call_mobiles
 from .storage import list_events_for_day
 
 
@@ -164,13 +165,27 @@ def main() -> int:
     buckets = _bucket(events)
     title, text = build_markdown(label, buckets)
 
+    # Only the "yesterday" run (10:00 Beijing) participates in the rotation.
+    # The 16:00 today-so-far run never @ anyone.
+    scope = (os.environ.get("REPORT_SCOPE") or "yesterday").strip().lower()
+    explicit = os.environ.get("REPORT_DAY", "").strip()
+    at_mobiles: list[str] = []
+    if scope == "yesterday" and not explicit:
+        at_mobiles = resolve_on_call_mobiles()
+        if at_mobiles:
+            print(f"[info] on-call @ list for today: {at_mobiles}")
+        else:
+            print("[info] no on-call entry for today's weekday")
+
     if os.environ.get("DRY_RUN") == "1":
         print(title)
         print(text)
+        if at_mobiles:
+            print(f"\n[dry-run] would @ {at_mobiles}")
         return 0
 
     try:
-        dingtalk.send_markdown(title=title, text=text)
+        dingtalk.send_markdown(title=title, text=text, at_mobiles=at_mobiles)
         print("[ok] daily summary sent")
     except Exception as e:
         print(f"[error] failed to send daily summary: {e}", file=sys.stderr)

@@ -79,21 +79,41 @@ ACTION_CN = {
     "commented": "评论",
 }
 
-# ─── @ Mention configuration (placeholders — user fills later) ──────────────
-# GitHub username -> Dingtalk mobile number.
+# ─── @ Mention configuration ────────────────────────────────────────────────
+# Fill these in to enable real @ in the Dingtalk group.
+# IMPORTANT: only mobile numbers really trigger a Dingtalk push notification
+# in a普通群 / 自定义机器人. atUserIds / 阿里钉号 / 邮箱前缀 都不行（只是文本渲染）.
+
+# Nickname → Dingtalk-registered mobile number.
+# The nickname is just a key you'll reference in the rotation tables below.
 OWNER_MAP: dict[str, str] = {
-    # "alice": "13800000000",
+    # "dawei":      "13800000000",
+    # "chenguan":   "13800000001",
 }
 
-# Issue/PR label -> list of GitHub usernames.
+# Weekly on-call rotation for the 10:00 (yesterday) daily summary.
+# Key: Python weekday (0 = Monday ... 6 = Sunday).
+# Value: list of nicknames from OWNER_MAP to @ in that day's summary.
+# Empty list → no one is @-ed that day.
+WEEKDAY_ON_CALL: dict[int, list[str]] = {
+    0: [],   # Mon  周一  ─ fill with names from OWNER_MAP, e.g. ["dawei"]
+    1: [],   # Tue  周二
+    2: [],   # Wed  周三
+    3: [],   # Thu  周四
+    4: [],   # Fri  周五
+    5: [],   # Sat  周六
+    6: [],   # Sun  周日 (typically empty)
+}
+
+# Issue/PR label → list of nicknames. Used by realtime mentions.resolve_mentions.
 LABEL_OWNER_MAP: dict[str, list[str]] = {
-    # "bug": ["alice"],
-    # "urgent": ["alice", "bob"],
+    # "bug": ["dawei"],
+    # "urgent": ["dawei", "chenguan"],
 }
 
-# Module/path -> list of GitHub usernames (used by future LLM router).
+# Module path prefix → list of nicknames. Hook for the future LLM router.
 MODULE_OWNER_MAP: dict[str, list[str]] = {
-    # "src/agentscope/agents/": ["alice"],
+    # "src/agentscope/agents/": ["dawei"],
 }
 
 # ─── Environment helpers ────────────────────────────────────────────────────

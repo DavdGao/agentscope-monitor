@@ -1,17 +1,33 @@
-"""Resolve which Dingtalk mobiles to @ for a given event.
+"""Resolve which Dingtalk mobiles to @ for a given event or summary.
 
-Currently a stub that returns []. The user will fill in:
-  - rule-based: label / assignee / module-path mapping (config.py)
-  - LLM-based:  pass payload to an LLM that picks the right owner
+Two entry points:
+  - resolve_mentions(event)            → realtime per-event @
+  - resolve_on_call_mobiles(day)       → weekly rotation for 10:00 summary
 
-To wire in LLM routing later, override `resolve_mentions` (e.g. read an
-env var like MENTIONS_BACKEND=llm and dispatch).
+Both ultimately return a list of mobile numbers (the only thing that
+actually triggers @ in a self-built robot group).
 """
 from __future__ import annotations
 
+from datetime import date, datetime
 from typing import Any
 
-from .config import LABEL_OWNER_MAP, MODULE_OWNER_MAP, OWNER_MAP
+from .config import (
+    LABEL_OWNER_MAP,
+    MODULE_OWNER_MAP,
+    OWNER_MAP,
+    TIMEZONE,
+    WEEKDAY_ON_CALL,
+)
+
+
+def _nicknames_to_mobiles(nicks) -> list[str]:
+    seen: list[str] = []
+    for n in nicks:
+        m = OWNER_MAP.get(n)
+        if m and m not in seen:
+            seen.append(m)
+    return seen
 
 
 def _by_labels(labels: list[str]) -> set[str]:
@@ -35,16 +51,26 @@ def _by_modules(paths: list[str]) -> set[str]:
 
 
 def resolve_mentions(event: dict[str, Any]) -> list[str]:
-    """Return a list of Dingtalk mobile numbers to @ for this event.
-
-    For now this is rule-only (and the rule tables are empty by default,
-    so the result is []). Hook a real router in here when ready.
-    """
+    """Return mobile numbers to @ for a realtime event notification."""
     candidates: set[str] = set()
     candidates |= _by_labels(event.get("labels", []) or [])
     candidates |= _by_assignees(event.get("assignees", []) or [])
     candidates |= _by_assignees(event.get("reviewers", []) or [])
     candidates |= _by_modules(event.get("changed_paths", []) or [])
+    return _nicknames_to_mobiles(sorted(candidates))
 
-    mobiles = [OWNER_MAP[u] for u in candidates if u in OWNER_MAP]
-    return sorted(set(mobiles))
+
+def resolve_on_call_mobiles(target_day: str | date | None = None) -> list[str]:
+    """Return the on-call mobiles for the given day's 10:00 summary.
+
+    `target_day` is the day the summary is *about* (i.e. yesterday at 10:00).
+    The rotation lookup uses the weekday of that day, so Monday's report
+    (published Tuesday 10:00) hits WEEKDAY_ON_CALL[0]... wait, no — the
+    user wants "the 10:00 run on Mon/Wed/Fri @ group A". The published-on
+    weekday matters, not the data weekday. We therefore key on TODAY's
+    weekday in TIMEZONE, regardless of what date the data is about.
+    """
+    today = datetime.now(TIMEZONE).date()
+    weekday = today.weekday()  # 0 = Monday
+    nicks = WEEKDAY_ON_CALL.get(weekday, []) or []
+    return _nicknames_to_mobiles(nicks)
