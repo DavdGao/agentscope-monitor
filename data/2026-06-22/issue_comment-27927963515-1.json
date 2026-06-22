@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-22T03:38:28.995911Z",
+  "title": "[Bug]:官方文档formatter一章，vllm适配的OpenAIFormatter是不是忘删了",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1599#issuecomment-4764472546",
+  "number": 1599,
+  "body": "Sorry for the late reply. It is a typo, and should be `OpenAIChatFormatter` and `OpenAIMultiAgentFormatter`. We will fix it ASAP. Thank you again for pointing it out.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "liyunhan",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
