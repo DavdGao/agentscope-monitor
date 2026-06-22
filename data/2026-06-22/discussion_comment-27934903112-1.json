@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-22T06:50:56.420913Z",
+  "title": "add OpenSandbox as sandbox provider",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1902#discussioncomment-17388433",
+  "number": 1902,
+  "body": "@xy3xy3 Thanks for the proposal! We are indeed planning to expand sandbox backend support for the current workspace — including options like K8s, AgentRun, and potentially OpenSandbox, which looks lik…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "xy3xy3"
+  },
+  "at_mobiles": []
+}
