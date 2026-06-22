@@ -122,13 +122,13 @@ OWNER_MAP: dict[str, str] = _load_owner_map()
 # Empty list → no one is @-ed that day.
 # Nicknames that are not in OWNER_MAP are silently skipped.
 WEEKDAY_ON_CALL: dict[int, list[str]] = {
-    0: [],   # Mon  周一  ─ e.g. ["dawei", "chenguan"]
-    1: [],   # Tue  周二
-    2: [],   # Wed  周三
-    3: [],   # Thu  周四
-    4: [],   # Fri  周五
-    5: [],   # Sat  周六
-    6: [],   # Sun  周日 (typically empty)
+    0: ["bingchen"],            # Mon  周一  ─ 135 bingchen
+    1: ["dawei"],               # Tue  周二  ─ 246 dawei
+    2: ["bingchen"],            # Wed  周三  ─ 135 bingchen
+    3: ["dawei"],               # Thu  周四  ─ 246 dawei
+    4: ["bingchen"],            # Fri  周五  ─ 135 bingchen
+    5: ["dawei"],               # Sat  周六  ─ 246 dawei
+    6: ["dawei", "bingchen"],   # Sun  周日  ─ 双 @
 }
 
 # Issue/PR label → list of nicknames. Used by realtime mentions.resolve_mentions.
