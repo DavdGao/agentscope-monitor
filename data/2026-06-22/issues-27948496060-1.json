@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-22T11:11:34.792156Z",
+  "title": "feat(message_bus): implement in-memory message bus to support single node implementation",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1921",
+  "number": 1921,
+  "body": "**Background**\n\nAfter #1920, we can implement a simple in-memory message bus to support single-node implementation of the agent service.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
