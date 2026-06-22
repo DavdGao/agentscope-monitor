@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "YingchaoX",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-22T12:43:33.997092Z",
+  "title": "fix(app): convert AG-UI SSE stream events",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1917",
+  "number": 1917,
+  "body": "## AgentScope Version\n\n2.0.3\n\n## Description\n\nThis PR fixes #1913.\n\n`AGUIProtocolMiddleware` could convert raw AgentScope event JSON into AG-UI events, but it did not work for the session SSE endpoint…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "YingchaoX",
+    "head_sha": "6db65ab5b1a881c5d54122347a17bc4387a699d8",
+    "base_ref": "main",
+    "additions": 253,
+    "deletions": 28,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
