@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "Mrart",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-22T12:23:52.978563Z",
+  "title": "feat(workspace): support multiple agents for the same workspace",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1922",
+  "number": 1922,
+  "body": "## PR Title Format\n\nPlease ensure your PR title follows the Conventional Commits format:\n- Format: `<type>(<scope>): <description>`\n- Example: `feat(memory): add redis cache support`\n- Allowed types: …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Mrart",
+    "head_sha": "5a1b6fdc12bc45465e1c0302192e52513cae6237",
+    "base_ref": "main",
+    "additions": 2512,
+    "deletions": 187,
+    "changed_files": 38
+  },
+  "at_mobiles": []
+}
