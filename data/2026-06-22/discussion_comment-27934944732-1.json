@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-22T06:51:54.499433Z",
+  "title": "python的docker沙箱环境不支持文件系统指令，需要自己封装mcp_tool",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1882#discussioncomment-17388445",
+  "number": 1882,
+  "body": "Update: Fixed in #1903",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "taiziye"
+  },
+  "at_mobiles": []
+}
