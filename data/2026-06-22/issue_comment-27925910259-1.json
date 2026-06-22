@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-22T02:32:28.389547Z",
+  "title": "fix(agent): emit ThinkingBlockEnd before TextBlockStart on thinking→text transition",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1907#issuecomment-4764207410",
+  "number": 1907,
+  "body": "Thank you for your PR. There is already a similar PR(#1885) that addresses this issue. Perhaps we could continue the discussion under that PR.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "XingyongCheng",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
