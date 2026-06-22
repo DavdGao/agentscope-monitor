@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-22T07:19:08.333195Z",
+  "title": "[Bug]: AGUIProtocolMiddleware does not work",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1913#issuecomment-4765843443",
+  "number": 1913,
+  "body": "@XiuShenAl Plz take a look at this issue about the AGUI protocol",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "mklp",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
