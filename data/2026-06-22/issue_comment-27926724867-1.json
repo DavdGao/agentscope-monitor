@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-22T02:59:59.537919Z",
+  "title": "fix(agent): emit ThinkingBlockEnd before TextBlockStart at reasoning→answer boundary",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1887#issuecomment-4764305460",
+  "number": 1887,
+  "body": "I think this is necessary. From the model's perspective, it returns the thinking content before the text content. Therefore, we need to ensure that the thinking end event is emitted before the text st…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "qbc2016",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
