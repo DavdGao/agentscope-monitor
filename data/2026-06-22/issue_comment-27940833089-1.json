@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-22T08:50:18.860842Z",
+  "title": "feat(workspace): add Daytona as a workspace backend",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1916#issuecomment-4766519340",
+  "number": 1916,
+  "body": "@BreezyB1n Thanks for your interest in contributing to AgentScope!",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
