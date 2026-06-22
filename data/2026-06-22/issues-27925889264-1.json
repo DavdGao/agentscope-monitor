@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-22T02:31:43.358504Z",
+  "title": "[Bug]: AnthropicChatFormatter splits parallel tool_results into multiple user messages -> 400 on DeepSeek",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1892",
+  "number": 1892,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [],
+  "assignees": [
+    "qbc2016"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "apodemakeles"
+  },
+  "at_mobiles": []
+}
