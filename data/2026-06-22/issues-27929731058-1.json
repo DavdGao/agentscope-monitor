@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-22T04:31:53.837636Z",
+  "title": "feat(workspace): add default MCP server support for built-in tools (Bash, Grep, etc.) in E2B and Docker workspaces",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1826",
+  "number": 1826,
+  "body": "**Background**\n\nAgentScope's built-in tools (e.g., Bash, Grep, Glob) should be executable within E2B and Docker workspaces to ensure consistent tool prompts and behavior across different execution env…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
