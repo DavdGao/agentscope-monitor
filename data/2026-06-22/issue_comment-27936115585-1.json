@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "XiuShenAl",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-22T07:16:55.471350Z",
+  "title": "feat(workspace): support K8s based workspace in agentscope 2.0",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1842#issuecomment-4765828082",
+  "number": 1842,
+  "body": "Hi, I'd like to be assigned to this issue.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "XiuShenAl"
+  },
+  "at_mobiles": []
+}
