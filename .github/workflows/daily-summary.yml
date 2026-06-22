@@ -1,0 +1,44 @@
+name: Daily Summary
+
+on:
+  schedule:
+    # 02:00 UTC = 10:00 Asia/Shanghai
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+    inputs:
+      report_day:
+        description: 'Day to summarize (YYYY-MM-DD). Defaults to yesterday (Asia/Shanghai).'
+        required: false
+        default: ''
+      dry_run:
+        description: 'If "1", print to log instead of sending to Dingtalk.'
+        required: false
+        default: ''
+
+permissions:
+  contents: read
+
+concurrency:
+  group: daily-summary
+  cancel-in-progress: false
+
+jobs:
+  summary:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Run summary
+        env:
+          DINGTALK_WEBHOOK: ${{ secrets.DINGTALK_WEBHOOK }}
+          DINGTALK_SECRET: ${{ secrets.DINGTALK_SECRET }}
+          REPORT_DAY: ${{ github.event.inputs.report_day }}
+          DRY_RUN: ${{ github.event.inputs.dry_run }}
+        run: python -m scripts.summary
