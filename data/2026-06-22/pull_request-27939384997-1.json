@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "YingchaoX",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-22T08:23:06.116865Z",
+  "title": "feat: add DashScope CosyVoice TTS model",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1866",
+  "number": 1866,
+  "body": "## AgentScope Version\n\n```text\n2.0.1\n```\n\n## Description\n\nThis PR addresses #1685 by adding DashScope CosyVoice TTS support.\n\nIt introduces `DashScopeCosyVoiceTTSModel`, a new DashScope TTS model clas…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "YingchaoX",
+    "head_sha": "5335788f2586bdc81ae7c0329f721ec4c5cd2c0b",
+    "base_ref": "main",
+    "additions": 914,
+    "deletions": 161,
+    "changed_files": 15
+  },
+  "at_mobiles": []
+}
