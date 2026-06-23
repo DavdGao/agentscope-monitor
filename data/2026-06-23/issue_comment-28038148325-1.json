@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "nuthalapativarun",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-23T15:46:12.680343Z",
+  "title": "feat(tts): implement Gemini TTS API",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1879#issuecomment-4780921959",
+  "number": 1879,
+  "body": "Thanks for the review, @qbc2016! Addressed the inline comments:\n\n- Registered `GeminiTTSModel` in the credential layer by adding `GeminiCredential.get_tts_model_classes()` in `src/agentscope/credentia…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "nuthalapativarun",
+    "commenter": "nuthalapativarun"
+  },
+  "at_mobiles": []
+}
