@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "songsh",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-23T02:03:34.447424Z",
+  "title": "在使用 agentscope 2.0.1 + deepseek-v4-pro 时报错",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1864#discussioncomment-17401223",
+  "number": 1864,
+  "body": "我用 DeepSeekChatModel,  又报错 \nFailed validating 'maxLength' in schema['properties']['current_state']:\n    {'description': 'What has been completed so far.\\n'\n                    'File created, modified,…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "songsh",
+    "discussion_author": "songsh"
+  },
+  "at_mobiles": []
+}
