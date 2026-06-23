@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "WilliamK112",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-23T12:16:33.214647Z",
+  "title": "[Bug]: Streaming events out of order — TextBlockDelta emitted before ThinkingBlockEnd at the reasoning→answer boundary",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1885#issuecomment-4779082196",
+  "number": 1885,
+  "body": "Hi, I would like to work on this.\n\nI have read the contribution guide and reproduced the ordering path locally in `Agent._convert_chat_response_to_event`. I will keep the PR focused on the stream even…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "YouyuiSS",
+    "commenter": "WilliamK112"
+  },
+  "at_mobiles": []
+}
