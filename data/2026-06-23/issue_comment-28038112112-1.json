@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "nuthalapativarun",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-23T15:45:39.428443Z",
+  "title": "feat(tts): implement OpenAI TTS API",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1878#issuecomment-4780916470",
+  "number": 1878,
+  "body": "Thanks for the review, @qbc2016! Addressed both inline comments:\n\n- Registered `OpenAITTSModel` in the credential layer by adding `OpenAICredential.get_tts_model_classes()\" in `src/agentscope/credenti…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "nuthalapativarun",
+    "commenter": "nuthalapativarun"
+  },
+  "at_mobiles": []
+}
