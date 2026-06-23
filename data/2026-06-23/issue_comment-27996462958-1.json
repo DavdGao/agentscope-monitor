@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-23T01:46:06.291597Z",
+  "title": "[Feature Request] Will Python version features catch up with Java version?",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1910#issuecomment-4774868143",
+  "number": 1910,
+  "body": "@itxaiohanglover Great points! Here is the current status of the three features in AgentScope 2.0 (Python) :\n\nAlready supported:\n- **Model fallback** — Already supported. Please refer to the [docs](ht…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "wxxlamp",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
