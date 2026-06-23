@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-23T04:47:36.661772Z",
+  "title": "feat(agent): support user-defined hints/instructions when compressing memory",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1924",
+  "number": 1924,
+  "body": "**Background**\n\nThe `Agent` class supports context compression via the `compress_context` interface. However, it currently does not allow users to pass custom hints or instructions to guide the compre…",
+  "labels": [
+    "Help Wanted"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
