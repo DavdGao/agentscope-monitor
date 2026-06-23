@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-23T05:01:12.966122Z",
+  "title": "perf(message_bus): decouple the message bus from the service logic",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1920",
+  "number": 1920,
+  "body": "**Background**\nThe current implementation of MessageBus mixes service logic with meta operations, which makes it difficult to extend and maintain. A cleaner separation of concerns is needed to improve…",
+  "labels": [],
+  "assignees": [
+    "DavdGao"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
