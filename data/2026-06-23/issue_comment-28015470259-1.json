@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-23T09:13:04.503640Z",
+  "title": "feat: add DashScope CosyVoice TTS model",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1866#issuecomment-4777604949",
+  "number": 1866,
+  "body": "Thanks for the continued work on this. The direction of extracting shared code is correct, but the non-realtime model (`DashScopeCosyVoiceTTSModel`) has become significantly more complex than it needs…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "YingchaoX",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
