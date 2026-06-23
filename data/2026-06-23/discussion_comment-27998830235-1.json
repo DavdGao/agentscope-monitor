@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "zhijianma",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-23T02:52:25.681991Z",
+  "title": "AgentScope v2 roadmap for AgentScope Studio as a production client delivery layer?",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1909#discussioncomment-17401549",
+  "number": 1909,
+  "body": "@nottydadie \n\nOne thing worth pointing out that wasn't covered in the previous response: AgentScope 2.0's main repository includes a `examples/web_ui` alongside `examples/agent_service`, which is posi…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "zhijianma",
+    "discussion_author": "nottydadie"
+  },
+  "at_mobiles": []
+}
