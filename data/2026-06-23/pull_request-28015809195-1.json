@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-23T09:18:52.762242Z",
+  "title": "feat(realtime): support dashscope, openai and gemini realtime chatting",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1881",
+  "number": 1881,
+  "body": "## AgentScope Version\n\n2.0.1\n\n## Description\n\nAs the title says.\n\n## Checklist\n\nPlease check the following items before code is ready to be reviewed.\n\n- [ ]  An issue has been created for this PR\n- [ …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "4c5ec68db6a160099d8e3726d6269ffc19c37342",
+    "base_ref": "main",
+    "additions": 8751,
+    "deletions": 103,
+    "changed_files": 67
+  },
+  "at_mobiles": []
+}
