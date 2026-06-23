@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "hhj-oo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-23T10:14:25.952806Z",
+  "title": "Why is there no A2A mode in version 2.0.x?",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1928",
+  "number": 1928,
+  "body": "Why is there no A2A mode in version 2.0.x?",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "General",
+    "author": "hhj-oo"
+  },
+  "at_mobiles": []
+}
