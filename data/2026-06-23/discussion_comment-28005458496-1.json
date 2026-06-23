@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-23T05:54:56.643369Z",
+  "title": "在使用 agentscope 2.0.1 + deepseek-v4-pro 时报错",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1864#discussioncomment-17402717",
+  "number": 1864,
+  "body": "We have fixed it in https://github.com/agentscope-ai/agentscope/pull/1891. Please install from source, use your own `SummarySchema`, or wait for our next release, which will be out soon.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "qbc2016",
+    "discussion_author": "songsh"
+  },
+  "at_mobiles": []
+}
