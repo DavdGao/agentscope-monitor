@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Mrart",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-23T02:54:19.489518Z",
+  "title": "feat(workspace): support multiple agents for the same workspace",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1922#issuecomment-4775164097",
+  "number": 1922,
+  "body": "/gemini review",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Mrart",
+    "commenter": "Mrart"
+  },
+  "at_mobiles": []
+}
