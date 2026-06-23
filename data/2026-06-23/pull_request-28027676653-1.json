@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "YingchaoX",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-23T12:54:12.763075Z",
+  "title": "fix(middleware): use configured id factory for TTS audio blocks",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1930",
+  "number": 1930,
+  "body": "## AgentScope Version\n\n2.0.3\n\n## Description\n\n`TTSMiddleware` generated audio `DATA_BLOCK_*` event `block_id`s with `uuid.uuid4().hex` directly. This bypassed the configurable ID factory set by `set_i…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "YingchaoX",
+    "head_sha": "4daa5ba7ed119956e806ef94e266c8853f621664",
+    "base_ref": "main",
+    "additions": 40,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
