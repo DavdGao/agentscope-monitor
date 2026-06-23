@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "WilliamK112",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-23T12:26:33.774415Z",
+  "title": "[Bug]: Streaming events out of order — TextBlockDelta emitted before ThinkingBlockEnd at the reasoning→answer boundary",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1885#issuecomment-4779160874",
+  "number": 1885,
+  "body": "Opened PR #1929 for this and marked it ready for review.\n\nLocal validation completed:\n- `.venv/bin/python -m pytest tests/agent_basic_test.py`\n- `.venv/bin/python -m pytest tests`\n- `.venv/bin/pre-com…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "YouyuiSS",
+    "commenter": "WilliamK112"
+  },
+  "at_mobiles": []
+}
