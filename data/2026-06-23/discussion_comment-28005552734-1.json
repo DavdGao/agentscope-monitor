@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-23T05:57:13.900301Z",
+  "title": "redismessagebus有没有单机方案",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1862#discussioncomment-17402734",
+  "number": 1862,
+  "body": "Update: add in-memory message bus in #1925",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "defengwang"
+  },
+  "at_mobiles": []
+}
