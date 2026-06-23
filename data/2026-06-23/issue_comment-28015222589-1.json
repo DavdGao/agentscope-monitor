@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "dongfeng3692",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-23T09:08:47.487438Z",
+  "title": "fix(model): use flat estimate for multimodal data blocks",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1899#issuecomment-4777564929",
+  "number": 1899,
+  "body": "@qbc2016 Could you take a look? The multimodal input flow is currently blocked.\nThis token size estimation error makes the program incorrectly believe the context is full, triggering unnecessary compr…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "dongfeng3692",
+    "commenter": "dongfeng3692"
+  },
+  "at_mobiles": []
+}
