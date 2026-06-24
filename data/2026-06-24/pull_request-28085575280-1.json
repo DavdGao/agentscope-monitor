@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T08:28:17.578594Z",
+  "title": "fix(realtime): retain strong reference to fire-and-forget tool tasks",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1654",
+  "number": 1654,
+  "body": "## Summary\n\n`RealtimeAgent._model_response_loop` schedules each tool call via `asyncio.create_task(self._acting(...))` but discards the returned `Task`. Per the [asyncio docs](https://docs.python.org/…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "Ricardo-M-L",
+    "head_sha": "854df7eaaa2864339263e2a2ab7fbfa0de6643ad",
+    "base_ref": "main",
+    "additions": 7869,
+    "deletions": 405,
+    "changed_files": 60
+  },
+  "at_mobiles": []
+}
