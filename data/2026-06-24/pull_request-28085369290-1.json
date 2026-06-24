@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T08:24:22.797713Z",
+  "title": "fix(session): block JSONSession path traversal",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1372",
+  "number": 1372,
+  "body": "## Summary\n- sanitize `session_id` and `user_id` before building JSON session filename\n- enforce realpath containment under `save_dir` to block directory traversal\n- raise `ValueError` on empty/invali…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "EaEa0001",
+    "head_sha": "fa4b0e745f3dbb62a29265a4a5a57ccdf2b64766",
+    "base_ref": "main",
+    "additions": 71,
+    "deletions": 6,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
