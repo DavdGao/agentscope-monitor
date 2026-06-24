@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T08:26:31.370419Z",
+  "title": "fix(agent): handle compression model errors gracefully",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1425#issuecomment-4787322256",
+  "number": 1425,
+  "body": "fixed in #1430",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "octo-patch",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
