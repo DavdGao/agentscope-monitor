@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "jinliyl",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T10:02:58.695973Z",
+  "title": "Add model-driven self-compaction for context management and refactor tests",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1938",
+  "number": 1938,
+  "body": "## PR Title Format\n\nPlease ensure your PR title follows the Conventional Commits format:\n- Format: `<type>(<scope>): <description>`\n- Example: `feat(memory): add redis cache support`\n- Allowed types: …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "jinliyl",
+    "head_sha": "f6ac2952fb57b462af4007b464aa3c0a1f4fd76d",
+    "base_ref": "main",
+    "additions": 495,
+    "deletions": 9,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
