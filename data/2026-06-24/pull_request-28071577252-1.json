@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "michaelxer",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T02:46:02.910730Z",
+  "title": "fix: recover orphan tool calls on mid-stream failure (#1888)",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1911",
+  "number": 1911,
+  "body": "## Problem\n\nWhen tool execution fails after an assistant message with `tool_calls` is saved to context but before matching tool results are recorded, the next conversation turn sends invalid history t…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "michaelxer",
+    "head_sha": "cdeaf444e2d1ce46f0e74b68c5fae96aefe4a1c4",
+    "base_ref": "main",
+    "additions": 393,
+    "deletions": 36,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
