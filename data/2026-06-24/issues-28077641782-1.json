@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T05:36:27.084645Z",
+  "title": "feat(webui): improve the rendering of the Write and Edit tools",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1846",
+  "number": 1846,
+  "body": "## Background\n\nIn the current Web UI implementation, tool calls and their results have already been decoupled for better modularity and readability. However, the existing renderers for the `write` and…",
+  "labels": [
+    "Help Wanted"
+  ],
+  "assignees": [
+    "Premsenareddy"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
