@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T04:40:54.938910Z",
+  "title": "feat(webui): render Write and Edit tool diffs",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1856",
+  "number": 1856,
+  "body": "## Summary\n- add a shared diff preview renderer for Write/Edit tool results\n- render unified git-style diffs with react-diff-view and unidiff\n- collapse large diffs behind an expandable \"N more lines\"…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Premsenareddy",
+    "head_sha": "94cf8c2ad5209f9fdc69ec08a6f3ce76bac8fedd",
+    "base_ref": "main",
+    "additions": 627,
+    "deletions": 78,
+    "changed_files": 16
+  },
+  "at_mobiles": []
+}
