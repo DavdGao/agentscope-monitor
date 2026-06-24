@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T08:27:14.739889Z",
+  "title": "fix(model): skip forced tool_choice for providers that don't support it",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1613",
+  "number": 1613,
+  "body": "## AgentScope Version\n1.0.19.post1\n\n## Description\n\nModels exposed by DeepSeek / GLM / Kimi, etc., through OpenAI-compatible interfaces have incomplete support for tool_choice=\"required\" or tool_choic…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "FallingSnowFlake",
+    "head_sha": "bbd97c0541c0a4ddb00c14b5cf6c21cbc47639ad",
+    "base_ref": "main",
+    "additions": 4897,
+    "deletions": 310,
+    "changed_files": 43
+  },
+  "at_mobiles": []
+}
