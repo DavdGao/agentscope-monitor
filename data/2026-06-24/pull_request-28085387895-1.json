@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T08:24:40.453042Z",
+  "title": "chore(typing): replace deprecated and legacy types",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1378",
+  "number": 1378,
+  "body": "## AgentScope Version\n\nv1.0.18\n\n## Description\n\nAgentScope is now compatible with Python 3.10 and above, and it is good time to replace deprecated and legacy typings in the codebase. The main changes …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "qwertycxz",
+    "head_sha": "c08bd72442bf340532f49607b3d377b65ee49a0b",
+    "base_ref": "main",
+    "additions": 4147,
+    "deletions": 544,
+    "changed_files": 141
+  },
+  "at_mobiles": []
+}
