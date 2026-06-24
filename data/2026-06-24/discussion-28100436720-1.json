@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "forchid",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T13:02:37.600173Z",
+  "title": "Support these request parameters `source_language` etc in `DashScopeRealtimeModel`",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1939",
+  "number": 1939,
+  "body": "Refer the (real-time-python-sdk)[https://help.aliyun.com/zh/model-studio/real-time-python-sdk?spm=a2c4g.11186623.0.0.b93530f63kaq19#635f92ee7cbll], and need to support these parameters.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "forchid"
+  },
+  "at_mobiles": []
+}
