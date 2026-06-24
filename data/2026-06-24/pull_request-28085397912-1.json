@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T08:24:51.184981Z",
+  "title": "fix: update deprecated streamablehttp_client to streamable_http_client",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1399",
+  "number": 1399,
+  "body": "Fixes #1392\n\n## Problem\nThe `mcp` python-sdk renamed `streamablehttp_client` to `streamable_http_client` in the streamable HTTP transport module. The old name is deprecated and will be removed.\n\n## So…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "octo-patch",
+    "head_sha": "64939f6a20b27feee7286d98dcc27806ee543428",
+    "base_ref": "main",
+    "additions": 3656,
+    "deletions": 8,
+    "changed_files": 18
+  },
+  "at_mobiles": []
+}
