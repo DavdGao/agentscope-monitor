@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "dingpeng1107",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T02:57:49.810989Z",
+  "title": "ToolChunk 中的metadata，没有透传到ToolResultEndEvent的metadata中",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1934",
+  "number": 1934,
+  "body": "工具调用中，有usage属性参数，在ToolChunk的metadata中存在，但是，最后解析ToolResultEndEvent的时候，拿不到。\n在 Agent._execute_tool_call 中创建 ToolResultEndEvent 时丢弃了ToolChunk/ToolResponse 的 metadata 字段。在后面的事件解析中，也就无法解析。",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "dingpeng1107"
+  },
+  "at_mobiles": []
+}
