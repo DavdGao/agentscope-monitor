@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T08:19:23.394947Z",
+  "title": "fix(pipeline): ensure react agent coroutine is cancelled when generator is closed",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1252",
+  "number": 1252,
+  "body": "## Description\n\nFixes an issue where the React agent's coroutine continues running even after the generator is closed/cancelled. Previously, when `stream_printing_messages` was used as a generator and…",
+  "labels": [
+    "state: under review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "owenliang",
+    "head_sha": "f9b8ecc0eff8ba876deb82a1215749c7290867d5",
+    "base_ref": "main",
+    "additions": 39,
+    "deletions": 28,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
