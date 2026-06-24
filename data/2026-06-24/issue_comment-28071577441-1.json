@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "michaelxer",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T02:46:00.861607Z",
+  "title": "fix: recover orphan tool calls on mid-stream failure (#1888)",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1911#issuecomment-4785428590",
+  "number": 1911,
+  "body": "Closing — CI workflow approval hasn't come through. Happy to reopen if the project wants to enable external contributor CI.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "michaelxer",
+    "commenter": "michaelxer"
+  },
+  "at_mobiles": []
+}
