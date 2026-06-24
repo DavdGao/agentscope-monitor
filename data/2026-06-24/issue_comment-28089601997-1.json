@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "freshman-0ne",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T09:41:48.713624Z",
+  "title": "feat(agent-team): support spawning a team member from an existing agent (AgentCreate from_agent)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1908#issuecomment-4787900004",
+  "number": 1908,
+  "body": "Are you reusing the Agent instance or just the Agent configuration?\nIf you intend to reuse Agent configuration,  should extend SubAgentTemplate.\nThe current implementation in the app only allows sub a…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "lichengwu",
+    "commenter": "freshman-0ne"
+  },
+  "at_mobiles": []
+}
