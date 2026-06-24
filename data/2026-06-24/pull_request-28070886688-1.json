@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "XiuShenAl",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T02:26:15.111948Z",
+  "title": "feat(workspace): add K8sWorkspace with Pod/PVC lifecycle, tar-stream backend and MCP gateway support",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1933",
+  "number": 1933,
+  "body": "## AgentScope Version\n\n2.0.3\n\n## Description\n\n### Background\n\nAgentScope currently supports three workspace backends: `LocalWorkspace` (dev), `DockerWorkspace` (single-node), and `E2BWorkspace` (cloud…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "XiuShenAl",
+    "head_sha": "442520b3302af0d9cdf4e11f5a56589d4a4f7823",
+    "base_ref": "main",
+    "additions": 2818,
+    "deletions": 0,
+    "changed_files": 9
+  },
+  "at_mobiles": []
+}
