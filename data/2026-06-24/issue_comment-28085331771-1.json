@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T08:23:40.246420Z",
+  "title": "feat(model): add cached_tokens support to ChatUsage for all providers",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1343#issuecomment-4787300770",
+  "number": 1343,
+  "body": "Closing for 2.0 migration, feel free to open a new one on v1 branch if needed",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "YingchaoX",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
