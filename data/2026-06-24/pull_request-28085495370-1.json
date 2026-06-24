@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T08:26:48.359991Z",
+  "title": "fix(example): update ReMeShortTermMemory.get_memory() signature to match base class",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1424",
+  "number": 1424,
+  "body": "Fixes #1405\n\n## Problem\n\n`ReMeShortTermMemory.get_memory()` was defined without any parameters, violating the `MemoryBase` interface which requires `mark`, `exclude_mark`, `prepend_summary`, and `**kw…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "octo-patch",
+    "head_sha": "1ea47ea65b8c03d7f3ac3eb1944ea456e2956fbc",
+    "base_ref": "main",
+    "additions": 3676,
+    "deletions": 6,
+    "changed_files": 18
+  },
+  "at_mobiles": []
+}
