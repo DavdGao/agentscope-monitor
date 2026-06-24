@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T08:18:33.033294Z",
+  "title": "fix(tracing): resolve async context loss in tracing decorator",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1210#issuecomment-4787263848",
+  "number": 1210,
+  "body": "Closing for 2.0 migration, feel free to open a new one if needed",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "chunterg",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
