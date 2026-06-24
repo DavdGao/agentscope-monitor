@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T08:25:10.468372Z",
+  "title": "fix: allow DocMetadata to accept extra keyword arguments from stored payloads",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1404",
+  "number": 1404,
+  "body": "Fixes #1374\n\n## Problem\nWhen users add custom fields (e.g. `filename`) to document metadata before storing documents in Qdrant, retrieving those documents fails with:\n\n```\nTypeError: DocMetadata.__ini…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "octo-patch",
+    "head_sha": "229b1f0493b2e7b800dc957dab8d4cecffd17581",
+    "base_ref": "main",
+    "additions": 3669,
+    "deletions": 5,
+    "changed_files": 17
+  },
+  "at_mobiles": []
+}
