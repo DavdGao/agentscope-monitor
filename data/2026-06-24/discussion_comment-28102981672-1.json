@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T13:43:33.867187Z",
+  "title": "Support these request parameters `source_language` etc in the class `DashScopeRealtimeModel`",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1939#discussioncomment-17421246",
+  "number": 1939,
+  "body": "@qbc2016 Plz check this discussion",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "forchid"
+  },
+  "at_mobiles": []
+}
