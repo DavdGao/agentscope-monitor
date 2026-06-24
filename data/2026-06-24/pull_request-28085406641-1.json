@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T08:25:03.921095Z",
+  "title": "fix: handle missing fields in summary_template.format() to prevent KeyError",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1401",
+  "number": 1401,
+  "body": "Fixes #1388\n\n## Problem\nWhen memory compression is enabled and the compression model generates a summary without all expected fields (e.g., omitting `next_steps`), the call to `summary_template.format…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "octo-patch",
+    "head_sha": "79b14f8021756009e41c2a8697e1f89f6d9203a8",
+    "base_ref": "main",
+    "additions": 3672,
+    "deletions": 11,
+    "changed_files": 20
+  },
+  "at_mobiles": []
+}
