@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "VectorPeak",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T02:08:34.807343Z",
+  "title": "fix(tool): reject negative grep pagination values",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1932",
+  "number": 1932,
+  "body": "## AgentScope Version\n\n2.0.3\n\n## Description\n\nThe builtin `Grep` tool exposes pagination through `head_limit` and `offset`, but negative values were not rejected. Since the implementation slices Pytho…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "VectorPeak",
+    "head_sha": "0e2c584dfd8bde1d02b7709997021d462c990583",
+    "base_ref": "main",
+    "additions": 42,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
