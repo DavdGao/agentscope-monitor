@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T08:27:27.790957Z",
+  "title": "feat(model): add OrcaRouter chat model",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1638",
+  "number": 1638,
+  "body": "Closes #1637\n\n## AgentScope Version\n\n1.0.20 (current `main`, commit d6c0c89)\n\n## Description\n\n### Background\n\nI'm an engineer on the OrcaRouter team. [OrcaRouter](https://www.orcarouter.ai) is an Open…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "xilema2",
+    "head_sha": "f917bc7a4d97994db09ed7c27c5310137683e677",
+    "base_ref": "main",
+    "additions": 930,
+    "deletions": 0,
+    "changed_files": 10
+  },
+  "at_mobiles": []
+}
