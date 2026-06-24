@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "mavdol",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T18:07:15.410240Z",
+  "title": "Suggest Vpod as a WebAssembly‑based local workspace backend",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1944",
+  "number": 1944,
+  "body": "Hi AgentScope Team,\n\nI noticed AgentScope currently relies only on Docker for sandboxed local execution. I was wondering if a lighter alternative might be useful.\n\nI released Vpod, a lightweight Linux…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "mavdol"
+  },
+  "at_mobiles": []
+}
