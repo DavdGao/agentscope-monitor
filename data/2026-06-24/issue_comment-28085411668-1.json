@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T08:25:05.491357Z",
+  "title": "fix: allow DocMetadata to accept extra keyword arguments from stored payloads",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1404#issuecomment-4787312019",
+  "number": 1404,
+  "body": "Closing for 2.0 migration, feel free to open a new one on v1 branch if needed",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "octo-patch",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
