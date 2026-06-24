@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Premsenareddy",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T12:23:15.538972Z",
+  "title": "feat(agent-team): support spawning a team member from an existing agent (AgentCreate from_agent)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1908#issuecomment-4789238848",
+  "number": 1908,
+  "body": "I would be happy to implement this once the intended ownership semantics are confirmed. Based on the current `main` implementation, I suggest the following backward-compatible direction:\n\n1. Add optio…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "lichengwu",
+    "commenter": "Premsenareddy"
+  },
+  "at_mobiles": []
+}
