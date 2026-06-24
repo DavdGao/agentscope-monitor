@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T08:18:30.527426Z",
+  "title": "fix(tracing): resolve async context loss in tracing decorator",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1210",
+  "number": 1210,
+  "body": "## AgentScope Version\n1.0.15\n\n## Description\nThis PR fixes issue #1208 where AgentScope's tracing decorator silently stops collecting spans when the decorated async function runs inside a task created…",
+  "labels": [
+    "state: under review",
+    "state: awaiting feedback"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "chunterg",
+    "head_sha": "67d22fb6846d7685831126315496251dd6458525",
+    "base_ref": "main",
+    "additions": 250,
+    "deletions": 5,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
