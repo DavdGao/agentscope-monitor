@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "review_requested",
+  "action_cn": "请求审核",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T08:42:29.848091Z",
+  "title": "feat(model): add ollama model cards for qwen3-7b, llama3.2, and phi4-mini",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1753",
+  "number": 1753,
+  "body": "## AgentScope Version\nimport agentscope; print(agentscope.__version__)\n\n## Description\nThe ollama model directory has llama4, qwen3-14b, qwen3.5-9b, and deepseek-r1-14b but is missing three popular mo…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [
+    "qbc2016"
+  ],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "nuthalapativarun",
+    "head_sha": "56b94a9c65ffeb145e3a6346388fd36ca7a3afe6",
+    "base_ref": "main",
+    "additions": 49,
+    "deletions": 0,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
