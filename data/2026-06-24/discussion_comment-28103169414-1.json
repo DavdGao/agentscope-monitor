@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T13:46:26.896891Z",
+  "title": "Why is there no A2A mode in version 2.0.x?",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1928#discussioncomment-17421285",
+  "number": 1928,
+  "body": "@hhj-oo We're currently migrating v1 features into 2.0, and A2A support is on our roadmap. You can track the progress and upcoming plans here: https://github.com/orgs/agentscope-ai/projects/2/views/1",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "hhj-oo"
+  },
+  "at_mobiles": []
+}
