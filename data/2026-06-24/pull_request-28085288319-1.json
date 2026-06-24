@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T08:22:45.871145Z",
+  "title": "feat(evaluate): add AgentLoop integration for CMS dataset loading",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1301",
+  "number": 1301,
+  "body": "Add AgentLoop benchmark and storage components to support:\n- Loading evaluation datasets from Alibaba Cloud CMS \n- Writing evaluation results to SLS (Log Service)\n- AgentLoopConfig for unified configu…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "pepeshore",
+    "head_sha": "6834bfee2bdc1804d4263a904387550e31e2f17e",
+    "base_ref": "main",
+    "additions": 2157,
+    "deletions": 0,
+    "changed_files": 9
+  },
+  "at_mobiles": []
+}
