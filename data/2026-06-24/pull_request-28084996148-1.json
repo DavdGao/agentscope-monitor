@@ -1,0 +1,35 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T08:17:06.206066Z",
+  "title": "fix(model): Empty string output on GPT-5 truncation. Update: Ensure all OpenAI model responses return finish_reason consistently.",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1064",
+  "number": 1064,
+  "body": "## AgentScope Version\n\"1.0.10\"\n\n\n## Description\nAs the title says.\n\nThe result in AgentStudio after the fix.\n<img width=\"906\" height=\"375\" alt=\"as\" src=\"https://github.com/user-attachments/assets/4fda…",
+  "labels": [
+    "stale-pr",
+    "state: under discussion"
+  ],
+  "assignees": [],
+  "reviewers": [
+    "qbc2016"
+  ],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "linuer",
+    "head_sha": "9c8c7245ed40ad023a7ffc8881443edbdf383834",
+    "base_ref": "main",
+    "additions": 5,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
