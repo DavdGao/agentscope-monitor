@@ -1,0 +1,35 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T08:24:14.453284Z",
+  "title": "fix(common): more robust JSON string loading",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1350",
+  "number": 1350,
+  "body": "## AgentScope Version\n\n1.0.17\n\n## Description\n\nI encountered a JSON parsing issue while working with a locally deployed vLLM model fine-tuned on the Qwen-3 series. With tool calls resolved by Hermes, …",
+  "labels": [
+    "stale-pr",
+    "state: under review"
+  ],
+  "assignees": [],
+  "reviewers": [
+    "DavdGao"
+  ],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "opposj",
+    "head_sha": "8c72cbde56c88983f795bcfa30e218b4ba2073e0",
+    "base_ref": "main",
+    "additions": 5,
+    "deletions": 4,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
