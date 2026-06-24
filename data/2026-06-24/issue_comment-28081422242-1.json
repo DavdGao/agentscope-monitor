@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T07:05:57.063566Z",
+  "title": "feat(workspace): share workspace across different agents",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1919#issuecomment-4786738675",
+  "number": 1919,
+  "body": "One follow-up after reading #1796 — You raised that stateful MCP\ninstances shouldn't be shared across different sessions of the **same**\nagent either.\n\nIf we need per-session isolation on top of per-a…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "iluv7"
+  },
+  "at_mobiles": []
+}
