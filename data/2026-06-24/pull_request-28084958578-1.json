@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T08:16:18.191194Z",
+  "title": "feat(memory): support offloading compressed memory to searchable storage",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1254",
+  "number": 1254,
+  "body": "## AgentScope Version\n\n1.0.16\n\n## Description\n\nImplements memory offloading for `ReActAgent`, allowing original messages to be stored in searchable storage before they are compressed out of the contex…",
+  "labels": [
+    "state: under review",
+    "state: awaiting changes"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "ascl1u",
+    "head_sha": "a92236f198e82f2012cf740e4f52cfdceb09520a",
+    "base_ref": "main",
+    "additions": 779,
+    "deletions": 5,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
