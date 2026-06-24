@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T08:49:58.515396Z",
+  "title": "feat(service): add _build_agent hook to ChatService for post-assembly extension",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1752",
+  "number": 1752,
+  "body": "## AgentScope Version\nimport agentscope; print(agentscope.__version__)\n\n## Description\n\nCloses #1736\n\nCurrently `ChatService.stream_chat` calls the module-level `get_agent` function directly, providin…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "nuthalapativarun",
+    "head_sha": "db0add1a5982d5a0e6f53184ebd7311e3dbee2bf",
+    "base_ref": "main",
+    "additions": 144,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
