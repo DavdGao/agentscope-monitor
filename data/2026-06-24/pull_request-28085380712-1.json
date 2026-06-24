@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T08:24:32.723411Z",
+  "title": "fix(utils): harden web URL fetch against SSRF",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1373",
+  "number": 1373,
+  "body": "## Summary\n- add URL validation for web fetch utility to only allow `http/https`\n- block localhost, loopback, link-local, and private network IP targets\n- resolve hostnames and reject non-public resol…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "EaEa0001",
+    "head_sha": "47e8353dd20e9e9cf24a43a26e8cd8ddeb56ae44",
+    "base_ref": "main",
+    "additions": 226,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
