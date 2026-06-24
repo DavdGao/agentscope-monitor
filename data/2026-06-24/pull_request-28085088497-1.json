@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T08:18:55.332447Z",
+  "title": "feat: support execution timeout for MCP tools in toolkit",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1244",
+  "number": 1244,
+  "body": "## PR Title\n\n```\nfeat(toolkit): add execution_timeout parameter to register_mcp_tools()\n```\n\n## AgentScope Version\n\n```\n0.1.5\n```\n\n## Description\n\n**Background:** MCP tool function execution may block…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "owenliang",
+    "head_sha": "092c39b200a0c0fb5c4dbf0a0cbb2ee56c4c55c9",
+    "base_ref": "main",
+    "additions": 224,
+    "deletions": 20,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
