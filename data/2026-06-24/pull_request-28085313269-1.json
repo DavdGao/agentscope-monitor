@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T08:23:15.652805Z",
+  "title": "fix: invoke print hooks before console output check",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1328",
+  "number": 1328,
+  "body": "## Summary\n\nThis fixes issue #1149 where `set_console_output_enabled(False)` also disabled AgentScope Studio forwarding.\n\n## Root Cause\n\nThe `print()` method in `AgentBase` checked `_disable_console_o…",
+  "labels": [
+    "stale-pr"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "KJyang-0114",
+    "head_sha": "5bf9495a723892c7015f2d7169b0ac41e83909e6",
+    "base_ref": "main",
+    "additions": 15,
+    "deletions": 0,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
