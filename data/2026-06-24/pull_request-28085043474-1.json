@@ -1,0 +1,36 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T08:18:00.461755Z",
+  "title": "Feat/dynamic skill",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1153",
+  "number": 1153,
+  "body": "# Feature: Dynamic Skill Loading with Directory Monitoring\n\n## Overview\n\nAdds dynamic skill loading to Toolkit through directory monitoring. Skills are automatically discovered and updated without man…",
+  "labels": [
+    "module: tool",
+    "state: under review",
+    "state: under discussion"
+  ],
+  "assignees": [],
+  "reviewers": [
+    "DavdGao"
+  ],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "xucailiang",
+    "head_sha": "338c01f865e84b9fd8c54ab93f8b11c13df767a9",
+    "base_ref": "main",
+    "additions": 2061,
+    "deletions": 97,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
