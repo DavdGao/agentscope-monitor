@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T08:48:34.784169Z",
+  "title": "feat: add MemoryTool for explicit agent memory management",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1748",
+  "number": 1748,
+  "body": "## Summary\n\nAdd `MemoryTool` — a builtin tool that allows agents to explicitly store, retrieve, update, and delete named memories that persist within a session and survive context compression.\n\nInspir…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "Libres-coder",
+    "head_sha": "137d2d9205fd3e423e5fd31339639be4c9a3122c",
+    "base_ref": "main",
+    "additions": 575,
+    "deletions": 0,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
