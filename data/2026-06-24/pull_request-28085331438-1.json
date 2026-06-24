@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T08:23:39.718770Z",
+  "title": "feat(model): add cached_tokens support to ChatUsage for all providers",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1343",
+  "number": 1343,
+  "body": "## AgentScope Version\n\n  `1.0.17`\n\n  ## Description\n\n  ### Background\n\n  Issue #1324 requested support for `cached_tokens` in `ChatUsage` to track prompt caching metrics from\n  OpenAI SDK's `prompt_to…",
+  "labels": [
+    "stale-pr"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "YingchaoX",
+    "head_sha": "eccee277927a717c86c492b58f31fc92a21baa63",
+    "base_ref": "main",
+    "additions": 387,
+    "deletions": 4,
+    "changed_files": 10
+  },
+  "at_mobiles": []
+}
