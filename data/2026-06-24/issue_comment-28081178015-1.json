@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T07:00:56.165084Z",
+  "title": "feat(workspace): support multiple agents for the same workspace",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1796#issuecomment-4786706360",
+  "number": 1796,
+  "body": "Hi @DavdGao, I wrote up the technical plan for #1919 last night, which\nisolates MCP clients at the **agent** level. Then I came across #1796\ntoday, which raises a further requirement — stateful MCP in…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "iluv7"
+  },
+  "at_mobiles": []
+}
