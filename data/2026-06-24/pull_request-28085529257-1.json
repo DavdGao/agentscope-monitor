@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T08:27:22.100308Z",
+  "title": "feat(rag): add Valkey vector store for RAG pipeline",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1634",
+  "number": 1634,
+  "body": "## AgentScope Version\n\n1.0.20\n\n## Description\n\n**Background:** AgentScope's existing `RedisMemory` for session/working memory uses basic Redis commands that are already Valkey-compatible. However, the…",
+  "labels": [],
+  "assignees": [
+    "qbc2016"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "MatthiasHowellYopp",
+    "head_sha": "8a94cfc686484ec0b9e32a01c6a2ea1d5f6752eb",
+    "base_ref": "v1",
+    "additions": 1462,
+    "deletions": 0,
+    "changed_files": 8
+  },
+  "at_mobiles": []
+}
