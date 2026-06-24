@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T08:17:30.561313Z",
+  "title": "feat(a2a): add context_id and metadata support for A2A message conversion",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1111",
+  "number": 1111,
+  "body": "## AgentScope Version\n\n1.0.11\n\n## Description\n- Add context_id parameter to A2AChatFormatter for including context in A2A messages when specified\n- Store AgentScope Msg source (name) and id in A2A Par…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "Sunrisea",
+    "head_sha": "7429b5388d69f6b297a0645dac12d038b2706b31",
+    "base_ref": "main",
+    "additions": 134,
+    "deletions": 84,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
