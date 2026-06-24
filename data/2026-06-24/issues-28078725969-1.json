@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lmdyyh",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T06:04:21.464131Z",
+  "title": "[Bug]: OpenAIResponseModel tool call fails on second round — function_call_output uses wrong call_id (fc_xxx instead of call_xxx)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1935",
+  "number": 1935,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "lmdyyh"
+  },
+  "at_mobiles": []
+}
