@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T08:23:00.021184Z",
+  "title": "feat(models): add MiniMax model support",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1302",
+  "number": 1302,
+  "body": "## Summary\n- Add support for **MiniMax-M2.5** and **MiniMax-M2.5-highspeed** chat models via OpenAI-compatible API\n- Add support for **MiniMax TTS** models (speech-2.8-hd, speech-2.8-turbo, etc.) via …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "ximiximi423",
+    "head_sha": "88c8d1f0a0117ff92d7a38ef192f8ac24275bc3f",
+    "base_ref": "main",
+    "additions": 1416,
+    "deletions": 0,
+    "changed_files": 8
+  },
+  "at_mobiles": []
+}
