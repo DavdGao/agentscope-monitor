@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T08:26:29.979534Z",
+  "title": "fix(agent): handle compression model errors gracefully",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1425",
+  "number": 1425,
+  "body": "Fixes #1406\n\n## Problem\n\nWhen memory compression is triggered and the compression model call fails (e.g., due to API restrictions when thinking mode is enabled, streaming format incompatibilities, or …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "octo-patch",
+    "head_sha": "627f738450d075eda0e051f35a6c2bd25f3df7b0",
+    "base_ref": "main",
+    "additions": 3698,
+    "deletions": 17,
+    "changed_files": 19
+  },
+  "at_mobiles": []
+}
