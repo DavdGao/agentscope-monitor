@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T08:26:56.460201Z",
+  "title": "fix(memory): skip empty assistant turns when loading session state",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1436",
+  "number": 1436,
+  "body": "Fixes #1426\n\n## Problem\n\nWhen an agent crashes mid-response (e.g., during MCP SSE teardown), AgentScope saves an empty assistant message to the session JSON. On the next load, the full session history…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "octo-patch",
+    "head_sha": "ec0cd7eb3307220fb61bf331e37ec451f5239044",
+    "base_ref": "main",
+    "additions": 3656,
+    "deletions": 4,
+    "changed_files": 17
+  },
+  "at_mobiles": []
+}
