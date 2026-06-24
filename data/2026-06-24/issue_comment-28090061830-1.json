@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "y1y5",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T09:50:10.862189Z",
+  "title": "feat(middleware): add file-based long-term memory middleware",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1927#issuecomment-4787964883",
+  "number": 1927,
+  "body": "This update refines the file-based LTM architecture from 3 areas.\n\n1. **Reduced workspace coupling**\n\n   `WorkspaceBase.get_backend()` was added as a small, generic interface for accessing workspace f…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "y1y5",
+    "commenter": "y1y5"
+  },
+  "at_mobiles": []
+}
