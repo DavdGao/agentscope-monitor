@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T08:24:13.150608Z",
+  "title": "fix(common): more robust JSON string loading",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1350#issuecomment-4787304029",
+  "number": 1350,
+  "body": "Closing for 2.0 migration, feel free to open a new one on v1 branch if needed",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "opposj",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
