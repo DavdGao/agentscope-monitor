@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T08:22:20.889102Z",
+  "title": "fix(formatter): set content to None when tool_calls exists in DeepSeekChatFormatter",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1270#issuecomment-4787291929",
+  "number": 1270,
+  "body": "@yuyuyu-alan Plz format code by running `pre-commit run --all-files`, and @qbc2016 plz take a look at this PR",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "yuyuyu-alan",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
