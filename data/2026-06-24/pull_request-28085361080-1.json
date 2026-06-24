@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T08:24:26.170604Z",
+  "title": "fix(tool): avoid shell deadlock on large output",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1369",
+  "number": 1369,
+  "body": "## AgentScope Version\n\n1.0.17\n\n## Description\n\nFixes #1255.\n\n`execute_shell_command` previously waited for the subprocess to exit before reading stdout/stderr. If the child process produced more data …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "sztoplover-bit",
+    "head_sha": "208afbc545298b471b165e853ec2727a8e7c62d8",
+    "base_ref": "main",
+    "additions": 29,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
