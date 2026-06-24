@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T08:34:07.032923Z",
+  "title": "security(mcp): add command allowlist and shell metacharacter validation",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1728#issuecomment-4787378819",
+  "number": 1728,
+  "body": "Closing for 2.0 migration, feel free to open a new one on v1 branch if needed \n\n> Hi maintainers, friendly follow-up on this focused MCP command validation change. The goal is to keep MCP config execu…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "dfgvaetyj3456356-hash",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
