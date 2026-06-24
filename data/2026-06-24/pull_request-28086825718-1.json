@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T08:51:32.468670Z",
+  "title": "feat(embedding): add pass_dimensions option to OpenAI embedding",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1758",
+  "number": 1758,
+  "body": "- Added pass_dimensions parameter to control whether dimensions are passed to API\n- Updated constructor to accept pass_dimensions with default value True\n- Modified API call to conditionally include d…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "jinliyl",
+    "head_sha": "b240859fc3471b658de3e02c1b05de77cac4df22",
+    "base_ref": "main",
+    "additions": 18,
+    "deletions": 3,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
