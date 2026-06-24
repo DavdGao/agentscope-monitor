@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "review_requested",
+  "action_cn": "请求审核",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T08:22:27.428296Z",
+  "title": "fix(formatter): set content to None when tool_calls exists in DeepSeekChatFormatter",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1270",
+  "number": 1270,
+  "body": "## Summary\n- Fix DeepSeekChatFormatter to set `content` to `None` when `tool_calls` exists\n- DeepSeek API doesn't allow assistant message to have both `content` and `tool_calls`\n- When both exist, Dee…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [
+    "qbc2016"
+  ],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "yuyuyu-alan",
+    "head_sha": "27b97cd7767a6ddc3b46e1aa0b96e7fe64dbaeef",
+    "base_ref": "main",
+    "additions": 50,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
