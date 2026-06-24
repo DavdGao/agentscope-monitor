@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "jinliyl",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-24T11:30:07.456060Z",
+  "title": "feat(self-compaction): add model-driven self-compaction and refactor tests",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1938",
+  "number": 1938,
+  "body": "## PR Title Format\n\nPlease ensure your PR title follows the Conventional Commits format:\n- Format: `<type>(<scope>): <description>`\n- Example: `feat(memory): add redis cache support`\n- Allowed types: …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "jinliyl",
+    "head_sha": "b413b62988f490de1770449e5b97919b20562bbf",
+    "base_ref": "main",
+    "additions": 515,
+    "deletions": 12,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
