@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Premsenareddy",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-25T14:19:55.506898Z",
+  "title": "fix(service): skip empty wake-up runs",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1870#issuecomment-4800320202",
+  "number": 1870,
+  "body": "Refreshed this PR against the latest `main` and resolved the service/message-bus conflicts.\n\nThe wake-up guard now:\n- drains the session inbox inside the current distributed session lock;\n- skips the …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Premsenareddy",
+    "commenter": "Premsenareddy"
+  },
+  "at_mobiles": []
+}
