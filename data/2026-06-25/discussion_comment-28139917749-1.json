@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "freshman-0ne",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-25T01:04:58.727463Z",
+  "title": "求教：DashScopeChatModel与OpenAIChatModel的结构化输出实现方式不同的原因？",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1763#discussioncomment-17427532",
+  "number": 1763,
+  "body": "thank you .\n看到agentscope2.0内置的OpenAIChatModel也改成了通过Function calling的方式来sturct output，这种方式对国内的其他模型是友好的，毕竟国内大家的response_format都只支持json_object。但又无法使用OPENAI模型的response_format=json_schema的能力了。\n\n提个建议，可以用参数来…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "freshman-0ne",
+    "discussion_author": "freshman-0ne"
+  },
+  "at_mobiles": []
+}
