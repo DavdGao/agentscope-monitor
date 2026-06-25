@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "review_requested",
+  "action_cn": "请求审核",
+  "sender": "BreezyB1n",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-25T14:23:29.253448Z",
+  "title": "feat(workspace): add daytona workspace backend",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1943",
+  "number": 1943,
+  "body": "## AgentScope Version\n\n`2.0.3`\n\n## Description\n\n### Related Issue\n\nCloses #1916\n\n### Background\n\nAgentScope currently supports local filesystem, Docker, and E2B workspace backends. This PR adds Dayton…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [
+    "DavdGao"
+  ],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "BreezyB1n",
+    "head_sha": "5b629551e4de3ea424c97108b3bef47c5248ec3e",
+    "base_ref": "main",
+    "additions": 4354,
+    "deletions": 2,
+    "changed_files": 14
+  },
+  "at_mobiles": []
+}
