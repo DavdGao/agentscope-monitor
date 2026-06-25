@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-25T08:32:58.246655Z",
+  "title": "fix(docs): fix hyperlink in docs",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1946",
+  "number": 1946,
+  "body": "## AgentScope Version\n\n2.0.3dev\n\n## Description\n\nAs the title says.\n\n## Checklist\n\nPlease check the following items before code is ready to be reviewed.\n\n- [ ]  An issue has been created for this PR\n-…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "104446dc0fd1ad445ee568c4350cc06595650a9c",
+    "base_ref": "main",
+    "additions": 19,
+    "deletions": 19,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
