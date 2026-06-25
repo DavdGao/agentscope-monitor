@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-25T05:42:19.962230Z",
+  "title": "feat(webui): support to display the current permission rules within the chat page",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1799",
+  "number": 1799,
+  "body": "**Background**\n\nThe frontend can already retrieve the `PermissionContext` for the current active session. We should display the associated permission rules in the chat page to improve visibility and t…",
+  "labels": [
+    "Help Wanted"
+  ],
+  "assignees": [
+    "Premsenareddy"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
