@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "mavdol",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-25T08:11:45.207654Z",
+  "title": "Suggest Vpod as a WebAssembly‑based local workspace backend",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1944#discussioncomment-17430921",
+  "number": 1944,
+  "body": "Thanks for the feedback @DavdGao! Glad you find the WASM-based approach interesting.  \n\nRegarding the mount feature, it's scheduled for next week on the roadmap. I'll definitely follow up here when it…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "mavdol",
+    "discussion_author": "mavdol"
+  },
+  "at_mobiles": []
+}
