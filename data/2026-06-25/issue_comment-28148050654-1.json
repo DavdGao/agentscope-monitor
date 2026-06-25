@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-25T05:02:21.637819Z",
+  "title": "feat(webui): add session context side panel",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1824#issuecomment-4796043437",
+  "number": 1824,
+  "body": "Hi @Premsenareddy, thank you for your contribution and the effort you put into this PR!\n\nAfter careful review, we've decided to close this PR for the following reasons:\n\n1. **The current implementatio…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Premsenareddy",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
