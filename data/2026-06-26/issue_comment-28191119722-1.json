@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Premsenareddy",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-25T18:17:07.107948Z",
+  "title": "feat(webui): display context usage",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1871#issuecomment-4802818218",
+  "number": 1871,
+  "body": "Refreshed this PR against the latest `main` and resolved the backend/Web UI conflicts.\n\nThe updated implementation now:\n- integrates the indicator beside permission mode without disturbing the new res…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Premsenareddy",
+    "commenter": "Premsenareddy"
+  },
+  "at_mobiles": []
+}
