@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "xu-suping",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-25T02:10:46.323340Z",
+  "title": "feat(a2a): support A2A protocol in agentscope 2.0",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1941#issuecomment-4795214767",
+  "number": 1941,
+  "body": "@DavdGao , I've been looking through the AgentScope 2.0 codebase and would love to contribute A2A support. After some initial research, here's my current understanding and proposal.\n\n**Current underst…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "xu-suping"
+  },
+  "at_mobiles": []
+}
