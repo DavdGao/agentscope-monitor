@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-25T14:05:56.429399Z",
+  "title": "docs(embedding): add embedding related documentation in docs.agentscope.io",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1674",
+  "number": 1674,
+  "body": "**Background**\n\nThis issue tracks the documentation work for the embedding module in AgentScope 2.0 on [docs.agentscope.io](https://docs.agentscope.io/), including the overall design, API references, …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
