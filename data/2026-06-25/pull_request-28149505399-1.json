@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-25T05:42:19.499991Z",
+  "title": "refactor(webui): add right panel to the WebUI to support verbose task&permission context, equipped MCP and skills",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1945",
+  "number": 1945,
+  "body": "## PR Title Format\n\nPlease ensure your PR title follows the Conventional Commits format:\n- Format: `<type>(<scope>): <description>`\n- Example: `feat(memory): add redis cache support`\n- Allowed types: …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "fa27577ac0ac6fa9058259b68343b6a539d84d82",
+    "base_ref": "main",
+    "additions": 1305,
+    "deletions": 399,
+    "changed_files": 16
+  },
+  "at_mobiles": []
+}
