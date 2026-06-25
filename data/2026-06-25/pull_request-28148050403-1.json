@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-25T05:02:20.485856Z",
+  "title": "feat(webui): add session context side panel",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1824",
+  "number": 1824,
+  "body": "## Summary\n\n- Replace the chat workspace drawer with a persistent right-side session context panel.\n- Add a Permissions tab that displays the current permission mode, working directories, and allow/as…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "Premsenareddy",
+    "head_sha": "df5bcd757261323b9d6f6c634d5afe73f753a1bb",
+    "base_ref": "main",
+    "additions": 676,
+    "deletions": 256,
+    "changed_files": 7
+  },
+  "at_mobiles": []
+}
