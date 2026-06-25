@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-25T06:02:06.422204Z",
+  "title": "fix(formatter): set content to None when tool_calls exists in DeepSeekChatFormatter",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1270#issuecomment-4796339648",
+  "number": 1270,
+  "body": "Thank you for the fix. However, it has already been fixed in both `main` and `v1` branches.\nClosing now. Feel free to open a new one if needed.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "yuyuyu-alan",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
