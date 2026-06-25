@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-25T02:02:15.045396Z",
+  "title": "Suggest Vpod as a WebAssembly‑based local workspace backend",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1944#discussioncomment-17427895",
+  "number": 1944,
+  "body": "@mavdol Thanks for the interesting suggestion! The idea of a lightweight WASM-based sandbox is appealing.\n\nHowever, we have a concern: since Vpod doesn't support a mount system yet, it can't persist d…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "mavdol"
+  },
+  "at_mobiles": []
+}
