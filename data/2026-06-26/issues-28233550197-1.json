@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-26T10:53:52.660250Z",
+  "title": "docs(rag): add rag releated documentation",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1675",
+  "number": 1675,
+  "body": "**Background**\n\nThis issue tracks the documentation work for the RAG and long-term memory module in AgentScope 2.0 on [docs.agentscope.io](https://docs.agentscope.io/), including the overall design, A…",
+  "labels": [],
+  "assignees": [
+    "DavdGao"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
