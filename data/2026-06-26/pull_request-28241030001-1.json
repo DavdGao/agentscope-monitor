@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-26T13:26:12.844685Z",
+  "title": "refactor: lift _flatten_json_schema to shared util and apply in OpenAI chat model",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1940",
+  "number": 1940,
+  "body": "## AgentScope Version\n\n2.0.2\n\n## Description\n\n- Extract `_flatten_json_schema` from the Gemini provider into `tool/_utils.py` as a shared utility, with added support for the legacy `definitions` keywo…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "5a463e34c18a59c88246488f2a4128657548983f",
+    "base_ref": "main",
+    "additions": 160,
+    "deletions": 60,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
