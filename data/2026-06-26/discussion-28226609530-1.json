@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ENCHIGO",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-26T08:28:21.380768Z",
+  "title": "[Feature] Support for Agent Client Protocol (ACP)",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1948",
+  "number": 1948,
+  "body": "## Summary\n\nAre there plans to support the **Agent Client Protocol (ACP)** — the editor↔coding-agent\nstandard from Zed & JetBrains (https://agentclientprotocol.com)? If so, is there a rough\ntimeline, …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "ENCHIGO"
+  },
+  "at_mobiles": []
+}
