@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-26T10:39:19.581803Z",
+  "title": "feat(rag): add RAG module in agentscope and support distributed&multi-tenant&multi-session RAG service",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1926",
+  "number": 1926,
+  "body": "## PR Title Format\n\nPlease ensure your PR title follows the Conventional Commits format:\n- Format: `<type>(<scope>): <description>`\n- Example: `feat(memory): add redis cache support`\n- Allowed types: …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "075105100863dd62ef45bdc72bae6e230f557526",
+    "base_ref": "main",
+    "additions": 17104,
+    "deletions": 1495,
+    "changed_files": 136
+  },
+  "at_mobiles": []
+}
