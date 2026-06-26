@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-26T13:59:20.971030Z",
+  "title": "fix(model): fix openai response api",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1950",
+  "number": 1950,
+  "body": "## AgentScope Version\n\n2.0.3dev\n\n## Description\n\n[Please describe the background, purpose, changes made, and how to test this PR]\n\n## Checklist\n\nPlease check the following items before code is ready t…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "a8ff89f75582c4cd0b00a99ecae1bb057e2873bb",
+    "base_ref": "main",
+    "additions": 143,
+    "deletions": 16,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
