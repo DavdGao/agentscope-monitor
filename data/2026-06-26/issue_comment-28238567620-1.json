@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Premsenareddy",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-26T12:39:31.555535Z",
+  "title": "fix(embedding): omit default OpenAI dimensions",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1874#issuecomment-4809647386",
+  "number": 1874,
+  "body": "Refreshed this PR against latest `main` and reshaped the fix around the current embedding config model.\\n\\nThe updated approach keeps `dimensions` as the first-class concrete vector size for storage/R…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Premsenareddy",
+    "commenter": "Premsenareddy"
+  },
+  "at_mobiles": []
+}
