@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-26T10:52:22.893145Z",
+  "title": "feat(rag): integrate the vector database in 2.0",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1666",
+  "number": 1666,
+  "body": "**Background**\n\nAgentScope has supported multiple vector databases (VDBs) in previous versions. As we move toward 2.0, we plan to re-integrate and redesign this support.\n\n**Design Consideration (TBD)*…",
+  "labels": [],
+  "assignees": [
+    "DavdGao"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
