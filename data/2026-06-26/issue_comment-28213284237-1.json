@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "hiSandog",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-26T02:28:37.043032Z",
+  "title": "[Bug]: OpenAIResponseModel tool call fails on second round — function_call_output uses wrong call_id (fc_xxx instead of call_xxx)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1935#issuecomment-4805876009",
+  "number": 1935,
+  "body": "The table in the issue is a good basis for a regression test. The test should construct a Responses API function call where `id` is `fc_xxx` and `call_id` is `call_xxx`, feed a tool result back, and a…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "lmdyyh",
+    "commenter": "hiSandog"
+  },
+  "at_mobiles": []
+}
