@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "75ACOL",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-26T02:48:58.336109Z",
+  "title": "SubAgentTemplate workers cannot declare or receive custom business tools — only the framework default toolset",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1947",
+  "number": 1947,
+  "body": "## Context\n\nThe `SubAgentTemplate` feature (#1825) works well for configuring a worker's *system prompt*, *context*, *react*, and *permission* config, and routing to templates via `AgentCreate(subagen…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "75ACOL"
+  },
+  "at_mobiles": []
+}
