@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "wxk6b1203",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-27T08:40:50.556151Z",
+  "title": "feat(storage): Add in-memory storage and message bus with unit tests for example running.",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1869",
+  "number": 1869,
+  "body": "## AgentScope Version\n\n2.0.1 (branch: main)\n\n## Description\n\nAccording to [discussion before](https://github.com/agentscope-ai/agentscope/discussions/1862), this MR provide an in-memory MemStorage and…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "wxk6b1203",
+    "head_sha": "75c06730efa6821acff3f78fc8c718905c8dc87c",
+    "base_ref": "main",
+    "additions": 3114,
+    "deletions": 0,
+    "changed_files": 7
+  },
+  "at_mobiles": []
+}
