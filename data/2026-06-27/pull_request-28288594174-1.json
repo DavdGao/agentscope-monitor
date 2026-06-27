@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-27T12:01:57.748745Z",
+  "title": "feat(workspace): share workspace across different agents",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1951",
+  "number": 1951,
+  "body": "## PR Title\n\nfeat(workspace): isolate MCP client sessions per agent (#1919)\n\n## AgentScope Version\n\n2.0.3\n\n## Background\n\nIn agent-team setups, the leader and sub-agents share the same `workspace_id`,…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "iluv7",
+    "head_sha": "aceddd0f7b26601e16fbae0a8a2ac772b27aa4be",
+    "base_ref": "main",
+    "additions": 1063,
+    "deletions": 258,
+    "changed_files": 15
+  },
+  "at_mobiles": []
+}
