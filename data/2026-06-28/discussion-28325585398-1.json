@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "davidwxy",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-28T14:36:17.562945Z",
+  "title": "[Feature Request] rag support BM25 search and rerank step",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1952",
+  "number": 1952,
+  "body": "agentscope 2.0.3dev didn't officially suppport keyword search like bm25 and no rerank step. will agentscope add those feature? so that can increase recall accuracy rate",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "davidwxy"
+  },
+  "at_mobiles": []
+}
