@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-29T04:14:47.158560Z",
+  "title": "feat(rag): support rerank in the RAG middleware as an optional argument",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1955",
+  "number": 1955,
+  "body": "**Background**\nAs discusssed in #1952 , we should consider to support rerank to better support the rerank logic via a rerank model argument\n\n**Changes**\n- Add `rerank_model: ChatModelBase | None = Non…",
+  "labels": [
+    "Help Wanted"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
