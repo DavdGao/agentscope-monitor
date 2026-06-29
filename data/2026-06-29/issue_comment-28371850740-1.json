@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-29T12:25:49.300124Z",
+  "title": "feat(agent): support agent interruption with graceful context and tool state handling",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1806#issuecomment-4832505462",
+  "number": 1806,
+  "body": "Hi @DavdGao , this is my TD.\n\n> User clicks stop → API broadcasts → CancelDispatcher locates Agent → Agent exits at safe point → context persisted → frontend receives event.\n\n```mermaid\nsequenceDiagra…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "iluv7"
+  },
+  "at_mobiles": []
+}
