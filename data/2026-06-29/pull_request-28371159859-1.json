@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "jinliyl",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-29T12:13:18.585521Z",
+  "title": "feat(self-compaction): add model-driven self-compaction and refactor tests",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1938",
+  "number": 1938,
+  "body": "## PR Title Format\n\nInspired by SELFCOMPACT in https://arxiv.org/pdf/2606.23525:\n- ask the model whether the current trajectory is safe to summarize before\n- replacing old context with a continuation …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "jinliyl",
+    "head_sha": "b413b62988f490de1770449e5b97919b20562bbf",
+    "base_ref": "main",
+    "additions": 515,
+    "deletions": 12,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
