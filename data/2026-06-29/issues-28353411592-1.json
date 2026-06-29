@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-29T06:37:05.250906Z",
+  "title": "feat(vdb): integrate MilvusLite as an optional vector database backend",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1959",
+  "number": 1959,
+  "body": "**Background**\n\n- Since v2.0.3, AgentScope introduced a new RAG SDK and RAG Service with a unified vector database interface.\n- MilvusLite is an embedded, serverless version of Milvus that runs locall…",
+  "labels": [
+    "Help Wanted"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
