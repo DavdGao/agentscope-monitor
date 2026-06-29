@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "YingchaoX",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-29T06:56:04.286900Z",
+  "title": "feat(a2a): support A2A protocol in agentscope 2.0",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1941#issuecomment-4829783335",
+  "number": 1941,
+  "body": "I’ve also been looking into this issue and compared a few existing A2A integrations in other agent frameworks. My current understanding is that it may help to separate the integration into three layer…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "YingchaoX"
+  },
+  "at_mobiles": []
+}
