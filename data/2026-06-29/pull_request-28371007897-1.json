@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "jinliyl",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-29T12:10:40.896175Z",
+  "title": "feat(agent): add self-compaction feature with rubric-based compression",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1962",
+  "number": 1962,
+  "body": "- Import SELF_COMPACT_DECISION_SCHEMA from config module\n- Add self_compact_context method to run optional rubric-gated compression\n- Implement _should_self_compact method using SELFCOMPACT rubric log…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "jinliyl",
+    "head_sha": "93ff7f622610bd37af208481261381ac53c30c04",
+    "base_ref": "main",
+    "additions": 904,
+    "deletions": 3,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
