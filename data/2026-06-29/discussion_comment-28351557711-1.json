@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-29T05:52:39.302685Z",
+  "title": "如何基于2.0上实现在所有的SSE合并到一个时间线显示（跨Session的SSE合流）？",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1949#discussioncomment-17467277",
+  "number": 1949,
+  "body": "@freshman-One\n\nIn #1542, we added support for displaying team members' `hitl` events within the leader's session.\n\nFor merging other members' session events, there are two possible approaches:\n\n**Opti…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "freshman-0ne"
+  },
+  "at_mobiles": []
+}
