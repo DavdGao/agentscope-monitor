@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Trefoi1",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-29T06:42:59.649403Z",
+  "title": "feat(vdb): integrate MilvusLite as an optional vector database backend",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1959#issuecomment-4829705642",
+  "number": 1959,
+  "body": "@DavdGao  I'm interested in this issue, can it be assigned to me?",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "Trefoi1"
+  },
+  "at_mobiles": []
+}
