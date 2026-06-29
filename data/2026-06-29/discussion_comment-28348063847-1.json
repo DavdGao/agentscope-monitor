@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-29T04:12:04.671608Z",
+  "title": "[Feature Request] rag support BM25 search and rerank step",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1952#discussioncomment-17466582",
+  "number": 1952,
+  "body": "@davidwxy Great point! We'll consider integrating a rerank strategy into our RAG implementation, which would involve introducing a model-based argument. We've added it to our roadmap.\n\nAs for BM25, mo…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "davidwxy"
+  },
+  "at_mobiles": []
+}
