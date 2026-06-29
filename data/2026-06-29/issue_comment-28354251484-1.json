@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "xu-suping",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-29T06:56:30.947403Z",
+  "title": "feat(vdb): integrate MongoDB Atlas as an optional vector database backend",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1960#issuecomment-4829785956",
+  "number": 1960,
+  "body": "@DavdGao I'm interested in this issue, can it be assigned to me?",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "xu-suping"
+  },
+  "at_mobiles": []
+}
