@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "uttam12331",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-29T05:03:33.793560Z",
+  "title": "fix(agent): raise clear error when streaming response yields no completed chunk",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1958",
+  "number": 1958,
+  "body": "## Description\n\nIn `Agent._reasoning_impl()`, `completed_response` stays `None` when a streaming model response yields **zero chunks**, or is **cut off before a chunk with `is_last=True`** arrives. Th…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "uttam12331",
+    "head_sha": "e19894f10a50b76e7235fc1c0d8fb9d12934304d",
+    "base_ref": "main",
+    "additions": 25,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
