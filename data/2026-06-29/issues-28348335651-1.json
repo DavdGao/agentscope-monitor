@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-29T04:19:34.261044Z",
+  "title": "feat(vdb): integrate more vector databases implementations",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1957",
+  "number": 1957,
+  "body": "**Background**\n\n- In v1.0, AgentScope introduced vector database (VDB) support with integrations for MilvusLite, Qdrant, OceanBase, etc.\n- Since v2.0.3, we have redesigned the RAG layer with a new RAG…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
