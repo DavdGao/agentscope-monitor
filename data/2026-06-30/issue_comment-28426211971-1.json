@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-30T06:57:05.457153Z",
+  "title": "feat(agent): support agent interruption with graceful context and tool state handling",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1806#issuecomment-4840709638",
+  "number": 1806,
+  "body": "@iluv7 Thanks for the proposal plan, here are my suggestions:\n\n1. Adding an interruption API endpoint is fine.\n2. `AgentInterruptedEvent` is unnecessary — a normal `ReplyEndEvent` is sufficient, maybe…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
