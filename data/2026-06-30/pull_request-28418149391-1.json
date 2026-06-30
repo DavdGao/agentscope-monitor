@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-30T03:26:21.488704Z",
+  "title": "fix: prevent duplicate credential registration in CredentialFactory",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1964",
+  "number": 1964,
+  "body": "## AgentScope Version\n\n2.0.4dev\n\n## Description\n\n`register_credential` was appending the same class on every call without checking for duplicates. When the app is started with `uvicorn --reload`, modu…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "b6ee3e241c99edb7c34e0b3955ebf1ffc910b926",
+    "base_ref": "main",
+    "additions": 2,
+    "deletions": 0,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
