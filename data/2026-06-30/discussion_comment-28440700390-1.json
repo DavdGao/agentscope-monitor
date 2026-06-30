@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ENCHIGO",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-30T11:24:54.841214Z",
+  "title": "[Feature] Support for Agent Client Protocol (ACP)",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1948#discussioncomment-17483440",
+  "number": 1948,
+  "body": "@DavdGao — these are exactly the right questions, and they reshaped the proposal. Let me take the transport/deployment ones head-on first, since they change the framing.\n\n**On transport (Q3/Q4), verif…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "ENCHIGO",
+    "discussion_author": "ENCHIGO"
+  },
+  "at_mobiles": []
+}
