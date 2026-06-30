@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-30T04:16:24.744547Z",
+  "title": "[Bug]: 自定义模型的时候报错",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1961#issuecomment-4839815701",
+  "number": 1961,
+  "body": "Alternatively, you can directly use the built-in `OpenAICredential and` place the model's YAML configuration file in the corresponding directory.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "halo-space",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
