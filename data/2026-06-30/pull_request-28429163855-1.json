@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "review_requested",
+  "action_cn": "请求审核",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-30T07:55:34.746043Z",
+  "title": "feat(middleware): add file-based long-term memory middleware",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1927",
+  "number": 1927,
+  "body": "## feat(middleware): add file-based long-term memory middleware\n\n## AgentScope Version\n\n2.0.3\n\n## Description\n\nThis PR adds `FileLongTermMemoryMiddleware`, a lightweight and transparent\nlong-term memo…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [
+    "Copilot"
+  ],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "y1y5",
+    "head_sha": "299fdcb533178e397da5247bc03a46cb1726c778",
+    "base_ref": "main",
+    "additions": 2372,
+    "deletions": 156,
+    "changed_files": 30
+  },
+  "at_mobiles": []
+}
