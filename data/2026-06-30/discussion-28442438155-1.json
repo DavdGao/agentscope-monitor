@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "fatewa",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-30T11:56:30.105187Z",
+  "title": "How can i use plan mode with agentscope 2.x",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1967",
+  "number": 1967,
+  "body": "> In the 1.x version, I could easily create and listen to plans through the plan notebook in plan mode. However, in the 2.x version, even though I added tools such as TaskCreate and TaskUpdate to the …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "General",
+    "author": "fatewa"
+  },
+  "at_mobiles": []
+}
