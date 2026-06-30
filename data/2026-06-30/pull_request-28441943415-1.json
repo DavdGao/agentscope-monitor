@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-30T11:47:35.771401Z",
+  "title": "feat(agent): support user-defined instructions when compressing memory",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1931",
+  "number": 1931,
+  "body": "Add an instructions: HintBlock argument to Agent.compress_context. The hint is converted to a user message and injected right before the compression prompt, allowing callers to guide the summarization…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "wustwyh",
+    "head_sha": "974c89ef66e508abcd71e255988db7921afd0455",
+    "base_ref": "main",
+    "additions": 130,
+    "deletions": 3,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
