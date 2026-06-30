@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ENCHIGO",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-30T03:42:19.141142Z",
+  "title": "[Feature] Support for Agent Client Protocol (ACP)",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1948#discussioncomment-17478952",
+  "number": 1948,
+  "body": "Thanks @DavdGao — design-first works for me, and I'm happy to **lead the design** here; we can move to an implementation PR once the design is settled. Below is a concrete proposal grounded in the v2 …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "ENCHIGO",
+    "discussion_author": "ENCHIGO"
+  },
+  "at_mobiles": []
+}
