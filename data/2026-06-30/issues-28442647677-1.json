@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-30T12:00:21.277089Z",
+  "title": "feat(embedding): migrate the previous embedding models back to the new version",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1667",
+  "number": 1667,
+  "body": "**Background**\n\nAgentScope has supported multiple embedding models in previous versions. As we move toward 2.0, we plan to re-integrate and redesign this support to align with the new architecture.\n\n*…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
