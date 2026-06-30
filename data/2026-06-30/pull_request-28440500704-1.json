@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "h2h2h",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-30T11:21:08.018976Z",
+  "title": "fix(agent): preserve middleware kwargs across next handlers",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1966",
+  "number": 1966,
+  "body": "## AgentScope Version\n\n2.0.4dev\n\n## Description\n\nFixes #1965.\n\nThis PR fixes agent middleware kwargs propagation in onion-style middleware chains.\n\nWhen an outer middleware modifies `input_kwargs` and…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "h2h2h",
+    "head_sha": "0b98784e873922999a0f7da97937a40bd966a2c2",
+    "base_ref": "main",
+    "additions": 252,
+    "deletions": 5,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
