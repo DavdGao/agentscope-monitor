@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "wxk6b1203",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-30T17:41:14.943977Z",
+  "title": "redismessagebus有没有单机方案",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1862#discussioncomment-17487822",
+  "number": 1862,
+  "body": "I create a fork including memory storage see https://github.com/agentscope-ai/agentscope/pull/1970/changes",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "wxk6b1203",
+    "discussion_author": "defengwang"
+  },
+  "at_mobiles": []
+}
