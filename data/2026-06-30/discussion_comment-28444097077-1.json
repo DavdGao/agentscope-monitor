@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "armorer-labs",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-30T12:25:29.192670Z",
+  "title": "[Feature] Support for Agent Client Protocol (ACP)",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1948#discussioncomment-17484111",
+  "number": 1948,
+  "body": "For the `fs` / `terminal` ownership question, I would default to shell delegation and make the sandbox-backed `Workspace` path an explicit mode switch.\n\nThe reason is that ACP's strongest local-deskto…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "armorer-labs",
+    "discussion_author": "ENCHIGO"
+  },
+  "at_mobiles": []
+}
