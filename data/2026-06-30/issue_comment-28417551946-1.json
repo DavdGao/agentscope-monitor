@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "halo-space",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-30T03:09:06.506021Z",
+  "title": "[Bug]: 自定义模型的时候报错",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1961#issuecomment-4839502894",
+  "number": 1961,
+  "body": "> ```\n> class OpenAICredentialX(CredentialBase):\n>     \"\"\"The OpenAI credential model.\"\"\"\n> \n>     model_config = ConfigDict(\n>         title=\"OpenAI API\",\n>     )\n> \n>     type: Literal[\"openai_crede…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "halo-space",
+    "commenter": "halo-space"
+  },
+  "at_mobiles": []
+}
