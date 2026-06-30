@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-30T08:27:56.132368Z",
+  "title": "fix(tool): reject negative grep pagination values",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1954",
+  "number": 1954,
+  "body": "Re-submitted after fork recovery. Original PR #1932 was closed due to fork deletion.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "VectorPeak",
+    "head_sha": "c791e7d93f10016552c268edaeb8b6a896b034fb",
+    "base_ref": "main",
+    "additions": 20,
+    "deletions": 0,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
