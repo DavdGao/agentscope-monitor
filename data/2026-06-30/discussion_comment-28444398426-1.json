@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-30T12:30:31.200481Z",
+  "title": "RAG系列功能支持时间表",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1827#discussioncomment-17484160",
+  "number": 1827,
+  "body": "Update: Completed in #1926 with both middleware-based and frontend-configurable approaches supported.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "wangxr98"
+  },
+  "at_mobiles": []
+}
