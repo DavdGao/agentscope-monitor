@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-30T04:12:47.029233Z",
+  "title": "[Bug]: 自定义模型的时候报错",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1961#issuecomment-4839799250",
+  "number": 1961,
+  "body": "<img width=\"664\" height=\"1266\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/c20ff32c-587f-4f83-b321-ec9f51e8ec0d\" />\n\nI've tried on my end, and it works fine. What error are you seeing …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "halo-space",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
