@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "h2h2h",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-30T11:13:04.107093Z",
+  "title": "[Bug]: Agent middleware next_handler resets upstream kwargs when inner middleware omits or partially forwards kwargs",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1965",
+  "number": 1965,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "h2h2h"
+  },
+  "at_mobiles": []
+}
