@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-06-30T08:33:11.909947Z",
+  "title": "feat(agent): support agent interruption with graceful context and tool state handling",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1806#issuecomment-4841431718",
+  "number": 1806,
+  "body": "@DavdGao Thanks for the detailed feedback. Your approach is the right call — a cooperative boolean flag would wait for the current cycle to finish, introducing unacceptable latency. Instead, cancel th…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "iluv7"
+  },
+  "at_mobiles": []
+}
