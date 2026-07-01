@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-01T04:22:31.887365Z",
+  "title": "fix(agent): raise clear error when streaming response yields no completed chunk",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1958#issuecomment-4850226378",
+  "number": 1958,
+  "body": "Fixed in #1861",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "uttam12331",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
