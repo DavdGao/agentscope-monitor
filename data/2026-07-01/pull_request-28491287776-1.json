@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-01T03:24:13.987790Z",
+  "title": "refactor(workspace): re-organize the code implementation logic of the workspace",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1971",
+  "number": 1971,
+  "body": "## PR Title Format\n\nPlease ensure your PR title follows the Conventional Commits format:\n- Format: `<type>(<scope>): <description>`\n- Example: `feat(memory): add redis cache support`\n- Allowed types: …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "60c09a5cd9e11ad6773c2d7d3f6b0391836ee167",
+    "base_ref": "main",
+    "additions": 1630,
+    "deletions": 2021,
+    "changed_files": 10
+  },
+  "at_mobiles": []
+}
