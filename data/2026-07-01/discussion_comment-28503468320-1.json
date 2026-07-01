@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ENCHIGO",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-01T08:14:46.792588Z",
+  "title": "[Feature] Support for Agent Client Protocol (ACP)",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1948#discussioncomment-17494392",
+  "number": 1948,
+  "body": "@DavdGao — the example-first path works for me; let's do it. I'll build it in `examples/acp/` on public API only, no core changes, and we reassess promotion in Phase 2 once it's proven.\n\nOn **Concern …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "ENCHIGO",
+    "discussion_author": "ENCHIGO"
+  },
+  "at_mobiles": []
+}
