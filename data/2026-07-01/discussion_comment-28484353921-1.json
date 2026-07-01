@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "armorer-labs",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-01T00:13:36.864633Z",
+  "title": "[Feature] Support for Agent Client Protocol (ACP)",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1948#discussioncomment-17490635",
+  "number": 1948,
+  "body": "That framing makes sense to me. I would also keep the receipt derived from the stream rather than promoted into the ACP wire contract for the first slice.\n\nThe one implementation detail I would pin do…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "armorer-labs",
+    "discussion_author": "ENCHIGO"
+  },
+  "at_mobiles": []
+}
