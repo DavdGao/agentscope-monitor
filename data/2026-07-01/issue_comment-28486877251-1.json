@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "wxk6b1203",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-01T01:20:35.468568Z",
+  "title": "feat(storage): Implement and document in-memory storage solution for testing",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1970#issuecomment-4849378581",
+  "number": 1970,
+  "body": "Not meeting pre-commit requirement. Closed.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "wxk6b1203",
+    "commenter": "wxk6b1203"
+  },
+  "at_mobiles": []
+}
