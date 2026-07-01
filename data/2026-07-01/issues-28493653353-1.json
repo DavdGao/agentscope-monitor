@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-01T04:31:48.484674Z",
+  "title": "feat(tts): implement DashScope CosyVoice TTS API",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1685",
+  "number": 1685,
+  "body": "**Background**\n\nThis issue tracks the implementation of the DashScope (Alibaba Cloud) CosyVoice TTS model (non-realtime) in AgentScope 2.0, as part of the overall TTS module migration (blocked by #167…",
+  "labels": [
+    "Help Wanted"
+  ],
+  "assignees": [
+    "YingchaoX"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "qbc2016"
+  },
+  "at_mobiles": []
+}
