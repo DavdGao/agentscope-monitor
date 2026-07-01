@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Trefoi1",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-01T11:24:38.752524Z",
+  "title": "feat(rag): add Milvus Lite vector store",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1969#issuecomment-4853890215",
+  "number": 1969,
+  "body": "Addressed Copilot's inline comments by initializing the Milvus client before worker-thread offloading and expanding the MilvusLiteStore docstrings.\n\nRe-ran the checks locally:\n- `py -m pre_commit run …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Trefoi1",
+    "commenter": "Trefoi1"
+  },
+  "at_mobiles": []
+}
