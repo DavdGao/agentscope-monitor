@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-01T04:32:17.264940Z",
+  "title": "feat(tts): implement DashScope realtime TTS API",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1682",
+  "number": 1682,
+  "body": "**Background**\n\nThis issue tracks the implementation of DashScope (Alibaba Cloud) realtime (streaming-input) TTS models in AgentScope 2.0, as part of the overall TTS module migration (blocked by #1678…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "qbc2016"
+  },
+  "at_mobiles": []
+}
