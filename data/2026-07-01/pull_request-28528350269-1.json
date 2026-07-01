@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "lumman0",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-01T15:21:39.339013Z",
+  "title": "feat(workspace): add OpenSandbox backend",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1953",
+  "number": 1953,
+  "body": "## AgentScope Version\n\n2.0.3\n\n## Description\n\nThis PR adds OpenSandbox as a new workspace backend for AgentScope 2.0, Closes #1915.\n\nOpenSandbox provides a lightweight, open-source, self-hostable sand…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [
+    "cuiyuebing"
+  ],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "lumman0",
+    "head_sha": "5a601771144e7ca8647fcaaeded69febb8b1a1e5",
+    "base_ref": "main",
+    "additions": 4051,
+    "deletions": 2,
+    "changed_files": 15
+  },
+  "at_mobiles": []
+}
