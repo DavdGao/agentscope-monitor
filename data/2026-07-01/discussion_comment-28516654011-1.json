@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "freshman-0ne",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-01T12:13:30.103682Z",
+  "title": "如何基于2.0上实现在所有的SSE合并到一个时间线显示（跨Session的SSE合流）？",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1949#discussioncomment-17496854",
+  "number": 1949,
+  "body": "Thank you\n方案二从实现上的确会更简单，除了上面提到的问题，如果是按msg.created_at排序events，因为Leader和member有一定概率是并行的，会不会导致Event交错？\n方案一的确会复杂很多，想了一个方案，就是新建一个team event缓存，publish event 时，还要处理member的HITL要再返回到member Agent进行处理，以及缓存的清理问题。…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "freshman-0ne",
+    "discussion_author": "freshman-0ne"
+  },
+  "at_mobiles": []
+}
