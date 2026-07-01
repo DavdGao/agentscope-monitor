@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "armorer-labs",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-01T03:14:01.567765Z",
+  "title": "[Feature] Support for Agent Client Protocol (ACP)",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1948#discussioncomment-17491967",
+  "number": 1948,
+  "body": "The `examples/acp/` first path seems like the right constraint. It turns the protocol question into a runnable artifact instead of forcing AgentScope core to commit to a configuration model before the…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "armorer-labs",
+    "discussion_author": "ENCHIGO"
+  },
+  "at_mobiles": []
+}
