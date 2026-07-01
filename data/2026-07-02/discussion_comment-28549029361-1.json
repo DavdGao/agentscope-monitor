@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "mavdol",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-01T21:30:32.853305Z",
+  "title": "Suggest Vpod as a WebAssembly‑based local workspace backend",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1944#discussioncomment-17502309",
+  "number": 1944,
+  "body": "@DavdGao I just released `v0.3.0` with the mount system on Vpod, based on WASI 0.2 preopendir. We can now mount host directories into the sandbox with `read‑only` or `read‑write` permissions. I made i…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "mavdol",
+    "discussion_author": "mavdol"
+  },
+  "at_mobiles": []
+}
