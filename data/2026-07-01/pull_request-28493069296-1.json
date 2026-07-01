@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-01T04:15:24.218763Z",
+  "title": "fix(agent): guard against empty or interrupted streaming responses",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1861",
+  "number": 1861,
+  "body": "## PR Title Format\n\nfix(agent): guard against empty or interrupted streaming responses\n\n## AgentScope Version\n\nAgentScope Version: 2.0.1\n\n## Description\n\nThis PR fixes a bug in `Agent._reasoning_impl(…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "xueshanfeihu007",
+    "head_sha": "3fb6bddd1d550fb98394e0ef214e3016c1ac2a48",
+    "base_ref": "main",
+    "additions": 9,
+    "deletions": 0,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
