@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Devaretanmay",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-01T10:49:15.774055Z",
+  "title": "feat(agent): handle max iteration exceeded gracefully in ReAct agent",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1805#issuecomment-4853515815",
+  "number": 1805,
+  "body": "> **Background**\n> \n> When a ReAct agent exceeds the maximum number of iterations, it currently terminates the loop abruptly. A more graceful handling strategy should be introduced to improve the user…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "Devaretanmay"
+  },
+  "at_mobiles": []
+}
