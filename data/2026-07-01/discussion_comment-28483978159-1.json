@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ENCHIGO",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-01T00:04:25.081658Z",
+  "title": "[Feature] Support for Agent Client Protocol (ACP)",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1948#discussioncomment-17490590",
+  "number": 1948,
+  "body": "@armorer-labs — thanks, this is a helpful sharpening, and we're aligned on the core: **Direction A / stdio first, shell-delegated `fs`/`terminal` by default, `Workspace` as an opt-in sandbox profile.*…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "ENCHIGO",
+    "discussion_author": "ENCHIGO"
+  },
+  "at_mobiles": []
+}
