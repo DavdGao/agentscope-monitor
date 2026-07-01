@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-01T04:27:03.597067Z",
+  "title": "fix(model): use flat estimate for multimodal data blocks",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1899",
+  "number": 1899,
+  "body": "## AgentScope Version\n\n2.0.2\n\n## Description\n\nThis PR fixes the fallback token estimation for multimodal `DataBlock` inputs in `ChatModelBase.count_tokens`.\n\nPreviously, base64 inputs were estimated f…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "dongfeng3692",
+    "head_sha": "fa5a9936d7738f750761bae6d3b2ec3f070c521b",
+    "base_ref": "main",
+    "additions": 89,
+    "deletions": 9,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
