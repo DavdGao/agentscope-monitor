@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "eeee2345",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-01T19:15:32.140834Z",
+  "title": "Would a community security middleware backed by an open rule set be useful?",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1976",
+  "number": 1976,
+  "body": "We maintain Agent Threat Rules (ATR, github.com/Agent-Threat-Rule/agent-threat-rules), an open-source, MIT-licensed rule set for detecting prompt injection and other agent-facing attack patterns — 655…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "eeee2345"
+  },
+  "at_mobiles": []
+}
