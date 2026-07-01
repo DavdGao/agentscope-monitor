@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qiang-zai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-01T08:32:29.193073Z",
+  "title": "[Feature Request] Make Bash tool timeout cap configurable instead of hardcoded 600000ms",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1974",
+  "number": 1974,
+  "body": "## Summary\n\nThe `Bash` tool hardcodes a 10-minute (600000ms) timeout ceiling in two places, with no way to override it via subclassing, configuration, or constructor parameter:\n\n1. **`__call__` method…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "qiang-zai"
+  },
+  "at_mobiles": []
+}
