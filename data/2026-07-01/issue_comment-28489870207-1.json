@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "hiSandog",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-01T02:43:53.414547Z",
+  "title": "[Bug]: Agent middleware next_handler resets upstream kwargs when inner middleware omits or partially forwards kwargs",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1965#issuecomment-4849793729",
+  "number": 1965,
+  "body": "This sounds like a good middleware contract regression test. A minimal test could have an outer middleware add a kwarg, an inner middleware call `next_handler` with only a subset of kwargs, and then a…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "h2h2h",
+    "commenter": "hiSandog"
+  },
+  "at_mobiles": []
+}
