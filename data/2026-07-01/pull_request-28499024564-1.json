@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "ployts",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-01T06:46:44.163277Z",
+  "title": "feat(middleware): add ReMe long-term memory middleware",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1972",
+  "number": 1972,
+  "body": "## AgentScope Version\n\n`2.0.4dev`\n\n## Description\n\nAdds **`ReMeMiddleware`**, a second long-term-memory backend alongside `Mem0Middleware`, built on the AgentScope team's own [ReMe](https://github.com…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ployts",
+    "head_sha": "fc72739010f342abcadded2667e5dbf6e6a3ca31",
+    "base_ref": "main",
+    "additions": 2388,
+    "deletions": 2,
+    "changed_files": 10
+  },
+  "at_mobiles": []
+}
