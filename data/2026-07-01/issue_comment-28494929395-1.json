@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-01T05:07:20.784192Z",
+  "title": "feat(workspace): share workspace across different agents",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1951#issuecomment-4850431287",
+  "number": 1951,
+  "body": "@DavdGao \nThanks for the heads-up and for introducing `SandboxedWorkspaceBase` in #1971 — it's exactly the right abstraction.\n\nI've merged main into this branch. The original per-agent MCP isolation a…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "iluv7",
+    "commenter": "iluv7"
+  },
+  "at_mobiles": []
+}
