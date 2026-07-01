@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "wxk6b1203",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-01T01:10:15.862171Z",
+  "title": "feat(storage): Implement and document in-memory storage solution for testing",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1970",
+  "number": 1970,
+  "body": "## AgentScope Version\n\n2.0.2 (branch: main)\n\n## Description\n\nA memory storage for example testeing.\n\n## Checklist\n\nPlease check the following items before code is ready to be reviewed.\n\n- [x]  An issu…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "wxk6b1203",
+    "head_sha": "11e4e3aef8f6a162192b829eac257bfbd5800c86",
+    "base_ref": "main",
+    "additions": 2186,
+    "deletions": 0,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
