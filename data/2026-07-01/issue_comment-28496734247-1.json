@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-01T05:53:48.623726Z",
+  "title": "feat(tts): implement OpenAI TTS API",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1878#issuecomment-4850679951",
+  "number": 1878,
+  "body": "Please merge the latest main branch and fix the conflicts.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "nuthalapativarun",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
