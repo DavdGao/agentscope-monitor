@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-01T03:43:06.935264Z",
+  "title": "refactor(workspace): consolidate shared methods into WorkspaceBase and replace MCP gateway port exposure with exec_shell",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1968",
+  "number": 1968,
+  "body": "## Background\n- We have introduced a `Backend` abstraction that provides sufficient primitives, which allows us to implement common methods directly in `WorkspaceBase` via `self._backend`, providing a…",
+  "labels": [],
+  "assignees": [
+    "DavdGao"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
