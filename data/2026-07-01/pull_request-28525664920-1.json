@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "BreezyB1n",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-01T14:39:23.522270Z",
+  "title": "feat(rag): add LLM rerank support",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1975",
+  "number": 1975,
+  "body": "## Summary\n- Add optional LLM rerank support to the shared RAG search path used by static and agentic modes.\n- Add rerank_top_k, id-only structured rerank output, text-only candidate reranking, and fa…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "BreezyB1n",
+    "head_sha": "347d10e51d5fdf2f95dba874cd64588f2beecfb1",
+    "base_ref": "main",
+    "additions": 621,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
