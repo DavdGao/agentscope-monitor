@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-02T06:29:57.941855Z",
+  "title": "[Bug]: Streaming events out of order — TextBlockDelta emitted before ThinkingBlockEnd at the reasoning→answer boundary",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1885",
+  "number": 1885,
+  "body": "### Description\n\nIn `Agent._convert_chat_response_to_event` (`src/agentscope/agent/_agent.py`), **text blocks are processed before thinking blocks** within each streamed chunk. As a result, at the rea…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "YouyuiSS"
+  },
+  "at_mobiles": []
+}
