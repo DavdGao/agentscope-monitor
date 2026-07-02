@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Marlin-Phone",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-02T16:44:40.381864Z",
+  "title": "fix: catch tool call exceptions in _acting() to prevent agent crash",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1986",
+  "number": 1986,
+  "body": "## Summary\n\nCatch tool call exceptions in `_acting()` to prevent agent crash when a tool fails (e.g. MCP returns 401).\n\nCloses #1985\n\n## Changes\n\n- `src/agentscope/agent/_react_agent.py`: Added `excep…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Marlin-Phone",
+    "head_sha": "8aab68ff397a0f264c4195cdc84a5831bda6e361",
+    "base_ref": "main",
+    "additions": 4760,
+    "deletions": 310,
+    "changed_files": 45
+  },
+  "at_mobiles": []
+}
