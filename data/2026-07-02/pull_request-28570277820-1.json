@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-02T06:30:19.506545Z",
+  "title": "fix(agent): emit thinking end before answer text",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1929",
+  "number": 1929,
+  "body": "## AgentScope Version\n\n`2.0.3` from a local editable install.\n\n## Description\n\nFixes #1885.\n\nStreaming chat chunks were converted to events by handling text before thinking. At the reasoning-to-answer…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "WilliamK112",
+    "head_sha": "a936f91d3cdbc6a833e64c234d438c8e07ad4e61",
+    "base_ref": "main",
+    "additions": 123,
+    "deletions": 28,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
