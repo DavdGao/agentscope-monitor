@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "freshman-0ne",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-02T11:35:14.332593Z",
+  "title": "AgentScope2.0的Java版和Python版方案设计实现差异还挺大",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1983",
+  "number": 1983,
+  "body": "看到JAVA版的2.0文档，发现差异还挺大；\n1. 抽象了一层harness层，工作区的设计也有很大差别。\n2. 看起来特性要更全面，比如已经集成了PlanMode等等；\n\n一直以为这两个应该是同一个团队在负责，架构设计应该差不多。",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "General",
+    "author": "freshman-0ne"
+  },
+  "at_mobiles": []
+}
