@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-02T04:17:34.185584Z",
+  "title": "[Feature Request] Make Bash tool timeout cap configurable instead of hardcoded 600000ms",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1974#discussioncomment-17504804",
+  "number": 1974,
+  "body": "@qiang-zai Thanks for your report, we will locate the issue as soon as possible",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "qiang-zai"
+  },
+  "at_mobiles": []
+}
