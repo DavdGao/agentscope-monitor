@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "dongfeng3692",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-02T07:27:21.582461Z",
+  "title": "feat(workspace): 懒加载沙箱配置 — 将 E2B/Docker 和沙箱的启动推迟到首次工具调用时进行",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1980",
+  "number": 1980,
+  "body": "@DavdGao 目前，即使对话最终没有使用任何工具，每一个聊天请求都会配置一个完整的沙箱并启动沙箱内的 MCP 网关。\n本提案建议：实现懒加载配置——在会话开始时仅加载必要的内容不初始化sandbox，仅在首次后端调用时才创建沙箱并启动网关。如果此功能尚不在路线图中，我很乐意协助实现。\n(ps:我的想法 对于sandbox的mcp，我觉得做成显式配置 更加合理一点，成无 MCP 配置就不启动ga…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "dongfeng3692"
+  },
+  "at_mobiles": []
+}
