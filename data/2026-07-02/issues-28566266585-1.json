@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-02T04:51:24.229663Z",
+  "title": "feat(agent-team): support to invite the existing agent as team member",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1978",
+  "number": 1978,
+  "body": "**Background**\n\nThe current agent team only supports creating sub-agents from predefined templates. However, users may have carefully configured agents tailored to specific tasks that newly created su…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
