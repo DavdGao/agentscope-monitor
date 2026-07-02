@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "review_requested",
+  "action_cn": "请求审核",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-02T04:43:36.410825Z",
+  "title": "feat(agent-team): support to invite the existing agents within the ag…",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1977",
+  "number": 1977,
+  "body": "…ent service\n\n## PR Title Format\n\nPlease ensure your PR title follows the Conventional Commits format:\n- Format: `<type>(<scope>): <description>`\n- Example: `feat(memory): add redis cache support`\n- A…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [
+    "Copilot"
+  ],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "bac12dd6f4c2a13ff2dfad04c49c41f1668f7503",
+    "base_ref": "main",
+    "additions": 1936,
+    "deletions": 200,
+    "changed_files": 32
+  },
+  "at_mobiles": []
+}
