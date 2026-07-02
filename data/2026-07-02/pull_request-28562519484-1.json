@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-02T03:08:11.755067Z",
+  "title": "feat(rag): add Milvus Lite vector store",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1969",
+  "number": 1969,
+  "body": "## AgentScope Version\n\n`2.0.4.dev0`\n\n## Description\n\n### Related Issue\n\nFixes #1959\n\n### Background\n\nAgentScope currently provides `QdrantStore` as the default RAG vector database backend. This PR add…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "Trefoi1",
+    "head_sha": "7122664c24af4daf7555cfcbba70fabed6633126",
+    "base_ref": "main",
+    "additions": 836,
+    "deletions": 0,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
