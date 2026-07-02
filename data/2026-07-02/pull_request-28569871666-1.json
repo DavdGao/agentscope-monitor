@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-02T06:21:14.847252Z",
+  "title": "fix(agent): emit ThinkingBlockEnd before TextBlockStart at reasoning→answer boundary",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1887",
+  "number": 1887,
+  "body": "## AgentScope Version\n\n2.0.2\n\n## Description\n\n\nIn `_convert_chat_response_to_event`, text blocks were processed before thinking blocks, causing `ThinkingBlockEndEvent` to be emitted *after* `TextBlock…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "475ae4e47a3daf7fd5244ad4401d4cc67822aaba",
+    "base_ref": "main",
+    "additions": 27,
+    "deletions": 33,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
