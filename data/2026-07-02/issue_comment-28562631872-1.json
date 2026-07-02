@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Trefoi1",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-02T03:11:15.796419Z",
+  "title": "feat(rag): add Milvus Lite vector store",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1969#issuecomment-4861834923",
+  "number": 1969,
+  "body": "Thanks for the review!",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Trefoi1",
+    "commenter": "Trefoi1"
+  },
+  "at_mobiles": []
+}
