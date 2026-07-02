@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-02T08:00:58.747241Z",
+  "title": "fix(tools): pin ripgrep to avoid rust bootstrap",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1982",
+  "number": 1982,
+  "body": "## Summary\n- pin the optional tools extra to ripgrep==14.1.0\n- avoid ripgrep 15.x source builds that try to bootstrap Rust in restricted Linux or mirrored package environments\n\n## Verification\n- UV_CA…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "RerankerGuo",
+    "head_sha": "94c4373c19f3c0fc529b417a30357a81bd345d1a",
+    "base_ref": "main",
+    "additions": 3,
+    "deletions": 1,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
