@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "lumman0",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-02T01:52:12.013595Z",
+  "title": "feat(workspace): add OpenSandbox backend",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1953#issuecomment-4861489800",
+  "number": 1953,
+  "body": "Hi @DavdGao @ustc-mkh , thanks for the review!\n\nI've rebased on main and refactored `OpenSandboxWorkspace` to inherit from `SandboxedWorkspaceBase`, implementing only `_provision_backend`,` _teardown_…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "lumman0",
+    "commenter": "lumman0"
+  },
+  "at_mobiles": []
+}
