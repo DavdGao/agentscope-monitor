@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "zhaohuaishuai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-02T07:12:50.421741Z",
+  "title": "期望模型调用工具后不对工具调用的结果进行加工",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1979",
+  "number": 1979,
+  "body": "模型在调用工具后，对应的前端已经映射出来视图，但是模型在调用工具后还会在拿到结果后，还会继续输出内容。我期望的是调用工具后，有个配置可以让模型不在对内容做加工，使用了系统提示词后效果不太好，继承 ReAgent 重新 repa方法是可以实现，但是模型又不能进行连续的工具调用了。请问有没有比较优雅的解决方案。",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "zhaohuaishuai"
+  },
+  "at_mobiles": []
+}
