@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-03T05:51:02.713201Z",
+  "title": "期望模型调用工具后不对工具调用的结果进行加工",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1979#discussioncomment-17519318",
+  "number": 1979,
+  "body": "@zhaohuaishuai You can customize a middleware and use the `on_model_call` hook to filter the generated text block related events and also the final completed response.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "zhaohuaishuai"
+  },
+  "at_mobiles": []
+}
