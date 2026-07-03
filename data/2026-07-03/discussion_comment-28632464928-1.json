@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-03T01:30:41.016403Z",
+  "title": "AgentScope2.0的Java版和Python版方案设计实现差异还挺大",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1983#discussioncomment-17517645",
+  "number": 1983,
+  "body": "@freshman-0ne The Python and Java versions will be aligned on major features and overall direction. However, given the differences in language characteristics and the distinct open-source communities …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "freshman-0ne"
+  },
+  "at_mobiles": []
+}
