@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-03T09:45:37.158283Z",
+  "title": "feat(a2a): support A2A protocol in agentscope 2.0",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1941#issuecomment-4874922508",
+  "number": 1941,
+  "body": "@YingchaoX Sorry for the late reply. I agree that Scenario 2 is a good starting point, but I have some thoughts on the implementation approach.\n\nIn 1.0, we wrapped the A2A agent by inheriting from `Ag…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
