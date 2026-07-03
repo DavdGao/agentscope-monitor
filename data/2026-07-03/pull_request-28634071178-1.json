@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-03T02:17:43.608999Z",
+  "title": "feat(service): allow disabling embedded scheduler",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1993",
+  "number": 1993,
+  "body": "## Summary\\n- add `create_app(enable_scheduler=False)` for API-only service workers\\n- let disabled `SchedulerManager` skip local APScheduler start/restore/job registration\\n- keep schedule records us…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "RerankerGuo",
+    "head_sha": "7531ce58373abda19dafa7446043b6585c88516c",
+    "base_ref": "main",
+    "additions": 70,
+    "deletions": 0,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
