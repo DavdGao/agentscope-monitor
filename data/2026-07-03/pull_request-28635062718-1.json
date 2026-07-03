@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "orangeCatDeveloper",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-03T02:47:35.157855Z",
+  "title": "ci(hitl): collect mixed interrupt tests",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1994",
+  "number": 1994,
+  "body": "## AgentScope Version\n\n`2.0.4dev`\n\n## Description\n\nFixes the mixed HITL interrupt test so it is collected by pytest. The file is renamed from `hitl_mixed_interrupt.py` to `hitl_mixed_interrupt_test.py…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "orangeCatDeveloper",
+    "head_sha": "922fbeccccc59b07dae741a72c3fa6d222070c33",
+    "base_ref": "main",
+    "additions": 238,
+    "deletions": 25,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
