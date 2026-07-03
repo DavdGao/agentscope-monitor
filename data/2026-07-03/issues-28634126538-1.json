@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-03T02:19:24.078240Z",
+  "title": "feat(model): support chat model fallback and retry",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/969",
+  "number": 969,
+  "body": "- [ ] Support retry in chat model class\n- [ ] [TBD] Support fallback model in chat model class\n- [ ] [TBD] Support fallback model and formatter in`ReActAgent` class",
+  "labels": [
+    "Roadmap"
+  ],
+  "assignees": [
+    "qbc2016"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
