@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-03T02:19:49.446279Z",
+  "title": "feat(browser-use): refactor the browser-use agent with the PlanNotebook module and integrate new features into the toolkit",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1019",
+  "number": 1019,
+  "body": "",
+  "labels": [
+    "Roadmap"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
