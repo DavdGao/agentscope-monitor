@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-03T02:18:28.178520Z",
+  "title": "feat(agent-skill): support dynamic skill loading via directory monitoring",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/968",
+  "number": 968,
+  "body": "For flexible management of agent skills, we should support directory monitoring to enable dynamic addition and removal of skills by users or agents themselves.",
+  "labels": [
+    "Roadmap"
+  ],
+  "assignees": [
+    "xucailiang"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
