@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "dongfeng3692",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-03T03:12:36.641581Z",
+  "title": "feat(workspace): 懒加载沙箱配置 — 将 E2B/Docker 和沙箱的启动推迟到首次工具调用时进行",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1980#discussioncomment-17518281",
+  "number": 1980,
+  "body": "我指的不是沙箱池（#1755 那是\"提前预热一批沙箱待命\"，方向相反）。我想说的是懒加载：简单会话（比如一句 \"hello\"）很可能只是纯文本问答、用不到沙箱能力，目前却会提前分配并绑定 E2B，造成浪费。希望会话开始时不创建沙箱，只在真正需要代码执行 / 工具调用时才按需创建。",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "dongfeng3692",
+    "discussion_author": "dongfeng3692"
+  },
+  "at_mobiles": []
+}
