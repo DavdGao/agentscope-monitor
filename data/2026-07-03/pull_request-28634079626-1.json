@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-03T02:17:55.241974Z",
+  "title": "feat(tool): add builtin skill markdown reader",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1990",
+  "number": 1990,
+  "body": "## AgentScope Version\n\n2.0.4dev\n\n## Description\n\nFixes #1087.\n\nThis reimplements the skill `SKILL.md` reader for the current v2 `Toolkit` / `SkillLoader` architecture.\n\nChanges made:\n\n- Add a read-onl…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": true,
+    "author": "helloJamest",
+    "head_sha": "68a291d8e14dffb7f235cbe070649753ede710c6",
+    "base_ref": "main",
+    "additions": 284,
+    "deletions": 5,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
