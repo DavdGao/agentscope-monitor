@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "AlanFokCo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-03T06:00:42.008242Z",
+  "title": "AgentScope 2.0.0 – Share Your Ideas & Feedback",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1441#discussioncomment-17519432",
+  "number": 1441,
+  "body": "Hi everyone! Just a quick note — the **Go implementation of AgentScope** ([agentscope-go](https://github.com/AlanFokCo/agentscope-go)) has released v2.0.3.1 with a full v3 infrastructure layer (agent …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "AlanFokCo",
+    "discussion_author": "DavdGao"
+  },
+  "at_mobiles": []
+}
