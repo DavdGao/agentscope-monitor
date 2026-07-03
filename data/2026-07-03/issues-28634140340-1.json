@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-03T02:19:47.831309Z",
+  "title": "feat(deepresearch): refactor the deep research agent with PlanNotebook module and enable multi-round conversation",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1020",
+  "number": 1020,
+  "body": "",
+  "labels": [
+    "Roadmap"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
