@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-03T01:54:07.580161Z",
+  "title": "feat(reme): integrate ReMe-based long-term memory into AgentScope as an agent middleware",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1747",
+  "number": 1747,
+  "body": "**Background**\nAs discussed in #1664, RAG & long-term memory can be handled entirely by middlewares. Therefore, ReMe support should be implemented within the middleware module.\n\n**Changes**\n\n- Add ReM…",
+  "labels": [],
+  "assignees": [
+    "jinliyl"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
