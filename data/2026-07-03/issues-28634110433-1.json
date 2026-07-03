@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-03T02:18:56.238799Z",
+  "title": "feat(memory): support offloading compressed memory to searchable storage for agentic search",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1108",
+  "number": 1108,
+  "body": "",
+  "labels": [
+    "Roadmap"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
