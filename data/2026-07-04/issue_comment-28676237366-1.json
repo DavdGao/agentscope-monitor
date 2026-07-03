@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "QQand77",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-03T17:56:00.219084Z",
+  "title": "feat(service): support to share resource (credential, agent, knowledge bases) across different users as a group or org",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1998#issuecomment-4878464761",
+  "number": 1998,
+  "body": "我也想要这个功能",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "DavdGao",
+    "commenter": "QQand77"
+  },
+  "at_mobiles": []
+}
