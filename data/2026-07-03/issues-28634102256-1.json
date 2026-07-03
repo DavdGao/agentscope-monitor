@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-03T02:18:39.151432Z",
+  "title": "feat(tool): support the folding display of the results of tool invocation",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/970",
+  "number": 970,
+  "body": "",
+  "labels": [
+    "Roadmap"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
