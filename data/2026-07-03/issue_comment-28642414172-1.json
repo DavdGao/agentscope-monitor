@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "rayrayraykk",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-03T06:18:26.435050Z",
+  "title": "feat(agent): support agent interruption with graceful context and tool state handling",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1806#issuecomment-4873121950",
+  "number": 1806,
+  "body": "@qbc2016 CC qbc, please follow up on this.\n\n@iluv7 Got it. Thanks for the update. Since you are planning to submit the PR tonight, let's proceed with your implementation.\n\n@qbc2016 from our team will …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "rayrayraykk"
+  },
+  "at_mobiles": []
+}
