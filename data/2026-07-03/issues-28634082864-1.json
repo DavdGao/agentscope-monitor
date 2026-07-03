@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-03T02:18:02.137705Z",
+  "title": "feat(agent-skill): add built-in SKILL.md reader tool to handle path resolution issues",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1087",
+  "number": 1087,
+  "body": "- [ ] Use absolute path in `register_agent_skill`\n- [ ] Add an optional built-in SKILL.md reader tool, which maybe a simple wrapper of the `view_text_file`",
+  "labels": [
+    "Roadmap"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
