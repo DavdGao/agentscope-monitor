@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-03T02:19:43.008658Z",
+  "title": "feat(memory): support multimodal memory compression in `ReActAgent` class",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1109",
+  "number": 1109,
+  "body": "We should consider how to handle multimodal data in the memory compression functionality.\n\nHowever, as discussed in #1108, if we support memory offloading, compressing multimodal data may become unnec…",
+  "labels": [
+    "Roadmap"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
