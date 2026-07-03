@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-03T01:08:50.862765Z",
+  "title": "feat(service): add session status endpoint",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1984",
+  "number": 1984,
+  "body": "## PR Title Format\n\nPlease ensure your PR title follows the Conventional Commits format:\n- Format: `<type>(<scope>): <description>`\n- Example: `feat(memory): add redis cache support`\n- Allowed types: …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "f9a4ef7888e3fb960a97b82d60e7f013ccbe2165",
+    "base_ref": "main",
+    "additions": 239,
+    "deletions": 1,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
