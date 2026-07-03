@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-03T01:18:15.974534Z",
+  "title": "[Bug]: Agent crashes when tool call fails due to missing exception handling in _acting()",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1985#issuecomment-4871757877",
+  "number": 1985,
+  "body": "@Marlin-Phone I'm a bit confused about this issue. Within the [toolkit](https://github.com/agentscope-ai/agentscope/blob/main/src/agentscope/tool/_toolkit.py#L339), we already have a `try/except` bloc…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Marlin-Phone",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
