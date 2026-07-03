@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "zhaohuaishuai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-03T01:37:01.051568Z",
+  "title": "期望模型调用工具后不对工具调用的结果进行加工",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1979#discussioncomment-17517683",
+  "number": 1979,
+  "body": "直接返回工具的原始数据即可，不希望模型总结。",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "zhaohuaishuai",
+    "discussion_author": "zhaohuaishuai"
+  },
+  "at_mobiles": []
+}
