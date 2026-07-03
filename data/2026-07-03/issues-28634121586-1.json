@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-03T02:19:16.448328Z",
+  "title": "feat(middleware): support middleware in agentscope, including agent, tools, and models",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1100",
+  "number": 1100,
+  "body": "Hooks only work at pre and post positions. In contrast, middleware should support a wrapper form where the input is a request, allowing operations to be performed around the request in one go.",
+  "labels": [
+    "Roadmap"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
