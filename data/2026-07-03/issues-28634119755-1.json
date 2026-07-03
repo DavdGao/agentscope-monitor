@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-03T02:19:14.500245Z",
+  "title": "feat(agent): support execution of tool functions on user end",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1155",
+  "number": 1155,
+  "body": "Not all tool functions are executed on the agent side. Some tools need to run on the user end, requiring the agent to return ToolUseBlock instead of executing directly.\n\nThis feature is human-in-the-l…",
+  "labels": [
+    "Roadmap"
+  ],
+  "assignees": [
+    "DavdGao"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
