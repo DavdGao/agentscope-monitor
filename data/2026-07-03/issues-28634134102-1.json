@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-03T02:19:38.741465Z",
+  "title": "feat(memory): Auto-insert timestamps to provide temporal context for LLM",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1112",
+  "number": 1112,
+  "body": "Automatically insert timestamp markers into the conversation memory after specified time intervals. This helps the LLM maintain temporal awareness during long-running conversations or sessions.",
+  "labels": [
+    "Roadmap"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
