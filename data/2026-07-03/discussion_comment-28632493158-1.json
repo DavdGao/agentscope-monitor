@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-03T01:31:21.314766Z",
+  "title": "feat(workspace): 懒加载沙箱配置 — 将 E2B/Docker 和沙箱的启动推迟到首次工具调用时进行",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1980#discussioncomment-17517648",
+  "number": 1980,
+  "body": "@dongfeng3692 Do you mean the sandbox pooling functionality? We are working on this in #1755",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "dongfeng3692"
+  },
+  "at_mobiles": []
+}
