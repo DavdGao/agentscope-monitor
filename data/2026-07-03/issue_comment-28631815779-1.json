@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-03T01:11:54.827346Z",
+  "title": "fix(agent): catch tool call exceptions in _acting() to prevent crash",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1986#issuecomment-4871730964",
+  "number": 1986,
+  "body": "The develop branch is currently on v1, which is behind the main branch. Closing this for now.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Marlin-Phone",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
