@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-03T02:10:00.381400Z",
+  "title": "fix(agent): recover failed acting tool calls",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1988#issuecomment-4871976648",
+  "number": 1988,
+  "body": "Rechecked the current tool execution path after DavdGao's comment. The toolkit already catches MCP errors and normal tool runtime exceptions and converts them into error ToolResponse chunks; Developer…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "RerankerGuo",
+    "commenter": "RerankerGuo"
+  },
+  "at_mobiles": []
+}
