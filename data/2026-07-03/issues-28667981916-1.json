@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lichengwu",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-03T14:51:15.982560Z",
+  "title": "feat(agent-team): make AgentInvite's invitable pool host-resolvable (per-leader curation / can-invite gate)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1999",
+  "number": 1999,
+  "body": "## Background\n\nWe run a multi-tenant agent platform on top of agentscope's `app` layer (`create_app`) and adopt the team feature. `AgentInvite` (#1977) is exactly what we needed — borrowing an existin…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "lichengwu"
+  },
+  "at_mobiles": []
+}
