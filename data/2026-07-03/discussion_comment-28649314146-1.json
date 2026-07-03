@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-03T08:45:57.371031Z",
+  "title": "agentscope2.0没有真正支持A2A协议",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1996#discussioncomment-17521176",
+  "number": 1996,
+  "body": "Please refer to https://github.com/agentscope-ai/agentscope/issues/1941",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "qbc2016",
+    "discussion_author": "jinchangrong-jcr"
+  },
+  "at_mobiles": []
+}
