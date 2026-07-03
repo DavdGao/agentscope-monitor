@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-03T04:02:05.882386Z",
+  "title": "feat(agent): support agent interruption with graceful context and tool state handling",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1806#issuecomment-4872474755",
+  "number": 1806,
+  "body": "Hi @iluv7, just checking in on the interruption feature! The design discussion looked solid, and we're excited to see it come to life. This is actually a pretty important feature for us right now.\n\nHo…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
