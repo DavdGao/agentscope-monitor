@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "orangeCatDeveloper",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-03T01:14:25.751512Z",
+  "title": "docs(agent): fix copy-paste and mismatched docstrings in agent, state and tool modules",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1989",
+  "number": 1989,
+  "body": "## Summary\n\nDocumentation-only fixes for several incorrect or copy-pasted docstrings in the `agent`, `state`, and `tool` modules. No behavior change.\n\n**`src/agentscope/agent/_config.py`**\n- `SummaryS…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "orangeCatDeveloper",
+    "head_sha": "2b4083828381a149d004ca9eafa013a4292be1a1",
+    "base_ref": "main",
+    "additions": 13,
+    "deletions": 13,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
