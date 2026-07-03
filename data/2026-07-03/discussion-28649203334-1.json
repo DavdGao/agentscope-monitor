@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "jinchangrong-jcr",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-03T08:43:47.906537Z",
+  "title": "agentscope2.0没有真正支持A2A协议",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1996",
+  "number": 1996,
+  "body": "agentscope2.0包含了runtime的能力，但是针对A2A协议的支持目前还没有真正实现。如下是代码分析结论：\n<img width=\"2908\" height=\"534\" alt=\"image\" src=\"https://github.com/user-attachments/assets/1fd294ae-fba3-41cf-98c3-ab9c86677040\" />",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "jinchangrong-jcr"
+  },
+  "at_mobiles": []
+}
