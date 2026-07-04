@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Miracle778",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-04T11:17:16.398694Z",
+  "title": "feat(permission): observe permission decisions and confirmations in middleware",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2000",
+  "number": 2000,
+  "body": "## Problem\n\n`create_app`'s docstring lists `extra_agent_middlewares` as the extension point for **audit logging** (`src/agentscope/app/_app.py`):\n\n> Called once per agent assembly ... so it can return…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Miracle778"
+  },
+  "at_mobiles": []
+}
