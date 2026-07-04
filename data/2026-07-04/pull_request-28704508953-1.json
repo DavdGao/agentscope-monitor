@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Miracle778",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-04T11:17:55.261883Z",
+  "title": "feat(permission): observe permission decisions and confirmations",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2001",
+  "number": 2001,
+  "body": "## AgentScope Version\n\n2.0.4dev\n\n## Description\n\nCloses #2000 \n\nAdds opt-in, read-only middleware hooks that make every permission decision and user-confirmation outcome observable through `extra_agen…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Miracle778",
+    "head_sha": "0a6ad0466377afb1e317e6657c551df2f3c5d75c",
+    "base_ref": "main",
+    "additions": 3341,
+    "deletions": 77,
+    "changed_files": 28
+  },
+  "at_mobiles": []
+}
