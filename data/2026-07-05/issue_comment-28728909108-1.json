@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "nuthalapativarun",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-05T04:01:45.150393Z",
+  "title": "feat(tts): implement Gemini TTS API",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1879#issuecomment-4884770277",
+  "number": 1879,
+  "body": "Hi team — following up on PR #1879 (Gemini TTS API). The inline comments from qbc2016 were addressed on 2026-06-23. Note: the streaming implementation is judgment-reviewed but hasn't been live-tested …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "nuthalapativarun",
+    "commenter": "nuthalapativarun"
+  },
+  "at_mobiles": []
+}
