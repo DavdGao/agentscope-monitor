@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "nolanchic",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-05T03:57:13.929474Z",
+  "title": "fix(formatter): drop empty text blocks for anthropic",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2007",
+  "number": 2007,
+  "body": "## Summary\n\nThe Anthropic formatter forwarded empty `TextBlock`s verbatim as `{\"type\": \"text\", \"text\": \"\"}`, which Anthropic rejects with a **400** (\"text blocks must be non-empty\"). Empty text blocks…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "nolanchic",
+    "head_sha": "54c16f7c333f6b6e06c1fc557efb037004d37c2f",
+    "base_ref": "main",
+    "additions": 160,
+    "deletions": 9,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
