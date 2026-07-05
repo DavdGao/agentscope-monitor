@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "JDDavenport",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-05T10:01:48.848486Z",
+  "title": "Context Kit — solve AI context amnesia with Personal Context Artifacts",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2009",
+  "number": 2009,
+  "body": "Hi — sharing a tool I built that addresses a gap across most AI tools: **persistent personal context**.\n\n**[Context Kit](https://github.com/JDDavenport/context-kit)** — MIT, one-command install.\n\n## T…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Show and tell",
+    "author": "JDDavenport"
+  },
+  "at_mobiles": []
+}
