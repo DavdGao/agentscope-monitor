@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-05T09:41:42.770012Z",
+  "title": "feat(agent): support agent interruption with graceful context and tool state handling",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1995#issuecomment-4885570171",
+  "number": 1995,
+  "body": "@qbc2016 \nThanks for catching the HITL edge case — I missed that when the agent is parked in ASKING/SUBMITTED, the session lock is already released so task.cancel() can't reach it. The _patch_pending_…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "iluv7",
+    "commenter": "iluv7"
+  },
+  "at_mobiles": []
+}
