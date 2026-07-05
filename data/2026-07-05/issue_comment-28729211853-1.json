@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "xu-suping",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-05T04:15:50.347262Z",
+  "title": "feat(vdb): integrate MongoDB Atlas as an optional vector database backend",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1960#issuecomment-4884800784",
+  "number": 1960,
+  "body": "Hi @DavdGao , I've opened PR #2008 for this issue:\nhttps://github.com/agentscope-ai/agentscope/pull/2008\n\nLocal tests passed:\n- pytest tests/rag_vdb_mongodb_test.py -v — 7 passed\n- pytest tests/rag_vd…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "xu-suping"
+  },
+  "at_mobiles": []
+}
