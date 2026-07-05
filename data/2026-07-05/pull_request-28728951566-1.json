@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "nuthalapativarun",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-05T04:03:23.327537Z",
+  "title": "feat(tts): implement Gemini TTS API",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1879",
+  "number": 1879,
+  "body": "## PR Title Format\nfeat(tts): implement Gemini TTS API\n\n## AgentScope Version\n2.0.1\n\n## Description\nThis PR adds a Gemini TTS implementation to the new TTS module, following the existing `DashScopeTTS…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "nuthalapativarun",
+    "head_sha": "d493a6f6b0a35cafb755cf06fb53b635e08a6ce6",
+    "base_ref": "main",
+    "additions": 618,
+    "deletions": 0,
+    "changed_files": 7
+  },
+  "at_mobiles": []
+}
