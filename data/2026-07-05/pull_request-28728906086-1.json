@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "nuthalapativarun",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-05T04:01:37.044976Z",
+  "title": "feat(tts): implement OpenAI TTS API",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1878",
+  "number": 1878,
+  "body": "## PR Title Format\nfeat(tts): implement OpenAI TTS API\n\n## AgentScope Version\n2.0.1\n\n## Description\nThis adds an OpenAI implementation of the TTS module that landed recently alongside the DashScope ba…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "nuthalapativarun",
+    "head_sha": "8209592d13a13c8bc3142abb1613c7170eafdcdc",
+    "base_ref": "main",
+    "additions": 535,
+    "deletions": 0,
+    "changed_files": 8
+  },
+  "at_mobiles": []
+}
