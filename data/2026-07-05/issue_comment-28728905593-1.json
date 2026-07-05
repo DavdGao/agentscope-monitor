@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "nuthalapativarun",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-05T04:01:31.731054Z",
+  "title": "feat(model): add ollama model cards for qwen3-7b, llama3.2, and phi4-mini",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1753#issuecomment-4884769941",
+  "number": 1753,
+  "body": "Hi team — following up on PR #1753 (ollama model cards). CI green, mergeable. Happy to address any feedback. Thanks!",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "nuthalapativarun",
+    "commenter": "nuthalapativarun"
+  },
+  "at_mobiles": []
+}
