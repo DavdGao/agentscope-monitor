@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Premsenareddy",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-06T03:03:38.717262Z",
+  "title": "fix(permission): require review for mutating find actions",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2011",
+  "number": 2011,
+  "body": "## Summary\n- detect mutating find actions before Bash read-only prefix auto-allow\n- keep normal read-only find searches auto-allowable, including action-like values passed to predicates such as -name\n…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "Premsenareddy",
+    "head_sha": "bbe8057a5404e5e390076e574b5672d0e0befe7a",
+    "base_ref": "main",
+    "additions": 126,
+    "deletions": 0,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
