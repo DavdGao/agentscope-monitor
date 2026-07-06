@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "nolanchic",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-06T04:46:05.005994Z",
+  "title": "fix(formatter): repair truncated tool-call input instead of crashing",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2012",
+  "number": 2012,
+  "body": "## Summary\n\nThe **Anthropic**, **Gemini**, and **Ollama** formatters parsed `ToolCallBlock.input` with `json.loads(block.input or \"{}\")`, which **raised `JSONDecodeError`** when the input was a trunca…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "nolanchic",
+    "head_sha": "996d6371b3a716b9360f9889f8e8932a1a70f708",
+    "base_ref": "main",
+    "additions": 118,
+    "deletions": 8,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
