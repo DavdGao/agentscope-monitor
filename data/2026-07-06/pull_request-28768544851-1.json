@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "nolanchic",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-06T04:49:42.039602Z",
+  "title": "fix(formatter): drop empty thinking blocks for gemini",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2013",
+  "number": 2013,
+  "body": "## Summary\n\nThe Gemini formatter forwarded a `ThinkingBlock` whose thinking text is empty as `{\"thought\": True, \"text\": \"\"}`, which Gemini rejects with a **400** (`contents.parts must not be empty`).\n…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "nolanchic",
+    "head_sha": "45f286356d4e306be7665c799bfee5623d23f5b2",
+    "base_ref": "main",
+    "additions": 38,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
