@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-07T07:59:33.730769Z",
+  "title": "feat(tts): implement OpenAI TTS API",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1679",
+  "number": 1679,
+  "body": "**Background**\n\nThis issue tracks the implementation of OpenAI TTS models in AgentScope 2.0, as part of the overall TTS module migration (blocked by #1678).\n\n**Task Breakdown**\n\n- Check the latest Ope…",
+  "labels": [
+    "Help Wanted"
+  ],
+  "assignees": [
+    "nuthalapativarun"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "qbc2016"
+  },
+  "at_mobiles": []
+}
