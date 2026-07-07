@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Neal006",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-07T10:37:15.963925Z",
+  "title": "test(middleware): fill in on_acting hook test suite",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1760#issuecomment-4902861357",
+  "number": 1760,
+  "body": "@DavdGao , the PR is stale for quite a few days, I have done the updates, that you asked. Can you check my PR and allow all the workflows to run and let me know.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Neal006",
+    "commenter": "Neal006"
+  },
+  "at_mobiles": []
+}
