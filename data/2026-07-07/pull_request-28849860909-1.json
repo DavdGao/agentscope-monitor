@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-07T07:40:13.268644Z",
+  "title": "feat(agent): support agent interruption with graceful context and tool state handling",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1995",
+  "number": 1995,
+  "body": "## AgentScope Version\n2.0.4dev\n\n## Description\n\n### Related Issue\n\nCloses #1806\nRelated design discussion: https://github.com/agentscope-ai/agentscope/issues/1806#issuecomment-4840709638\n\n### Backgrou…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "iluv7",
+    "head_sha": "a5f5fed470825c1f44b2594341a9918f2820aa81",
+    "base_ref": "main",
+    "additions": 4059,
+    "deletions": 1089,
+    "changed_files": 55
+  },
+  "at_mobiles": []
+}
