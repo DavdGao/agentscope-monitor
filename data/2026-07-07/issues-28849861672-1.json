@@ -1,0 +1,26 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-07T07:40:16.165865Z",
+  "title": "feat(agent): support agent interruption with graceful context and tool state handling",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1806",
+  "number": 1806,
+  "body": "**Background**\n\nCurrently, there is no way to interrupt a running agent mid-execution. A proper interruption mechanism is needed that not only stops the agent but also gracefully handles the conversat…",
+  "labels": [],
+  "assignees": [
+    "qbc2016",
+    "iluv7"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
