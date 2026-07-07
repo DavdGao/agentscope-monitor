@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-07T09:11:58.286859Z",
+  "title": "fix(model): fix structured output hang on streaming models",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2018",
+  "number": 2018,
+  "body": "## AgentScope Version\n\n2.0.4dev\n\n## Description\n\n`_call_api_with_structured_output` calls `_call_api` directly, bypassing `__call__`'s wrapper that appends the final `is_last=True` chunk. Since all st…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "d79858f2b9927628a914442e3d1e0cb04b70a005",
+    "base_ref": "main",
+    "additions": 18,
+    "deletions": 1,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
