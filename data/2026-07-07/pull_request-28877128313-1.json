@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "MatthiasHowellYopp",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-07T15:13:15.771911Z",
+  "title": "feat(rag): add Valkey vector store for RAG pipeline",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2021",
+  "number": 2021,
+  "body": "## AgentScope Version\n\n2.0\n\n## Description\n\n**Background:** AgentScope's existing vector store backends (QdrantStore, MilvusLiteStore) serve different deployment scenarios. However, there is no vector…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "MatthiasHowellYopp",
+    "head_sha": "5eb7f7f62fa9e3555ab6d2dcd39cc02809f4af33",
+    "base_ref": "main",
+    "additions": 1750,
+    "deletions": 0,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
