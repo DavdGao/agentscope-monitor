@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-07T10:42:36.947015Z",
+  "title": "[Feature]:  添加 typescript 的文档",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1718#issuecomment-4902904300",
+  "number": 1718,
+  "body": "Thanks for your interest! The TypeScript documentation is currently available at https://github.com/agentscope-ai/agentscope-typescript/tree/main/docs. We will set up a proper docs site as soon as pos…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "meet-student",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
