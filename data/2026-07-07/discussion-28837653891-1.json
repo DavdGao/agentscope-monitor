@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-07T02:41:03.258904Z",
+  "title": "[Dicsussion] Loop Enginnering In AgentScope",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2015",
+  "number": 2015,
+  "body": "**Background**\n\nWe have been integrating various loop engineering capabilities into AgentScope. However, the current implementations are relatively scattered, including:\n\n- A budget-aware middleware t…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
