@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "taohongxiu",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-07T14:41:07.050666Z",
+  "title": "feat(vdb): integrate MongoDB Atlas as an optional vector database backend",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1960#issuecomment-4905030518",
+  "number": 1960,
+  "body": "Please add Elasticsearch vector store backend",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "taohongxiu"
+  },
+  "at_mobiles": []
+}
