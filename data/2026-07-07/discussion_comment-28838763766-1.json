@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Mrart",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-07T03:11:44.092457Z",
+  "title": "[Dicsussion] Loop Enginnering In AgentScope",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2015#discussioncomment-17554964",
+  "number": 2015,
+  "body": "I think we also need to add these two features：\n1. We should also implement stagnation detection (or progress monitoring). This mechanism will identify when an Agent thread becomes unresponsive or sta…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "Mrart",
+    "discussion_author": "DavdGao"
+  },
+  "at_mobiles": []
+}
