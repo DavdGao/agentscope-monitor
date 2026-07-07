@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-07T09:53:43.768058Z",
+  "title": "[Bug]: middleware中获取整个chat最终的数据不全",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2014#issuecomment-4902478852",
+  "number": 2014,
+  "body": "@halo-space The `Msg` yielded by `reply` / `reply_stream` only contains the **final plain-text response** (the last reasoning turn with no tool calls), and does **not** include intermediate steps such…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "halo-space",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
