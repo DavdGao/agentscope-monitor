@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-07T08:17:00.145051Z",
+  "title": "feat(permission): observe permission decisions and confirmations in middleware",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2000#issuecomment-4901618061",
+  "number": 2000,
+  "body": "Hi @Miracle778, thanks for the detailed write-up!\n\nA few thoughts on the proposal:\n\n1. **Regarding `evaluate_permission`**: I'm not entirely sure I follow the intent of this interface. Could you clari…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Miracle778",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
