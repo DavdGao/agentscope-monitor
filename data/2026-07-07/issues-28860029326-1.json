@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-07T10:39:54.691077Z",
+  "title": "About offload",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1773",
+  "number": 1773,
+  "body": "The documentation mentions that offloading can be implemented by users themselves: “persisting content that has already been removed from the context to external storage for later retrieval by the age…",
+  "labels": [
+    "Question"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "liyunhan"
+  },
+  "at_mobiles": []
+}
