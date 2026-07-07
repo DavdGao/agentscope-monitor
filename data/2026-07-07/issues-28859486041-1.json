@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-07T10:29:50.629590Z",
+  "title": "[Feature]: agentscope2.0 依赖ripgrep这个组件，引入rust报错",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1759",
+  "number": 1759,
+  "body": "请教一下怎么处理，有没有办法可以不引入rust\n```\n[2026-06-02T14:56:39.278+08]   Downloading https://artnj.xxx.com/artifactory/api/pypi/public-pypi-virtual/packages/packages/1e/18/0740869cfcee3b9671d601aec90541cc68e342794c…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "ConcaSun"
+  },
+  "at_mobiles": []
+}
