@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-07T07:57:27.668098Z",
+  "title": "fix(gemini): sanitize const schema field for gemini tool parameters",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2016",
+  "number": 2016,
+  "body": "## AgentScope Version\n\n2.0.4dev\n\n## Description\n\nFixed a `pydantic.ValidationError` raised when constructing `GenerateContentConfig` for tools whose JSON Schema parameters contain a const field, which…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "cd0a12eee4ed4055555fe265ccd575bba59aa10e",
+    "base_ref": "main",
+    "additions": 37,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
