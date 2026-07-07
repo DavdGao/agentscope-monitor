@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-07T10:42:34.370554Z",
+  "title": "[Feature]:  添加 typescript 的文档",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1718",
+  "number": 1718,
+  "body": "**<u>AgentScope is an open-source project. To involve a broader community, we recommend asking your questions in English.</u>**\n\n\n**Is your feature request related to a problem? Please describe.**\nAdd…",
+  "labels": [
+    "Question"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "meet-student"
+  },
+  "at_mobiles": []
+}
