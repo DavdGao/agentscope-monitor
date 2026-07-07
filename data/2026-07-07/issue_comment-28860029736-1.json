@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-07T10:39:50.251462Z",
+  "title": "About offload",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1773#issuecomment-4902882027",
+  "number": 1773,
+  "body": "@liyunhan The current toolkit is mainly designed for service scenarios, where each request is handled by assembling a new agent and toolkit. Therefore, dynamic tool addition is not supported in the cu…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "liyunhan",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
