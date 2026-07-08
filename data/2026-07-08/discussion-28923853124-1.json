@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Rise1024",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-08T06:58:38.338649Z",
+  "title": "feat(dashscope): support session-level web search for DashScope chat models",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2024",
+  "number": 2024,
+  "body": "```markdown\n## Background\n\nDashScope / Alibaba Cloud Model Studio supports web search for some Qwen chat models. In the OpenAI-compatible Chat Completions API, it can be enabled by passing `enable_sea…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "Rise1024"
+  },
+  "at_mobiles": []
+}
