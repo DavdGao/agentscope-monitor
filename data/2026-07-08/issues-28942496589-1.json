@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-08T12:27:22.269712Z",
+  "title": "feat(workspace): support K8s based workspace in agentscope 2.0",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1842",
+  "number": 1842,
+  "body": "**Background**\n\nAgentScope currently supports three workspace backends: local filesystem, Docker, and E2B. \n\nHowever, only E2B provides cloud-based sandbox execution, and E2B does not support self-hos…",
+  "labels": [],
+  "assignees": [
+    "XiuShenAl"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
