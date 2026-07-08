@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-08T02:58:01.049893Z",
+  "title": "docs(tts): add TTS related documentation in docs.agentscope.io",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1683",
+  "number": 1683,
+  "body": "**Background**\n\nThis issue tracks the documentation work for the TTS module in AgentScope 2.0 on [docs.agentscope.io](https://docs.agentscope.io/), including the overall design (non-realtime vs realti…",
+  "labels": [],
+  "assignees": [
+    "qbc2016"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "qbc2016"
+  },
+  "at_mobiles": []
+}
