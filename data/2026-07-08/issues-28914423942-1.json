@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-08T03:04:37.832817Z",
+  "title": "feat(multi-agent): introduce multi-agent collaboration primitives",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1420",
+  "number": 1420,
+  "body": "**Background**\nAs tasks grow more complex and require parallelism or specialization, better mechanisms for spawning and coordinating agents are needed.\n\n**Scope**\nThis issue tracks all multi-agent col…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
