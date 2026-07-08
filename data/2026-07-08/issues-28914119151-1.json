@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-08T02:56:37.429192Z",
+  "title": "feat(rag): migrate the previous RAG and long-term memory implementation within a unified abstraction",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1663",
+  "number": 1663,
+  "body": "## Background\n\nIn version 1.0, we introduced RAG and long-term memory modules, both of which have received significant contributions from the developer community. In the upcoming version, we are revis…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
