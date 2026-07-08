@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Alwin4Zhang",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-08T03:28:17.786344Z",
+  "title": "feat: add ScaffoldController middleware for configurable ReAct scaffolding",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2022",
+  "number": 2022,
+  "body": "```markdown\n## Motivation\n\nThis provides a path to optimize the fixed ReActAgent pattern with task-specific scaffold policies, while preserving AgentScope's existing abstractions and keeping scaffold …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Alwin4Zhang",
+    "head_sha": "90a3de50cabca3f067e5f996a88458e47f3c337b",
+    "base_ref": "main",
+    "additions": 904,
+    "deletions": 3,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
