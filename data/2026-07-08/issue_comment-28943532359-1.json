@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-08T12:44:29.424443Z",
+  "title": "feat(workspace): add daytona workspace backend",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1943#issuecomment-4914896611",
+  "number": 1943,
+  "body": "@BreezyB1n Thanks for your contribution! We've just merged the K8s backend PR, which introduced some changes that may affect both this PR and #1953 (OpenSandbox). Since all these PRs touch the workspa…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "BreezyB1n",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
