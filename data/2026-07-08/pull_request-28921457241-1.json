@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-08T06:11:19.723049Z",
+  "title": "fix(agent): recover runtime exceptions raised by tool transports (#1985)",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2023",
+  "number": 2023,
+  "body": "## Summary\n\nWhen `toolkit.call_tool` raises a non-`DeveloperOrientedException`\n(e.g. an `httpx.HTTPStatusError` from an MCP HTTP transport that\nbypasses the `MCPError` path), the exception currently p…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "RerankerGuo",
+    "head_sha": "851351a5f78dcc3711d9fcc1e7fecbecf8d8b4cd",
+    "base_ref": "main",
+    "additions": 344,
+    "deletions": 81,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
