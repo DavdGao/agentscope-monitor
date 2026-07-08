@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-08T12:24:21.724402Z",
+  "title": "fix(gemini): fix gemini schema containing null",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2020",
+  "number": 2020,
+  "body": "## AgentScope Version\n\n2.0.4\n\n## Description\n\nAs the title says.\n\n## Checklist\n\nPlease check the following items before code is ready to be reviewed.\n\n- [ ]  An issue has been created for this PR\n- [ …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "a0d46ccc04aa842372b51eb15c9747c8611b9116",
+    "base_ref": "main",
+    "additions": 11,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
