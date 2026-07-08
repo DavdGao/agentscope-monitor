@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-08T08:38:24.387836Z",
+  "title": "test(tools): cover negative grep pagination",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1991#issuecomment-4912940178",
+  "number": 1991,
+  "body": "Friendly ping — this regression test for #1936 has CI fully green on PR Title Check, Pre-commit, and Python Unittest Coverage (all \"success\" as of 2026-07-07). The linked bug #1936 was already closed …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "RerankerGuo",
+    "commenter": "RerankerGuo"
+  },
+  "at_mobiles": []
+}
