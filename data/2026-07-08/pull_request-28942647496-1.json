@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-08T12:29:58.672712Z",
+  "title": "feat(rag): add MongoDB vector store backend Closes ",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2008",
+  "number": 2008,
+  "body": "## Summary\n- Add `MongoDBStore` as optional vector backend (`pymongo.AsyncMongoClient` + `$vectorSearch`)\n- Add optional dependency: `pip install agentscope[mongodb]` (`pymongo>=4.7`)\n- Add unit tests…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "xu-suping",
+    "head_sha": "d07dca2be150fcc70d225113a269b48295331d43",
+    "base_ref": "main",
+    "additions": 1211,
+    "deletions": 6,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
