@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "xu-suping",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-08T10:59:33.665209Z",
+  "title": "feat(rag): add MongoDB vector store backend Closes ",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2008#issuecomment-4914090628",
+  "number": 2008,
+  "body": "Hi @DavdGao , addressed in `d07dca2` — `pre-commit run --all-files` passes and CI is green. Could you please approve? Thanks!",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "xu-suping",
+    "commenter": "xu-suping"
+  },
+  "at_mobiles": []
+}
