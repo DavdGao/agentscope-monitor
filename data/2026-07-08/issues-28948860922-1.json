@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-08T14:05:39.757267Z",
+  "title": "feat(channel): support app channels in agent service",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2027",
+  "number": 2027,
+  "body": "**Background**\n\nAs discussed in #1834, while we don't want to get bogged down in the implementation details of individual channels, a multi-tenant service like agent service still requires well-define…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
