@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-08T13:42:14.184958Z",
+  "title": "[Feature]:agentscope封装的OpenAIChatModel.__call__方法中，漏掉了一些openai sdk会返回的参数",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1386",
+  "number": 1386,
+  "body": "```bash\n(learnclaudecode) ➜  learn-claude-code git:(main) ✗ pip list\nPackage                                  Version\n---------------------------------------- ---------\nagentscope                     …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "zzhoo8"
+  },
+  "at_mobiles": []
+}
