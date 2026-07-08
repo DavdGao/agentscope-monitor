@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-08T08:40:36.187146Z",
+  "title": "fix(agent): recover runtime exceptions raised by tool transports (#1985)",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2023#issuecomment-4912957442",
+  "number": 2023,
+  "body": "Friendly ping — focused fix for #1985. After my earlier #1988 was closed (@DavdGao asked for root-cause investigation), @Marlin-Phone pushed back on the toolkit-handles-it reading and pointed at the u…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "RerankerGuo",
+    "commenter": "RerankerGuo"
+  },
+  "at_mobiles": []
+}
