@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "review_requested",
+  "action_cn": "请求审核",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-08T13:47:13.748531Z",
+  "title": "feat(rag): add word parser",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2025",
+  "number": 2025,
+  "body": "## AgentScope Version\n\n2.0.4\n\n## Description\n\nAs the title says.\n\n## Checklist\n\nPlease check the following items before code is ready to be reviewed.\n\n- [ ]  An issue has been created for this PR\n- [ …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [
+    "Copilot"
+  ],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "2b9f3ffd84a34c3a460e46ec04d94f968212f97f",
+    "base_ref": "main",
+    "additions": 588,
+    "deletions": 1,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
