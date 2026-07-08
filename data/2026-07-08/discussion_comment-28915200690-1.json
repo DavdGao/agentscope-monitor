@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-08T03:25:26.601861Z",
+  "title": "怎么在前端界面可以直接调用本地skill，需要对skill做什么处理工作？",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2017#discussioncomment-17567236",
+  "number": 2017,
+  "body": "@cjq18408110122 Currently, agentscope already supports multi-tenant isolation via the `WorksapceManager` abstraction, plz refer to https://docs.agentscope.io/versions/2.0.3/en/deploy/agent-service#wor…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "cjq18408110122"
+  },
+  "at_mobiles": []
+}
