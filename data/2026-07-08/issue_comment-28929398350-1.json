@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-08T08:39:57.550878Z",
+  "title": "feat(service): allow disabling embedded scheduler",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1993#issuecomment-4912952265",
+  "number": 1993,
+  "body": "Friendly ping — adds `enable_scheduler=False` config on the lifespan so API-only workers don't double-spawn scheduled jobs in multi-process deployments (issue #1722). Aligns with @YingchaoX's 2026-06-…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "RerankerGuo",
+    "commenter": "RerankerGuo"
+  },
+  "at_mobiles": []
+}
