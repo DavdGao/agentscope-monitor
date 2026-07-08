@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "cjq18408110122",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-08T03:31:17.936824Z",
+  "title": "怎么在前端界面可以直接调用本地skill，需要对skill做什么处理工作？",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2017#discussioncomment-17567271",
+  "number": 2017,
+  "body": "谢谢啦",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "cjq18408110122",
+    "discussion_author": "cjq18408110122"
+  },
+  "at_mobiles": []
+}
