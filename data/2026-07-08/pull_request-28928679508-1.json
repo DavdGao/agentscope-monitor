@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-08T08:27:29.821764Z",
+  "title": "test(tools): cover negative grep pagination",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1991",
+  "number": 1991,
+  "body": "## Summary\\n- add regression coverage for negative Grep `head_limit`\\n- add regression coverage for negative Grep `offset`\\n\\n## Tests\\n- `/tmp/agentscope-issue1936/.venv/bin/python -m pytest tests/bu…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "RerankerGuo",
+    "head_sha": "3d9a8ac2a0c9ce50432a825e651149100cb52d0c",
+    "base_ref": "main",
+    "additions": 28,
+    "deletions": 0,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
