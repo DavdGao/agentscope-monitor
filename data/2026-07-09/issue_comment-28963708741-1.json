@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-08T17:47:32.797257Z",
+  "title": "feat(workspace): share workspace across different agents",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1951#issuecomment-4917611222",
+  "number": 1951,
+  "body": "Hi @DavdGao , merge conflicts resolved. Pre-commit + Local + Docker + E2E API tests all pass.\n\nThe 18 Docker test failures are all the same error: `no matching manifest for windows(10.0.26100)/amd64`.…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "iluv7",
+    "commenter": "iluv7"
+  },
+  "at_mobiles": []
+}
