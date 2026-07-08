@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-08T12:30:01.715517Z",
+  "title": "feat(vdb): integrate MongoDB Atlas as an optional vector database backend",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1960",
+  "number": 1960,
+  "body": "**Background**\n\n- Since v2.0.3, AgentScope introduced a new RAG SDK and RAG Service with a unified vector database interface.\n- Many users already rely on MongoDB as their primary data store, making i…",
+  "labels": [
+    "Help Wanted"
+  ],
+  "assignees": [
+    "xu-suping"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
