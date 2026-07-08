@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-08T05:47:59.168211Z",
+  "title": "fix(model): preserve OpenAI chat choice metadata",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1992",
+  "number": 1992,
+  "body": "## Summary\\n- preserve OpenAI Chat `finish_reason` in `ChatResponse.metadata`\\n- include JSON-safe `function_call` and `tool_calls` metadata for non-stream responses\\n- include final stream `finish_re…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "RerankerGuo",
+    "head_sha": "6f0a91cc5b2edfe413e16a88d0afd729d8f9f463",
+    "base_ref": "main",
+    "additions": 133,
+    "deletions": 6,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
