@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "SnowFlowers",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-09T03:11:19.025786Z",
+  "title": "Can this framework be used without Redis? Are there any alternative solutions?",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2028",
+  "number": 2028,
+  "body": "I'm developing a desktop Agent without online Redis. Can I use this framework, or do I need to implement an in-memory storage myself?",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "General",
+    "author": "SnowFlowers"
+  },
+  "at_mobiles": []
+}
