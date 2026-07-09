@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-09T05:56:57.293256Z",
+  "title": "fix(formatter): include tool_name in ollama tool result messages",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2006",
+  "number": 2006,
+  "body": "## Summary\n\nThe Ollama chat formatter emitted tool-result messages as `{\"role\": \"tool\", \"content\": ...}`, **omitting the `tool_name` field** that Ollama's tool-calling API requires to correlate a resu…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "nolanchic",
+    "head_sha": "5a5dded368bb1fb1c910b70a976604436b58d337",
+    "base_ref": "main",
+    "additions": 53,
+    "deletions": 5,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
