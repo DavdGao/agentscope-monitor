@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "nolanchic",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-09T03:53:16.544400Z",
+  "title": "fix(formatter): include tool_name in ollama tool result messages",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2006#issuecomment-4921408970",
+  "number": 2006,
+  "body": "Rebased onto the latest `main` and resolved the conflict in `tests/formatter_ollama_test.py` (kept both the `tool_name` regression test from this PR and the incomplete-input test from #2012). CI/pre-c…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "nolanchic",
+    "commenter": "nolanchic"
+  },
+  "at_mobiles": []
+}
