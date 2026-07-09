@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Rise1024",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-09T03:00:01.892865Z",
+  "title": "feat(dashscope): support session-level web search for DashScope chat models",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2024#discussioncomment-17579644",
+  "number": 2024,
+  "body": "Thanks, that makes sense.\n\nI agree that if web search is currently only supported by the DashScope API, putting a provider-specific `web_search` field directly on `SessionConfig` may be too broad.\n\nA …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "Rise1024",
+    "discussion_author": "Rise1024"
+  },
+  "at_mobiles": []
+}
