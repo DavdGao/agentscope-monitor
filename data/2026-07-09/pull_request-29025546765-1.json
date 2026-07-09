@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-09T14:29:06.311000Z",
+  "title": "fix(agent): tolerate missing compression summary fields",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2032",
+  "number": 2032,
+  "body": "## Summary\n- avoid crashing context compression when a structured summary omits a field referenced by the summary template\n- render missing summary fields as empty strings and log a warning\n- add a re…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "RerankerGuo",
+    "head_sha": "5053b3d9936ad7b2270bd30b687c23416476b249",
+    "base_ref": "main",
+    "additions": 81,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
