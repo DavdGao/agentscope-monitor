@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Neelpatel1604",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-09T17:47:08.651783Z",
+  "title": "feat(middleware): add Memanto long-term memory middleware",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2033",
+  "number": 2033,
+  "body": "## Summary\n\nAdd a Memanto-backed long-term memory middleware so AgentScope agents can persist and recall semantic memory across sessions via [Memanto](https://docs.memanto.ai/getting-started/introduct…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "Neelpatel1604"
+  },
+  "at_mobiles": []
+}
