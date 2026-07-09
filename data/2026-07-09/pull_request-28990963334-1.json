@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-09T03:01:25.848101Z",
+  "title": "feat(rag): add excel parser",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2026",
+  "number": 2026,
+  "body": "## AgentScope Version\n\n2.0.4\n\n## Description\n\nAs the title says.\n\n## Checklist\n\nPlease check the following items before code is ready to be reviewed.\n\n- [ ]  An issue has been created for this PR\n- [ …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "7ffd62b69f3fb7ef9c0673677b4e3fdf1ac654e4",
+    "base_ref": "main",
+    "additions": 748,
+    "deletions": 1,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
