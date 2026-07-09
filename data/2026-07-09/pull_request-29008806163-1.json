@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-09T09:37:13.084614Z",
+  "title": "feat(event): add status event",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2030",
+  "number": 2030,
+  "body": "## Summary\n- add a general-purpose StatusEvent to the agent event union\n- export StatusEvent from agentscope.event and make message replay ignore it as a non-content event\n- map StatusEvent to an AGUI…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "RerankerGuo",
+    "head_sha": "f759d59808caf4af9b1ff9b48e07876c9c33923b",
+    "base_ref": "main",
+    "additions": 73,
+    "deletions": 0,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
