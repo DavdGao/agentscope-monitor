@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Mrart",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-10T05:12:23.297461Z",
+  "title": "Intreduce Paimon as storage for RAG",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2037",
+  "number": 2037,
+  "body": "Paimon is a widely-used data lake technology that currently supports multimodal storage and vector retrieval. We are experimenting with using Paimon as a multimodal storage backend for RAG, and plan t…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "Mrart"
+  },
+  "at_mobiles": []
+}
