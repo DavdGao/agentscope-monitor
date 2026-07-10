@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-10T04:25:16.899870Z",
+  "title": "feat(service): support to share resource (credential, agent, knowledge bases) across different users as a group or org",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1998",
+  "number": 1998,
+  "body": "## PR Title Format\n\nPlease ensure your PR title follows the Conventional Commits format:\n- Format: `<type>(<scope>): <description>`\n- Example: `feat(memory): add redis cache support`\n- Allowed types: …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "6f4ce4b522e11a86f21be8d7e42167fe2c331d00",
+    "base_ref": "main",
+    "additions": 1857,
+    "deletions": 432,
+    "changed_files": 42
+  },
+  "at_mobiles": []
+}
