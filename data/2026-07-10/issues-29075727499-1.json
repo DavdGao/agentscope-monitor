@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-10T07:07:34.328789Z",
+  "title": "feat(service): support artifact display within agent service",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2039",
+  "number": 2039,
+  "body": "**Background**\n\nAs agent service increasingly supports code execution and file generation within sandboxed workspaces, there is a growing need to surface these artifacts directly in the UI. We have al…",
+  "labels": [
+    "Help Wanted"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
