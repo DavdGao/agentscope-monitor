@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "paayton",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-10T07:17:03.588209Z",
+  "title": "[Bug]: Wake-up / scheduled runs execute N times across instances (1 real reply + N empty \"your message was empty\" replies)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1868#issuecomment-4932934434",
+  "number": 1868,
+  "body": "Thanks for the detailed writeup — we hit this on `agentscope 2.0.4` in a 2-replica deployment and can confirm both defects. Wanted to add\n  one data point that may be worth calling out: **on the `resu…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "lichengwu",
+    "commenter": "paayton"
+  },
+  "at_mobiles": []
+}
