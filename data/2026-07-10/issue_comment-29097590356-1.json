@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Trefoi1",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-10T13:51:14.367191Z",
+  "title": "feat(service): support forking a session for the same agent",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2041#issuecomment-4936027952",
+  "number": 2041,
+  "body": "Thanks for the clarification! I understand that the fork logic also needs to handle teams.\n\nI’ll update the implementation so that the forked session creates a new team:\n- For created/owned members, i…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "Trefoi1"
+  },
+  "at_mobiles": []
+}
