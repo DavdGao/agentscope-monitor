@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-10T07:39:21.206772Z",
+  "title": "feat(service): share credential/agent among different users",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1844",
+  "number": 1844,
+  "body": "**Background**\n\nIn organizational settings, sharing and assigning API keys across members is a common requirement. However, supporting this natively would require building org-level storage abstractio…",
+  "labels": [],
+  "assignees": [
+    "DavdGao"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
