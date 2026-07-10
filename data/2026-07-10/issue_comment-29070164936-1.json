@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Trefoi1",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-10T04:55:50.346653Z",
+  "title": "feat(workspace): support Bubblewrap as a workspace backend for Linux desktop deployment",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2036#issuecomment-4932123801",
+  "number": 2036,
+  "body": "@DavdGao  I'm interested in this issue, can it be assigned to me?",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "Trefoi1"
+  },
+  "at_mobiles": []
+}
