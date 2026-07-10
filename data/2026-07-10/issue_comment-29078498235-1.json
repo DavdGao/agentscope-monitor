@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "zarelloshake",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-10T08:02:34.699054Z",
+  "title": "feat(webui): support caching user input during generation in the frontend",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2040#issuecomment-4933275266",
+  "number": 2040,
+  "body": "@DavdGao Hello! I'm interested in this issue, can it be assigned to me?",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "zarelloshake"
+  },
+  "at_mobiles": []
+}
