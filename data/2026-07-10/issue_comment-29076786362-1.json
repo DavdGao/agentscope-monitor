@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-10T07:28:40.229724Z",
+  "title": "feat(service): support artifact display within agent service",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2039#issuecomment-4933026814",
+  "number": 2039,
+  "body": "I would like to work on this. Plan: add authenticated artifacts endpoints that resolve the persisted session workspace and keep paths inside its root; expose directory entries and raw file contents wi…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "RerankerGuo"
+  },
+  "at_mobiles": []
+}
