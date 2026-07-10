@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-10T07:39:22.420846Z",
+  "title": "feat(agent-service): need global scope credentials and agents",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1756",
+  "number": 1756,
+  "body": "need agentscope2.0  support global scope credentials and agents like agentscope1.0, now credentials and agents are user scoped.",
+  "labels": [],
+  "assignees": [
+    "DavdGao"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "Alicloud-ComputeNest"
+  },
+  "at_mobiles": []
+}
