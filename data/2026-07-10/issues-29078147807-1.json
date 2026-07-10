@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-10T07:55:43.290465Z",
+  "title": "feat(service): support sharing agent with MCPs and skills",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2042",
+  "number": 2042,
+  "body": "**Background**\n\nAs a follow-up to #1844, while we already support sharing credentials, agents, and knowledge bases, the current agent sharing mechanism is incomplete. \n\nAt the moment, only the basic a…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
