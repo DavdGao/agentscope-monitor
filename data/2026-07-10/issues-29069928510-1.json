@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-10T04:49:38.238208Z",
+  "title": "feat(workspace): add OpenSandbox as a workspace backend",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1915",
+  "number": 1915,
+  "body": "**Background**\n\nAgentScope currently supports three workspace backends: local filesystem, Docker, and E2B. While these cover common use cases, there is growing demand for more flexible and open-source…",
+  "labels": [
+    "Help Wanted"
+  ],
+  "assignees": [
+    "lumman0"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
