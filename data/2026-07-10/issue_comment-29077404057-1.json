@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-10T07:41:10.487470Z",
+  "title": "[Bug]: OpenAI Responses adapter — streaming and non-streaming parse paths disagree on reasoning-block presence and order",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2034#issuecomment-4933116443",
+  "number": 2034,
+  "body": "@qbc2016 Plz check this issue",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "AmirF194",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
