@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-10T07:25:43.647004Z",
+  "title": "feat(webui): support caching user input during generation in the frontend",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2040",
+  "number": 2040,
+  "body": "**Background**\n\nCurrently, the input button behaves as follows:\n- When the agent is idle, the button shows an arrow (submit) icon\n- When the agent is actively replying, the button shows a stop icon\n\nH…",
+  "labels": [
+    "Help Wanted"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
