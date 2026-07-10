@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-10T06:39:29.586799Z",
+  "title": "feat(vdb): support RAGflow as an optional vector database backend",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2038",
+  "number": 2038,
+  "body": "**Background**\n\nAgentScope currently supports several vector database backends for RAG-based applications. However, RAGFlow — a powerful open-source RAG engine with advanced document parsing and retri…",
+  "labels": [
+    "Help Wanted"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
