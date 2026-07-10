@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "EricDJL",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-10T08:56:38.104934Z",
+  "title": "什么时候出agentscope2.0版本的开发skill，直接让编程工具直接使用？",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2043",
+  "number": 2043,
+  "body": "目前让各类AI模型或者IDE开发agentscope程序简直是痛苦",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "EricDJL"
+  },
+  "at_mobiles": []
+}
