@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "zarelloshake",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-10T08:15:13.128490Z",
+  "title": "feat(vdb): support RAGflow as an optional vector database backend",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2038#issuecomment-4933372054",
+  "number": 2038,
+  "body": "@DavdGao Hello! I'm interested in this issue, can it be assigned to me?",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "zarelloshake"
+  },
+  "at_mobiles": []
+}
