@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-10T07:30:26.792561Z",
+  "title": "feat(service): support forking a session for the same agent",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2041",
+  "number": 2041,
+  "body": "**Background**\n\nIn multi-session agent services, users may want to branch off an existing conversation — for example, to explore an alternative direction without losing the original session context. S…",
+  "labels": [
+    "Help Wanted"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
