@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-10T08:01:20.101170Z",
+  "title": "fix(model): fallback to auto tool_choice in OpenAI-compatible structured output when thinking mode rejects forced tool_choice",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1830#issuecomment-4933266361",
+  "number": 1830,
+  "body": "> 我好像还是会遇到这个错误...\n> \n> `RuntimeError: Failed to generate structured output for model. 2026-07-10 15:04:33,778 | ERROR | bcs_ai.runtime.manager.run_registry:_cleanup:53 - Chat run failed for session 4b…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "qbc2016",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
