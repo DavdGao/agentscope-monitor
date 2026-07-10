@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-10T09:31:09.860360Z",
+  "title": "Introduce Paimon as storage for RAG",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2037#discussioncomment-17594762",
+  "number": 2037,
+  "body": "@Mrart Looks good! Please create an issue and self-assign it — the implementation should add the corresponding vector store subclass under the RAG module.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "Mrart"
+  },
+  "at_mobiles": []
+}
