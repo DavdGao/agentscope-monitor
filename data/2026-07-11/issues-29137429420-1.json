@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ferhimedamine",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-11T03:05:34.548776Z",
+  "title": "feat(dakera): integrate Dakera self-hosted decay-weighted long-term memory as an agent middleware",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2049",
+  "number": 2049,
+  "body": "### Background\n\nThe `_longterm_memory` middleware module already ships three long-term memory backends — `AgenticMemoryMiddleware`, `Mem0Middleware`, and `ReMeMiddleware` (added via #1747, on the unif…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "ferhimedamine"
+  },
+  "at_mobiles": []
+}
