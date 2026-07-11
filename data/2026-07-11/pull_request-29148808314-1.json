@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "zarelloshake",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-11T10:06:19.861606Z",
+  "title": "feat(webui): support caching user input during generation in the frontend",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2050",
+  "number": 2050,
+  "body": "## AgentScope Version\n\n`2.0.4.dev0`\n\n## Description\n\n### Related Issue\n\nRefs [#2040](https://github.com/agentscope-ai/agentscope/issues/2040)\n\n### Background\n\nCurrently, the chat input button shows a …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "zarelloshake",
+    "head_sha": "51238ae209d79232afd717844052514a77204bff",
+    "base_ref": "main",
+    "additions": 177,
+    "deletions": 10,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
