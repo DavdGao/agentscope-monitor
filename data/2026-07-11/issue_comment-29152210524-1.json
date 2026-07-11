@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "BreezyB1n",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-11T12:11:34.999841Z",
+  "title": "feat(workspace): add daytona workspace backend",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1943#issuecomment-4945628694",
+  "number": 1943,
+  "body": "@DavdGao I have completed it according to the requirements, please review it. You have worked hard during this time.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "BreezyB1n",
+    "commenter": "BreezyB1n"
+  },
+  "at_mobiles": []
+}
