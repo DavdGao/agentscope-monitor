@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "dailingtao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-12T08:49:31.226262Z",
+  "title": "fix(workspace): restore default glob helper path",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2056",
+  "number": 2056,
+  "body": "## AgentScope Version\n\n`2.0.4.dev0` (current `main`)\n\n## Description\n\nFixes #2055.\n\n### Background\n\n`WorkspaceBase.list_tools()` uses `_glob_helper_path` when constructing the builtin `Glob` tool. Com…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "dailingtao",
+    "head_sha": "91519c6f84e60ad91cba0faae0e435df09061170",
+    "base_ref": "main",
+    "additions": 43,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
