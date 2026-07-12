@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "dailingtao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-12T08:42:56.353303Z",
+  "title": "[Bug]: LocalWorkspace.list_tools raises AttributeError on current main",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2055",
+  "number": 2055,
+  "body": "## Description\n\n`LocalWorkspace.list_tools()` raises the following exception on the current `main` branch:\n\n```text\nAttributeError: 'LocalWorkspace' object has no attribute '_glob_helper_path'\n```\n\nTh…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "dailingtao"
+  },
+  "at_mobiles": []
+}
