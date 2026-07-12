@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "Premsenareddy",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-12T14:03:14.756299Z",
+  "title": "feat(webui): display context usage",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1871",
+  "number": 1871,
+  "body": "## Summary\n- persist per-session context usage in AgentState, including current tokens, compression threshold, model window, and trigger ratio\n- refresh context usage during compression/model reasonin…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Premsenareddy",
+    "head_sha": "cb3368cdc4ca982bd3ed406006ee76f61623c5c9",
+    "base_ref": "main",
+    "additions": 259,
+    "deletions": 11,
+    "changed_files": 11
+  },
+  "at_mobiles": []
+}
