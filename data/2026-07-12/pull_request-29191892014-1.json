@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Trefoi1",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-12T12:02:07.428806Z",
+  "title": "feat(app): support forking sessions",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2057",
+  "number": 2057,
+  "body": "## AgentScope Version\n\n`2.0.4.dev0`\n\n## Related Issue\n\nFixes #2041\n\n## Background\n\nAgentScope did not previously provide an end-to-end way to fork an existing session.\n\nThis PR adds session forking ac…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Trefoi1",
+    "head_sha": "aa63f070f21b60ece3883f33398b5014043733a7",
+    "base_ref": "main",
+    "additions": 4127,
+    "deletions": 13,
+    "changed_files": 23
+  },
+  "at_mobiles": []
+}
