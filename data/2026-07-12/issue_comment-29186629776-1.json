@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "dailingtao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-12T08:56:09.496863Z",
+  "title": "fix(workspace): restore default glob helper path",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2056#issuecomment-4950599014",
+  "number": 2056,
+  "body": "Effect after repair\n<img width=\"1754\" height=\"1158\" alt=\"image\" src=\"https://github.com/user-attachments/assets/6d7ed5d6-8099-4d6e-85b9-e947e251830a\" />",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "dailingtao",
+    "commenter": "dailingtao"
+  },
+  "at_mobiles": []
+}
