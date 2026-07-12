@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "Premsenareddy",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-12T14:03:17.863365Z",
+  "title": "fix(webui): show credential schema load errors",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1858",
+  "number": 1858,
+  "body": "## Summary\n- show inline errors when credential provider schema loading fails in create/edit credential dialogs\n- add a credential page provider-load error state instead of silently showing no provide…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Premsenareddy",
+    "head_sha": "4fbe882cf0474895e38aaa6356aa7e4b803cc5e3",
+    "base_ref": "main",
+    "additions": 88,
+    "deletions": 15,
+    "changed_files": 8
+  },
+  "at_mobiles": []
+}
