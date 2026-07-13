@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-13T05:12:24.800349Z",
+  "title": "feat(service): allow disabling embedded scheduler",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1993",
+  "number": 1993,
+  "body": "## Summary\n\nAdds `create_app(enable_scheduler=False)` so API-only service workers\ndon't double-spawn scheduled jobs in multi-process deployments:\n\n- New lifespan option `enable_scheduler: bool = True`…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "RerankerGuo",
+    "head_sha": "26d7d3145d5f455e803cac85a6adb2011510019a",
+    "base_ref": "main",
+    "additions": 70,
+    "deletions": 0,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
