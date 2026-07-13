@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-13T05:12:25.826845Z",
+  "title": "feat(agent-team): support template-scoped worker tools",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1981",
+  "number": 1981,
+  "body": "## Summary\n\nLets `SubAgentTemplate`-backed workers declare and receive their\nown custom business tools (not only the framework default\ntoolset). Agentscope-ai/agentscope#1947 reports that workers\nspaw…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "RerankerGuo",
+    "head_sha": "5e506a01010deccfc050699a12e3bbccfd7e1f28",
+    "base_ref": "main",
+    "additions": 179,
+    "deletions": 4,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
