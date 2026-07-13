@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "fivem",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-13T08:55:23.470046Z",
+  "title": "Is AgentScope Studio available in v2?",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2066",
+  "number": 2066,
+  "body": "Is AgentScope Studio available in v2?",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "General",
+    "author": "fivem"
+  },
+  "at_mobiles": []
+}
