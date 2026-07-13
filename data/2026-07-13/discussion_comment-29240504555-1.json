@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "chickenlj",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-13T09:49:10.981065Z",
+  "title": "[Show and Tell] Introducing AgentScope-Go: A Golang implementation of AgentScope framework",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1338#discussioncomment-17620756",
+  "number": 1338,
+  "body": "@AlanFokCo Great job, excited to see that this repo is still evolving. This may be the most complete repository implemented in the whole github community right now. \n\nCan you please send your DingTalk…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "chickenlj",
+    "discussion_author": "AlanFokCo"
+  },
+  "at_mobiles": []
+}
