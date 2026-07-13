@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "cdhewei",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-13T01:57:30.654857Z",
+  "title": "[Bug]: QwenPaw 2.0 backend static file serving hangs for /assets/* under reverse proxy",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2060",
+  "number": 2060,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "cdhewei"
+  },
+  "at_mobiles": []
+}
