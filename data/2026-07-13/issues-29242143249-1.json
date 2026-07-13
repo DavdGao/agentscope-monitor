@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-13T10:16:03.506953Z",
+  "title": "[Bug]: LocalWorkspace.list_tools raises AttributeError on current main",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2055",
+  "number": 2055,
+  "body": "## Description\n\n<img width=\"1076\" height=\"744\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/c5ec59df-e713-413e-9d10-a7cf378c71ac\" />\n\n`LocalWorkspace.list_tools()` raises the following …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "dailingtao"
+  },
+  "at_mobiles": []
+}
