@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Miracle778",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-13T04:07:30.158084Z",
+  "title": "feat(permission): permission decision and confirmation observability",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2054#issuecomment-4954331284",
+  "number": 2054,
+  "body": "This PR contains the same implementation, tests, documentation, and example assets as my earlier PR #2001. The corresponding commits have identical stable patch IDs.\n\nSince #2001 is the original PR an…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Premsenareddy",
+    "commenter": "Miracle778"
+  },
+  "at_mobiles": []
+}
