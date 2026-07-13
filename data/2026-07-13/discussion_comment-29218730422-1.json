@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Mrart",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-13T02:04:47.231258Z",
+  "title": "Introduce Paimon as storage for RAG",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2037#discussioncomment-17616677",
+  "number": 2037,
+  "body": "Ok",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "Mrart",
+    "discussion_author": "Mrart"
+  },
+  "at_mobiles": []
+}
