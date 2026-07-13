@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "liu-xiaokai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-13T08:25:30.296663Z",
+  "title": "Support serving pre-built Agent instances in create_app",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2064",
+  "number": 2064,
+  "body": "Hi AgentScope team,\n\nI noticed that `create_app()` currently focuses on assembling agents internally via `custom_agent_cls`, `extra_agent_tools`, and `extra_agent_middlewares`, but it does not provide…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "liu-xiaokai"
+  },
+  "at_mobiles": []
+}
