@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-13T05:04:57.331321Z",
+  "title": "feat(service): add workspace artifact browser",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2062",
+  "number": 2062,
+  "body": "## Summary\n\n- add authenticated artifact endpoints for listing workspace directories and reading files with detected MIME types\n- keep artifact paths relative to the persisted session workspace and re…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "RerankerGuo",
+    "head_sha": "037ed1b96f76a8ca21236e5bb8a6da81b1d2f636",
+    "base_ref": "main",
+    "additions": 784,
+    "deletions": 3,
+    "changed_files": 13
+  },
+  "at_mobiles": []
+}
