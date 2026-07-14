@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-14T07:08:22.196868Z",
+  "title": "feat(dashscope): add new models for dashscope",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2073",
+  "number": 2073,
+  "body": "## AgentScope Version\n\n2.0.4\n\n## Description\n\nAdd `qwen3.7-plus`, `deepseek-v4-pro` and `glm-5.2`.\n\n## Checklist\n\nPlease check the following items before code is ready to be reviewed.\n\n- [ ]  An issue…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "2d9b867711849dfd5f4bc3c9fb4c0d009c1f494f",
+    "base_ref": "main",
+    "additions": 68,
+    "deletions": 0,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
