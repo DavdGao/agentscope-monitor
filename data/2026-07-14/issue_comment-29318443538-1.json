@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-14T08:33:37.728241Z",
+  "title": "feat(workspace): support apple container as workspace backend",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2068#issuecomment-4966973944",
+  "number": 2068,
+  "body": "Hi, @DavdGao \nUpdated `tests/backend_applecontainer_test.py` and `tests/workspace_applecontainer_test.py`:\n- Removed all subprocess mocks — tests now run against a real `container` CLI, skipped when C…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "iluv7",
+    "commenter": "iluv7"
+  },
+  "at_mobiles": []
+}
