@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ljl3937",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-14T07:14:05.878361Z",
+  "title": "Agent Team - Support Different Models for Different Members",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2074",
+  "number": 2074,
+  "body": "## Summary\n\nRequest for AgentScope 2.0 Agent Team to support configuring independent models for each worker agent, rather than forcing inheritance from the leader.\n\n## Background\n\nWhen `AgentCreate` c…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "ljl3937"
+  },
+  "at_mobiles": []
+}
