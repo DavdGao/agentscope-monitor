@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-14T09:49:39.354037Z",
+  "title": "fix(webui): fix rendering errors in Read/Write/Edit tools caused by i…",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2075",
+  "number": 2075,
+  "body": "…ncomplete JSON during tool call streaming or interruption\n\n## PR Title Format\n\nPlease ensure your PR title follows the Conventional Commits format:\n- Format: `<type>(<scope>): <description>`\n- Exampl…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "b63af334a9bc209bb812c1dac3914c9322410560",
+    "base_ref": "main",
+    "additions": 75,
+    "deletions": 76,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
