@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "MannXo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-14T10:23:35.998415Z",
+  "title": "feat(webui): publish chat component as a standalone npm package",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2045#issuecomment-4968124754",
+  "number": 2045,
+  "body": "I can pick this up. Is it available?",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "MannXo"
+  },
+  "at_mobiles": []
+}
