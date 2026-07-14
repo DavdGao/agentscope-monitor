@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "review_requested",
+  "action_cn": "请求审核",
+  "sender": "Osier-Yi",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-14T13:20:47.701767Z",
+  "title": "fix(mem0): use separate LLM instances in OSS example",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2078",
+  "number": 2078,
+  "body": "## AgentScope Version\n\n2.0.4\n\n## Description\n\n- Use separate chat model instances for the Agent and mem0.\n- Document why async clients must not be shared across event loops.\n\n## Checklist\n\nPlease chec…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [
+    "DavdGao"
+  ],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Osier-Yi",
+    "head_sha": "6ca20b2d1bc4cffe6eb23167b78b4717ad38c48f",
+    "base_ref": "main",
+    "additions": 15,
+    "deletions": 4,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
