@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-14T00:45:27.889212Z",
+  "title": "fix(agent): prevent cross-message tool_call/tool_result orphan in context compression",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2059",
+  "number": 2059,
+  "body": "## Problem\n\n`_split_context_for_compression` only guarantees intra-message (block-level) `tool_call`/`tool_result` pairing at the boundary message. When `tool_call` and `tool_result` are in **differen…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "tadebao",
+    "head_sha": "6fcd0bf75ab83418ca41cc616477096f5aa92189",
+    "base_ref": "main",
+    "additions": 38,
+    "deletions": 0,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
