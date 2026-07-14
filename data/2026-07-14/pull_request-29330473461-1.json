@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "alex-mm",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-14T11:53:32.703877Z",
+  "title": "fix(tracing): avoid otel context detach error on cross-task stream close",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2077",
+  "number": 2077,
+  "body": "## AgentScope Version\n\n`main` (reproduced on `2.0.4`)\n\n## Description\n\n### Background\n\n`TracingMiddleware.on_reply` and `on_acting` wrapped an async generator with:\n\n```python\nwith tracer.start_as_cur…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "alex-mm",
+    "head_sha": "663be64575125bfb5731531f87d5a24b1d7a2aa6",
+    "base_ref": "main",
+    "additions": 188,
+    "deletions": 99,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
