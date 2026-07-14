@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "alex-mm",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-14T10:33:43.213381Z",
+  "title": "TracingMiddleware logs Failed to detach context when reply_stream is closed from another asyncio task",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2076",
+  "number": 2076,
+  "body": "## Summary\n\n`agentscope.middleware.TracingMiddleware` appears to keep an OpenTelemetry current span context active across `yield` points in async generators.\n\nIn streaming scenarios, when the consumer…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "alex-mm"
+  },
+  "at_mobiles": []
+}
