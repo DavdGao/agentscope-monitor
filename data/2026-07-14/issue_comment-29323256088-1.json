@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qiuC123",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-14T09:51:54.677190Z",
+  "title": "[Bug]: OpenAIChatFormatter: orphaned role=\"tool\" message when self-paired Msg has empty content_blocks/tool_calls",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2067#issuecomment-4967773744",
+  "number": 2067,
+  "body": "The normal self-paired multi-tool sequence works as expected:\n\nToolCallBlock(a)\nToolCallBlock(b)\nToolResultBlock(a)\nToolResultBlock(b)\n\nIt formats to:\n\nassistant(tool_calls=[a,b])\ntool(a)\ntool(b)\n\nThe…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Heavae",
+    "commenter": "qiuC123"
+  },
+  "at_mobiles": []
+}
