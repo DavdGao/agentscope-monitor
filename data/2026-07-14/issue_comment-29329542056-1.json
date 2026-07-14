@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-14T11:37:30.624030Z",
+  "title": "[Bug]: OpenAIChatFormatter: orphaned role=\"tool\" message when self-paired Msg has empty content_blocks/tool_calls",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2067#issuecomment-4968716990",
+  "number": 2067,
+  "body": "Thanks for the detailed analysis and the offer to contribute!\n\nI traced through the agent loop and it looks like the `[ToolCallBlock, HintBlock, ToolResultBlock]` ordering may not be reachable in the …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Heavae",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
