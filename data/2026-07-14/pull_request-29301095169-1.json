@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-14T02:27:18.851696Z",
+  "title": "feat(workspace): support apple container as workspace backend",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2068",
+  "number": 2068,
+  "body": "## AgentScope Version\n\n2.0.4.dev0\n\n## Description\n\nCloses https://github.com/agentscope-ai/agentscope/issues/2035\n\nAdds an Apple Container workspace backend for AgentScope, leveraging macOS 26's nativ…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "iluv7",
+    "head_sha": "24ebf23cbe1c38b123e9b69e2a30328e22c87716",
+    "base_ref": "main",
+    "additions": 1920,
+    "deletions": 1,
+    "changed_files": 11
+  },
+  "at_mobiles": []
+}
