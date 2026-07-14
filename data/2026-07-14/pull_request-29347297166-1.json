@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "CGeekhl",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-14T15:53:24.831820Z",
+  "title": "fix(webui): surface EXCEED_MAX_ITERS as a visible error banner",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2079",
+  "number": 2079,
+  "body": "<img width=\"460\" height=\"1122\" alt=\"image\" src=\"https://github.com/user-attachments/assets/775aa850-c5b7-4259-94de-604717d98024\" />\n\n\n\n\nThe WebUI silently dropped the ExceedMaxItersEvent, so when an a…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "CGeekhl",
+    "head_sha": "e08e3660a69b0bfb6fcfe34ed3a072b2b73da8c1",
+    "base_ref": "main",
+    "additions": 45,
+    "deletions": 14,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
