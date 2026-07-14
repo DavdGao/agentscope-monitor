@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-14T01:17:13.616538Z",
+  "title": "fix(model): reuse openai.AsyncClient across calls instead of new per call",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2063#issuecomment-4964463232",
+  "number": 2063,
+  "body": "@Osier-Yi Please review this PR. If I remember correctly, mem0 requires rebuilding the async HTTP client for each call; otherwise, the mem0 middleware throws an error.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "dongfeng3692",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
