@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "reopened",
+  "action_cn": "重新打开",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-15T03:51:25.830065Z",
+  "title": "fix(agent): catch tool execution exceptions in _execute_tool_call",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2031",
+  "number": 2031,
+  "body": "## Problem\n\nWhen `self._acting()` in `_execute_tool_call()` raises an exception (e.g. MCP server returns HTTP 401, toolkit internal failure), there is **no exception handler** around the `async for ch…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "lt91888",
+    "head_sha": "5c764b76411651d79b62a28f877d114be327a513",
+    "base_ref": "main",
+    "additions": 12,
+    "deletions": 3,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
