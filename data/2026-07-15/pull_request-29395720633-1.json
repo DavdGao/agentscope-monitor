@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-15T06:56:46.879949Z",
+  "title": "feat(rag): make chunker config explicit and schema-driven",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2083",
+  "number": 2083,
+  "body": "## AgentScope Version\n\n2.0.4\n\n## Description\n\nReplace hand-written JSON Schema dicts with Pydantic BaseModel-derived Parameters inner classes on ChunkerBase, aligning with how ModelCard, EmbeddingMode…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "44d903ebd6f9fea17dcccd632ef94e42bf96064b",
+    "base_ref": "main",
+    "additions": 707,
+    "deletions": 38,
+    "changed_files": 25
+  },
+  "at_mobiles": []
+}
