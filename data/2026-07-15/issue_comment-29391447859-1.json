@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-15T05:26:33.805244Z",
+  "title": "[Bug]: QwenPaw 2.0 backend static file server fails through reverse proxy (/assets/* timeout)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2070#issuecomment-4977161289",
+  "number": 2070,
+  "body": "@cdhewei QwenPaw related issues plz refer to the repo https://github.com/agentscope-ai/qwenpaw, this repo focus on the agentscope library",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "cdhewei",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
