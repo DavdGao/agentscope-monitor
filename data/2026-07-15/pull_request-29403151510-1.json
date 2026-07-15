@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "nolanchic",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-15T09:05:04.160942Z",
+  "title": "fix(tracing): avoid cross-context detach on stream close",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2087",
+  "number": 2087,
+  "body": "## Summary\n\n`TracingMiddleware` kept OpenTelemetry spans current across async-generator `yield` points via `start_as_current_span`. When a stream is closed (`aclose`) from a different asyncio task — n…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "nolanchic",
+    "head_sha": "b6e4a971f2fa05cb8114a5c0b7a252de8ec25291",
+    "base_ref": "main",
+    "additions": 172,
+    "deletions": 16,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
