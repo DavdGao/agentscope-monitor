@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "nolanchic",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-15T18:17:40.638518Z",
+  "title": "fix(tool): reject negative grep context flags",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2005#issuecomment-4983909124",
+  "number": 2005,
+  "body": "Closing this — the underlying issue #1936 has already been closed as completed (by @DavdGao), so the negative-pagination gap it targets was resolved upstream through another change. Closing to keep th…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "nolanchic",
+    "commenter": "nolanchic"
+  },
+  "at_mobiles": []
+}
