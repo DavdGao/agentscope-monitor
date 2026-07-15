@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qiboyu301-crypto",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-15T07:28:52.476791Z",
+  "title": "[Bug]:  Read→Edit loop in DockerWorkspace because ToolContext uses host getmtime",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2084#issuecomment-4977985502",
+  "number": 2084,
+  "body": "Hi, I’d like to work on this issue.\n\nMy plan is to make the read-file cache use the filesystem backend configured by `Read`, `Edit`, and `Write`, instead of accessing the host filesystem directly. I’l…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "qiboyu301-crypto",
+    "commenter": "qiboyu301-crypto"
+  },
+  "at_mobiles": []
+}
