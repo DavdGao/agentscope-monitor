@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "reopened",
+  "action_cn": "重新打开",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-15T03:51:50.465521Z",
+  "title": "feat(permission): permission decision and confirmation observability",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2054",
+  "number": 2054,
+  "body": "## Summary\n\nAdd opt-in, read-only middleware hooks that make every permission decision and user-confirmation outcome observable through `extra_agent_middlewares`, closing the audit blind spot where AS…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Premsenareddy",
+    "head_sha": "2dd1dc7686481fcebd42ecc30d047480dd13c765",
+    "base_ref": "main",
+    "additions": 3341,
+    "deletions": 77,
+    "changed_files": 28
+  },
+  "at_mobiles": []
+}
