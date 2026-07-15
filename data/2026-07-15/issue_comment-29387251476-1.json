@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-15T03:44:18.538199Z",
+  "title": "fix(agent): catch tool execution exceptions in _execute_tool_call",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2031#issuecomment-4976646191",
+  "number": 2031,
+  "body": "此 PR 存在致命语法错误：`try` 块内 `if isinstance(chunk, ToolResponse):` 后直接跟 `except`，缺少代码体，Python 无法解析。\\n\\n此外，#2023 已覆盖了类似的 tool execution 异常处理逻辑。建议关闭此 PR。\\n\\n感谢贡献！",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "lt91888",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
