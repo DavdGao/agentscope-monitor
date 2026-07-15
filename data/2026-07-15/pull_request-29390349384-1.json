@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-15T05:00:48.964297Z",
+  "title": "fix(app): use cursor-based pagination for list_messages",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2081",
+  "number": 2081,
+  "body": "## Problem\n\nCloses #2080\n\n`list_messages` always returned the **oldest** messages instead of the newest. The root cause is that `rpush` appends new messages to the tail of the Redis list, but `lrange(…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "2f106fa57ec31dc4e8fc750543fcbae7669afc86",
+    "base_ref": "main",
+    "additions": 238,
+    "deletions": 31,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
