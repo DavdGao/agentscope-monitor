@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-15T07:53:04.877365Z",
+  "title": "Unconfined source path in workspace add_skill copies arbitrary server directories into the agent workspace (server-side file disclosure)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2069#issuecomment-4978166523",
+  "number": 2069,
+  "body": "I am working on a focused service-boundary fix for this. The HTTP endpoint will be disabled for server-path imports by default and `create_app` will accept explicit trusted `skill_source_roots`; clien…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "geo-chen",
+    "commenter": "RerankerGuo"
+  },
+  "at_mobiles": []
+}
