@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-15T05:26:27.507500Z",
+  "title": "[Bug]: QwenPaw 2.0 backend static file server fails through reverse proxy (/assets/* timeout)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2070",
+  "number": 2070,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "cdhewei"
+  },
+  "at_mobiles": []
+}
