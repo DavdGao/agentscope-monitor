@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-15T09:49:57.416860Z",
+  "title": "fix(rag): adapt MilvusLiteStore to milvus-lite 3.1.0 COSINE distance semantics",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2089",
+  "number": 2089,
+  "body": "## AgentScope Version\n\n2.0.4\n\n## Description\n\nmilvus-lite 3.1.0 changed the `distance` field for COSINE metric to return cosine similarity directly (1.0 for identical vectors), instead of cosine dista…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "ece101293fe81584da5367a2a2dba9362431e5ba",
+    "base_ref": "main",
+    "additions": 10,
+    "deletions": 7,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
