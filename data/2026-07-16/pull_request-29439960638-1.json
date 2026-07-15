@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "nolanchic",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-15T18:17:55.023969Z",
+  "title": "fix(credential): validate discriminator in register_credential",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2002",
+  "number": 2002,
+  "body": "## Summary\n\nFixes #1961.\n\nWhen a user registers a custom `CredentialBase` subclass via `extra_credentials=[...]` (or `CredentialFactory.register_credential` directly), a misconfigured `type` discrimin…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "nolanchic",
+    "head_sha": "833b0f5380017e51dbf569a68a882ef28db252f0",
+    "base_ref": "main",
+    "additions": 332,
+    "deletions": 8,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
