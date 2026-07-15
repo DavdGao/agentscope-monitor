@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-15T11:34:34.473756Z",
+  "title": "chore(deps): restrict MCP dependency version to below 2.0.0",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2091",
+  "number": 2091,
+  "body": "## AgentScope Version\n\nSince MCP is expected to introduce significant changes in future major releases, pinning the dependency below 2.0.0 helps keep the current integration stable and prevents unexpe…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "73b4e34bc32b8ac00a595ba86a553eb401fce9ac",
+    "base_ref": "main",
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
