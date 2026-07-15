@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-15T03:50:36.145382Z",
+  "title": "fix(tracing): avoid otel context detach error on cross-task stream close",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2077#issuecomment-4976677061",
+  "number": 2077,
+  "body": "审查通过，直接合并。修复了跨 task stream close 时的 otel context detach 错误。",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "alex-mm",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
