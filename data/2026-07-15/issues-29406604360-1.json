@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qiuC123",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-15T10:00:58.566530Z",
+  "title": "[Bug]: Context compression can split a multi-tool call/result batch and send an invalid provider request",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2090",
+  "number": 2090,
+  "body": "## Prerequisites\n\n- [x] I have searched the existing issues and discussions, and this is not a duplicate.\n- [x] This is a bug, not a usage question.\n\n## Background / Description\n\nContext compression c…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "qiuC123"
+  },
+  "at_mobiles": []
+}
