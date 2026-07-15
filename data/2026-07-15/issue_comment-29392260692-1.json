@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "lt91888",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-15T05:45:10.029936Z",
+  "title": "fix(agent): catch tool execution exceptions in _execute_tool_call",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2031#issuecomment-4977278510",
+  "number": 2031,
+  "body": "经过对比 PR #2023 的完整 diff，确认 #2023 已经用更完善的方式解决了同一个问题（含 `DeveloperOrientedException` 保留 + 测试用例）。关闭本 PR，建议合并 #2023。\n\n感谢 @DavdGao 的耐心指导和纠正 🙏",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "lt91888",
+    "commenter": "lt91888"
+  },
+  "at_mobiles": []
+}
