@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "nolanchic",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-15T18:21:12.793685Z",
+  "title": "fix(service): return newest messages and paginate by cursor",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2088",
+  "number": 2088,
+  "body": "## Summary\n\n`RedisStorage.list_messages` read messages from the **head** of the list (`lrange(key, offset, ...)`), but messages are appended with `rpush`, so the **tail is the newest**. With the defau…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "nolanchic",
+    "head_sha": "8132537f2d67a3e7361e3959413a0a00dca0817e",
+    "base_ref": "main",
+    "additions": 212,
+    "deletions": 31,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
