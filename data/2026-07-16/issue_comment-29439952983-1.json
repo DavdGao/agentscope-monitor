@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "nolanchic",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-15T18:17:46.929873Z",
+  "title": "fix(credential): validate discriminator in register_credential",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2002#issuecomment-4983909894",
+  "number": 2002,
+  "body": "Closing this — the underlying issue #1961 has already been closed as completed (by @halo-space), so the custom-discriminator validation it targets was resolved upstream. Closing to keep the queue clea…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "nolanchic",
+    "commenter": "nolanchic"
+  },
+  "at_mobiles": []
+}
