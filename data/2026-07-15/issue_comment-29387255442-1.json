@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-15T03:44:24.450425Z",
+  "title": "feat(permission): permission decision and confirmation observability",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2054#issuecomment-4976646682",
+  "number": 2054,
+  "body": "此 PR 与 #2001 功能完全相同（permission decision and confirmation observability），diff 内容一致。为避免重复合并，保留先提交的 #2001，关闭此 PR。\\n\\n感谢贡献！",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Premsenareddy",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
