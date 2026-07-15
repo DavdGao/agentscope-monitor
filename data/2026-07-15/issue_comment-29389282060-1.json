@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "lt91888",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-15T04:34:12.525813Z",
+  "title": "fix(agent): catch tool execution exceptions in _execute_tool_call",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2031#issuecomment-4976892755",
+  "number": 2031,
+  "body": "@DavdGao 感谢你的审查，两个问题你指出的都对：\n\n1. **语法错误** — 改的时候忘记把 `if isinstance` 后的处理逻辑缩进进 try 块，导致空 body，确实低级错误，代码没测就提了，很抱歉。\n\n2. **#2023 已覆盖** — 我提交时没注意到 #2023，浪费了审阅时间，抱歉。\n\n已关闭 PR。谢谢你的时间和耐心，下次一定先自我审查再提交。\n\n感谢贡献！",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "lt91888",
+    "commenter": "lt91888"
+  },
+  "at_mobiles": []
+}
