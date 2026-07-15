@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "nolanchic",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-15T18:21:13.392045Z",
+  "title": "fix(service): return newest messages and paginate by cursor",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2088#issuecomment-4983940521",
+  "number": 2088,
+  "body": "Closing this — I noticed after submitting that #2080 was filed by @DavdGao, who already opened #2081 with the same cursor-based approach a few hours earlier and is actively iterating on it. My impleme…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "nolanchic",
+    "commenter": "nolanchic"
+  },
+  "at_mobiles": []
+}
