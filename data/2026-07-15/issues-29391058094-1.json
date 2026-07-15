@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "cdhewei",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-15T05:17:22.179786Z",
+  "title": "[Bug][Upgrade]: CoPaw → 2.0.0 upgrade — 17 issues across deployment, Nginx, data migration & resource management",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2082",
+  "number": 2082,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "cdhewei"
+  },
+  "at_mobiles": []
+}
