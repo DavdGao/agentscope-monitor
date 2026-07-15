@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "lt91888",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-15T04:36:21.666793Z",
+  "title": "fix(agent): catch tool execution exceptions in _execute_tool_call",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2031#issuecomment-4976902797",
+  "number": 2031,
+  "body": "@DavdGao 意识到我之前没注意到你已经重开了 PR 然后我又关上了，抱歉！\n\n看了时间线才发现你是先批评、然后自己愿意修——这是大佬带新手的节奏，我领会晚了。\n\nPR 现已重新打开，如果你愿意 push 修正过的版本到这个分支，欢迎直接操作。或者你说方向，我来改也可以。\n\n不管怎样，感谢你的耐心和指导 🙏",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "lt91888",
+    "commenter": "lt91888"
+  },
+  "at_mobiles": []
+}
