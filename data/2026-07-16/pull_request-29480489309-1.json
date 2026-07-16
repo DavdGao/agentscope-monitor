@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-16T07:36:32.816531Z",
+  "title": "fix(webui): expand and align chat input",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2102",
+  "number": 2102,
+  "body": "## Summary\n\n- resize the chat textarea from its `scrollHeight` as content changes instead of leaving `rows={1}` at a fixed height\n- raise the cap from six line-heights without padding to eight visible…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "RerankerGuo",
+    "head_sha": "1c50fb344c53ac011538bf8077cbce9c760933da",
+    "base_ref": "main",
+    "additions": 67,
+    "deletions": 71,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
