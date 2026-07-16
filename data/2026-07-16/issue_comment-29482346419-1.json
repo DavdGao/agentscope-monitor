@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-16T08:07:55.174267Z",
+  "title": "[Feature]: Introduce Paimon as storage for RAG",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2061#issuecomment-4989596548",
+  "number": 2061,
+  "body": "@Mrart Are you currently working on this? If so, please self-assign this issue. If not, please consider assigning it to @MannXo",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Mrart",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
