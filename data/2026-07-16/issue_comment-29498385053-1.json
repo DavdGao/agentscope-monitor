@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Jupiter363",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-16T12:30:23.278130Z",
+  "title": "feat(webui): support loading older messages on scroll-to-top with cursor pagination",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2099#issuecomment-4991827913",
+  "number": 2099,
+  "body": "Hi, I'd like to take this issue. I have an implementation ready locally that wires the `has_more` cursor into `useMessages`, loads older messages when scrolling near the top, guards concurrent request…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "Jupiter363"
+  },
+  "at_mobiles": []
+}
