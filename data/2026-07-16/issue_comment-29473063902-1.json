@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-16T05:07:39.174017Z",
+  "title": "fix(service): confine workspace skill source paths",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2085#issuecomment-4988403279",
+  "number": 2085,
+  "body": "@RerankerGuo, thanks for interest in contributing to agentscope. Plz see comments & discussion in #2069",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "RerankerGuo",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
