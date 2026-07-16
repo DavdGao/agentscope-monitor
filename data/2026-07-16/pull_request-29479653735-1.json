@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-16T07:21:44.493080Z",
+  "title": "fix(service): confine workspace skill source paths",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2085",
+  "number": 2085,
+  "body": "## Summary\n\n- disable client-selected server-path skill imports by default\n- add `create_app(skill_source_roots=[...])` for explicit trusted source directories\n- canonicalize requested paths through `…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "RerankerGuo",
+    "head_sha": "4e2e4f76ac1d7d5a826fe57fa5fcad9f776038e5",
+    "base_ref": "main",
+    "additions": 874,
+    "deletions": 144,
+    "changed_files": 21
+  },
+  "at_mobiles": []
+}
