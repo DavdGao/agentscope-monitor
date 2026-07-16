@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-16T06:43:16.240514Z",
+  "title": "fix(skill): expand user home in skill paths",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2086",
+  "number": 2086,
+  "body": "## Summary\n\nSkill paths supplied via config files, env vars, or CLI args commonly use the `~` shorthand (e.g. `~/.agentscope/skills/my_skill`). `~` was treated as a literal path segment instead of the…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "nolanchic",
+    "head_sha": "b2ed6861c346837691dd6a2d393c678504eddc14",
+    "base_ref": "main",
+    "additions": 106,
+    "deletions": 5,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
