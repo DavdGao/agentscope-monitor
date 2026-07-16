@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-16T06:50:17.073148Z",
+  "title": "fix(skill): expand user-home paths",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2053#issuecomment-4989018979",
+  "number": 2053,
+  "body": "@helloJamest, thanks for your contribution. Plz also add `os.path.expanduser()` handling in `LocalWorkspace.add_skill` (around L721 in `_local_workspace.py`), which overrides the base class method and…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "helloJamest",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
