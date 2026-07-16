@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qiboyu301-crypto",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-16T09:34:46.440438Z",
+  "title": "fix(tool): use backend mtime for file cache validation",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2105",
+  "number": 2105,
+  "body": "## PR Title Format\n\n`fix(tool): use backend mtime for file cache validation`\n\n## AgentScope Version\n\n`2.0.4.post1`\n\n## Description\n\nFixes #2084.\n\nThe builtin Read tool could read files through a Docke…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qiboyu301-crypto",
+    "head_sha": "25e394f9ae9382ed6aaad00e967c7c2e205d1f12",
+    "base_ref": "main",
+    "additions": 259,
+    "deletions": 24,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
