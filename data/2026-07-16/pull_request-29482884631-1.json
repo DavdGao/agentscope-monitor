@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-16T08:16:40.558437Z",
+  "title": "chore(version): bumping version to 2.0.4.post1",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2104",
+  "number": 2104,
+  "body": "## AgentScope Version\n\n[The version of AgentScope you are working on, e.g. `import agentscope; print(agentscope.__version__)`]\n\n## Description\n\n[Please describe the background, purpose, changes made, …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "caccf732bcff2edfa3574ec3ad2cc26f8506cec1",
+    "base_ref": "main",
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
