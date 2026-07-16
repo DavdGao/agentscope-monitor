@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-16T05:11:53.284668Z",
+  "title": "fix(webui): auto-open task panel when task updates arrive via CustomEvent",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2095",
+  "number": 2095,
+  "body": "**Background**\n\nWhen the agent creates or updates tasks during a reply, the backend pushes a `CustomEvent` with `name=\"state_updated\"` containing the latest `tasks_context`. The `ChatViewport` compone…",
+  "labels": [
+    "Help Wanted"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
