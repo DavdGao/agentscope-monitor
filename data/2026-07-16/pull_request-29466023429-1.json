@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qiuC123",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-16T02:12:37.157598Z",
+  "title": "fix(agent): preserve multi-tool pairs during context compression",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2093",
+  "number": 2093,
+  "body": "## AgentScope Version\n\n2.0.4\n\n## Problem\n\nContext compression adjusts its block boundary once when the reserved suffix\ncontains a tool result without its matching tool call.\n\nFor an interleaved multi-…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qiuC123",
+    "head_sha": "be121438e0a7cae105805b292929686781a1d845",
+    "base_ref": "main",
+    "additions": 116,
+    "deletions": 14,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
