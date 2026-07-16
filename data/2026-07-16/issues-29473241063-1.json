@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-16T05:11:39.884382Z",
+  "title": "feat(webui): improve chat page UX and message navigation",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2094",
+  "number": 2094,
+  "body": "**Background**\n\nThis is a tracking issue for a set of UX improvements to the chat page, covering panel auto-open behavior, scroll-to-bottom navigation, session entry scroll positioning, text input lay…",
+  "labels": [
+    "Help Wanted"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
