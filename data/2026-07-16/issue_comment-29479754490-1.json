@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-16T07:23:30.836220Z",
+  "title": "fix(service): upload workspace skills from the browser",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2085#issuecomment-4989259562",
+  "number": 2085,
+  "body": "Thanks for the direction. I reworked the PR around the design in #2069 instead of extending the server-path allowlist:\n\n- the Web UI now selects and validates a skill directory, then uploads its files…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "RerankerGuo",
+    "commenter": "RerankerGuo"
+  },
+  "at_mobiles": []
+}
