@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Jupiter363",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-16T10:43:44.866667Z",
+  "title": "[Bug]: LocalWorkspaceManager reuses workdirs across users of a shared agent",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2107",
+  "number": 2107,
+  "body": "## Prerequisites\n\n- [x] I searched existing issues, discussions, and pull requests.\n- [x] This is a reproducible bug, not a usage question.\n\n## Background / Description\n\nIssue #2042 defines `user_id` …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Jupiter363"
+  },
+  "at_mobiles": []
+}
