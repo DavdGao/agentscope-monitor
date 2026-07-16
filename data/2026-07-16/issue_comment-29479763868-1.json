@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-16T07:23:41.183970Z",
+  "title": "Unconfined source path in workspace add_skill copies arbitrary server directories into the agent workspace (server-side file disclosure)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2069#issuecomment-4989260732",
+  "number": 2069,
+  "body": "I updated #2085 to implement the proposed upload boundary: browser directory selection and frontmatter validation, multipart relative-path upload, server-side revalidation, and a bytes-based `Workspac…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "geo-chen",
+    "commenter": "RerankerGuo"
+  },
+  "at_mobiles": []
+}
