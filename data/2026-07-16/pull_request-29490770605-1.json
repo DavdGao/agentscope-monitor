@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Jupiter363",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-16T10:25:37.084509Z",
+  "title": "feat(webui): add scroll-to-bottom button",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2106",
+  "number": 2106,
+  "body": "## AgentScope Version\n\n2.0.4.post1 (`main`)\n\n## Description\n\nFixes #2096.\n\nLong conversations previously had no quick way to return to the latest message after the user scrolled upward. This change ad…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "Jupiter363",
+    "head_sha": "d2c60b208eb296ab8198440a86d84ef55f41caa7",
+    "base_ref": "main",
+    "additions": 61,
+    "deletions": 26,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
