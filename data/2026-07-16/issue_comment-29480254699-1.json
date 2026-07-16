@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-16T07:32:25.622202Z",
+  "title": "fix(webui): increase textarea max visible rows and optimize input layout",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2098#issuecomment-4989323970",
+  "number": 2098,
+  "body": "I would like to work on this. I found that the current `maxHeight` does not make the one-row textarea grow because its height is never updated. I will add content-driven autosizing capped at eight vis…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "RerankerGuo"
+  },
+  "at_mobiles": []
+}
