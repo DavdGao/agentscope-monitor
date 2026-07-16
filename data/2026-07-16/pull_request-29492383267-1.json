@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Jupiter363",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-16T10:52:50.024907Z",
+  "title": "fix(workspace): isolate local workspaces by user",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2108",
+  "number": 2108,
+  "body": "## AgentScope Version\n\n2.0.4.post1\n\n## Description\n\nFixes #2107.\n\n`LocalWorkspaceManager` accepted `user_id` but did not enforce it as an isolation boundary:\n\n- the cache was keyed only by `workspace_…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "Jupiter363",
+    "head_sha": "43ec32e53c82c40e6408b4fd6e0fa2a1601d5030",
+    "base_ref": "main",
+    "additions": 278,
+    "deletions": 44,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
