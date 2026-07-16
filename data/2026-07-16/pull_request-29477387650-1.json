@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "JanCong",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-16T06:40:06.862841Z",
+  "title": "fix(webui): scroll newly loaded sessions to bottom",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2100",
+  "number": 2100,
+  "body": "## Summary\n\n- scroll to the latest message when a session first loads a non-empty history\n- preserve the existing near-bottom guard for later messages and active streaming updates\n- keep the fix scope…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "JanCong",
+    "head_sha": "8d2891fcfcda247675bde5fac3e3594116dbfb31",
+    "base_ref": "main",
+    "additions": 8,
+    "deletions": 11,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
