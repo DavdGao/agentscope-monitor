@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-16T08:15:37.833180Z",
+  "title": "feat(dakera): integrate Dakera self-hosted decay-weighted long-term memory as an agent middleware",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2049#issuecomment-4989660430",
+  "number": 2049,
+  "body": "Thanks for the detailed proposal. Before we proceed, we'd like to see more community adoption and independent validation of Dakera first. We'll revisit this once the library has broader usage. Plz hol…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "ferhimedamine",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
