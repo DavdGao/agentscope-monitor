@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-16T05:12:46.547812Z",
+  "title": "feat(webui): support loading older messages on scroll-to-top with cursor pagination",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2099",
+  "number": 2099,
+  "body": "**Background**\n\nPR #2081 introduces cursor-based pagination for the `list_messages` API, returning a `has_more` boolean alongside the messages. When `has_more` is `true`, older messages exist before t…",
+  "labels": [
+    "Help Wanted"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
