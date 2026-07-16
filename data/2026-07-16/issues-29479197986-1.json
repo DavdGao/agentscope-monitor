@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-16T07:13:34.393571Z",
+  "title": "[Bug]: `list_messages` returns oldest messages instead of newest and lacks cursor-based pagination",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2080",
+  "number": 2080,
+  "body": "### Prerequisites\n- [x] I have searched the existing issues and discussions, and this is not a duplicate.\n- [x] This is a bug, not a usage question.\n\n### Summary\n`RedisStorage.list_messages()` has two…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
