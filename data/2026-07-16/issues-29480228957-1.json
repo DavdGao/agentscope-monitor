@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-16T07:32:00.500565Z",
+  "title": "fix(webui): auto-scroll to bottom when navigating to or opening a session",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2097",
+  "number": 2097,
+  "body": "**Background**\n\nWhen a user navigates to a session (either by clicking a session in the sidebar, switching agents, or directly via URL), the message list loads the persisted history but does not autom…",
+  "labels": [
+    "Help Wanted"
+  ],
+  "assignees": [
+    "JanCong"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
