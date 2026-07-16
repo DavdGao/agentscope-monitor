@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Jupiter363",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-16T10:54:08.625539Z",
+  "title": "[Bug]: LocalWorkspaceManager reuses workdirs across users of a shared agent",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2107#issuecomment-4991012924",
+  "number": 2107,
+  "body": "A mature implementation for the scoped manager-level isolation fix is now available in draft PR #2108. It includes the cache/workdir isolation changes, migration note, focused regression tests, existi…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Jupiter363",
+    "commenter": "Jupiter363"
+  },
+  "at_mobiles": []
+}
