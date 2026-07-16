@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-16T05:12:06.349719Z",
+  "title": "feat(webui): add floating scroll-to-bottom button in message list",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2096",
+  "number": 2096,
+  "body": "**Background**\n\nThe chat message list in `ChatContent.tsx` supports auto-scrolling to the bottom when new messages arrive, but only if the user is already near the bottom (within 50px). When the user …",
+  "labels": [
+    "Help Wanted"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
