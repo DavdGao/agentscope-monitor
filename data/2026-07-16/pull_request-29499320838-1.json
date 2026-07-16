@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-16T12:44:32.144332Z",
+  "title": "perf(prompt): improve the current built-in prompt/instructions in different workspaces and CreateTask tool",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2111",
+  "number": 2111,
+  "body": "## PR Title Format\n\nPlease ensure your PR title follows the Conventional Commits format:\n- Format: `<type>(<scope>): <description>`\n- Example: `feat(memory): add redis cache support`\n- Allowed types: …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "288c1137397da44cb818843784987b3bf53da729",
+    "base_ref": "main",
+    "additions": 342,
+    "deletions": 203,
+    "changed_files": 10
+  },
+  "at_mobiles": []
+}
