@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-16T07:30:55.608957Z",
+  "title": "fix(webui): auto-open task panel on updates",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2101",
+  "number": 2101,
+  "body": "## Summary\n\n- compare incoming `tasks_context` snapshots before updating task UI state\n- automatically open the plan panel on the first non-empty task change in each session\n- remember an explicit pla…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "RerankerGuo",
+    "head_sha": "50e27b32c209cda150caf890a4ed12a0cc4a5211",
+    "base_ref": "main",
+    "additions": 33,
+    "deletions": 9,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
