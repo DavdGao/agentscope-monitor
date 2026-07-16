@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-16T06:57:51.048811Z",
+  "title": "fix(model): preserve OpenAI Responses reasoning history replay",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2071",
+  "number": 2071,
+  "body": "## AgentScope Version\n\n2.0.4\n\n## Description\n\nFix OpenAI Responses parsing and formatting for reasoning items with empty summaries. Non-streaming responses now preserve reasoning items that only carry…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "e699735c34fdf288788079c8a5220c411a222778",
+    "base_ref": "main",
+    "additions": 283,
+    "deletions": 8,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
