@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "JanCong",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-16T06:17:38.598211Z",
+  "title": "fix(webui): auto-scroll to bottom when navigating to or opening a session",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2097#issuecomment-4988812695",
+  "number": 2097,
+  "body": "I'd like to work on this. I plan to keep the change scoped to ChatContent: add regression coverage if the current frontend test setup supports it, handle the first non-empty message load after render,…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "JanCong"
+  },
+  "at_mobiles": []
+}
