@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-16T09:29:00.290805Z",
+  "title": "find mutating actions can be classified as read-only",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2003",
+  "number": 2003,
+  "body": "## Problem\n\n`find` is listed as a read-only Bash command and is matched by prefix before later permission checks. That means mutating `find` actions such as `find . -delete` or `find . -exec rm {} \\;`…",
+  "labels": [],
+  "assignees": [
+    "VectorPeak"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "VectorPeak"
+  },
+  "at_mobiles": []
+}
