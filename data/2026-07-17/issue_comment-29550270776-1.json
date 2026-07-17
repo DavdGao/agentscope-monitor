@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-17T02:35:03.525152Z",
+  "title": "feat(permission): observe permission decisions and confirmations",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2001#issuecomment-4998429198",
+  "number": 2001,
+  "body": "@Miracle778, thanks for the detailed implementation. A few points after reviewing the PR and our discussion in #2000:\n\n**1. Hook type: use onion pattern, not read-only notification**\n\nSuggest making t…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Miracle778",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
