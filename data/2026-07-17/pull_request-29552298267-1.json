@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "Posartor",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-17T03:24:29.655386Z",
+  "title": "fix(workspace): support e2b self-hosted gateway routing",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1896",
+  "number": 1896,
+  "body": "## AgentScope Version\n\nCurrent main branch.\n\n## Description\n\nThis PR fixes `E2BWorkspace` compatibility with self-hosted E2B deployments.\n\n`E2BWorkspace` starts an AgentScope MCP gateway inside the E2…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [
+    "cuiyuebing"
+  ],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "Posartor",
+    "head_sha": "f63db4f2cb58076f011d016bca2dae7a25bd4806",
+    "base_ref": "main",
+    "additions": 63,
+    "deletions": 8,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
