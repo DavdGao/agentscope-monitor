@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "March-77",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-17T13:06:31.702401Z",
+  "title": "fix(agent): continue after thinking-only responses",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2120",
+  "number": 2120,
+  "body": "## Summary\n\n- keep the ReAct loop running when a model response contains only thinking blocks\n- preserve the existing final-response behavior for text, data, and empty responses\n- add a regression tes…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "March-77",
+    "head_sha": "a20922367b13c1fc2357daca94ea77aa2a07c2f2",
+    "base_ref": "main",
+    "additions": 39,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
