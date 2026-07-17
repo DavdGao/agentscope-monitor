@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Correctover",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-17T12:29:20.226522Z",
+  "title": "[Security] MCP Client Module: 4 vulnerabilities including SSRF and arbitrary command execution",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2119",
+  "number": 2119,
+  "body": "## Summary\n\nI've identified **4 security vulnerabilities** in the MCP (Model Context Protocol) client module of AgentScope (v1.0.19+). These affect the newly added MCP integration code, which has not …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Correctover"
+  },
+  "at_mobiles": []
+}
