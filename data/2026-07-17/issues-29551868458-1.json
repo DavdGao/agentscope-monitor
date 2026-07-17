@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "jwx0925",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-17T03:13:36.860555Z",
+  "title": "Avoid unconditional MCP gateway bootstrap for workspaces that do not use MCP",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2113",
+  "number": 2113,
+  "body": "## Problem\n\n`SandboxedWorkspaceBase.initialize()` unconditionally initializes the in-sandbox MCP gateway:\n\n```python\nawait self._provision_backend()\nawait self._ensure_workspace_layout()\nawait self._s…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "jwx0925"
+  },
+  "at_mobiles": []
+}
