@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-17T08:48:05.616314Z",
+  "title": "fix(permission): unify per-mode evaluation and propagate batch confirmation exemptions",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2117",
+  "number": 2117,
+  "body": "## Summary\n\nThis PR fixes two permission-system issues:\n\n1. **Inconsistent per-mode permission evaluation**, so read-only tools still prompt in `DEFAULT` mode.\n2. **Batch confirmation exemptions not p…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "e6499ca4aa2a4f11acee7efcf584a2c66f4637b8",
+    "base_ref": "main",
+    "additions": 741,
+    "deletions": 236,
+    "changed_files": 10
+  },
+  "at_mobiles": []
+}
