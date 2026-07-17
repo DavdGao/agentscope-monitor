@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Miracle778",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-17T18:16:39.843261Z",
+  "title": "feat(middleware): add on_check_permission hook",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2001#issuecomment-5006194919",
+  "number": 2001,
+  "body": "@DavdGao The requested scope update is now complete.\n\nThe current revision:\n\n- adds a standard onion-style `on_check_permission` hook;\n- keeps `PermissionEngine.check_permission` as the sole engine in…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Miracle778",
+    "commenter": "Miracle778"
+  },
+  "at_mobiles": []
+}
