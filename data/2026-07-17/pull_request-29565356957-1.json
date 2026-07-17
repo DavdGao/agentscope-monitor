@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "dongfeng3692",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-17T08:07:49.332930Z",
+  "title": "fix(model): reuse openai.AsyncClient across calls instead of new per call",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2063",
+  "number": 2063,
+  "body": "## PR Title Format\n_call_api(及 tts 的 synthesize)在每次 API 调用时都新建一个 openai.AsyncClient。每个 client 各自持有一个独立的 httpx 连接池,因此这种写法等于:\n\n每个请求都重新做 DNS + TCP + TLS 握手,连接无法复用;\n高并发下连接建立本身成为瓶颈,延迟急剧恶化。\nOpenAI 官方明确建议 cl…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "dongfeng3692",
+    "head_sha": "6c1849d9761ce140643e1a4d4156d9bc143236a2",
+    "base_ref": "main",
+    "additions": 263,
+    "deletions": 358,
+    "changed_files": 19
+  },
+  "at_mobiles": []
+}
