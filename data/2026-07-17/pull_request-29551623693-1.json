@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-17T03:07:41.962622Z",
+  "title": "feat(event): add context compression event for frontend rendering",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2112",
+  "number": 2112,
+  "body": "## PR Title Format\n\nPlease ensure your PR title follows the Conventional Commits format:\n- Format: `<type>(<scope>): <description>`\n- Example: `feat(memory): add redis cache support`\n- Allowed types: …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "ecf49ce5234e3c4782034da28a7d5a8ac76993a8",
+    "base_ref": "main",
+    "additions": 422,
+    "deletions": 198,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
