@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "alex-mm",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-17T08:38:14.988325Z",
+  "title": "fix(tracing): avoid otel context detach error on cross-task stream close",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2077#issuecomment-5000816667",
+  "number": 2077,
+  "body": "Done, thanks! I ran `pre-commit run --all-files` locally and fixed the pylint issue in this PR (`__anext__()` -> `anext()`).\n\nThe latest PR head is `43bf61a2`. The GitHub Pre-commit workflow is curren…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "alex-mm",
+    "commenter": "alex-mm"
+  },
+  "at_mobiles": []
+}
