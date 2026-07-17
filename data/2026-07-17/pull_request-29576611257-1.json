@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "binyangzhu000-sudo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-17T11:22:24.837452Z",
+  "title": "Add Atlas Cloud chat model support",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2118",
+  "number": 2118,
+  "body": "## Summary\n- add `AtlasCloudCredential` with the Atlas Cloud OpenAI-compatible base URL\n- add `AtlasCloudChatModel` by reusing AgentScope's OpenAI Chat Completions implementation\n- add live-verified A…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "binyangzhu000-sudo",
+    "head_sha": "66e08f1eed6cf5a977a305316b8208ad820ae2c6",
+    "base_ref": "main",
+    "additions": 243,
+    "deletions": 0,
+    "changed_files": 9
+  },
+  "at_mobiles": []
+}
