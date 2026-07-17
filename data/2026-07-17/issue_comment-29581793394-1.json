@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "March-77",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-17T12:51:57.446753Z",
+  "title": "[Bug]: ReActAgent exits loop prematurely when LLM returns only thinking blocks (no text, no tool_use)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1596#issuecomment-5003470069",
+  "number": 1596,
+  "body": "I’d like to take this over with a fresh, focused patch based on the current main branch. The earlier PR #1606 is closed and included unrelated history; I’ll update the current Agent._reasoning_impl pa…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Sabrina0110",
+    "commenter": "March-77"
+  },
+  "at_mobiles": []
+}
