@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-18T05:15:29.719819Z",
+  "title": "fix(agent): recover runtime exceptions raised by tool transports (#1985)",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2023#issuecomment-5010033654",
+  "number": 2023,
+  "body": "Thanks for tracing the current call path. I agree the proposed test bypasses Toolkit.call_tool by mocking _acting directly, so it does not demonstrate an exception that can escape the toolkit's existi…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "RerankerGuo",
+    "commenter": "RerankerGuo"
+  },
+  "at_mobiles": []
+}
