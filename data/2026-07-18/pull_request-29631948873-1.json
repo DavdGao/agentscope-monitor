@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-18T05:15:28.237656Z",
+  "title": "fix(agent): recover runtime exceptions raised by tool transports (#1985)",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2023",
+  "number": 2023,
+  "body": "## Summary\n\nWraps the `_acting` iteration inside `Agent._execute_tool_call`\nwith a focused `try/except` so that runtime exceptions raised by\ntool transports (e.g. an MCP HTTP transport that bypasses t…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "RerankerGuo",
+    "head_sha": "851351a5f78dcc3711d9fcc1e7fecbecf8d8b4cd",
+    "base_ref": "main",
+    "additions": 344,
+    "deletions": 81,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
