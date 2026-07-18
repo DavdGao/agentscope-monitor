@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "Jupiter363",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-18T05:01:19.287962Z",
+  "title": "feat(webui): load older messages on scroll to top",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2109",
+  "number": 2109,
+  "body": "## AgentScope Version\n\n2.0.4.post1\n\n## Description\n\nFixes #2099\n\nThe Web UI previously loaded only the latest message page and ignored the\n`has_more` cursor returned by the sessions API. Long conversa…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Jupiter363",
+    "head_sha": "c53562c725ad9954eac72258d2d47a7d9ca48e38",
+    "base_ref": "main",
+    "additions": 176,
+    "deletions": 14,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
