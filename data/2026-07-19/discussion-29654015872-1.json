@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Liripo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-18T17:29:57.177404Z",
+  "title": "Bash 工具在windowns下不是很好用",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2125",
+  "number": 2125,
+  "body": "有什么好的方式能自动识别 windowns环境, 工具执行时自动使用powershell的命令",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "General",
+    "author": "Liripo"
+  },
+  "at_mobiles": []
+}
