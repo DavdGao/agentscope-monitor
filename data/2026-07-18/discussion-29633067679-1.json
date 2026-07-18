@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Miracle778",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-18T05:54:35.023476Z",
+  "title": "[Discussion]: permission decision-path observability",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2122",
+  "number": 2122,
+  "body": "## Context\n\nThis issue is split out from the discussion in #2000 and the review of #2001.\n\nAs suggested by @DavdGao in\n[this review comment](https://github.com/agentscope-ai/agentscope/pull/2001#issue…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "Miracle778"
+  },
+  "at_mobiles": []
+}
