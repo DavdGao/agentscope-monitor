@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-18T05:27:37.313612Z",
+  "title": "fix(webui): recover from stalled chat runs",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2121",
+  "number": 2121,
+  "body": "## Summary\n\n- publish a generic `chat_run_error` session event when an unhandled chat service failure is logged and swallowed\n- reset the WebUI reply phase and show a localized error without exposing …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "RerankerGuo",
+    "head_sha": "5f6c61bbcfc7fd8b7990e3bd4a78479218d550c6",
+    "base_ref": "main",
+    "additions": 145,
+    "deletions": 9,
+    "changed_files": 7
+  },
+  "at_mobiles": []
+}
