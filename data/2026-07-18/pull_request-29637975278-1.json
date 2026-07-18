@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "yuminshen",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-18T08:44:54.519082Z",
+  "title": "fix(app): prevent session SSE event loss during replay",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2124",
+  "number": 2124,
+  "body": "## AgentScope Version\n\n`2.0.4.post1` (base: `agentscope-ai/agentscope@30ca3ef`)\n\nFixes #2123.\n\n## Description\n\n### Problem\n\nThe session SSE route replayed the buffered log and ran team HITL projection…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "yuminshen",
+    "head_sha": "1773311adb193f71f413bd7d9b8f9dd3f6cb8e3e",
+    "base_ref": "main",
+    "additions": 172,
+    "deletions": 71,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
