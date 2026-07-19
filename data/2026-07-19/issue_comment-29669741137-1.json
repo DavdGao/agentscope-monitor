@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ahalamora1981",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-19T02:09:13.465168Z",
+  "title": "refactor(skill): update the agentscope skill for agentscope 2.0",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2044#issuecomment-5013777267",
+  "number": 2044,
+  "body": "It is very important. Even I walk through the 2.0 docs and can write 2.0 code by myself, I still prefer coding with agent and skill.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "ahalamora1981"
+  },
+  "at_mobiles": []
+}
