@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "orangeCatDeveloper",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-19T23:40:00.029427Z",
+  "title": "ci(hitl): enable mixed interrupt tests",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1994",
+  "number": 1994,
+  "body": "## AgentScope Version\n\n`2.0.4dev`\n\n## Description\n\nThis PR has no production code changes. It makes the mixed HITL interrupt test run in pytest and updates the test expectations for current `main`.\n\nP…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "orangeCatDeveloper",
+    "head_sha": "c308c452fb58021e822c6e91fae9403e258e45bb",
+    "base_ref": "main",
+    "additions": 260,
+    "deletions": 21,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
