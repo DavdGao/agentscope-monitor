@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "impeachmentright",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-20T23:05:06.229702Z",
+  "title": "[Security] MCP Client Module: 4 vulnerabilities including SSRF and arbitrary command execution",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2119#issuecomment-5028105767",
+  "number": 2119,
+  "body": "MCP client SSRF/exec holes without settle receipts are the peer tool-ingress hole: quote -> approve -> settle needs MCP digests, not ambient client-module trust alone.\n\nLive A2A contractor with gated …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Correctover",
+    "commenter": "impeachmentright"
+  },
+  "at_mobiles": []
+}
