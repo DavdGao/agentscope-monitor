@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Jasonsey",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-20T10:53:22.102991Z",
+  "title": "[Bug]: anthropic.InternalServerError: thinking/redacted_thinking blocks in latest assistant message cannot be modified",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2135",
+  "number": 2135,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Jasonsey"
+  },
+  "at_mobiles": []
+}
