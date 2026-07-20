@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "YingchaoX",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-20T15:52:44.314529Z",
+  "title": "feat(agent-team): add team worker report loop",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1841",
+  "number": 1841,
+  "body": "## AgentScope Version\n\n2.0.1\n\n## Description\n\nCloses #1797.\n\nThis PR adds a bounded report loop for Agent Team workers so a team member does not silently finish a task without notifying the leader.\n\nB…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "YingchaoX",
+    "head_sha": "3cfd85f9976fd97eddd96563a982d6c76f0d61b4",
+    "base_ref": "main",
+    "additions": 885,
+    "deletions": 18,
+    "changed_files": 7
+  },
+  "at_mobiles": []
+}
