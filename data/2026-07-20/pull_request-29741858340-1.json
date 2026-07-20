@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-20T12:21:01.164381Z",
+  "title": "feat(app): surface reply errors to the frontend",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2133",
+  "number": 2133,
+  "body": "A fatal error during a chat run (e.g. a model 403) tore the reply stream apart before it could emit a terminating ReplyEndEvent. Since POST /chat/ is fire-and-forget and the SSE stream is a long-lived…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "be2996d7ecd4c88c903c9f946e676faf1330cc42",
+    "base_ref": "main",
+    "additions": 455,
+    "deletions": 98,
+    "changed_files": 23
+  },
+  "at_mobiles": []
+}
