@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "Mrart",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-20T06:26:24.644093Z",
+  "title": "feat(rag): add elasticsearch vector store backend",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2129",
+  "number": 2129,
+  "body": "## AgentScope Version\n\n`2.0.4.post1`\n\n```bash\npython -c \"import agentscope; print(agentscope.__version__)\"\n\n## Description\n\nThis PR adds Elasticsearch as a vector database backend for AgentScope RAG.\n…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Mrart",
+    "head_sha": "c5603ea15450c0fe59828cc18d6962fdf8d7ad83",
+    "base_ref": "main",
+    "additions": 3154,
+    "deletions": 10,
+    "changed_files": 14
+  },
+  "at_mobiles": []
+}
