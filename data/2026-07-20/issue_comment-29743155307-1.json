@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Solaris-star",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-20T12:41:28.450333Z",
+  "title": "Avoid unconditional MCP gateway bootstrap for workspaces that do not use MCP",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2113#issuecomment-5022334077",
+  "number": 2113,
+  "body": "Opened a fix in https://github.com/agentscope-ai/agentscope/pull/2136 — skip MCP gateway bootstrap when no MCP is configured; start lazily on `add_mcp`.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "jwx0925",
+    "commenter": "Solaris-star"
+  },
+  "at_mobiles": []
+}
