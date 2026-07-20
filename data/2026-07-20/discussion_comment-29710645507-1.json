@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ofekron",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-20T01:14:49.300188Z",
+  "title": "[Discussion] App Channel & CLI Integration in AgentScope 2.0 — Do We Need Native Support?",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1834#discussioncomment-17693139",
+  "number": 1834,
+  "body": "Maintainer disclosure: I build [Better Agent](https://github.com/ofekron/better-agent), where backend-owned session state and durable offline actions have to survive frontend, provider, and process re…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "ofekron",
+    "discussion_author": "DavdGao"
+  },
+  "at_mobiles": []
+}
