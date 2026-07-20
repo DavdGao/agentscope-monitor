@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "PiedPiper911",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-20T05:04:19.569343Z",
+  "title": "fix(security): patch 4 MCP client vulnerabilities including SSRF and command injection",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2131",
+  "number": 2131,
+  "body": "## Summary\n\nThis PR patches **4 security vulnerabilities** in the MCP (Model Context Protocol) client module identified by @Correctover in #2119. Thank you for the thorough and well-documented securit…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "PiedPiper911",
+    "head_sha": "3b9185e66a14b1816ae6525eca8f4da1f747a1c6",
+    "base_ref": "main",
+    "additions": 431,
+    "deletions": 18,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
