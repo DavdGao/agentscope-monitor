@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-20T02:20:53.327864Z",
+  "title": "[Bug]: openai chat max_completion_tokens  not effective.",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2126#issuecomment-5018201886",
+  "number": 2126,
+  "body": "Fixed in #2065",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "SiqingZhu95",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
