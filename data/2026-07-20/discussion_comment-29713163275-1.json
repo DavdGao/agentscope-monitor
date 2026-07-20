@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-20T02:44:59.458664Z",
+  "title": "Introduce elasticsearch  as rag backend database",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2128#discussioncomment-17694119",
+  "number": 2128,
+  "body": "Thanks for the proposal! A pull request is welcome — feel free to submit one when you're ready.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "Mrart"
+  },
+  "at_mobiles": []
+}
