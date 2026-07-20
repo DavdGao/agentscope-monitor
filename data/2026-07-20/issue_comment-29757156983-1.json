@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "YingchaoX",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-20T15:53:20.674836Z",
+  "title": "feat(agent-team): add team worker report loop",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1841#issuecomment-5024244456",
+  "number": 1841,
+  "body": "Resolved the conflicts with the latest main and pushed merge commit 3cfd85f9.\n\nThe resolution also adapts the PR to the current codebase:\n- updated the renamed agentscope.app._tool import path;\n- alig…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "YingchaoX",
+    "commenter": "YingchaoX"
+  },
+  "at_mobiles": []
+}
