@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Mrart",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-20T01:50:42.719049Z",
+  "title": "Introduce elasticsearch  as rag backend database",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2128",
+  "number": 2128,
+  "body": "Elasticsearch is a commonly used vector database. AgentScope also supports Elasticsearch as a vector database.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "Mrart"
+  },
+  "at_mobiles": []
+}
