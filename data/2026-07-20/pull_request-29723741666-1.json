@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-20T07:10:10.416334Z",
+  "title": "feat(storage): support SQLAlchemy based storage",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2029",
+  "number": 2029,
+  "body": "## PR Title Format\n\nPlease ensure your PR title follows the Conventional Commits format:\n- Format: `<type>(<scope>): <description>`\n- Example: `feat(memory): add redis cache support`\n- Allowed types: …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "89fdf05be138c7021aa74713892ba461d7eb39e1",
+    "base_ref": "main",
+    "additions": 3788,
+    "deletions": 109,
+    "changed_files": 22
+  },
+  "at_mobiles": []
+}
