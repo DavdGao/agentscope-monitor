@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-20T13:26:10.750162Z",
+  "title": "fix(webui): auto-open task panel on updates",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2101#issuecomment-5022762181",
+  "number": 2101,
+  "body": "Thanks for the PR!\n\nWhile reviewing I noticed the change duplicates logic that already exists on\nthe backend: `StateChangeMiddleware` computes a hash to detect whether\n`tasks_context` changed, and thi…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "RerankerGuo",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
