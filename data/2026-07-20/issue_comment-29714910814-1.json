@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qiuC123",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-20T03:33:48.306725Z",
+  "title": "feat(powershell): add powershell-based tool for windows os",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2130#issuecomment-5018518665",
+  "number": 2130,
+  "body": "Hi , after reviewing current main, I propose reusing LocalBackend rather than adding LocalWindowsBackend. LocalBackend already uses argv-based subprocess execution, native os.* filesystem operations, …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "qiuC123"
+  },
+  "at_mobiles": []
+}
