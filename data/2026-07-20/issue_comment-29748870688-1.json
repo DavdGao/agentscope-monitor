@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-20T14:02:39.719162Z",
+  "title": "fix(webui): recover failed agent replies",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2115#issuecomment-5023112966",
+  "number": 2115,
+  "body": "Thanks for this, and apologies for the slow turnaround — you were first on #2110 and the diagnosis here is exactly right.\n\nSome context: #2133 has since merged and overlaps with part of this PR. It cl…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Jupiter363",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
