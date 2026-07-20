@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Mrart",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-20T02:22:51.527404Z",
+  "title": "feat(rag): add elasticsearch vector store backend",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2129",
+  "number": 2129,
+  "body": "## PR Title Format\n\nPlease ensure your PR title follows the Conventional Commits format:\n- Format: `<type>(<scope>): <description>`\n- Example: `feat(memory): add redis cache support`\n- Allowed types: …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Mrart",
+    "head_sha": "7c64fbc747b39771f5182564438682f618a8edfe",
+    "base_ref": "main",
+    "additions": 651,
+    "deletions": 10,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
