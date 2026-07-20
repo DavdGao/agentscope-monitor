@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qiuC123",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-20T06:18:23.392803Z",
+  "title": "feat(tool): add PowerShell support for Windows workspaces",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2132",
+  "number": 2132,
+  "body": "## Problem\n\n`LocalWorkspace` always exposes the Bash tool, so Windows agents do not get a native PowerShell command interface. Adding a separate Windows backend would duplicate process and filesystem …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "qiuC123",
+    "head_sha": "1ead9812da7525964a2b68b3f4d8d497155782c4",
+    "base_ref": "main",
+    "additions": 576,
+    "deletions": 14,
+    "changed_files": 7
+  },
+  "at_mobiles": []
+}
