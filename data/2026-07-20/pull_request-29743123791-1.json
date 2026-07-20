@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Solaris-star",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-20T12:40:57.354237Z",
+  "title": "fix(workspace): skip MCP gateway bootstrap when no MCP is configured",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2136",
+  "number": 2136,
+  "body": "## Summary\n`SandboxedWorkspaceBase.initialize()` always ran `_setup_mcp_gateway()`, which can install packages, create a venv, and health-check a FastAPI process — even when the workspace only needs B…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Solaris-star",
+    "head_sha": "26bdcb22fe401694bd32383049f4e97ae37c7a8d",
+    "base_ref": "main",
+    "additions": 37,
+    "deletions": 2,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
