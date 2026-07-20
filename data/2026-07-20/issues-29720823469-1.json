@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-20T06:08:57.301433Z",
+  "title": "fix(webui): increase textarea max visible rows and optimize input layout",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2098",
+  "number": 2098,
+  "body": "**Background**\n\nThe `TextInput` component's `<textarea>` currently has `rows={1}` and a `maxHeight` of `calc(1.5em * 6)` (~6 lines), but in practice the visible area feels too small for multi-line inp…",
+  "labels": [
+    "Help Wanted"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
