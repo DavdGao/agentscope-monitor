@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-20T02:43:37.749821Z",
+  "title": "Bash 工具在windowns下不是很好用",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2125#discussioncomment-17694100",
+  "number": 2125,
+  "body": "Refer to #2130",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "Liripo"
+  },
+  "at_mobiles": []
+}
