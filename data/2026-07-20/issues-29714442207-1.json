@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-20T03:20:32.547325Z",
+  "title": "[Bug]: ReActAgent exits loop prematurely when LLM returns only thinking blocks (no text, no tool_use)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1596",
+  "number": 1596,
+  "body": "**<u>AgentScope is an open-source project. To involve a broader community, we recommend asking your questions in English.</u>**\n\n**Describe the bug**\nIn _react_agent.py, the main ReAct loop's exit con…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "Sabrina0110"
+  },
+  "at_mobiles": []
+}
