@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-20T02:19:35.931928Z",
+  "title": "docs(tool): fix docstring formatting errors",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2127",
+  "number": 2127,
+  "body": "## Summary\n\nFixes four small docstring/Sphinx rendering defects in the stable `tool/` module. Documentation-only changes — no logic or public API is affected.\n\n- `_utils.py`: `_extract_input_schema` d…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "JOJOCrazy123",
+    "head_sha": "a7120bb1a713f4515c9837c0f86a13f8503b0366",
+    "base_ref": "main",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
