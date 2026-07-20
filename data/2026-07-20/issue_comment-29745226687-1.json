@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "MatthiasHowellYopp",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-20T13:12:16.792063Z",
+  "title": "[Feature]: Add Valkey vector store for RAG pipeline",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1627#issuecomment-5022621759",
+  "number": 1627,
+  "body": "Hoping for a review on the updated PR",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "MatthiasHowellYopp",
+    "commenter": "MatthiasHowellYopp"
+  },
+  "at_mobiles": []
+}
