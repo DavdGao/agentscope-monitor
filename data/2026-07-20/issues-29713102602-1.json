@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-20T02:43:11.620993Z",
+  "title": "feat(powershell): add powershell-based tool for windows os",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2130",
+  "number": 2130,
+  "body": "**Background**\n\nAgentScope currently lacks native support for PowerShell as a tool-building environment. Now that AgentScope 2.0 has entered a stable development phase, it is a good time to start cons…",
+  "labels": [
+    "Help Wanted"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
