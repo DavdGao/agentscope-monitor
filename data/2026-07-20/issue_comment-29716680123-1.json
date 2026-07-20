@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qiuC123",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-20T04:21:32.630109Z",
+  "title": "feat(powershell): add powershell-based tool for windows os",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2130#issuecomment-5018739105",
+  "number": 2130,
+  "body": "That split makes sense. For this PR, I’ll keep PowerShell permission behavior deliberately conservative: is_read_only = False, check_permissions() will return PASSTHROUGH, and I won’t reuse the Bash p…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "qiuC123"
+  },
+  "at_mobiles": []
+}
