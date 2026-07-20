@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-20T02:36:21.824168Z",
+  "title": "Bash 工具在windowns下不是很好用",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2125#discussioncomment-17694050",
+  "number": 2125,
+  "body": "@Liripo Thanks for pointing this out! Now that AgentScope 2.0 has entered a stable development phase, we can start looking into setting up PowerShell tool support. We'll keep this on our radar and fol…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "Liripo"
+  },
+  "at_mobiles": []
+}
