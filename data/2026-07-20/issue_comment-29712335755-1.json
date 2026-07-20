@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "helloJamest",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-20T02:18:21.348622Z",
+  "title": "fix(skill): expand user-home paths",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2053#issuecomment-5018190440",
+  "number": 2053,
+  "body": "Addressed both comments in 4719826:\n- LocalWorkspace.add_skill now normalizes incoming local skill paths before validation/copying, matching constructor-time skill_paths handling.\n- \test_expanduser_di…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "helloJamest",
+    "commenter": "helloJamest"
+  },
+  "at_mobiles": []
+}
