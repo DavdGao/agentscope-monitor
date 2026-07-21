@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Elucidator-hky",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-21T03:09:26.024329Z",
+  "title": "compress_context: structured summary relies on forced tool_choice; providers rejecting it (DeepSeek thinking) make compression fail probabilistically and kill the whole reply",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2137",
+  "number": 2137,
+  "body": "### Summary\n\n`Agent.compress_context()` generates its structured summary via `model.generate_structured_output()`, which relies on a **forced `tool_choice`**. Some providers reject forced tool_choice …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Elucidator-hky"
+  },
+  "at_mobiles": []
+}
