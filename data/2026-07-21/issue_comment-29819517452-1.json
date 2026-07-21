@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-21T09:45:21.281015Z",
+  "title": "如何为ReActAgent提供一套友好的web ui",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1695#issuecomment-5032483523",
+  "number": 1695,
+  "body": "> @DavdGao  同样的问题！ 创建agent没看到有发出任何请求\n> \n> <img width=\"1229\" height=\"620\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/1ac43dbe-346a-4a94-80e5-9046d1024638\" />\n\n@hackeryutu 这里有正确启动启动后端吗，…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "liangwp001",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
