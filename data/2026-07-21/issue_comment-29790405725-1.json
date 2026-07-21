@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "impeachmentright",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-21T00:29:10.922987Z",
+  "title": "Avoid unconditional MCP gateway bootstrap for workspaces that do not use MCP",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2113#issuecomment-5028783566",
+  "number": 2113,
+  "body": "Unconditional MCP gateway bootstrap without settle receipts is the peer gateway-opt-in hole: quote -> approve -> settle needs bootstrap digests, not ambient workspace MCP trust alone.\n\nLive A2A contra…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "jwx0925",
+    "commenter": "impeachmentright"
+  },
+  "at_mobiles": []
+}
