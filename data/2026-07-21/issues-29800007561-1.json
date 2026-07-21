@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-21T04:00:05.482638Z",
+  "title": "feat(tts): migrate the previous TTS models back to the new version",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1676",
+  "number": 1676,
+  "body": "## Background\n\nAgentScope has supported multiple tts models in previous versions. As we move toward 2.0, we plan to re-integrate and redesign this support to align with the new architecture.\n\n## Chang…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "qbc2016"
+  },
+  "at_mobiles": []
+}
