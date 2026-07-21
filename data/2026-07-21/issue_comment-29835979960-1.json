@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-21T13:46:40.767141Z",
+  "title": "feat(workspace): support apple container as workspace backend",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2068#issuecomment-5034824587",
+  "number": 2068,
+  "body": "@YingchaoX \nThanks for the detailed review — all three bugs confirmed and fixed:\n\n**1. `--` separator in `container exec`**\n\nApple Container's CLI treats `--` as the target executable rather than a de…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "iluv7",
+    "commenter": "iluv7"
+  },
+  "at_mobiles": []
+}
