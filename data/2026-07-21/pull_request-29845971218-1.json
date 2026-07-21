@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "March-77",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-21T15:52:18.174582Z",
+  "title": "fix(agent): omit attachments from compression input",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2146",
+  "number": 2146,
+  "body": "## Summary\n\n- replace non-text attachments with a fixed placeholder only in messages sent to context summarization\n- cover direct `DataBlock` content plus attachments nested in tool results and hints\n…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "March-77",
+    "head_sha": "59c9fc29323d7c5ca0b043139f469fc0e950e203",
+    "base_ref": "main",
+    "additions": 185,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
