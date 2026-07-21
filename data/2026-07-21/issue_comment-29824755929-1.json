@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "dongfeng3692",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-21T11:05:48.864140Z",
+  "title": "fix(model): reuse openai.AsyncClient across calls instead of new per call",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2063#issuecomment-5033184633",
+  "number": 2063,
+  "body": "1 单独处理Ollama  只是掩盖了问题，所以我觉得还是做好约束让一个loop有单独的client\n考虑到目前只有mem0 会单独产生一个loop，有没有可能mem0 也能复用主loop呢\n\n如果实在不行，可以让Mem0Middleware只接受 factory（构造函数）这个折中方案我觉得合理一点，这样可以避免误使用\n```\nMem0Middleware(\n    chat_model_fac…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "dongfeng3692",
+    "commenter": "dongfeng3692"
+  },
+  "at_mobiles": []
+}
