@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "MannXo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-21T11:08:17.508166Z",
+  "title": "feat(webui): publish chat component as a standalone npm package",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2045#issuecomment-5033206701",
+  "number": 2045,
+  "body": "Thanks @DavdGao . I went through the current `examples/web_ui` to ground this, so here are my thoughts on both:\n\n1. The chat UI in `web_ui` really splits into two layers, and I think only one of them …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "MannXo"
+  },
+  "at_mobiles": []
+}
