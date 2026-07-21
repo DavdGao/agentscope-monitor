@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "Jupiter363",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-21T14:30:12.704910Z",
+  "title": "fix(webui): recover failed agent replies",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2115",
+  "number": 2115,
+  "body": "## Summary\n\n- emit a terminal `ReplyEndEvent` with an error reason when an active agent reply fails, while preserving the original exception behavior\n- propagate non-completed reply reasons through me…",
+  "labels": [
+    "state: awaiting changes"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Jupiter363",
+    "head_sha": "b50456dcf9f615bd44ca1db9e1c8fe5bdcb31c5b",
+    "base_ref": "main",
+    "additions": 139,
+    "deletions": 10,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
