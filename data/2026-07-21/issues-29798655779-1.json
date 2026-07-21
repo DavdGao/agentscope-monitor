@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-21T03:29:37.229719Z",
+  "title": "feat(tts): implement Gemini TTS API",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1680",
+  "number": 1680,
+  "body": "**Background**\n\nThis issue tracks the implementation of Gemini TTS models in AgentScope 2.0, as part of the overall TTS module migration (blocked by #1678).\n\n**Task Breakdown**\n\n- Check the latest Gem…",
+  "labels": [
+    "Help Wanted"
+  ],
+  "assignees": [
+    "nuthalapativarun"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "qbc2016"
+  },
+  "at_mobiles": []
+}
