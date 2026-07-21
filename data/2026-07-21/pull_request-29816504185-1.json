@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-21T09:00:39.991264Z",
+  "title": "fix: disable thinking for structured output calls and add compression fallback",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2140",
+  "number": 2140,
+  "body": "## AgentScope Version\n\n2.0.4.post1\n\n## Description\n\n\nFixes intermittent `compress_context` / `generate_structured_output` failures when thinking mode is enabled (fixes #2137).\n\nRoot cause: Several pro…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "0b2edd044b1c5c50995fd41aed68127d1f8615e3",
+    "base_ref": "main",
+    "additions": 139,
+    "deletions": 56,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
