@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-21T04:18:04.793111Z",
+  "title": "Is AgentScope Studio available in v2?",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2066#discussioncomment-17709690",
+  "number": 2066,
+  "body": "@fivem AgentScope Studio is not supported in agentscope 2.0. Plz refer to our web ui for builtin frontend rending in `examples/web_ui`",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "fivem"
+  },
+  "at_mobiles": []
+}
