@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-21T04:29:45.215653Z",
+  "title": "[Discussion] Is it a cool idea to allow mixed group chat with multiple agents and users?",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2138",
+  "number": 2138,
+  "body": "**Background**\n\n- In the current main branch, we have supported agent teams and the ability to invite existing agents into a team chat.\n- Our agent service supports multi-tenancy natively.\n\nTaking thi…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
