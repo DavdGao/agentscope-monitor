@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "March-77",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-21T15:43:30.343122Z",
+  "title": "[Bug]: _compress_context_impl does not handle DataBlock before structured output",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2145#issuecomment-5036053859",
+  "number": 2145,
+  "body": "I’d like to work on this with a focused, provider-independent fix. I’ll sanitize only copies of messages selected for compression, replacing direct DataBlock content with a fixed text placeholder (wit…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "CGeekhl",
+    "commenter": "March-77"
+  },
+  "at_mobiles": []
+}
