@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "March-77",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-21T16:08:42.565641Z",
+  "title": "[Feature] Emit SSE event before/after compress_context() for better UX",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2144#issuecomment-5036297355",
+  "number": 2144,
+  "body": "I’ll work on a focused fix for this issue. The implementation will reuse the existing CustomEvent stream to emit started, completed, and failed context-compression statuses only after the compression …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "CGeekhl",
+    "commenter": "March-77"
+  },
+  "at_mobiles": []
+}
