@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-21T03:25:01.604678Z",
+  "title": "compress_context: structured summary relies on forced tool_choice; providers rejecting it (DeepSeek thinking) make compression fail probabilistically and kill the whole reply",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2137#issuecomment-5029816753",
+  "number": 2137,
+  "body": "@Elucidator-hky Thanks for your report, we will fix it as soon as possible and release it in 2.0.5",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Elucidator-hky",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
