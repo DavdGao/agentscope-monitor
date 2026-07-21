@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "CGeekhl",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-21T15:20:59.723226Z",
+  "title": "fix(tool): handle MCP connection failure gracefully in Toolkit",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2058",
+  "number": 2058,
+  "body": "## AgentScope Version\n\n2.0.4  (latest main, commit 1aeb03d)\n\n## Description\n\n**Bug**: In `Toolkit._get_available_tools()`, iterating over MCP clients has no error handling. If any single MCP service i…",
+  "labels": [
+    "state: under review",
+    "state: awaiting changes"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "CGeekhl",
+    "head_sha": "aa2da2d4aa526196f35cb0e363049753a8541567",
+    "base_ref": "main",
+    "additions": 167,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
