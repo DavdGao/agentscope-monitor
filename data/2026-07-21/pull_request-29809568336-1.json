@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-21T07:12:08.447689Z",
+  "title": "fix(anthropic): preserve redacted_thinking blocks in message round-trip",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2139",
+  "number": 2139,
+  "body": "## AgentScope Version\n\n2.0.4.post1\n\n## Description\n\nAnthropic's extended thinking API may return `redacted_thinking` content blocks alongside regular `thinking` blocks. These blocks must be replayed b…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "6db9c3a72c7db8c092f581c2c8c1ecbde97ea380",
+    "base_ref": "main",
+    "additions": 296,
+    "deletions": 20,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
