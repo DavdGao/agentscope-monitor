@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "March-77",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-21T16:17:11.946876Z",
+  "title": "feat(agent): emit context compression status events",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2147",
+  "number": 2147,
+  "body": "## Summary\n\n- emit `context_compression` custom events with `started`, `completed`, and `failed` statuses from the public reply stream\n- emit lifecycle events only when the compression threshold is ac…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "March-77",
+    "head_sha": "3c2d97eef4d66fa06732600845e97178e653be85",
+    "base_ref": "main",
+    "additions": 289,
+    "deletions": 2,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
