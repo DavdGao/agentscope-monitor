@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-21T09:19:30.837306Z",
+  "title": "feat(moonshot): add Kimi K3 model support",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2141",
+  "number": 2141,
+  "body": "## AgentScope Version\n\n2.0.4.post1\n\n## Description\n\nAdd Kimi K3 model card and adapt the Moonshot chat model to K3's API contract: use `max_completion_tokens` instead of `max_tokens`, replace the K2.x…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "1b80ce7fcaa270878e0aead20baa28438ea3cdc2",
+    "base_ref": "main",
+    "additions": 68,
+    "deletions": 7,
+    "changed_files": 7
+  },
+  "at_mobiles": []
+}
