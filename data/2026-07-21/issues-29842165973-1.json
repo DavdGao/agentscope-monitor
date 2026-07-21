@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "CGeekhl",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-21T15:04:03.080286Z",
+  "title": "[Bug]: _compress_context_impl does not handle DataBlock before structured output",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2145",
+  "number": 2145,
+  "body": "## Bug Description\n\n`_compress_context_impl` in `_agent.py` does not sanitize or skip `DataBlock` (image/audio) before passing messages to `generate_structured_output`. This causes:\n\n1. **Token waste*…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "CGeekhl"
+  },
+  "at_mobiles": []
+}
