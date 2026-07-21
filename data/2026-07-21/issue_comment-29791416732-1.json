@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "impeachmentright",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-21T00:49:59.156747Z",
+  "title": "feat(powershell): add powershell-based tool for windows os",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2130#issuecomment-5028930719",
+  "number": 2130,
+  "body": "Host tool surfaces without settle receipts is the peer capability hole: quote -> approve -> settle needs tool digests, not ambient PowerShell invoke trust alone.\n\nLive A2A contractor with gated tools:…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "impeachmentright"
+  },
+  "at_mobiles": []
+}
