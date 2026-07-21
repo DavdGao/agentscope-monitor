@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "YingchaoX",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-21T11:35:07.957726Z",
+  "title": "feat: add A2A agent client",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2142",
+  "number": 2142,
+  "body": "## AgentScope Version\n\nAgentScope `2.0.4.post1`\n\n```python\nimport agentscope\n\nprint(agentscope.__version__)\n# 2.0.4.post1\n```\n\n## Description\n\n### Background\n\nThis PR implements the client-side A2A in…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "YingchaoX",
+    "head_sha": "85a0c9659844d2607e04174aa113de39795e3b4d",
+    "base_ref": "main",
+    "additions": 2815,
+    "deletions": 0,
+    "changed_files": 9
+  },
+  "at_mobiles": []
+}
