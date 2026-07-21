@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "digitamaz",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-21T13:20:00.224694Z",
+  "title": "Clarvia AEO integration — tool quality validation for AgentScope MCP tools",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1389",
+  "number": 1389,
+  "body": "Hi AgentScope team! I'm building [Clarvia](https://clarvia.art) — a quality scoring platform for MCP tools and AI APIs (AEO: Agent Engine Optimization).\n\nAgentScope's focus on agents \"you can trust\" a…",
+  "labels": [
+    "stale-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "digitamaz"
+  },
+  "at_mobiles": []
+}
