@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Jupiter363",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-21T14:38:20.177767Z",
+  "title": "fix(webui): recover failed agent replies",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2115#issuecomment-5035371919",
+  "number": 2115,
+  "body": "@DavdGao Thanks for the detailed guidance. I have rebased the branch onto the latest `main` and updated the implementation according to your suggestions, including adopting the first-class `ReplyFinis…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Jupiter363",
+    "commenter": "Jupiter363"
+  },
+  "at_mobiles": []
+}
