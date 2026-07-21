@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "jinliyl",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-21T11:59:50.881165Z",
+  "title": "feat(agent): add reply-end self-compaction",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2143",
+  "number": 2143,
+  "body": "## AgentScope Version\n\n`2.0.4.post1`\n\n## Background\n\nAgentScope already has hard token-threshold context compression. PR #1962 proposed model-driven self-compaction so an agent could decide whether an…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "jinliyl",
+    "head_sha": "64672b0dfd58236b693935565ef8c17bd50ae2a3",
+    "base_ref": "main",
+    "additions": 642,
+    "deletions": 27,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
