@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-21T09:50:08.252036Z",
+  "title": "fix(rag): normalize Milvus Lite cosine scores",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2116#issuecomment-5032527923",
+  "number": 2116,
+  "body": "Thanks for looking into this! I noticed that #2089 already pinned `milvus-lite>=3.1.0` and removed the score conversion, since 3.1.0+ returns cosine similarity directly. If certain platform wheels sti…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "alex-mm",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
