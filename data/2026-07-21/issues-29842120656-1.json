@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "CGeekhl",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-21T15:03:32.186161Z",
+  "title": "[Feature] Emit SSE event before/after compress_context() for better UX",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2144",
+  "number": 2144,
+  "body": "## Problem\n\nWhen `compress_context()` is triggered (token count exceeds threshold), the operation blocks silently with no SSE event emitted to the frontend. Users see a \"thinking\" spinner but don't kn…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "CGeekhl"
+  },
+  "at_mobiles": []
+}
