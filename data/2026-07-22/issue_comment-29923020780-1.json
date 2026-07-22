@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "AmirF194",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-22T13:14:35.209985Z",
+  "title": "[Bug]: context-compression LLM call's token usage is never recorded anywhere",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2151#issuecomment-5046212304",
+  "number": 2151,
+  "body": "Thanks for the fast repro confirmation and for taking this on. Doing both seems right to me: recording onto state covers the direct compress_context() call you mentioned, and emitting from reply_strea…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "AmirF194",
+    "commenter": "AmirF194"
+  },
+  "at_mobiles": []
+}
