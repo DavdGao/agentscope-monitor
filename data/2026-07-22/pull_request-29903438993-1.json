@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-22T08:18:08.966757Z",
+  "title": "feat(agent): support structured output within the agent class",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2150",
+  "number": 2150,
+  "body": "## PR Title Format\n\nPlease ensure your PR title follows the Conventional Commits format:\n- Format: `<type>(<scope>): <description>`\n- Example: `feat(memory): add redis cache support`\n- Allowed types: …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "76580e98fc96eb2c90785c4390107c16b936e7b3",
+    "base_ref": "main",
+    "additions": 1383,
+    "deletions": 350,
+    "changed_files": 19
+  },
+  "at_mobiles": []
+}
