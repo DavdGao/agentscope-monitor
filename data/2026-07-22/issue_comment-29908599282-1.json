@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "zuojie2024",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-22T09:36:02.256771Z",
+  "title": "如何为ReActAgent提供一套友好的web ui",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1695#issuecomment-5044235443",
+  "number": 1695,
+  "body": "@hackeryutu 可以试试把启动服务的host从0.0.0.0改成127.0.0.1，这个方法在我这边work\n\nif __name__ == \"__main__\":\n    # Start the service\n    uvicorn.run(\n        \"main:app\",\n        host=\"127.0.0.1\",\n        port=8000,\n       …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "liangwp001",
+    "commenter": "zuojie2024"
+  },
+  "at_mobiles": []
+}
