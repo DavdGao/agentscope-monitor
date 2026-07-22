@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "nolanchic",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-22T12:15:57.505862Z",
+  "title": "fix(tracing): avoid cross-context detach on stream close",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2087#issuecomment-5045650998",
+  "number": 2087,
+  "body": "The only failing check is `test (macos-15, 3.11)`, and the single failing test is\n`rag_vdb_milvus_lite_test.py::MilvusLiteStoreTest::test_insert_and_search`\n(gRPC \"Method not implemented!\" → similarit…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "nolanchic",
+    "commenter": "nolanchic"
+  },
+  "at_mobiles": []
+}
