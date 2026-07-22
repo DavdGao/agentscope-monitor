@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "bjmajic",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-22T01:46:33.797383Z",
+  "title": "python 版本有 HarnessAgent 这个用法吗",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2149",
+  "number": 2149,
+  "body": "看宣传稿件：https://mp.weixin.qq.com/s/I9UgWmXZiHPPVKLNl9PO3A， 说Java分成了ReActAgent 和 HarnessAgent ，但是没有在仓库路找到，也没有相关文档的说明，不知道是不是误传。\n<img width=\"1644\" height=\"624\" alt=\"image\" src=\"https://github.com/user-atta…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "General",
+    "author": "bjmajic"
+  },
+  "at_mobiles": []
+}
