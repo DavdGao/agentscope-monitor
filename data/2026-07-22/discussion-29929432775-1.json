@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Ken-LK",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-22T14:37:05.688438Z",
+  "title": "agentscope-agui-scaffold — a native AgentScope 2.0 + AG-UI + assistant-ui starter, runs in 3 minutes with no model key",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2152",
+  "number": 2152,
+  "body": "Hi AgentScope community,\n\nI've been building on the new `AGUIProtocolMiddleware` and wanted to share a minimal scaffold I put together: **agentscope-agui-scaffold**.\n\n## Why\n\nWiring a native AgentScop…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Show and tell",
+    "author": "Ken-LK"
+  },
+  "at_mobiles": []
+}
