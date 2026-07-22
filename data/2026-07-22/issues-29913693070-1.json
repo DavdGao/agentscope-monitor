@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "AmirF194",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-22T10:54:32.489692Z",
+  "title": "[Bug]: context-compression LLM call's token usage is never recorded anywhere",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2151",
+  "number": 2151,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing issues and discussions, and this is not a duplicate.\n- [x] This is a bug, not a usage question.\n\n### Background / Description\n\nWhen an agent's con…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "AmirF194"
+  },
+  "at_mobiles": []
+}
