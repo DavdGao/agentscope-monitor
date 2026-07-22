@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qiboyu301-crypto",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-22T00:55:22.041481Z",
+  "title": "[Bug]:  Read→Edit loop in DockerWorkspace because ToolContext uses host getmtime",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2084#issuecomment-5040616987",
+  "number": 2084,
+  "body": "Hi @DavdGao, just following up on this PR. The checks still appear to be waiting for maintainer approval. The patch and regression tests are ready, and I’m happy to make any changes if needed. Thanks!",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "qiboyu301-crypto",
+    "commenter": "qiboyu301-crypto"
+  },
+  "at_mobiles": []
+}
