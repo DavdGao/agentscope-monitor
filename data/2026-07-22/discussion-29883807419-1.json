@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "bjmajic",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-22T01:42:08.187962Z",
+  "title": "python版本有 HarnessAgent 这个东西吗？",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2148",
+  "number": 2148,
+  "body": "python版本有 HarnessAgent 这个东西吗？ 我看https://mp.weixin.qq.com/s/I9UgWmXZiHPPVKLNl9PO3A中介绍 Java有这两个类\n<img width=\"1562\" height=\"536\" alt=\"image\" src=\"https://github.com/user-attachments/assets/f104eb5b-87da-…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "General",
+    "author": "bjmajic"
+  },
+  "at_mobiles": []
+}
