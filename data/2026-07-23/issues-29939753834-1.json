@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "zealonexp",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-22T16:50:31.243552Z",
+  "title": "[Bug] _json_loads_with_repair fails when models wrap tool_call args in markdown fences or XML tags",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2153",
+  "number": 2153,
+  "body": "## Bug Description\n\nWhen using models that wrap tool_call arguments in markdown code fences or append stray XML closing tags (e.g. GLM-5-Turbo, DeepSeek-V3), `_json_loads_with_repair()` fails with `JS…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "zealonexp"
+  },
+  "at_mobiles": []
+}
