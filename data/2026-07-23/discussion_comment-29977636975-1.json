@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-23T03:41:43.125622Z",
+  "title": "python 版本有 HarnessAgent 这个用法吗",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2149#discussioncomment-17743859",
+  "number": 2149,
+  "body": "@bjmajic In Python, all harness components are modular. For example, combining an Agent with its corresponding sandbox workspace gives you an agent capable of operating that specific harness. You can …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "bjmajic"
+  },
+  "at_mobiles": []
+}
