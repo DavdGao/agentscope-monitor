@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "AmirF194",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-23T20:55:49.546580Z",
+  "title": "fix(formatter): derive multimodal tool-result identifier from the block's own stable id",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2165",
+  "number": 2165,
+  "body": "## AgentScope Version\n\n2.0.5 (HEAD `999f64d`)\n\n## Description\n\n**Root cause.** `FormatterBase.convert_tool_result_to_string` promotes a multimodal\n`DataBlock` in a tool result by generating a fresh `i…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "AmirF194",
+    "head_sha": "f7a5605e10ec848ad32b580332837a47222c785c",
+    "base_ref": "main",
+    "additions": 52,
+    "deletions": 40,
+    "changed_files": 7
+  },
+  "at_mobiles": []
+}
