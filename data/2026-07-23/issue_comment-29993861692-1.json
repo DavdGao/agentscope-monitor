@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "zealonexp",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-23T09:06:04.585013Z",
+  "title": "[Bug] _json_loads_with_repair fails when models wrap tool_call args in markdown fences or XML tags",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2153#issuecomment-5056496121",
+  "number": 2153,
+  "body": "Thank you for the thorough verification! You're right — the `json_repair` fallback in `_json_loads_with_repair()` does handle these patterns correctly. I was able to confirm this:\n\n```\njson_repair==0.…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "zealonexp",
+    "commenter": "zealonexp"
+  },
+  "at_mobiles": []
+}
