@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Shaurya2k06",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-23T08:23:32.316315Z",
+  "title": "feat(tool): complete PowerShell permission checks and rule matching",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2160",
+  "number": 2160,
+  "body": "## AgentScope Version\n\n2.0.5\n\n## Description\n\n### Problem\n\nPR #2132 added the PowerShell tool but deferred command-level security. Three gaps remained vs Bash:\n\n1. `check_permissions` returned a flat …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Shaurya2k06",
+    "head_sha": "6e7aedc70123fcef9d70227a66bcf7396d242cb2",
+    "base_ref": "main",
+    "additions": 1253,
+    "deletions": 21,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
