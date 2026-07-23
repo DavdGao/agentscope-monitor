@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Shaurya2k06",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-23T08:24:21.341803Z",
+  "title": "feat(powershell): complete PowerShell permission checks, rule matching, and dynamic read-only",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2156#issuecomment-5056098207",
+  "number": 2156,
+  "body": "Let me know if the above PR is the right approach towards solving the issue! Happy to make changes if required.\ncc @DavdGao",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "Shaurya2k06"
+  },
+  "at_mobiles": []
+}
