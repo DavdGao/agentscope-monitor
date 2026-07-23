@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-23T03:45:49.719386Z",
+  "title": "[Bug]: skill paths using ~ are not expanded before loading or seeding skills",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2052",
+  "number": 2052,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing issues and discussions, and this is not a duplicate.\n- [x] This is a bug, not a usage question.\n\n### Background / Description\n\nAgentScope 2.0 supp…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "helloJamest"
+  },
+  "at_mobiles": []
+}
