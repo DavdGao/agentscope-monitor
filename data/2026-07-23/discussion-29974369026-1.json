@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "tingaicompass",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-23T02:25:42.175143Z",
+  "title": "[Question] When will AgentScope 2.0.5dev be released?",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2155",
+  "number": 2155,
+  "body": "Hello team,\nI’m writing to inquire about the estimated release date of AgentScope version 2.0.5dev.\nOur team is preparing to upgrade to this version to adopt newly added features and bug fixes. \n\nIt w…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "General",
+    "author": "tingaicompass"
+  },
+  "at_mobiles": []
+}
