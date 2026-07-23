@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-23T03:49:49.506212Z",
+  "title": "fix(tool): handle MCP connection failure gracefully in Toolkit",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2058#issuecomment-5054102114",
+  "number": 2058,
+  "body": "@CGeekhl Plz fix the error within the unittests so that we can merge this PR",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "CGeekhl",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
