@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-23T03:57:27.433294Z",
+  "title": "fix: strip markdown fences and XML tag pollution from tool_call arguments",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2154#issuecomment-5054159300",
+  "number": 2154,
+  "body": "@zealonexp plz refer to the comments in issue #2153.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "zealonexp",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
