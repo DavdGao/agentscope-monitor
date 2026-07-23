@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-23T03:01:26.671471Z",
+  "title": "chore(version): bump version to 2.0.5 and reorganize optional dependencies",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2157",
+  "number": 2157,
+  "body": "## Description\n\n1. Bump the Python package version from `2.0.4.post1` to `2.0.5`.\n2. Reorganize `[project.optional-dependencies]` into a consistent two-tier scheme:\n   - **Fine-grained per-backend ext…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "cf3e244d5751b5f080f13152c7a42da120a4145a",
+    "base_ref": "main",
+    "additions": 80,
+    "deletions": 68,
+    "changed_files": 11
+  },
+  "at_mobiles": []
+}
