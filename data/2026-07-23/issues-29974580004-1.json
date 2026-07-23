@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-23T02:30:39.771293Z",
+  "title": "feat(tool): complete PowerShell permission checks, rule matching, and dynamic read-only",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2156",
+  "number": 2156,
+  "body": "**Background**\n\nPR #2132 added the PowerShell tool but deferred all command-level security. Three gaps remain vs. `Bash`:\n\n1. `check_permissions` returns a flat ASK for every command — no read-only au…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
