@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Trefoi1",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-23T14:18:30.754191Z",
+  "title": "Proposal: Optional Agent Status Bar middleware for dynamic runtime context",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2163",
+  "number": 2163,
+  "body": "```md\n## Motivation\n\nDuring long tool-use trajectories, an agent often needs to repeatedly infer\nruntime facts from conversation history, such as:\n\n- how many times a tool has been called;\n- which tas…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "Trefoi1"
+  },
+  "at_mobiles": []
+}
