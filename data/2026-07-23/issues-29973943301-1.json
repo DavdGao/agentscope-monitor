@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-23T02:15:50.825964Z",
+  "title": "feat(powershell): add powershell-based tool for windows os",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2130",
+  "number": 2130,
+  "body": "### Discussed in https://github.com/agentscope-ai/agentscope/discussions/2125\n\n<div type='discussions-op-text'>\n\n<sup>Originally posted by **Liripo** July 19, 2026</sup>\n有什么好的方式能自动识别 windowns环境, 工具执行时…",
+  "labels": [
+    "Help Wanted"
+  ],
+  "assignees": [
+    "qiuC123"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
