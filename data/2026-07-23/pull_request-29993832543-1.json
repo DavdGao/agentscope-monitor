@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "zealonexp",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-23T09:05:37.884627Z",
+  "title": "fix: strip markdown fences and XML tag pollution from tool_call arguments",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2154",
+  "number": 2154,
+  "body": "## Description\n\nFixes #2153\n\nSome models (GLM-5-Turbo, DeepSeek-V3) wrap tool_call JSON arguments in markdown code fences or append stray XML closing tags from their training format, causing `json.loa…",
+  "labels": [
+    "state: needs clarification"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "zealonexp",
+    "head_sha": "f0d668ea9d30c6ac05e6bac97bbe450ee297b872",
+    "base_ref": "main",
+    "additions": 30,
+    "deletions": 1,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
