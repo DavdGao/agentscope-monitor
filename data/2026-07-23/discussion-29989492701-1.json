@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "18626237821-afk",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-23T07:52:27.656381Z",
+  "title": "[Feature]: Explore integration with Open Knowledge Format (OKF)",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2159",
+  "number": 2159,
+  "body": "## Background\n\nOn June 12, 2026, Google Cloud introduced the Open Knowledge Format (OKF), an open and vendor-neutral specification for representing structured knowledge using Markdown files with YAML …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "18626237821-afk"
+  },
+  "at_mobiles": []
+}
