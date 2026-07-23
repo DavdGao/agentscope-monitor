@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "izualzhy",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-23T14:57:15.079369Z",
+  "title": "Support Redis Vector Search as a VDBStore backend",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2164",
+  "number": 2164,
+  "body": "## Feature Request\n\nIt would be great if AgentScope could support Redis Vector Search as a `VDBStore` backend.\n\nMany users already have Redis deployed in production. Supporting Redis would allow them …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "izualzhy"
+  },
+  "at_mobiles": []
+}
