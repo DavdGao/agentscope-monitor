@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-23T02:47:43.883278Z",
+  "title": "chore(version): bump version to 2.0.5",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2157",
+  "number": 2157,
+  "body": "## Description\n\nBump the Python package version from `2.0.4.post1` to `2.0.5`.\n\n## Checklist\n\n- [x] Version updated in `src/agentscope/_version.py`",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "cf3e244d5751b5f080f13152c7a42da120a4145a",
+    "base_ref": "main",
+    "additions": 80,
+    "deletions": 68,
+    "changed_files": 11
+  },
+  "at_mobiles": []
+}
