@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-23T03:47:13.534903Z",
+  "title": "feat(workspace): support Bubblewrap as a workspace backend for Linux desktop deployment",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2036",
+  "number": 2036,
+  "body": "## Background\n\n**Bubblewrap** (`bwrap`) is a lightweight, unprivileged sandbox tool for **Linux**, built on top of Linux namespaces and seccomp. As our agent service is deployed in Linux-based environ…",
+  "labels": [
+    "Help Wanted"
+  ],
+  "assignees": [
+    "Trefoi1"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
