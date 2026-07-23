@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-23T03:47:12.343306Z",
+  "title": "feat(workspace): add bubblewrap workspace backend",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2051",
+  "number": 2051,
+  "body": "## AgentScope Version\n\n`2.0.4.dev0`\n\n## Description\n\nFixes #2036\n\nThis PR adds a Linux-only Bubblewrap workspace backend for isolated command\nexecution and workspace management without requiring root …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "Trefoi1",
+    "head_sha": "286ee7a20a5901a7bc11da5b4f4f2ca9b1509570",
+    "base_ref": "main",
+    "additions": 3489,
+    "deletions": 13,
+    "changed_files": 13
+  },
+  "at_mobiles": []
+}
