@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "mavdol",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-23T09:31:43.388033Z",
+  "title": "Suggest Vpod as a WebAssembly‑based local workspace backend",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1944#discussioncomment-17748421",
+  "number": 1944,
+  "body": "Hi @DavdGao, I've made some progress on `Vpod` and I wonder if it's still an option for AgentScope. It's now faster overall, and `uv` is included by default alongside `apk`, so package installs are a …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "mavdol",
+    "discussion_author": "mavdol"
+  },
+  "at_mobiles": []
+}
