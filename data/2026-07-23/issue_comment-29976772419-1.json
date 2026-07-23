@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-23T03:21:15.239523Z",
+  "title": "[Bug]: context-compression LLM call's token usage is never recorded anywhere",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2151#issuecomment-5053937172",
+  "number": 2151,
+  "body": "@nolanchic Thanks for the detailed report and for offering to take this on — much appreciated!\n\nWe'd suggest splitting the fix into two separate PRs:\n\n1. **Record the compression call's usage into the…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "AmirF194",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
