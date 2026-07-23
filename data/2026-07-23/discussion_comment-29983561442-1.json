@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Ken-LK",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-23T05:57:17.845771Z",
+  "title": "agentscope-agui-scaffold — a native AgentScope 2.0 + AG-UI + assistant-ui starter, runs in 3 minutes with no model key",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2152#discussioncomment-17745171",
+  "number": 2152,
+  "body": "@DavdGao Thanks for the detailed answer, that's really helpful and reassuring!\n\nGood to know `name`-based multi-agent identity is foundational rather than a middleware-layer detail — that answers the …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "Ken-LK",
+    "discussion_author": "Ken-LK"
+  },
+  "at_mobiles": []
+}
