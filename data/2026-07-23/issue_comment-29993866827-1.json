@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "zealonexp",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-23T09:06:07.893625Z",
+  "title": "fix: strip markdown fences and XML tag pollution from tool_call arguments",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2154#issuecomment-5056496630",
+  "number": 2154,
+  "body": "Closing this PR — the issue was invalid. `_json_loads_with_repair()` already handles JSON pollution via the `json_repair` fallback. The actual root cause was a QwenPaw `role=\"system\"` injection bug (Q…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "zealonexp",
+    "commenter": "zealonexp"
+  },
+  "at_mobiles": []
+}
