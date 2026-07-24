@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "March-77",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-24T07:17:15.363225Z",
+  "title": "[Bug]: OpenAIChatFormatter: orphaned role=\"tool\" message when self-paired Msg has empty content_blocks/tool_calls",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2067#issuecomment-5067188827",
+  "number": 2067,
+  "body": "I rechecked the current agent flow and agree with the maintainer analysis: the reported formatter shape can be constructed manually, but I could not find a reachable path that interleaves a `HintBlock…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Heavae",
+    "commenter": "March-77"
+  },
+  "at_mobiles": []
+}
