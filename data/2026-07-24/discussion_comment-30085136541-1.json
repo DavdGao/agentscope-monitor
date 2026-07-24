@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-24T10:08:52.140352Z",
+  "title": "在执行工具的过程中，无反馈，用户长时间等待，体验差",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2168#discussioncomment-17763614",
+  "number": 2168,
+  "body": "@TtonyLiang Sorry, I can't see your picture.\n\nIn the agent service (`agentscope.app`), if a tool execution exceeds a certain time threshold, it is converted to a background task. The agent is then not…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "TtonyLiang"
+  },
+  "at_mobiles": []
+}
