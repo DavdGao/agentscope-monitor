@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-24T10:11:25.180058Z",
+  "title": "Support Redis Vector Search as a VDBStore backend",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2164#discussioncomment-17763651",
+  "number": 2164,
+  "body": "@izualzhy Thanks for pointing that out. Redis is a popular and widely used database, and we have turned this discussion into a roadmap issue.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "izualzhy"
+  },
+  "at_mobiles": []
+}
