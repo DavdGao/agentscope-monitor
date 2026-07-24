@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-24T09:40:44.997995Z",
+  "title": "fix(ui): distinguish credentials by name in TTS and fallback model selectors",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2169",
+  "number": 2169,
+  "body": "## AgentScope Version\n\n2.0.5\n\n## Description\n\nWhen multiple credentials of the same type exist, the TTS and fallback model selectors in ModelParametersPopover previously displayed a flat list of model…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "2b6572a79d347d5599b27339dc590dfd29d0ec24",
+    "base_ref": "main",
+    "additions": 224,
+    "deletions": 88,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
