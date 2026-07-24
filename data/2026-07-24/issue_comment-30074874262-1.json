@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "March-77",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-24T07:15:55.670083Z",
+  "title": "feat(service): support sharing agent with MCPs and skills",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2042#issuecomment-5067178581",
+  "number": 2042,
+  "body": "I reviewed the current `main` implementation and would be happy to implement this once the ownership/secret semantics are confirmed. A focused design would keep workspaces isolated and add versioned, …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "March-77"
+  },
+  "at_mobiles": []
+}
