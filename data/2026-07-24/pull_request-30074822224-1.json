@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "March-77",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-24T07:14:53.431733Z",
+  "title": "fix(agent): avoid duplicate external tool start event",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2167",
+  "number": 2167,
+  "body": "Fixes #2166\n\n## AgentScope Version\n\n2.0.5 (current `main`)\n\n## Problem and root cause\n\nExternal tools emit `ToolResultStartEvent` when they are allowed, then transition from `ALLOWED` to `SUBMITTED` w…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "March-77",
+    "head_sha": "397e17f3ed36ad6b52a97f74f876e1ddde06e9e5",
+    "base_ref": "main",
+    "additions": 20,
+    "deletions": 7,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
