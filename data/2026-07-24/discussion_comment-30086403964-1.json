@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-24T10:30:36.516569Z",
+  "title": "Proposal: Optional Agent Status Bar middleware for dynamic runtime context",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2163#discussioncomment-17763958",
+  "number": 2163,
+  "body": "@Trefoi1 Thanks for the proposal! This is a great point, and it reminds me of the idea in #2134, which injects contextual information such as the current time, context length, and a todo list (plan) i…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "Trefoi1"
+  },
+  "at_mobiles": []
+}
