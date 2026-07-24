@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "sunrong1",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-24T02:26:10.885698Z",
+  "title": "[Bug]: _agent.py -Duplicate ToolResultStartEvent emitted for external tool on interruption",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2166",
+  "number": 2166,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "sunrong1"
+  },
+  "at_mobiles": []
+}
