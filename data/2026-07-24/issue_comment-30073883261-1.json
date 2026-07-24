@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "March-77",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-24T06:58:09.738610Z",
+  "title": "[Bug]: _agent.py -Duplicate ToolResultStartEvent emitted for external tool on interruption",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2166#issuecomment-5067036724",
+  "number": 2166,
+  "body": "I’d like to work on this with a focused lifecycle fix. I’ll first add a regression test for interrupting an external tool while it is in `SUBMITTED`, asserting that the existing `ToolResultStartEvent`…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "sunrong1",
+    "commenter": "March-77"
+  },
+  "at_mobiles": []
+}
