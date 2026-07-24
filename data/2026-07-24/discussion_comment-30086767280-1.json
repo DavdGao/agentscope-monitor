@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-24T10:36:52.416881Z",
+  "title": "[Feature]: Explore integration with Open Knowledge Format (OKF)",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2159#discussioncomment-17764043",
+  "number": 2159,
+  "body": "@18626237821-afk Thanks for bringing this up! We're not very familiar with OKF yet — after a quick look at the introduction, it does seem quite similar to the concept of anthropic **skill**?\n\nWe appre…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "18626237821-afk"
+  },
+  "at_mobiles": []
+}
