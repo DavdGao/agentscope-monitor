@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-24T10:44:31.936754Z",
+  "title": "[Discussion] App Channel & CLI Integration in AgentScope 2.0 — Do We Need Native Support?",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1834#discussioncomment-17764149",
+  "number": 1834,
+  "body": "@ofekron Thanks for your suggestions! @qbc2016 Could you please take a look at the comments here and check whether there are any issues with the implementation in #1997?",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "DavdGao"
+  },
+  "at_mobiles": []
+}
