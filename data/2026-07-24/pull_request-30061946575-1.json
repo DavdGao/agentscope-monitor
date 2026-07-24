@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-24T02:33:54.393194Z",
+  "title": "feat(tts): add voice profile management with cloud TTS voice cloning",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2162",
+  "number": 2162,
+  "body": "## AgentScope Version\n\n2.0.4.post1\n\n## Description\n\n### Backend\n- New `VoiceProfileData`/`VoiceProfileRecord` storage models with engine constants\n- Full CRUD router with duplicate-name checks and eng…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "2aea852b726fae21c4814503e98cb36a40c9eba5",
+    "base_ref": "main",
+    "additions": 2752,
+    "deletions": 162,
+    "changed_files": 31
+  },
+  "at_mobiles": []
+}
