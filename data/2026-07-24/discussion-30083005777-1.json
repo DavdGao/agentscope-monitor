@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "TtonyLiang",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-24T09:33:37.367929Z",
+  "title": "在执行工具的过程中，无反馈，用户长时间等待，体验差",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2168",
+  "number": 2168,
+  "body": "场景：用户输入 文生图的需求，agent会先执行输出一段，中间会停止输出，然后在任务完成后 再继续输出\n\n这样中间停顿  不知死活，对用户体验来说 不太好，\n请问各位老师是怎么优化的？\n![Uploading 235850E6-A374-496E-8604-F78DA07C6569.png…]()",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "TtonyLiang"
+  },
+  "at_mobiles": []
+}
