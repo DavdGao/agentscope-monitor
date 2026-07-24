@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-24T10:11:48.862446Z",
+  "title": "feat(rag): support Redis vector search as a VDBStore backend",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2170",
+  "number": 2170,
+  "body": "### Discussed in https://github.com/agentscope-ai/agentscope/discussions/2164\n\n<div type='discussions-op-text'>\n\n<sup>Originally posted by **izualzhy** July 23, 2026</sup>\n## Feature Request\n\nIt would…",
+  "labels": [
+    "Help Wanted"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
