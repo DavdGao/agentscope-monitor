@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-24T10:39:58.669931Z",
+  "title": "Can this framework be used without Redis? Are there any alternative solutions?",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2028#discussioncomment-17764076",
+  "number": 2028,
+  "body": "Update: finished in #2029 and integrated in 2.0.5",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "SnowFlowers"
+  },
+  "at_mobiles": []
+}
