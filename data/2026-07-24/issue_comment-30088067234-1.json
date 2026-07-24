@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iamroylim",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-24T11:00:04.270206Z",
+  "title": "feat(rag): support Redis vector search as a VDBStore backend",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2170#issuecomment-5069115467",
+  "number": 2170,
+  "body": "I’d like to take this on. Before implementation, I’ll map the existing VDBStore contract and propose a focused Redis backend covering index creation, insert, similarity search, metadata filtering, del…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "iamroylim"
+  },
+  "at_mobiles": []
+}
