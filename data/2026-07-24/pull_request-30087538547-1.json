@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-24T10:50:19.331757Z",
+  "title": "feat(webui): refactor chat pages with shadcn and prepare for npm release",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2171",
+  "number": 2171,
+  "body": "## PR Title Format\n\nPlease ensure your PR title follows the Conventional Commits format:\n- Format: `<type>(<scope>): <description>`\n- Example: `feat(memory): add redis cache support`\n- Allowed types: …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "944526517541c9649fd1a93b714abbe3224ebb59",
+    "base_ref": "main",
+    "additions": 2821,
+    "deletions": 736,
+    "changed_files": 32
+  },
+  "at_mobiles": []
+}
