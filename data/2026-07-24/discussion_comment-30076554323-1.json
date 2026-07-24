@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "bjmajic",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-24T07:46:12.185343Z",
+  "title": "python 版本有 HarnessAgent 这个用法吗",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2149#discussioncomment-17761453",
+  "number": 2149,
+  "body": "thanks,  i  got it",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "bjmajic",
+    "discussion_author": "bjmajic"
+  },
+  "at_mobiles": []
+}
