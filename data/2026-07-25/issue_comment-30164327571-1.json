@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "zhanghj-java",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-25T15:47:48.494085Z",
+  "title": "IndexWorker blocks the event loop: lifespan never wires up parser_executor (CPU parsers run in the loop thread)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2176#issuecomment-5079123159",
+  "number": 2176,
+  "body": "Update: a small correction to the workaround snippet above — `ProcessPoolExecutor` does not accept `thread_name_prefix` (that's `ThreadPoolExecutor` only). The correct workaround is:\n\n```python\n_share…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "zhanghj-java",
+    "commenter": "zhanghj-java"
+  },
+  "at_mobiles": []
+}
