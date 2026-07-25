@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "zhanghj-java",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-25T02:46:03.560243Z",
+  "title": "[Bug]: Concurrent PATCH sessions causes data loss",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2172",
+  "number": 2172,
+  "body": "## Description\n\nThe `PATCH /sessions/{session_id}` endpoint implements a read-modify-write pattern without any concurrency control:\n\n```python\n# agentscope/app/_router/_session.py\nasync def update_ses…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "zhanghj-java"
+  },
+  "at_mobiles": []
+}
