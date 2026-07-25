@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "zhanghj-java",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-25T15:44:35.532727Z",
+  "title": "IndexWorker blocks the event loop: lifespan never wires up parser_executor (CPU parsers run in the loop thread)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2176",
+  "number": 2176,
+  "body": "## Summary\n\n`IndexWorker` already accepts a `parser_executor: ProcessPoolExecutor | None` parameter (the `_parse` method routes to `loop.run_in_executor(...)` when it's not `None`), but `agentscope.ap…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "zhanghj-java"
+  },
+  "at_mobiles": []
+}
