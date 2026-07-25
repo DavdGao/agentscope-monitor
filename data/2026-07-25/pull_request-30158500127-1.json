@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "logicwu0",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-25T12:45:50.622843Z",
+  "title": "fix(app): serialize concurrent session updates",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2175",
+  "number": 2175,
+  "body": "## AgentScope Version\n\n2.0.5\n\n## Description\n\nFixes #2172\n\nConcurrent session PATCH requests could read the same snapshot and overwrite each other's changes during the read-merge-write sequence.\n\nThis…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "logicwu0",
+    "head_sha": "b60dc7350e09e41f5a1026b8c62a1943416a57e5",
+    "base_ref": "main",
+    "additions": 215,
+    "deletions": 44,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
