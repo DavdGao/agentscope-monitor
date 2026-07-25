@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "AmirF194",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-25T08:46:38.798821Z",
+  "title": "fix(formatter): make unsupported-media Base64Source temp file path deterministic",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2174",
+  "number": 2174,
+  "body": "## PR Title Format\n\n`fix(formatter): make unsupported-media Base64Source temp file path deterministic`\n\n## AgentScope Version\n\n2.0.5 (HEAD `999f64d`)\n\n## Description\n\n**Root cause.** `FormatterBase.co…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "AmirF194",
+    "head_sha": "228b9e31237a58c7300d23191c1273cc9d213d99",
+    "base_ref": "main",
+    "additions": 60,
+    "deletions": 11,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
