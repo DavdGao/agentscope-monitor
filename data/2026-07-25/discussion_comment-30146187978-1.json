@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Trefoi1",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-25T05:41:16.693317Z",
+  "title": "Proposal: Optional Agent Status Bar middleware for dynamic runtime context",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2163#discussioncomment-17776119",
+  "number": 2163,
+  "body": "Thanks for the thoughtful feedback. I agree that general environment information such as the current time fits well with the existing agent-level injection mechanism. The additional value I have in mi…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "Trefoi1",
+    "discussion_author": "Trefoi1"
+  },
+  "at_mobiles": []
+}
