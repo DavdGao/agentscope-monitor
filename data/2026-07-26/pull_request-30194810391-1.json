@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "AmirF194",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-26T08:32:47.959307Z",
+  "title": "fix(app): wire a ProcessPoolExecutor into the embedded IndexWorker",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2179",
+  "number": 2179,
+  "body": "## Problem\n\n`lifespan()` constructs the embedded `IndexWorker` without a `parser_executor`:\n\n```python\nworker = IndexWorker(\n    storage=storage,\n    blob_store=blob_store,\n    knowledge_base_manager=…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "AmirF194",
+    "head_sha": "9bdeec82ebf337b1cf04d15cd3f4a6712d34860c",
+    "base_ref": "main",
+    "additions": 310,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
