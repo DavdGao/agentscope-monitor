@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "KXHXK",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-26T07:51:42.270787Z",
+  "title": "[Bug]: ToolResponse can downgrade an error state when appending later chunks",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2177",
+  "number": 2177,
+  "body": "## Prerequisites\n\n- [x] I searched existing issues, discussions, and open/closed pull requests; I did not find a duplicate.\n- [x] This is a bug rather than a usage question.\n\n## Background / Descripti…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "KXHXK"
+  },
+  "at_mobiles": []
+}
