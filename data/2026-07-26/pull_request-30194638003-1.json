@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "KXHXK",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-26T08:26:59.469459Z",
+  "title": "fix(tool): preserve error state in tool responses",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2178",
+  "number": 2178,
+  "body": "## AgentScope Version\n\n2.0.5 (current `main` at `999f64d`)\n\n## Description\n\n`ToolResponse.append_chunk()` could replace an existing `ERROR` state with a later `INTERRUPTED` or `DENIED` chunk, even tho…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "KXHXK",
+    "head_sha": "5b8d86595639e22e224c057047e97024288ef2f6",
+    "base_ref": "main",
+    "additions": 35,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
