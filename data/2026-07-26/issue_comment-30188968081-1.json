@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "faisalishfaq2005",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-26T05:11:13.375114Z",
+  "title": "fix(state): refresh read file cache recency on access",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1811#issuecomment-5082150992",
+  "number": 1811,
+  "body": "Hi @DavdGao ! 👋\n\nJust a gentle follow-up on this PR whenever you have a chance. I'd really appreciate a review when time permits.\n\nThis PR fixes the LRU behavior of the `ToolContext` file cache by ref…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "faisalishfaq2005",
+    "commenter": "faisalishfaq2005"
+  },
+  "at_mobiles": []
+}
