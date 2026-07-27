@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "AmirF194",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-27T18:22:57.396715Z",
+  "title": "[Bug]: ToolResponse can downgrade an error state when appending later chunks",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2177#issuecomment-5095145910",
+  "number": 2177,
+  "body": "Reproduced at HEAD `27b6a0d2` (Python 3.12.13, clean `python:3.12-slim` container, `pip install -e .`):\n\n```\nstate after ERROR then INTERRUPTED: interrupted\nAssertionError: expected ERROR, got interru…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "KXHXK",
+    "commenter": "AmirF194"
+  },
+  "at_mobiles": []
+}
