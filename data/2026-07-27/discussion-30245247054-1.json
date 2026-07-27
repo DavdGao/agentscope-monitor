@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "shenhaitao010",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-27T07:11:48.131181Z",
+  "title": "AgentScope agent_service webui bypass 本地命令执行失败",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2181",
+  "number": 2181,
+  "body": "使用 AgentScope agent_service 配套 WebUI，开启 bypass 模式绕过内置沙箱直接执行本地系统命令时，所有本地执行相关调用全部失败，无法运行本地 shell、python 脚本、系统指令。\n![Uploading 微信截图_20260727150743.png…]()",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "General",
+    "author": "shenhaitao010"
+  },
+  "at_mobiles": []
+}
