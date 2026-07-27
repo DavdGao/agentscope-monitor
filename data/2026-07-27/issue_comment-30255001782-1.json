@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-27T09:41:27.949699Z",
+  "title": "feat(agent-team): add team worker report loop",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1841#issuecomment-5089764087",
+  "number": 1841,
+  "body": "Nice work — the interception point is correct (`_reasoning_impl` only yields a `Msg` when there are no tool calls, and the content is already in context via `_save_to_context`, so nothing is lost). Fo…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "YingchaoX",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
