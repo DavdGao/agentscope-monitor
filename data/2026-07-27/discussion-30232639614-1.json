@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "lironghai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-27T02:38:10.290688Z",
+  "title": "是否可以提供类似workbuddy 的前端UI界面，agent管理、skill专家包、mcp等成熟前端界面",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2180",
+  "number": 2180,
+  "body": "是否可以提供类似workbuddy 的前端UI界面，agent管理、skill专家包、mcp等成熟前端界面；\n我们在使用时发现，在应用时不是缺少agent框架和平台，而是缺少agent生态agent市场插件，因为作为agent框架可选择性很多功能都大差不差，但是对于生态的支持减轻外部工具接入难度差异明细，这也作为我们选择框架的关注点，例如是否能快速接入飞书、tapd、外部知识库pai等",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "lironghai"
+  },
+  "at_mobiles": []
+}
