@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-27T03:10:34.390436Z",
+  "title": "feat(workspace): support apple container as workspace backend",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2035",
+  "number": 2035,
+  "body": "## Background\n\nApple recently introduced **Apple Container**, a lightweight, native sandbox solution for macOS. As our agent service expands to local desktop deployments, we should evaluate and add su…",
+  "labels": [
+    "Help Wanted"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
