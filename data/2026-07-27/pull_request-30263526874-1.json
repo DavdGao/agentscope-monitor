@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "xu20160924",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-27T11:51:37.197538Z",
+  "title": "docs(readme): Update README.md",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2182",
+  "number": 2182,
+  "body": "Remove the 'why' section to align with the English README.\n\n## PR Title Format\n\nPlease ensure your PR title follows the Conventional Commits format:\n- Format: `<type>(<scope>): <description>`\n- Exampl…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "xu20160924",
+    "head_sha": "a21b1cae073c642839469ca7e0244622d508c03f",
+    "base_ref": "main",
+    "additions": 0,
+    "deletions": 6,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
