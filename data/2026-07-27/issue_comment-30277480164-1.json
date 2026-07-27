@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "KXHXK",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-27T14:55:59.726839Z",
+  "title": "fix(tool): preserve error state in tool responses",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2178#issuecomment-5092911133",
+  "number": 2178,
+  "body": "Removed the added unit test as requested and rebased the branch onto the latest main. The existing toolkit test suite passes locally (16 tests), and the PR now contains only the source fix. Thank you …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "KXHXK",
+    "commenter": "KXHXK"
+  },
+  "at_mobiles": []
+}
