@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-27T03:26:21.667043Z",
+  "title": "是否可以提供类似workbuddy 的前端UI界面，agent管理、skill专家包、mcp等成熟前端界面",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2180#discussioncomment-17792140",
+  "number": 2180,
+  "body": "@lironghai Thanks for the suggestion — this is a really important point. While we've already built a RAG service in AgentScope, you're right that many real-world scenarios require integrating with thi…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "lironghai"
+  },
+  "at_mobiles": []
+}
