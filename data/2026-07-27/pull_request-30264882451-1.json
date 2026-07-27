@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-27T12:11:27.332328Z",
+  "title": "perf(model): replace O(n²) string concat with O(n) fragment join in stream accumulation",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2158",
+  "number": 2158,
+  "body": "## AgentScope Version\n\n2.4.0.post1\n\n## Description\n\nDuring streaming, `ChatModelBase.__call__` accumulated tool call arguments, text, and thinking content via repeated `block.input += delta` string co…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "7f608716c60a0624faf411092686013f70a40519",
+    "base_ref": "main",
+    "additions": 887,
+    "deletions": 16,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
