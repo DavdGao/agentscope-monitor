@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "izualzhy",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-27T06:16:10.249003Z",
+  "title": "Support Redis Vector Search as a VDBStore backend",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2164#discussioncomment-17793429",
+  "number": 2164,
+  "body": "Hi maintainers,\n\nThanks for converting this discussion into an issue.\n\nI have read the contribution guidelines:\nhttps://github.com/agentscope-ai/agentscope/blob/main/CONTRIBUTING_zh.md\n\nI would like t…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "izualzhy",
+    "discussion_author": "izualzhy"
+  },
+  "at_mobiles": []
+}
