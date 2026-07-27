@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-27T04:58:16.878219Z",
+  "title": "feat(middleware): add on_check_permission hook",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2001",
+  "number": 2001,
+  "body": "> [!NOTE]\n> **Scope update**\n>\n> This PR originally implemented structured decision-path observability and\n> separate read-only hooks for permission decisions and confirmations.\n>\n> Following the main…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "Miracle778",
+    "head_sha": "eb558e91bf3bcd8daf88c714276fac2f7aaefd1e",
+    "base_ref": "main",
+    "additions": 704,
+    "deletions": 16,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
