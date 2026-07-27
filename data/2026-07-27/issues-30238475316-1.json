@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-27T04:58:13.333013Z",
+  "title": "feat(middleware): expose permission checking through middleware",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2000",
+  "number": 2000,
+  "body": "> [!NOTE]\n> **Scope update**\n>\n> The original proposal included a structured permission-evaluation result, a\n> read-only permission-decision hook, and a dedicated confirmation hook.\n>\n> Based on the d…",
+  "labels": [
+    "state: under discussion"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "Miracle778"
+  },
+  "at_mobiles": []
+}
