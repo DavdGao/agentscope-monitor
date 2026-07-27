@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-27T08:28:53.886075Z",
+  "title": "fix(formatter): make unsupported-media Base64Source temp file path deterministic",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2174#issuecomment-5089047439",
+  "number": 2174,
+  "body": "Thanks for the fix — the direction is right and the analysis is spot on. Two concerns before this lands:\n\n**1. Permission & path-safety regression (blocking).** `NamedTemporaryFile` guarantees `0600`;…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "AmirF194",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
