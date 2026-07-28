@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-28T09:59:05.265111Z",
+  "title": "docs(readme): update README_zh.md",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2182",
+  "number": 2182,
+  "body": "Remove the 'why' section to align with the English README.\n\n## PR Title Format\n\nPlease ensure your PR title follows the Conventional Commits format:\n- Format: `<type>(<scope>): <description>`\n- Exampl…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "xu20160924",
+    "head_sha": "1e398619148365994acd20245b037e138e328e45",
+    "base_ref": "main",
+    "additions": 0,
+    "deletions": 6,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
