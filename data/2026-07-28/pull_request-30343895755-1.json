@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-28T08:48:47.444034Z",
+  "title": "fix(formatter): use deterministic identifiers for multimodal tool results",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2184",
+  "number": 2184,
+  "body": "## Summary\n\nThis PR fixes #2161 by replacing random UUIDs with deterministic identifiers for multimodal tool result blocks.\n\n## Changes\n\n- Replace `shortuuid.uuid()` with deterministic MD5 hash derive…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "RerankerGuo",
+    "head_sha": "056cd5f130c7a4b56dad9823e1afb41422a0d74b",
+    "base_ref": "main",
+    "additions": 11,
+    "deletions": 4,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
