@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-28T06:53:04.868972Z",
+  "title": "fix(ui): distinguish credentials by name in TTS and fallback model selectors",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2169#issuecomment-5100926239",
+  "number": 2169,
+  "body": "1. The checked state becomes invisible. `LlmSelect` uses stateless `DropdownMenuItem`s and shows the selection on the trigger button; here the checkmark on `DropdownMenuCheckboxItem` is the only indic…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "qbc2016",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
