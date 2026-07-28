@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-28T09:38:16.371386Z",
+  "title": "docs(readme): Update README_zh.md",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2182#issuecomment-5102448740",
+  "number": 2182,
+  "body": "@xu20160924 The added context is from the v1 branch. The main branch maintains version 2.x.y",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "xu20160924",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
