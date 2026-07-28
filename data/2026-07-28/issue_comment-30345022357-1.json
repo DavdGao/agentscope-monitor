@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "wawahaha",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-28T09:04:37.313593Z",
+  "title": "feat(agent-team): add ralph loop for team members to ensure task completion",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1797#issuecomment-5102114195",
+  "number": 1797,
+  "body": "I reproduced this exact liveness failure on `main` at `27b6a0d2a2afedf53462c9a2add33932d54b2d20` using the `examples/agent_service` + Web UI flow.\n\nEnvironment:\n- macOS 26.5, arm64\n- Python 3.13.12, m…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "wawahaha"
+  },
+  "at_mobiles": []
+}
