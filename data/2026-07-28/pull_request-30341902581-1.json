@@ -1,0 +1,34 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "review_requested",
+  "action_cn": "请求审核",
+  "sender": "zarelloshake",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-28T08:19:23.480441Z",
+  "title": "feat(rag): add RAGFlow as an optional vector database backend",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2048",
+  "number": 2048,
+  "body": "## AgentScope Version\n\n`2.0.4.dev0`\n\n## Description\n\n### Related Issue\n\nFixes [#2038](https://github.com/agentscope-ai/agentscope/issues/2038)\n\n### Background\n\nAgentScope currently supports several ve…",
+  "labels": [
+    "state: awaiting changes"
+  ],
+  "assignees": [],
+  "reviewers": [
+    "DavdGao"
+  ],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "zarelloshake",
+    "head_sha": "6ba72fd85adf01e3280d7186730c12e04beb5b78",
+    "base_ref": "main",
+    "additions": 1363,
+    "deletions": 7,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
