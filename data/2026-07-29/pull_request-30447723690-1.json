@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-29T11:29:05.336013Z",
+  "title": "fix(webui): streaming-phase stall watchdog + SSE-error phase reset (#2110)",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2196",
+  "number": 2196,
+  "body": "## 🎯 Background\n\nCloses #2110\n\n**Problem summary**: When the backend LLM / worker crashes with an unhandled\nexception mid-run, or the SSE connection silently drops a TCP packet on a\nlong-silent tool c…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "RerankerGuo",
+    "head_sha": "9846e5ddd417a3ad84c6a8766d9b2f8c783fe0b2",
+    "base_ref": "main",
+    "additions": 73,
+    "deletions": 3,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
