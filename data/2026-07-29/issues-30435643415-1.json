@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-29T08:28:39.634284Z",
+  "title": "feat(tts): support voice cloning and local TTS",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2190",
+  "number": 2190,
+  "body": "## Background\n\nAgentScope already provides a unified `TTSModelBase` abstraction and supports multiple API-based TTS providers. However, two important capabilities are still missing:\n\n1. An end-to-end …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "qbc2016"
+  },
+  "at_mobiles": []
+}
