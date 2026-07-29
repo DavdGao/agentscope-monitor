@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "oss-maintainer",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-29T08:54:31.784991Z",
+  "title": "feat(tts): support API-based voice cloning",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2191#issuecomment-5115354614",
+  "number": 2191,
+  "body": "Thanks for the detailed breakdown, @qbc2016!\n\n**Classification:** Enhancement (Feature Request) — Sub-issue of #2190\n\nThis is a well-structured proposal for API-based voice cloning. Key strengths:\n- C…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "qbc2016",
+    "commenter": "oss-maintainer"
+  },
+  "at_mobiles": []
+}
