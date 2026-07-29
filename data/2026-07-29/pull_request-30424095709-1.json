@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-29T05:06:23.662140Z",
+  "title": "fix(webui): refactor state change middleware to send only changed fields",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2183",
+  "number": 2183,
+  "body": "## Summary\n\nThis PR addresses the review feedback on #2101 (auto-open task panel) by refactoring the state change detection to be more precise.\n\n## Changes\n\n### Backend (`_state_change_middleware.py`)…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "RerankerGuo",
+    "head_sha": "87b0355ca67d9f21a4483b143274f28c1d56d4b1",
+    "base_ref": "main",
+    "additions": 68,
+    "deletions": 42,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
