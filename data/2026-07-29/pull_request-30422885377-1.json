@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-29T04:40:04.217830Z",
+  "title": "fix(model): gracefully handle forced tool_choice rejection in compress_context (#2137)",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2189",
+  "number": 2189,
+  "body": "## Summary\n\nFixes #2137: `compress_context` calls `generate_structured_output` with forced `tool_choice=\"generate_structured_output\"`; thinking-mode providers (DeepSeek / DashScope / Anthropic thinkin…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "RerankerGuo",
+    "head_sha": "f6ed1fe496621ba028b7269b1d910fbfcb3f0480",
+    "base_ref": "main",
+    "additions": 453,
+    "deletions": 53,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
