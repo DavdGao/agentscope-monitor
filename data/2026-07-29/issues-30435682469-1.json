@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-29T08:29:11.123280Z",
+  "title": "feat(tts): support API-based voice cloning",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2191",
+  "number": 2191,
+  "body": "## Background\n\nAgentScope supports API-based speech synthesis, but creating a custom voice from reference audio currently requires users to interact with the provider outside AgentScope.\n\nThis issue a…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "qbc2016"
+  },
+  "at_mobiles": []
+}
