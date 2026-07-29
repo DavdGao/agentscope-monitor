@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-29T08:31:57.800109Z",
+  "title": "feat(tts): add local TTS with voice cloning support",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2192",
+  "number": 2192,
+  "body": "## Background\n\nAgentScope currently relies primarily on remote APIs for speech synthesis. This prevents fully offline usage and may not meet the cost, latency, or privacy requirements of local deploym…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "qbc2016"
+  },
+  "at_mobiles": []
+}
