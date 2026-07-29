@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "oss-maintainer",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-29T13:36:53.116536Z",
+  "title": "feat(hub): install MCPs and skills into a workspace",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2197#issuecomment-5118496341",
+  "number": 2197,
+  "body": "This is a substantial feature PR that introduces a **library system** for installed MCPs and skills, along with a **hub browsing/installation flow** in the WebUI. The changes span 78 files (+10,743 li…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "DavdGao",
+    "commenter": "oss-maintainer"
+  },
+  "at_mobiles": []
+}
