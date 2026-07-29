@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-29T03:42:49.310386Z",
+  "title": "fix(tool): prevent state downgrade in ToolResponse.append_chunk (#2177)",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2186",
+  "number": 2186,
+  "body": "## Summary\n\nFixes #2177: ToolResponse.append_chunk() previously overwrote an earlier `ERROR` or `DENIED` state whenever a later chunk arrived with `INTERRUPTED`. The docstring promised the opposite (\"…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "RerankerGuo",
+    "head_sha": "c7f7f1578a4b95f7bbe9a36e6c3cd53157e058d7",
+    "base_ref": "main",
+    "additions": 84,
+    "deletions": 6,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
