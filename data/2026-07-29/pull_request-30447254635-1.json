@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-29T11:21:49.985355Z",
+  "title": "fix(formatter): content-addressed + atexit cleanup for unsupported media temp files (#2173)",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2195",
+  "number": 2195,
+  "body": "## 🎯 Background\n\nCloses #2173\n\n**Problem summary**: When the formatter's `convert_tool_result_to_string` encounters\nan unsupported-media `Base64Source` tool-result block (i.e. a media type not\nmatched…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "RerankerGuo",
+    "head_sha": "a841ca7367458b3418f3dec92ac00777e979576a",
+    "base_ref": "main",
+    "additions": 193,
+    "deletions": 12,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
