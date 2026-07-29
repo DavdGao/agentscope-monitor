@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "oss-maintainer",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-29T12:08:05.248618Z",
+  "title": "feat(tts): add local TTS with voice cloning support",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2192#issuecomment-5117510511",
+  "number": 2192,
+  "body": "## Issue Evaluation\n\n**Type**: Feature Request (enhancement)\n\n### Summary\n\nRequest to add first-class local TTS support to AgentScope, including:\n- Preset-voice synthesis (KokoroTTSModel)\n- Zero-shot …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "qbc2016",
+    "commenter": "oss-maintainer"
+  },
+  "at_mobiles": []
+}
