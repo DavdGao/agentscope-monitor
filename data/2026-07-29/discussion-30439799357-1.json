@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "BWZhang-NLP",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-29T09:29:05.787875Z",
+  "title": "Feature Request: Expose `use_server_proxy` and `volumes` in OpenSandboxWorkspace / OpenSandboxWorkspaceManager",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2193",
+  "number": 2193,
+  "body": "### Problem\n\nTwo production requirements that the OpenSandbox workspace classes currently don't support:\n\n**1. Cross-network access (`use_server_proxy`)**\n\nWhen the client and the OpenSandbox server r…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "BWZhang-NLP"
+  },
+  "at_mobiles": []
+}
