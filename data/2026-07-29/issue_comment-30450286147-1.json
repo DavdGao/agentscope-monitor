@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "oss-maintainer",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-29T12:07:47.055652Z",
+  "title": "fix(webui): streaming-phase stall watchdog + SSE-error phase reset (#2110)",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2196#issuecomment-5117505855",
+  "number": 2196,
+  "body": "## Review Summary\n\n**Verdict: Approved ✅**\n\n### Analysis\n\nImportant UX fix for a real problem: when the backend crashes or SSE silently drops, the WebUI gets stuck in `streaming` phase permanently — s…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "RerankerGuo",
+    "commenter": "oss-maintainer"
+  },
+  "at_mobiles": []
+}
