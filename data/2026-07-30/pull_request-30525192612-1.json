@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "csurong",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-30T08:04:29.275593Z",
+  "title": "ci(hitl): restore mixed interruption coverage",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2203",
+  "number": 2203,
+  "body": "## AgentScope Version\n\n2.0.5 (current main at `807390be`)\n\n## Description\n\nFixes #2200\n\nThe mixed HITL interruption tests were not part of the normal pytest suite because their filename did not match …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "csurong",
+    "head_sha": "6f69ed79718fc15a01b228f1c23ce7683ab6e71b",
+    "base_ref": "main",
+    "additions": 290,
+    "deletions": 291,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
