@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-30T02:12:22.354461Z",
+  "title": "feat(workspace): expose use_server_proxy and volumes in OpenSandboxWorkspace + Manager (#2194)",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2198",
+  "number": 2198,
+  "body": "## Summary\n\n- **closes #2194**\n\n## Background\n\nIssue #2194 identified two production gaps in the OpenSandbox workspace\nconfiguration surface that the underlying ``opensandbox`` SDK already\nsupports, b…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "RerankerGuo",
+    "head_sha": "792fe951b70c07a7e914e429c266da037ea90dfb",
+    "base_ref": "main",
+    "additions": 1782,
+    "deletions": 2,
+    "changed_files": 14
+  },
+  "at_mobiles": []
+}
