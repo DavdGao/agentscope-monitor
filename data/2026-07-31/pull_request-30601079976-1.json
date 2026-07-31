@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-31T03:14:46.903468Z",
+  "title": "feat(webui): increase textarea max rows + show shift-enter hint (#2096, #2098)",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2188",
+  "number": 2188,
+  "body": "## Summary\n\nCloses #2096 and closes #2098 — two chat-page UX improvements from the #2094 Help Wanted tracking issue.\n\n* **(1) Textarea max visible rows doubled to 12** — bumping the previous 6-line ca…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "RerankerGuo",
+    "head_sha": "1dc9bd0bed8b0742f1b6c4b59712711130dd58f9",
+    "base_ref": "main",
+    "additions": 12,
+    "deletions": 4,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
