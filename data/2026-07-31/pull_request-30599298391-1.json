@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-31T02:33:56.612728Z",
+  "title": "fix(agent): skip duplicate ToolResultStartEvent for SUBMITTED external tool calls (#2166)",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2205",
+  "number": 2205,
+  "body": "## Title\nfix(agent): skip duplicate ToolResultStartEvent for SUBMITTED external tool calls (#2166)\n\n## Background\n\n<!-- Why this PR? What problem does it solve? Link to related issues. -->\n\n#2166 iden…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "RerankerGuo",
+    "head_sha": "a02783ceb84a8b262826fee25a4a95924e173ecc",
+    "base_ref": "main",
+    "additions": 22,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
