@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "gemini-code-assist[bot]",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-31T04:48:31.006292Z",
+  "title": "fix(model): preserve interrupted response reason",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2209#issuecomment-5139377032",
+  "number": 2209,
+  "body": "> [!CAUTION]\n> The consumer version of Gemini Code Assist on GitHub has been sunset. All code review activity has officially ceased.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "logicwu0",
+    "commenter": "gemini-code-assist[bot]"
+  },
+  "at_mobiles": []
+}
