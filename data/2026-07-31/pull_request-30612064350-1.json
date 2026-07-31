@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "dyh333",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-31T07:12:58.031012Z",
+  "title": "feat(middleware): add ExternalRetrievalMiddleware with RAGFlow backend",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2210",
+  "number": 2210,
+  "body": "Add a generic ExternalRetrievalMiddleware that mirrors RAGMiddleware's static mode but is backed by external retrieval services instead of local KnowledgeBase instances. Configuration (backend, datase…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "dyh333",
+    "head_sha": "ccb6718d703b39a725edc3df2cf658cd9fd70b39",
+    "base_ref": "main",
+    "additions": 1433,
+    "deletions": 1,
+    "changed_files": 12
+  },
+  "at_mobiles": []
+}
