@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "logicwu0",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-31T04:44:15.348452Z",
+  "title": "[Bug]: ChatModelBase interruption can be reported as completed",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2207#issuecomment-5139351142",
+  "number": 2207,
+  "body": "Hi, I reproduced this issue on the latest `main` and would like to work on it. I will add regression coverage for `ChatResponse` attribute/mapping consistency and both regular and structured-output in…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Qiuye-Ali",
+    "commenter": "logicwu0"
+  },
+  "at_mobiles": []
+}
