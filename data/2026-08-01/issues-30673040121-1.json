@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ShiroKSH",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-31T23:30:01.553493Z",
+  "title": "security(app): reject file URLs in chat input",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2212",
+  "number": 2212,
+  "body": "## Problem\n\nThe Chat API accepts `DataBlock` URL sources from request JSON. A `file://` source reaches media formatters, which read the referenced path on the service host before embedding the bytes i…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "ShiroKSH"
+  },
+  "at_mobiles": []
+}
