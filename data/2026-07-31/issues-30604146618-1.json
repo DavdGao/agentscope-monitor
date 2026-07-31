@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ProgrammerPlus1998",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-31T04:26:24.781182Z",
+  "title": "Support mcp 2.x (Python SDK): pin mcp<2.0.0 blocks 2.0.0",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2208",
+  "number": 2208,
+  "body": "## Summary\n\n`agentscope` currently pins the MCP Python SDK below 2.0 (`mcp<2.0.0`, added in #2091) and cannot be installed alongside `mcp` 2.0.0 (released 2026-07-28). This issue tracks the breaking c…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "ProgrammerPlus1998"
+  },
+  "at_mobiles": []
+}
