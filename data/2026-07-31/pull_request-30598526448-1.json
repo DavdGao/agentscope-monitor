@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-31T02:16:11.197466Z",
+  "title": "fix(service): upload workspace skills from the browser",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2085",
+  "number": 2085,
+  "body": "## Summary\n\n- replace client-selected host paths with a browser directory picker and multipart file upload\n- validate the root `SKILL.md` frontmatter in the web UI, then revalidate filenames, metadata…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "RerankerGuo",
+    "head_sha": "1b89841dbcd81bb4398745d9d723ca47c2f74431",
+    "base_ref": "main",
+    "additions": 916,
+    "deletions": 150,
+    "changed_files": 21
+  },
+  "at_mobiles": []
+}
