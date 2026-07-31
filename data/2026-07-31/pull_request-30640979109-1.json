@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-07-31T15:00:00.629484Z",
+  "title": "feat(hub): support to install MCP and skills from MCP/skill hubs",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2197",
+  "number": 2197,
+  "body": "Builds on the hub browse-and-install flow. What the user has installed\nis now a **library** they can equip a workspace from, and a skill can\ncome from a local folder as well as a hub.\n\n## Library\n\nIns…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "62f44a7eafa6b9ecccea795b27062ab27dae0909",
+    "base_ref": "main",
+    "additions": 10741,
+    "deletions": 658,
+    "changed_files": 82
+  },
+  "at_mobiles": []
+}
