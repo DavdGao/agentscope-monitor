@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-01T08:34:49.509904Z",
+  "title": "fix(hub): scope ClawHub card ids by owner",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2214",
+  "number": 2214,
+  "body": "Installing a ClawHub skill whose name another publisher had also taken failed, with the raw upstream JSON shown to the user:\n\n```\nclawhub returned 409: {\"code\":\"AMBIGUOUS_SKILL_SLUG\",\"message\":\"Found …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "fb41362b2c6714c6c265748ff0a67ca8a62000ac",
+    "base_ref": "main",
+    "additions": 143,
+    "deletions": 14,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
