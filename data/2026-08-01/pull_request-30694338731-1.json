@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "a-yeyang",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-01T09:44:46.823538Z",
+  "title": "fix(workspace): evict and rebuild OpenSandbox workspaces killed by server-side timeout",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2215",
+  "number": 2215,
+  "body": "## Summary\n\n`OpenSandboxWorkspaceManager` caches workspaces purely in memory, keyed by `workspace_id`, with no check that the underlying sandbox is still alive on the server. OpenSandbox sandboxes car…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "a-yeyang",
+    "head_sha": "a1995f37c8969babf7d11e1e8b64e75244549793",
+    "base_ref": "main",
+    "additions": 409,
+    "deletions": 10,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
