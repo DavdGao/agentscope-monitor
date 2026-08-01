@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "a-yeyang",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-01T09:44:18.973467Z",
+  "title": "[Bug]: OpenSandbox workspace becomes unusable after server-side sandbox timeout",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2202#issuecomment-5150881372",
+  "number": 2202,
+  "body": "I've reproduced this and root-caused it to `OpenSandboxWorkspaceManager.get_workspace()`: the in-memory cache has no liveness check, so once the OpenSandbox server destroys a sandbox after its `timeou…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "BWZhang-NLP",
+    "commenter": "a-yeyang"
+  },
+  "at_mobiles": []
+}
