@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "a-yeyang",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-01T10:18:13.588390Z",
+  "title": "Support mcp 2.x (Python SDK): pin mcp<2.0.0 blocks 2.0.0",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2208#issuecomment-5150992936",
+  "number": 2208,
+  "body": "Claiming this one — I have a fix ready and verified live against a real `mcp==2.0.0` install (not just reading the changelog).\n\nBesides the 5 call sites this issue's analysis already lists, I found tw…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "ProgrammerPlus1998",
+    "commenter": "a-yeyang"
+  },
+  "at_mobiles": []
+}
