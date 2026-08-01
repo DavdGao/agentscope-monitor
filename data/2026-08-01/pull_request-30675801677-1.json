@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ShiroKSH",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-01T00:33:01.865967Z",
+  "title": "fix(app): reject file URLs in chat input",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2213",
+  "number": 2213,
+  "body": "Fixes #2212\n\n## AgentScope Version\n\n2.0.5\n\n## Description\n\nChat request payloads could pass a `file://` data source to model formatters, causing the service host to read that path before sending the b…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ShiroKSH",
+    "head_sha": "7a879e2f34b842393ee6e12d79b47644798fc97b",
+    "base_ref": "main",
+    "additions": 133,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
