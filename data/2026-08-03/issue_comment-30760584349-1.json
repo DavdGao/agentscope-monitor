@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "AmirF194",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-02T18:12:20.313874Z",
+  "title": "fix(app): wire a ProcessPoolExecutor into the embedded IndexWorker",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2179#issuecomment-5159683269",
+  "number": 2179,
+  "body": "No rush, just checking in on this whenever you get a chance. CI hasn't run yet since it's still waiting on approval for the fork PR.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "AmirF194",
+    "commenter": "AmirF194"
+  },
+  "at_mobiles": []
+}
