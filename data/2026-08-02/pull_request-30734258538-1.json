@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "RICARDO51167",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-02T05:31:01.477492Z",
+  "title": "fix(agent): count reasoning-acting rounds once",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2217",
+  "number": 2217,
+  "body": "## PR Title\n\n`fix(agent): count reasoning-acting rounds once`\n\n## AgentScope Version\n\n`2.0.5`\n\n## Description\n\nFixes #2204\n\n### Background\n\nThe ReAct state machine previously incremented `state.cur_it…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "RICARDO51167",
+    "head_sha": "9fb84ec0a8aa67aec62f66732d431ecca4a394bf",
+    "base_ref": "main",
+    "additions": 195,
+    "deletions": 4,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
