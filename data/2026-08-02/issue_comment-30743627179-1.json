@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "babyblueviper1",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-02T10:23:00.372076Z",
+  "title": "feat(middleware): add on_check_permission hook",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2001#issuecomment-5157150880",
+  "number": 2001,
+  "body": "Built and live-verified a small `on_check_permission` middleware exercising this hook for a use case the mode table doesn't currently cover: `DONT_ASK` converts every ASK (including bypass-immune safe…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Miracle778",
+    "commenter": "babyblueviper1"
+  },
+  "at_mobiles": []
+}
