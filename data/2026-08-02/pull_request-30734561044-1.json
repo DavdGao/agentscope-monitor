@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-02T05:41:30.022894Z",
+  "title": "feat(rag): support Redis vector search as a VDBStore backend",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2218",
+  "number": 2218,
+  "body": "## AgentScope Version\n\n2.0.4.dev0\n\n## Description\n\nCloses https://github.com/agentscope-ai/agentscope/issues/2170\n\nAdds `RedisStore` as a vector store backend for AgentScope. It uses redis-py's native…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "iluv7",
+    "head_sha": "66c470402b81b41e56450ce2822449858095ecde",
+    "base_ref": "main",
+    "additions": 1613,
+    "deletions": 0,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
