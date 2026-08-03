@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "gemini-code-assist[bot]",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-03T03:56:05.494301Z",
+  "title": "feat(tool): support arguments repairment within the ToolBase class",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2222#issuecomment-5162119383",
+  "number": 2222,
+  "body": "> [!CAUTION]\n> The consumer version of Gemini Code Assist on GitHub has been sunset. All code review activity has officially ceased.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "iluv7",
+    "commenter": "gemini-code-assist[bot]"
+  },
+  "at_mobiles": []
+}
