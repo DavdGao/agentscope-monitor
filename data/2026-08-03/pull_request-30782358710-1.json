@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-03T03:39:49.972856Z",
+  "title": "feat(agent): let an agent come with its own MCPs and skills",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2221",
+  "number": 2221,
+  "body": "An agent record gains `mcp_ids` / `skill_ids`, pointing at the user's own library. They are seeded into the agent's workspace the first time that workspace boots, and never again.\n\n## Why seed once\n\nA…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "22d85aab583b19ad258ca17062c7fd73ebfe2e25",
+    "base_ref": "main",
+    "additions": 1727,
+    "deletions": 338,
+    "changed_files": 57
+  },
+  "at_mobiles": []
+}
