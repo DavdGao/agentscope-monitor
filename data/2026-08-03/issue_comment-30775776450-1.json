@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "HermanShi",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-03T00:59:50.901622Z",
+  "title": "fix(tool): use backend mtime for file cache validation",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2105#issuecomment-5161249999",
+  "number": 2105,
+  "body": "We hit this same root cause in a different deployment shape and can confirm the patch addresses it. Adding an independent data point since the PR is still awaiting review.\n\n**Setup**: a custom `Backen…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "qiboyu301-crypto",
+    "commenter": "HermanShi"
+  },
+  "at_mobiles": []
+}
