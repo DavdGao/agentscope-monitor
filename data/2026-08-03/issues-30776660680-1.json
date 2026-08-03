@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "helloJamest",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-03T01:21:13.533907Z",
+  "title": "[Bug]: IndexWorker.process leaves pipeline and heartbeat tasks running after external cancellation",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2219",
+  "number": 2219,
+  "body": "## Summary\n\n`IndexWorker.process()` starts a child indexing pipeline task and a lease heartbeat task, but it does not clean them up when the parent `process()` coroutine is externally cancelled, for e…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "helloJamest"
+  },
+  "at_mobiles": []
+}
