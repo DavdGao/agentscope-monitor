@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "forevercrab321-svg",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-03T06:05:39.335936Z",
+  "title": "[Discussion]: permission decision-path observability",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2122#discussioncomment-17876855",
+  "number": 2122,
+  "body": "这四种 ALLOW 里,我最想要能被程序判定的不是完整路径,是一个布尔:**这次 ALLOW 有没有绕过一个 ASK。**\n\n我们踩过形状很像的坑,而且是在自己产品里:两种完全不同的原因落到了同一个字段上。判分器自己挂掉,和「用户给的证据本来就不够」,在我们的记录里都写成 `evidence: absent`。下游没有任何办法把它们分开,于是我们把自己的宕机算进了客户的覆盖率分母 —— 一份自测 …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "forevercrab321-svg",
+    "discussion_author": "Miracle778"
+  },
+  "at_mobiles": []
+}
