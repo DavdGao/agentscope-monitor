@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "HermanShi",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-03T01:00:06.740701Z",
+  "title": "[Bug]:  Read→Edit loop in DockerWorkspace because ToolContext uses host getmtime",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2084#issuecomment-5161251052",
+  "number": 2084,
+  "body": "Confirming this reproduces outside `DockerWorkspace` as well.\n\nWe run a custom `BackendBase` over our own sandbox containers, with the agent worker in a *separate* container from the sandbox. Same roo…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "qiboyu301-crypto",
+    "commenter": "HermanShi"
+  },
+  "at_mobiles": []
+}
