@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "zrh805",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-03T08:43:28.956341Z",
+  "title": "[Bug]: `SchedulerManager` fires scheduled tasks once per replica in multi-replica deployments (N× execution)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2223#issuecomment-5164177178",
+  "number": 2223,
+  "body": "I would like to take this bug. I will keep the scope focused on preventing duplicate schedule fires across replicas through the existing shared message-bus locking capability, with a regression test f…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "llystar",
+    "commenter": "zrh805"
+  },
+  "at_mobiles": []
+}
