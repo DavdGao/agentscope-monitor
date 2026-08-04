@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-04T08:32:14.082886Z",
+  "title": "feat(service): add workspace artifact list_dir and read_file endpoints (#2039)",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2187#issuecomment-5176516665",
+  "number": 2187,
+  "body": "Rebased the approved backend change onto current `main` after #2197 rewrote the workspace router. I also addressed the performance note: directory listings now call a backend `stat_size` helper instea…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "RerankerGuo",
+    "commenter": "RerankerGuo"
+  },
+  "at_mobiles": []
+}
