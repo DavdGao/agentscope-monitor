@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-04T08:38:36.083400Z",
+  "title": "fix(hub): preserve GitHub MCP package environment input schemas",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2229#issuecomment-5176577177",
+  "number": 2229,
+  "body": "I will work on a focused fix for this. The implementation will preserve registry `value` templates, expose required and optional nested inputs with secret masking, keep literal/default env values lite…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "RerankerGuo",
+    "commenter": "RerankerGuo"
+  },
+  "at_mobiles": []
+}
