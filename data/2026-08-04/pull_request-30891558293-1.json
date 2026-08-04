@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-04T08:20:49.413158Z",
+  "title": "fix(model): preserve interrupted response reason",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2209",
+  "number": 2209,
+  "body": "## Summary\n\n- keep `ChatResponse.finished_reason` attribute access consistent with its mapping value\n- add a regression test for explicitly interrupted responses\n- cover regular and structured-output …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "logicwu0",
+    "head_sha": "3cb4f4ab8a9a66667359e264295c9e05868ddee3",
+    "base_ref": "main",
+    "additions": 95,
+    "deletions": 1,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
