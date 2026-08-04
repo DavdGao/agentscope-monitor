@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-04T08:38:37.170590Z",
+  "title": "fix(hub): preserve GitHub MCP package environment input schemas",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2229",
+  "number": 2229,
+  "body": "## Summary\n\nGitHub MCP Registry package environment variables are not converted into\ninstall inputs correctly. Required non-secret variables and nested\n`value`/`variables` templates produce cards with…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "RerankerGuo"
+  },
+  "at_mobiles": []
+}
