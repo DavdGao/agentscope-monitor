@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "gemini-code-assist[bot]",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-04T08:49:00.922628Z",
+  "title": "fix(app): load mutable session state under session lock",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2232#issuecomment-5176688459",
+  "number": 2232,
+  "body": "> [!CAUTION]\n> The consumer version of Gemini Code Assist on GitHub has been sunset. All code review activity has officially ceased.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "qbc2016",
+    "commenter": "gemini-code-assist[bot]"
+  },
+  "at_mobiles": []
+}
