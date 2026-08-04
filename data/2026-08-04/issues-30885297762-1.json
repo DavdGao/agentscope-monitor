@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-04T06:48:29.780810Z",
+  "title": "[Bug]: ChatService._run_impl reads mutable session state before acquiring session lock — stale-read-after-lock race",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2226",
+  "number": 2226,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "qbc2016"
+  },
+  "at_mobiles": []
+}
