@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-04T08:48:58.720794Z",
+  "title": "fix(app): load mutable session state under session lock",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2232",
+  "number": 2232,
+  "body": "## AgentScope Version\n\n2.0.5\n\n## Description\n\nMoves session loading, agent assembly, and parked-state checks inside the distributed session lock, preventing waiting runs from using and persisting stal…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "ea3bdee24f5e2c007bfc8ded3d7ce735eccaa0d6",
+    "base_ref": "main",
+    "additions": 470,
+    "deletions": 144,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
