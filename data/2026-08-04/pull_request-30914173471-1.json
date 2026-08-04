@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-04T13:30:50.054983Z",
+  "title": "feat(channel): implement channel",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1997",
+  "number": 1997,
+  "body": "## AgentScope Version\n\n2.0.4dev\n\n## Description\n\n1. Implement channel\n2. Add feishu channel\n\n## Checklist\n\nPlease check the following items before code is ready to be reviewed.\n\n- [ ]  An issue has be…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "3a6801755e5714fbb941a2b05541c94cc612cd9e",
+    "base_ref": "main",
+    "additions": 6890,
+    "deletions": 312,
+    "changed_files": 68
+  },
+  "at_mobiles": []
+}
