@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-04T07:15:53.530286Z",
+  "title": "fix(service): guard ChatService against duplicate empty wake-ups (#1868)",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2206#issuecomment-5175794659",
+  "number": 2206,
+  "body": "Closing this to avoid competing with the earlier active implementation in #1870, which already addresses the same #1868 empty-wakeup idempotency path and includes direct ChatService regression coverag…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "RerankerGuo",
+    "commenter": "RerankerGuo"
+  },
+  "at_mobiles": []
+}
