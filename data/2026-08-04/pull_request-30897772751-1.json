@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-04T09:46:35.551141Z",
+  "title": "feat(web_ui): unify sidebar, panel and form-control styling",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2234",
+  "number": 2234,
+  "body": "## What\n\nBrings the credential, knowledge, MCP hub and skill hub pages onto the\nchat page's shell — rounded panels over a shared canvas, one sidebar\nrhythm, and a single set of form controls.\n\n## Why …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "ffd20b0736aa977baeb78e49198fd6c6e4cdfc16",
+    "base_ref": "main",
+    "additions": 1604,
+    "deletions": 931,
+    "changed_files": 45
+  },
+  "at_mobiles": []
+}
