@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-04T07:30:50.461307Z",
+  "title": "fix(app): clean up index tasks on cancellation",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2225#issuecomment-5175926069",
+  "number": 2225,
+  "body": "Independent validation on macOS 26 (arm64), Python 3.11.15:\n\n### Exact revisions\n\n- This PR: `596e6423dbfaa2a7b4dc156f8ab32cce8d8c208e`\n- Competing PR #2220: `51bf96b549c313df89ce430709ab77cca0f5e0f3`…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "daleselaji-dev",
+    "commenter": "RerankerGuo"
+  },
+  "at_mobiles": []
+}
