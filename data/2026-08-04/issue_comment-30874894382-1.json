@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "daleselaji-dev",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-04T03:29:45.095429Z",
+  "title": "[Bug]: IndexWorker.process leaves pipeline and heartbeat tasks running after external cancellation",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2219#issuecomment-5174273751",
+  "number": 2219,
+  "body": "I'd like to take a focused pass on this issue. I will keep the change limited to cancelling and awaiting the pipeline and heartbeat child tasks when IndexWorker.process() is externally cancelled, whil…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "helloJamest",
+    "commenter": "daleselaji-dev"
+  },
+  "at_mobiles": []
+}
