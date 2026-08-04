@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-04T07:27:31.775355Z",
+  "title": "fix(tracing): include input messages in chat spans",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2228",
+  "number": 2228,
+  "body": "## PR Title Format\n\n`fix(tracing): include input messages in chat spans`\n\n## AgentScope Version\n\n`2.0.5` on current `main`\n\n## Description\n\nFixes #2224.\n\nOpenTelemetry chat spans currently record mode…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "RerankerGuo",
+    "head_sha": "81843669332a128f85a53b977d1d89929a3f45e1",
+    "base_ref": "main",
+    "additions": 42,
+    "deletions": 5,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
