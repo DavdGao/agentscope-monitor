@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-04T08:50:46.044231Z",
+  "title": "ci: propagate pre-commit failures",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2233",
+  "number": 2233,
+  "body": "## PR Title Format\n\n`ci: propagate pre-commit failures`\n\n## AgentScope Version\n\nCurrent `main` at `0cd19d7d`\n\n## Description\n\nFixes #2231.\n\nThe Pre-commit workflow currently discards `pre-commit run -…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "RerankerGuo",
+    "head_sha": "e31678c3c95861cd1df16b50188ce6e3d1395040",
+    "base_ref": "main",
+    "additions": 1,
+    "deletions": 7,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
