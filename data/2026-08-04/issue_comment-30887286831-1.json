@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-04T07:18:52.133962Z",
+  "title": "[Bug]: OpenTelemetry Missing message information",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2224#issuecomment-5175818650",
+  "number": 2224,
+  "body": "I would like to work on this. I reproduced the gap in the current tracing path: `TracingMiddleware.on_model_call` passes the model-call `messages` into `_get_llm_request_attributes`, but that extracto…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "yanzhichao",
+    "commenter": "RerankerGuo"
+  },
+  "at_mobiles": []
+}
