@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-05T06:52:30.283115Z",
+  "title": "ci: pre-commit workflow masks non-hook failures",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2231",
+  "number": 2231,
+  "body": "## Summary\n\nThe Pre-commit GitHub Actions workflow can report success when\n`pre-commit run --all-files` exits non-zero. It discards the command status\nwith `|| true` and only fails when the captured l…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "RerankerGuo"
+  },
+  "at_mobiles": []
+}
