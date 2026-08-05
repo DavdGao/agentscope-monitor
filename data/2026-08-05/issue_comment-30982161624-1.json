@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-05T06:40:41.075023Z",
+  "title": "fix(test): remove redundant unittest",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2201#issuecomment-5188446620",
+  "number": 2201,
+  "body": "Closing in favour of #2203, which keeps the coverage rather than dropping it.\n\nYou were right that the file was dead weight as it stood: it never matched pytest's discovery patterns, so all three test…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "qbc2016",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
