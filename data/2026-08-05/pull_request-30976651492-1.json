@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-05T04:58:02.956413Z",
+  "title": "feat(service): add workspace artifact list_dir and read_file endpoints (#2039)",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2187",
+  "number": 2187,
+  "body": "## Summary\n\nCloses #2039 (backend portion).\n\nAdds two authenticated, session-scoped workspace endpoints:\n\n- `GET /workspace/artifacts/list_dir?path=` lists immediate entries with\n  `name`, `is_dir`, `…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "RerankerGuo",
+    "head_sha": "1464b6c40ae0eb35fd0ebc5e970604bf88a5007e",
+    "base_ref": "main",
+    "additions": 1208,
+    "deletions": 3,
+    "changed_files": 11
+  },
+  "at_mobiles": []
+}
