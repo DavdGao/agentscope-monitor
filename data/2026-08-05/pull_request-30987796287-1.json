@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "jesseedcp",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-05T08:08:29.568815Z",
+  "title": "fix(utils): make DictMixin honor missing-attribute semantics",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2241",
+  "number": 2241,
+  "body": "## AgentScope Version\n\n2.0.5 (`main`, base commit `2c2f612`)\n\n## Description\n\nFixes #2239\n\n`DictMixin.__getattr__` delegated directly to `dict.__getitem__`, so a missing attribute raised `KeyError`. T…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "jesseedcp",
+    "head_sha": "9e1b4e832105a01fa7dff9baf5b4daae2b89c19c",
+    "base_ref": "main",
+    "additions": 60,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
