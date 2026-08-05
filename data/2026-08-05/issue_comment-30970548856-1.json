@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-05T02:51:35.676869Z",
+  "title": "feat(webui): support caching user input during generation in the frontend",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2050#issuecomment-5186969220",
+  "number": 2050,
+  "body": "Thanks for the contribution. The overall direction aligns with #2040, but the current implementation has several state-management issues, including pending-message replacement and insufficient session…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "zarelloshake",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
