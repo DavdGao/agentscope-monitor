@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-05T06:48:16.240931Z",
+  "title": "feat(agent-team): add AgentRemove to remove a single team member",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2010#discussioncomment-17902423",
+  "number": 2010,
+  "body": "@iluv7 Thanks for your proposal, we will convert it to an issue",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "iluv7"
+  },
+  "at_mobiles": []
+}
