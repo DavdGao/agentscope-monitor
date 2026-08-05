@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-05T06:40:39.679459Z",
+  "title": "fix(test): remove redundant unittest",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2201",
+  "number": 2201,
+  "body": "## PR Title Format\n\nPlease ensure your PR title follows the Conventional Commits format:\n- Format: `<type>(<scope>): <description>`\n- Example: `feat(memory): add redis cache support`\n- Allowed types: …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "a805d9a0be02773bca85733faf839514526fc771",
+    "base_ref": "main",
+    "additions": 0,
+    "deletions": 1201,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
