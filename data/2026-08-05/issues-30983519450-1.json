@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "jesseedcp",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-05T07:03:14.048824Z",
+  "title": "[Bug]: DictMixin raises KeyError for missing attributes and breaks deepcopy",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2239",
+  "number": 2239,
+  "body": "## Prerequisites\n\n- [x] I searched the existing issues and discussions and could not find a duplicate.\n- [x] This is a reproducible bug rather than a usage question.\n\n## Background / Description\n\nI en…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "jesseedcp"
+  },
+  "at_mobiles": []
+}
