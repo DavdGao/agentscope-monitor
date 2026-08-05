@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-05T07:45:03.453286Z",
+  "title": "feat(model): refresh model cards across all providers",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2240",
+  "number": 2240,
+  "body": "## Why\n\nThe model cards under `src/agentscope/model/*/_models/` had drifted to roughly an April/May 2026 snapshot. Six of the seven hosted providers had shipped a new flagship since, and none of them …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "880938387d7faec1b400e38e824adbdb32d9e4d7",
+    "base_ref": "main",
+    "additions": 1030,
+    "deletions": 38,
+    "changed_files": 47
+  },
+  "at_mobiles": []
+}
