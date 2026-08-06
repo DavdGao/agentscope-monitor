@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-06T09:29:01.201761Z",
+  "title": "feat(channel): support QR code-based channel binding for IM channels",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2249",
+  "number": 2249,
+  "body": "**Background**\n\nCurrently, adding a channel in IM platforms such as Feishu and DingTalk requires manually entering the app ID and secret key, which is error-prone and not user-friendly. Supporting QR …",
+  "labels": [],
+  "assignees": [
+    "qbc2016"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
