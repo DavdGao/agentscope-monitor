@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "ENCHIGO",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-06T15:43:38.918093Z",
+  "title": "docs(examples): RFC — ACP Agent (stdio) example design & build plan (examples/acp/)",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1973",
+  "number": 1973,
+  "body": "**RFC / design doc only — no code yet.** Companion to discussion #1948.\n\nThis adds `examples/acp/DESIGN.md`: a design & build plan for an **Agent Client Protocol (ACP) Agent-role, stdio** example unde…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "ENCHIGO",
+    "head_sha": "f057bfe08c0e23dc3e44660a685f308197b61283",
+    "base_ref": "main",
+    "additions": 1196,
+    "deletions": 0,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
