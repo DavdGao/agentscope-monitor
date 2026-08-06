@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-06T05:41:55.050742Z",
+  "title": "[Feature]: Expose model usage from `ReActAgent.reply`",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1202#issuecomment-5200831695",
+  "number": 1202,
+  "body": "Hi @Kanaricc, thanks for the feature request.\n\nThis has already been supported in AgentScope 2.0+. Please upgrade to the latest version and verify whether it resolves your use case.\n\nYou can upgrade w…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Kanaricc",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
