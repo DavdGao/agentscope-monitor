@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-06T09:09:12.824011Z",
+  "title": "feat(tool): add best-effort argument repair",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1859#issuecomment-5202617151",
+  "number": 1859,
+  "body": "Thank you for putting this PR together and for the thoughtful work on best-effort tool argument repair.\n\nThe same area is now being addressed in #2222, which has broader coverage across the `Agent`, `…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "mmskr666",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
