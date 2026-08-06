@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-06T09:40:56.655885Z",
+  "title": "feat(channel): integrate channel with scheduled task mechanism",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2250",
+  "number": 2250,
+  "body": "**Background**\n\nCurrently, channels in Agent Service are purely reactive, responding only to incoming messages. Integrating channels with the scheduled task mechanism will enable agents to be triggere…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
