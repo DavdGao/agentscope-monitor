@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-06T05:41:49.931466Z",
+  "title": "[Feature]: Expose model usage from `ReActAgent.reply`",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1202",
+  "number": 1202,
+  "body": "**<u>AgentScope is an open-source project. To involve a broader community, we recommend asking your questions in English.</u>**\n\n\n**Is your feature request related to a problem? Please describe.**\n\nI …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "Kanaricc"
+  },
+  "at_mobiles": []
+}
