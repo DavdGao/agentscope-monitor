@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-06T09:11:30.512181Z",
+  "title": "feat(channel): Improve and Enrich Channel Implementation in Agent Service",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2245",
+  "number": 2245,
+  "body": "**Background**\n\nThe basic channel functionality has been established in v2.0.6 (#1997), with support for Feishu and Discord channels. However, further improvements are needed, including:\n\n- Add new ch…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
