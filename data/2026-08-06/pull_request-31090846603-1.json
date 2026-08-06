@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-06T09:51:38.791077Z",
+  "title": "fix(tracing): prevent context detach error when async generator is closed cross-task",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2185",
+  "number": 2185,
+  "body": "## Summary\n\nFixes #2076: TracingMiddleware logs 'Failed to detach context' when reply_stream is closed from another asyncio task.\n\n## Root Cause\n\nOpenTelemetry's `start_as_current_span()` creates a Co…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "RerankerGuo",
+    "head_sha": "a5a231bd04bb2504f4bdf5f2f4e773854dd50373",
+    "base_ref": "main",
+    "additions": 5,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
