@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "MannXo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-06T09:28:38.394625Z",
+  "title": "feat(channel): add WeCom channel support",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2246#issuecomment-5202759631",
+  "number": 2246,
+  "body": "I can take this one, if its available",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "MannXo"
+  },
+  "at_mobiles": []
+}
