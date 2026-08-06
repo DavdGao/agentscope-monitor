@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-06T09:17:35.665216Z",
+  "title": "feat(channel): add DingTalk channel support",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2247",
+  "number": 2247,
+  "body": "**Background**\n\nThe channel system in Agent Service currently supports Feishu and Discord. DingTalk \nis another widely adopted enterprise IM platform in China, and adding DingTalk channel \nsupport wil…",
+  "labels": [
+    "Help Wanted"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
