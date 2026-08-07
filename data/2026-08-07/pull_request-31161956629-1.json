@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-07T08:30:17.896860Z",
+  "title": "fix(channel): fix channel form field localization",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2261",
+  "number": 2261,
+  "body": "## AgentScope Version\n\n2.0.5\n\n## Description\n\nLocalize built-in channel credential and configuration fields in the create/edit form. Unknown fields continue to fall back to their JSON Schema labels an…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "cbd837fe80f8d2d7892c35b7f3ed5be06806b57f",
+    "base_ref": "main",
+    "additions": 72,
+    "deletions": 6,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
