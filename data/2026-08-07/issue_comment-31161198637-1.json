@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "RICARDO51167",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-07T08:19:19.643713Z",
+  "title": "feat(channel): add Telegram channel support",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2255#issuecomment-5214399428",
+  "number": 2255,
+  "body": "I'd like to take this issue. I will first implement basic connection, message sending and receiving for TelegramChannel, then explore Telegram Bot APIs to finish other extended capabilities. After dev…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "RICARDO51167"
+  },
+  "at_mobiles": []
+}
