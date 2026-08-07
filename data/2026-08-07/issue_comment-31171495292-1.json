@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "os-goldmine",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-07T10:48:01.531454Z",
+  "title": "[Bug]: AgentScope 2.0.4版本在接入qwen3-max模型开启 thinking模式下；第二次 MODEL_CALL_START 时没有任何信息输出",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2264#issuecomment-5216063297",
+  "number": 2264,
+  "body": "操作系统: linux",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "os-goldmine",
+    "commenter": "os-goldmine"
+  },
+  "at_mobiles": []
+}
