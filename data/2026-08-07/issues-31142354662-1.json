@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-07T02:48:23.245807Z",
+  "title": "feat(channel): add WhatsApp channel support",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2254",
+  "number": 2254,
+  "body": "**Background**\n\nThe channel system in Agent Service currently supports Feishu and Discord. WhatsApp is one of the most widely used messaging platforms globally, and adding WhatsApp channel support wil…",
+  "labels": [
+    "Help Wanted"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
