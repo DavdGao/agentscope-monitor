@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-07T02:48:50.778582Z",
+  "title": "feat(channel): add Telegram channel support",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2255",
+  "number": 2255,
+  "body": "**Background**\n\nThe channel system in Agent Service currently supports Feishu and Discord. Telegram is a widely adopted messaging platform with a well-established bot API, making it a natural fit for …",
+  "labels": [
+    "Help Wanted"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
