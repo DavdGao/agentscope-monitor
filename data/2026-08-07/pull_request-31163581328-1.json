@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-07T08:53:39.456391Z",
+  "title": "docs(readme): revamp README with SDK/service feature tables; bump to 2.0.6",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2262",
+  "number": 2262,
+  "body": "## What\n\nReworks `README.md` / `README_zh.md` around the two layers of AgentScope, and bumps the version to `2.0.6`.\n\n### README\n- **Two layered feature tables**: the **Agent (SDK)** building blocks (…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "fe56baac0f70f837e57ddd3e0a3e2c19f2298b3b",
+    "base_ref": "main",
+    "additions": 77,
+    "deletions": 48,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
