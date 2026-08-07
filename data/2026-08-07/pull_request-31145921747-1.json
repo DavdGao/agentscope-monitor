@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-07T03:57:50.613155Z",
+  "title": "feat(web-ui): session working directory with git status",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2257",
+  "number": 2257,
+  "body": "Gives a chat session a working directory the user can move, and shows the git state of wherever it points — plus the two fixes that turned up on the way there.\n\n## A working directory per session\n\n`Se…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "e9c1bbe2ad9bba683c8b3cd6301f891c927f9637",
+    "base_ref": "main",
+    "additions": 2853,
+    "deletions": 533,
+    "changed_files": 33
+  },
+  "at_mobiles": []
+}
