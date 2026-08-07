@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-07T02:49:18.677740Z",
+  "title": "feat(channel): add Slack channel support",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2256",
+  "number": 2256,
+  "body": "**Background**\n\nThe channel system in Agent Service currently supports Feishu and Discord. Slack is one of the most widely used team collaboration platforms in enterprise environments, and adding Slac…",
+  "labels": [
+    "Help Wanted"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
