@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-07T04:08:45.976352Z",
+  "title": "feat(webui): support non-interrupting steering with queued messages",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2258",
+  "number": 2258,
+  "body": "## Background\n\nIssue #2040 introduces deferred sending: when the agent is generating a\nresponse, new user input can be cached in the frontend message queue and\nautomatically submitted after the curren…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "qbc2016"
+  },
+  "at_mobiles": []
+}
