@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-07T02:17:54.947017Z",
+  "title": "feat(tool): support arguments repairment within the ToolBase class",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2222",
+  "number": 2222,
+  "body": "## AgentScope Version\n\n2.0.5\n\n## Description\n\nCloses https://github.com/agentscope-ai/agentscope/issues/1794\n\nModels occasionally return tool arguments with types that do not match the schema. For exa…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "iluv7",
+    "head_sha": "2799d53ac0edb2a4d1e2049a48924da63321f45a",
+    "base_ref": "main",
+    "additions": 1605,
+    "deletions": 48,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
