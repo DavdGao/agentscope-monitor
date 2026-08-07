@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-07T02:13:15.660961Z",
+  "title": "fix(webui): reset confirmation state between pending tool calls",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2243",
+  "number": 2243,
+  "body": "## AgentScope Version\n\n2.0.5\n\n## Description\n\nFix the WebUI confirmation card getting stuck after resolving the first of multiple pending tool calls. The card is now keyed by reply and tool-call IDs, …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "f1ee553dd104fbf8193bf0730dca22a4a8e94a35",
+    "base_ref": "main",
+    "additions": 30,
+    "deletions": 17,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
