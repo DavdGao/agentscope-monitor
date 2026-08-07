@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-07T09:31:27.878132Z",
+  "title": "[Bug]: WebUI permission card spins indefinitely after resolving the first of multiple HITL confirmations",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2242",
+  "number": 2242,
+  "body": "### Prerequisites\n\n- [x] I searched existing issues, discussions, and pull requests.\n- [x] This is a WebUI bug, not a usage question.\n\n### Background / Description\n\nWhen several tool calls are waiting…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "Zed302"
+  },
+  "at_mobiles": []
+}
