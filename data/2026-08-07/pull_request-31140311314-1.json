@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "helloJamest",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-07T02:09:15.783530Z",
+  "title": "fix(app): clean up index worker tasks on cancellation",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2220",
+  "number": 2220,
+  "body": "﻿## Summary\n\nFixes #2219.\n\n`IndexWorker.process()` now explicitly handles external `asyncio.CancelledError` by cancelling and awaiting both child tasks it owns: the indexing pipeline task and the leas…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "helloJamest",
+    "head_sha": "22966de5fb1153ee1254703dd5ebb9ea6a4bf442",
+    "base_ref": "main",
+    "additions": 68,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
