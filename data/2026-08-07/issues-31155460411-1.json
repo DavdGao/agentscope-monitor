@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "tmzdy888",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-07T06:52:08.000940Z",
+  "title": "[Bug]: 接入凭证就有问题，为什么只限定地址和格式",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2259",
+  "number": 2259,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "tmzdy888"
+  },
+  "at_mobiles": []
+}
