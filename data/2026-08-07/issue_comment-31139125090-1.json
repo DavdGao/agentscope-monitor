@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Zed302",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-07T01:47:06.485265Z",
+  "title": "fix(webui): reset confirmation state between pending tool calls",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2243#issuecomment-5211091184",
+  "number": 2243,
+  "body": "One small race remains in `ConfirmCard`: `hasConfirmed` is React state, so it is not a synchronous re-entry guard. Two confirmation events can enter `handleConfirm` before the state update is committe…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "qbc2016",
+    "commenter": "Zed302"
+  },
+  "at_mobiles": []
+}
