@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-07T09:31:48.602312Z",
+  "title": "fix(webui): reset confirmation state between tool calls",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2244",
+  "number": 2244,
+  "body": "## AgentScope Version\n\n`main` at `bf7e8ff75a234a55fbf2b4ae61e4bd43f138e94b`\n\n## Description\n\nFixes #2242.\n\nWhen multiple tool calls require confirmation, React reuses the same `ConfirmCard` for the ne…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": true,
+    "author": "Zed302",
+    "head_sha": "646d8485e3ef0b6cfe0a0b2aa357e4fcd9ab2b78",
+    "base_ref": "main",
+    "additions": 28,
+    "deletions": 17,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
