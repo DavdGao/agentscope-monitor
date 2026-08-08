@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ENCHIGO",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-08T14:47:54.105866Z",
+  "title": "[Feature] Support for Agent Client Protocol (ACP)",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1948#discussioncomment-17944339",
+  "number": 1948,
+  "body": "@DavdGao @armorer-labs — closing the loop on this: the design doc is now revised to **v2** in #1973 (re-audited against `main` as of Aug 6; changelog at the top of the doc), and **PR1 is implemented a…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "ENCHIGO",
+    "discussion_author": "ENCHIGO"
+  },
+  "at_mobiles": []
+}
