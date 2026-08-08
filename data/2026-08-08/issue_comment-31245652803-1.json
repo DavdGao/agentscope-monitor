@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "nothingyuancando",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-08T07:12:51.395584Z",
+  "title": "perf(channel): implement `list_tools` method for `DiscordChannel`",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2248#issuecomment-5225072316",
+  "number": 2248,
+  "body": "Hi @DavdGao, I'd like to work on this issue as my first AgentScope contribution.\n\nBefore starting the implementation, I'd like to confirm a focused scope:\n\n- follow the existing Feishu `_tools` struct…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "nothingyuancando"
+  },
+  "at_mobiles": []
+}
