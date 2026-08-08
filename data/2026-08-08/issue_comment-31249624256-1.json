@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "weed33834",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-08T09:00:32.732230Z",
+  "title": "fix(agent): correct range boundary in _split_tool_result_for_compression",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2252#issuecomment-5225425377",
+  "number": 2252,
+  "body": "Hi @AmirF194, thank you for the thorough review and the fuzzing work — you are absolutely right.\n\nYou have correctly identified that this change is a no-op: since `boundary_index` defaults to `0` (lin…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "weed33834",
+    "commenter": "weed33834"
+  },
+  "at_mobiles": []
+}
