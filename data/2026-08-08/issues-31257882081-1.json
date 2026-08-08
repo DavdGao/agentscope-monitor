@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "helloJamest",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-08T12:43:29.714089Z",
+  "title": "[Bug]: Discord channel helpers crash before the client is ready",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2268",
+  "number": 2268,
+  "body": "## Problem\n\n`DiscordChannel` exposes best-effort management/context helpers such as `list_bot_chats`, `chat_name`, and `chat_kind`. These helpers currently assume the Discord client has already been i…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "helloJamest"
+  },
+  "at_mobiles": []
+}
