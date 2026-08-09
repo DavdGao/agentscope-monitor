@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "SleepySuke",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-09T06:56:21.704683Z",
+  "title": "feat(channel): Improve and Enrich Channel Implementation in Agent Service",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2245#issuecomment-5230251829",
+  "number": 2245,
+  "body": "Hello @DavdGao  I'd like to pick up this issue as my first contribution for AgentScope if it is available",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "SleepySuke"
+  },
+  "at_mobiles": []
+}
