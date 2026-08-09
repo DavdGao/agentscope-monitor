@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "dyh333",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-09T15:06:47.682159Z",
+  "title": "feat(middleware): add ExternalRetrievalMiddleware with RAGFlow backend",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2276#issuecomment-5232187646",
+  "number": 2276,
+  "body": "@DavdGao Gentle ping, this has been open for 10 days. Happy to split into smaller PRs or rebase if needed.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "dyh333",
+    "commenter": "dyh333"
+  },
+  "at_mobiles": []
+}
