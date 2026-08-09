@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "RICARDO51167",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-09T17:06:35.381108Z",
+  "title": "feat(channel): support QR code-based channel binding for IM channels",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2249#issuecomment-5232701526",
+  "number": 2249,
+  "body": "Hi, I'm interested in working on this issue.\n\nA possible technical approach would be:\n\n- Keep the existing JSON Schema mechanism for rendering manual credential forms.\n- Add a `setup_methods` field to…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "RICARDO51167"
+  },
+  "at_mobiles": []
+}
