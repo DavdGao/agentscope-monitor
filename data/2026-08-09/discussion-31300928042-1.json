@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "wxxlamp",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-09T07:20:47.991574Z",
+  "title": "Warn when DashScope returns thinking content while thinking is disabled",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2272",
+  "number": 2272,
+  "body": "## Background\n\nAgentScope forwards `thinking_enable` to DashScope as `extra_body.enable_thinking` (addressed by #1765). However, a provider or a specific model may still return non-empty `reasoning_co…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "wxxlamp"
+  },
+  "at_mobiles": []
+}
