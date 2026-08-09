@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "helloJamest",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-09T13:04:04.068189Z",
+  "title": "[Bug]: AgenticMemoryMiddleware shared instances can clobber concurrent retrieval tasks",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2274",
+  "number": 2274,
+  "body": "### Summary\n\n`AgenticMemoryMiddleware` keeps the async retrieval task in a single instance-level `_retrieval_task`. If one middleware instance is shared by multiple agents/sessions, a later reply can …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "helloJamest"
+  },
+  "at_mobiles": []
+}
