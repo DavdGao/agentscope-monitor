@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "helloJamest",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-09T12:19:55.499639Z",
+  "title": "fix(channel): fail open Discord chat helpers",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2269#issuecomment-5231483217",
+  "number": 2269,
+  "body": "Addressed in `b4924bd`.\n\n- kept the cold-client fail-open behavior unchanged;\n- narrowed swallowed lookup failures to expected discord.py lookup exceptions (`NotFound`, `Forbidden`, `HTTPException`);\n…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "helloJamest",
+    "commenter": "helloJamest"
+  },
+  "at_mobiles": []
+}
