@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "dyh333",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-09T15:00:42.730912Z",
+  "title": "feat(middleware): add ExternalRetrievalMiddleware with RAGFlow backend",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2211#issuecomment-5232160923",
+  "number": 2211,
+  "body": "Rebased onto latest main and replaced by #2276. Closing this PR in favor of the new one.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "dyh333",
+    "commenter": "dyh333"
+  },
+  "at_mobiles": []
+}
