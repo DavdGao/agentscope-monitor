@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-10T05:10:33.836031Z",
+  "title": "[WIP] feat: artifact port forwarding for agent-run services",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2278",
+  "number": 2278,
+  "body": "> **WIP** — opened early for design review. Only step P0 of the plan has landed; the rest is described in the design doc and is still to come.\n\n## What this is for\n\nLet an agent start a service inside…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "d438f6ea595a2e1b8e33c27b38b6bf82ed302c50",
+    "base_ref": "main",
+    "additions": 99,
+    "deletions": 0,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
