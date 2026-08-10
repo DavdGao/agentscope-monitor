@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-10T09:00:03.775169Z",
+  "title": "feat(channel): add distributed Feishu QR credential binding",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2260",
+  "number": 2260,
+  "body": "## AgentScope Version\n\n2.0.5\n\n## Description\n\nAdd QR-code credential binding for Feishu alongside manual setup. The implementation supports multi-tenant, multi-node deployments with shared TTL state, …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "f775f93b93e593a7a8b6bb82cf4b46c4122d2d85",
+    "base_ref": "main",
+    "additions": 2187,
+    "deletions": 341,
+    "changed_files": 31
+  },
+  "at_mobiles": []
+}
