@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "os-goldmine",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-10T10:26:21.177060Z",
+  "title": "[Bug]: AgentScope 2.0.4版本在接入qwen3-max模型开启 thinking模式下；第二次 MODEL_CALL_START 时没有任何信息输出",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2264#issuecomment-5238939568",
+  "number": 2264,
+  "body": "我升级到2.0.6后还是没解决问题 ，下图是异常日志，没有model_call_end 没有 thinking_block_end  也没有调用工具的动作 \n\n<img width=\"1221\" height=\"711\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/1da0da2d-b856-4c37-8d11-322a3…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "os-goldmine",
+    "commenter": "os-goldmine"
+  },
+  "at_mobiles": []
+}
