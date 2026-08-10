@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-10T10:48:45.264601Z",
+  "title": "是否可以提供类似workbuddy 的前端UI界面，agent管理、skill专家包、mcp等成熟前端界面",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2180#discussioncomment-17962199",
+  "number": 2180,
+  "body": "Update: #1843 support MCP and skill markets",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "lironghai"
+  },
+  "at_mobiles": []
+}
