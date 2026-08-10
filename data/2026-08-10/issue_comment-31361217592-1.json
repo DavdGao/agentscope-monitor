@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "os-goldmine",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-10T06:14:30.796582Z",
+  "title": "[Bug]: AgentScope 2.0.4版本在接入qwen3-max模型开启 thinking模式下；第二次 MODEL_CALL_START 时没有任何信息输出",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2264#issuecomment-5236554455",
+  "number": 2264,
+  "body": "我这边场景是给agent提供了很多tools 问一个问题 他去尝试查询这些工具拿结果，在这个过程中通过打印日志我发现 第一次 event 为 MODEL_CALL_START 之后 agent一直调tools，当第二次 MODEL_CALL_START  之后 就没有任何操作了。也没有任何返回了",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "os-goldmine",
+    "commenter": "os-goldmine"
+  },
+  "at_mobiles": []
+}
