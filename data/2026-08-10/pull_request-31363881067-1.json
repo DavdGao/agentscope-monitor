@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "TensorBoard",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-10T06:56:42.532649Z",
+  "title": "Feat 260806 panpd",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2280",
+  "number": 2280,
+  "body": "## PR Title Format\n\nPlease ensure your PR title follows the Conventional Commits format:\n- Format: `<type>(<scope>): <description>`\n- Example: `feat(memory): add redis cache support`\n- Allowed types: …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "TensorBoard",
+    "head_sha": "56a3eaa613fb3983f3582d6b4c5bb789decb1d99",
+    "base_ref": "main",
+    "additions": 14076,
+    "deletions": 195,
+    "changed_files": 117
+  },
+  "at_mobiles": []
+}
