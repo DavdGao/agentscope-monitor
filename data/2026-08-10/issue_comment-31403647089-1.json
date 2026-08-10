@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "BakaDream",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-10T15:27:11.893333Z",
+  "title": "[Bug]: 接入凭证就有问题，为什么只限定地址和格式",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2259#issuecomment-5242347145",
+  "number": 2259,
+  "body": "> Why not add anthropic api？\n\n在Example/web_ui里，现在的不能够使用自定义的模型名称 # @qbc2016",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "tmzdy888",
+    "commenter": "BakaDream"
+  },
+  "at_mobiles": []
+}
