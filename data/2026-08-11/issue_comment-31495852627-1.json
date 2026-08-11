@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-11T13:22:53.368932Z",
+  "title": "fix(formatter): content-addressed + atexit cleanup for unsupported media temp files (#2173)",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2195#issuecomment-5253744189",
+  "number": 2195,
+  "body": "@qbc2016 Thanks for the detailed review. I addressed all five inline comments in `a7d43db8`:\n\n- moved unsupported-media files into a lazily created, process-owned `0700` directory, so one worker canno…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "RerankerGuo",
+    "commenter": "RerankerGuo"
+  },
+  "at_mobiles": []
+}
