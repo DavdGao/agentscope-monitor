@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-11T13:22:57.974382Z",
+  "title": "fix(hub): preserve GitHub MCP environment inputs",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2230#issuecomment-5253744253",
+  "number": 2230,
+  "body": "@qbc2016 Thanks for the review. I addressed both blocking interactions in `45acfeaf`:\n\n- the renderer now builds effective values from schema defaults overlaid by submitted values before validation, o…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "RerankerGuo",
+    "commenter": "RerankerGuo"
+  },
+  "at_mobiles": []
+}
