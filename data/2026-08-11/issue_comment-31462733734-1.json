@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "uuzzrm",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-11T05:45:57.505372Z",
+  "title": "fix(utils): honor Python attribute lookup semantics",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2281#issuecomment-5249443149",
+  "number": 2281,
+  "body": "@iamroylim Thanks for verifying the exact head and approving this. The current head `61007437` is ready from my side. Could a maintainer merge it when convenient?",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "uuzzrm",
+    "commenter": "uuzzrm"
+  },
+  "at_mobiles": []
+}
