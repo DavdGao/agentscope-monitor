@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "logicwu0",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-11T04:37:47.880849Z",
+  "title": "[Bug]: Scheduled sessions persist an empty workspace_id",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2282#issuecomment-5249038780",
+  "number": 2282,
+  "body": "I reproduced this on the latest main and am working on a fix that persists a non-empty workspace binding. The scheduled session will inherit its source session workspace when available and fall back t…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "qiboyu301-crypto",
+    "commenter": "logicwu0"
+  },
+  "at_mobiles": []
+}
