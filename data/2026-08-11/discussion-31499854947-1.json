@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "auxiliar-ag",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-11T14:07:55.917545Z",
+  "title": "GroupActivationGuard: a ToolMiddlewareBase that checks a reset_tools call before AgentScope applies it",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2287",
+  "number": 2287,
+  "body": "I built a small middleware for AgentScope's `reset_tools` meta tool, and this is a walkthrough of it. The middleware module is about 140 lines, it uses only public extension points, and it exists beca…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Show and tell",
+    "author": "auxiliar-ag"
+  },
+  "at_mobiles": []
+}
