@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-11T03:46:38.364491Z",
+  "title": "feat(workspace): isolate skills per agent, select them per session",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2283",
+  "number": 2283,
+  "body": "## Why\n\n`skills/` was one flat directory shared by everyone using the workspace. That was fine while a workspace belonged to one agent, but #1951 lets several agents share one, and two things break at…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "027bf2820355f436f4baea462639c7b360c96a39",
+    "base_ref": "main",
+    "additions": 1060,
+    "deletions": 177,
+    "changed_files": 14
+  },
+  "at_mobiles": []
+}
