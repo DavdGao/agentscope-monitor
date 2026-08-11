@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "jesseedcp",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-11T03:19:04.986459Z",
+  "title": "[Bug]: DictMixin raises KeyError for missing attributes and breaks deepcopy",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2239#issuecomment-5248596549",
+  "number": 2239,
+  "body": "Hi, thanks for taking a look. I opened #2241 for this issue on August 5, and it already implements the same `AttributeError`/`KeyError` behavior with regression coverage for `deepcopy()`, `hasattr()`,…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "jesseedcp",
+    "commenter": "jesseedcp"
+  },
+  "at_mobiles": []
+}
