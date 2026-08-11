@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qiboyu301-crypto",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-11T03:39:33.023680Z",
+  "title": "fix(tool): use backend mtime for file cache validation",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2105#issuecomment-5248705318",
+  "number": 2105,
+  "body": "I also posted this on #2105 since it directly affects the proposed fix.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "qiboyu301-crypto",
+    "commenter": "qiboyu301-crypto"
+  },
+  "at_mobiles": []
+}
