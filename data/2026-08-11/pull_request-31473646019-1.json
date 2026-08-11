@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Riofd",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-11T08:32:24.587666Z",
+  "title": "fix(service): preserve busy background wakeups",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2286",
+  "number": 2286,
+  "body": "## Summary\n\n- defer plain wake triggers while their target session still holds the run lock instead of dropping them\n- check the inbox under the session lock before a wake-only run, so a deferred or d…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Riofd",
+    "head_sha": "89814d39e95328f920001a34f0d2680f3716f5e3",
+    "base_ref": "main",
+    "additions": 240,
+    "deletions": 61,
+    "changed_files": 11
+  },
+  "at_mobiles": []
+}
