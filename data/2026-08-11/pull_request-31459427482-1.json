@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "logicwu0",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-11T04:44:39.987361Z",
+  "title": "fix(app): persist workspace bindings for scheduled sessions",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2284",
+  "number": 2284,
+  "body": "## AgentScope Version\n\n2.0.6\n\n## Description\n\nScheduled sessions currently persist an empty `workspace_id`, while workspace managers treat that value as a cache key and runtime workspaces may replace …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "logicwu0",
+    "head_sha": "6ce4422767a3e0b51024ab767f54f848a9e58538",
+    "base_ref": "main",
+    "additions": 168,
+    "deletions": 3,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
