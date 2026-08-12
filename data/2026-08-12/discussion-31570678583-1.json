@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "shuolinwang",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-12T06:37:13.834973Z",
+  "title": "middleware 工具改写失效",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2292",
+  "number": 2292,
+  "body": "在当前2.0版本中，即便存在middleware，但还是将原始的工具结果直接返回大模型\n目前只能通过hook进行结果改写，但hook在2.0版本被废弃，请问这里为什么这么设计，感觉middleware还没有完全能替改hook\n<img width=\"2162\" height=\"1000\" alt=\"image\" src=\"https://github.com/user-attachments/as…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "shuolinwang"
+  },
+  "at_mobiles": []
+}
