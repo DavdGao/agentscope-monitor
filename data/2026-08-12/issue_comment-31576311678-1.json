@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-12T07:59:37.335849Z",
+  "title": "fix(webui): recover from stalled chat runs",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2121#issuecomment-5263967365",
+  "number": 2121,
+  "body": "Closing in favor of #2115, which was opened first for #2110 and has since been explicitly guided by the core maintainer. Its current scope addresses direct agent-stream termination, AG-UI error mappin…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "RerankerGuo",
+    "commenter": "RerankerGuo"
+  },
+  "at_mobiles": []
+}
