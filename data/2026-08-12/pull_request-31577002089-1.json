@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-12T08:08:43.259907Z",
+  "title": "feat(console): add terminal console for trying and debugging agents",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2297",
+  "number": 2297,
+  "body": "## Description\n\nConsuming `Agent.reply_stream` requires dispatching dozens of fine-grained event types, which makes trying or debugging an agent in the terminal unnecessarily hard — until now the only…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "9022712d2c07a2fa213f45c476716d467c15f69e",
+    "base_ref": "main",
+    "additions": 992,
+    "deletions": 0,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
