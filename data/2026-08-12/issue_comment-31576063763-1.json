@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-12T07:56:08.618473Z",
+  "title": "fix(formatter): use deterministic identifiers for multimodal tool results",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2184#issuecomment-5263933114",
+  "number": 2184,
+  "body": "Closing in favor of the earlier active implementation #2165. Both address #2161, while #2165 predates this PR and includes the full cross-formatter test updates plus a focused determinism regression. …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "RerankerGuo",
+    "commenter": "RerankerGuo"
+  },
+  "at_mobiles": []
+}
