@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-12T09:32:10.606831Z",
+  "title": "[Bug]: 接入凭证就有问题，为什么只限定地址和格式",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2259#issuecomment-5264925380",
+  "number": 2259,
+  "body": "> > Why not add anthropic api？\n> \n> 在Example/web_ui里，现在的不能够使用自定义的模型名称 # [@qbc2016](https://github.com/qbc2016)\n\nYou could add the model YAML in the corresponding dir. For example, if you are using Das…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "tmzdy888",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
