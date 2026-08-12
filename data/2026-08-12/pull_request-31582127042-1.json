@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "redSun64",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-12T09:16:17.424302Z",
+  "title": "fix(app): purge worker workspace state with leader session",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2289",
+  "number": 2289,
+  "body": "### Background\n\nDeleting a team leader session triggers a storage cascade that removes the team's worker sessions. Before this change, `SessionService.delete_session()` collected the worker session ID…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "redSun64",
+    "head_sha": "e00aeb7b2e8f16a0675f90ebbacde9139c75ddea",
+    "base_ref": "main",
+    "additions": 529,
+    "deletions": 80,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
