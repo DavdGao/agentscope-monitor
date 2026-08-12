@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-12T03:50:13.404255Z",
+  "title": "fix(hub): preserve GitHub MCP environment inputs",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2230",
+  "number": 2230,
+  "body": "## PR Title Format\n\n`fix(hub): preserve GitHub MCP environment inputs`\n\n## AgentScope Version\n\nCurrent `main` at `0cd19d7d`\n\n## Description\n\nFixes #2229.\n\nGitHub MCP Registry packages can describe env…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "RerankerGuo",
+    "head_sha": "45acfeaf6506aae848c956d887e15983f694d824",
+    "base_ref": "main",
+    "additions": 353,
+    "deletions": 34,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
