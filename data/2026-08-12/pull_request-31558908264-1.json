@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "csurong",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-12T03:04:48.244430Z",
+  "title": "fix(hub): accept owner-scoped skill card ids",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2291",
+  "number": 2291,
+  "body": "## AgentScope Version\n\n2.0.6 (`main` at `1d97e964`)\n\n## Description\n\nFixes #2290.\n\nClawHub search results use owner-scoped card IDs such as `runware/music`. Although the Web UI URL-encodes these IDs, …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "csurong",
+    "head_sha": "86d55dd524a5e742a8ca8380a74b0ce4d007aa97",
+    "base_ref": "main",
+    "additions": 53,
+    "deletions": 20,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
