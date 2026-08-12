@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-12T11:47:32.059060Z",
+  "title": "[Bug]: AgentScope 2.0.4版本在接入qwen3-max模型开启 thinking模式下；第二次 MODEL_CALL_START 时没有任何信息输出",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2264",
+  "number": 2264,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [],
+  "assignees": [
+    "qbc2016"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "os-goldmine"
+  },
+  "at_mobiles": []
+}
