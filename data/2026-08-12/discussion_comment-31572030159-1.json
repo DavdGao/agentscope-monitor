@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-12T06:58:15.199918Z",
+  "title": "middleware 工具改写失效",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2292#discussioncomment-17985362",
+  "number": 2292,
+  "body": "@shuolinwang JAVA related issues please refer to https://github.com/agentscope-ai/agentscope-java. This repo mainly maintains the agentscope in python verison.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "shuolinwang"
+  },
+  "at_mobiles": []
+}
