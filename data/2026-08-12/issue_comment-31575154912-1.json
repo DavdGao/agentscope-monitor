@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-12T07:43:18.727669Z",
+  "title": "fix(webui): streaming-phase stall watchdog + SSE-error phase reset (#2110)",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2196#issuecomment-5263811183",
+  "number": 2196,
+  "body": "Closing in favor of #2121, the earlier implementation for #2110. #2121 follows the issue-claim design: it emits a generic service error event and uses the existing SSE heartbeat contract, avoiding a f…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "RerankerGuo",
+    "commenter": "RerankerGuo"
+  },
+  "at_mobiles": []
+}
