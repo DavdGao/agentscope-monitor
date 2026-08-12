@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-12T08:00:53.570849Z",
+  "title": "fix(model): auto-retry without tool_choice for thinking-model 400s (#1608)",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2199",
+  "number": 2199,
+  "body": "## Summary\n\n- **closes #1608**\n\n## Background\n\nIssue #1608 reports that tool-using agents crash on DeepSeek V4 reasoning\nmodels (and similar reasoning variants served through OpenAI-compatible\nendpoin…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "RerankerGuo",
+    "head_sha": "ebe2ab1230cdb3b0c717ad611d5935582543a3f3",
+    "base_ref": "main",
+    "additions": 243,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
