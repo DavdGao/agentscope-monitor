@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-12T07:41:57.621185Z",
+  "title": "fix(tool): prevent state downgrade in ToolResponse.append_chunk (#2177)",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2186#issuecomment-5263799517",
+  "number": 2186,
+  "body": "Closing as superseded by #2178, which has already merged and fixes #2177 with the minimal sticky-error state change requested by maintainers. Keeping this broader priority-map variant open would dupli…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "RerankerGuo",
+    "commenter": "RerankerGuo"
+  },
+  "at_mobiles": []
+}
