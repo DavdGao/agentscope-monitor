@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-12T07:27:29.083559Z",
+  "title": "fix(app): purge worker workspace state with leader session",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2289#issuecomment-5263658477",
+  "number": 2289,
+  "body": "Thanks for pointing out this bug. Some suggestions:\n\n1. **Reuse `SessionService.delete_team()` instead of re-deriving the cascade.** It's already the role-aware version of this exact walk (`_session.p…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "redSun64",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
