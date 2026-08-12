@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-12T07:42:07.984681Z",
+  "title": "fix(webui): auto-open task panel on updates",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2101#issuecomment-5263801038",
+  "number": 2101,
+  "body": "Superseded by #2183, which implements the backend/frontend design requested in the maintainer review here. Closing this earlier frontend-only version to keep one active implementation for #2095.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "RerankerGuo",
+    "commenter": "RerankerGuo"
+  },
+  "at_mobiles": []
+}
