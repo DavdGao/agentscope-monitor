@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "1ASunny",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-12T06:54:42.349149Z",
+  "title": "[Bug]: OpenAIChatFormatter rejects audio/mpeg and extensionless audio URLs",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2293",
+  "number": 2293,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "1ASunny"
+  },
+  "at_mobiles": []
+}
