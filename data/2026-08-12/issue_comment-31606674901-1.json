@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "octo-patch",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-12T14:25:26.678099Z",
+  "title": "feat(tts): add MiniMax speech synthesis",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2298#issuecomment-5268132912",
+  "number": 2298,
+  "body": "I fixed the pre-commit pylint error for the TTS-only credential and pushed commit 64edb41. I ran the repository hooks against the changed file and the MiniMax TTS unit tests (6 passed).",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "octo-patch",
+    "commenter": "octo-patch"
+  },
+  "at_mobiles": []
+}
