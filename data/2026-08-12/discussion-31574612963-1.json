@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "tingaicompass",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-12T07:35:38.695608Z",
+  "title": "[Feature Request] Add reranker support for RAG module",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2296",
+  "number": 2296,
+  "body": "It would be great to support reranker within AgentScope’s native RAG pipeline.\n\nReranking is a critical step to improve retrieval accuracy: after vector search returns candidate chunks, a reranker mod…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "tingaicompass"
+  },
+  "at_mobiles": []
+}
