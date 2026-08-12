@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-12T07:29:19.810009Z",
+  "title": "fix(app): stop stranding session inbox payloads until the next user turn",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2295",
+  "number": 2295,
+  "body": "## Problem\n\nA `HintBlock` pushed to a session inbox — a scheduled prompt, a team message, an invited/created worker's first task, a background tool result — could sit there unconsumed, only surfacing …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "7d020093657904fbd7050569b9c7a5eea5927547",
+    "base_ref": "main",
+    "additions": 678,
+    "deletions": 205,
+    "changed_files": 11
+  },
+  "at_mobiles": []
+}
