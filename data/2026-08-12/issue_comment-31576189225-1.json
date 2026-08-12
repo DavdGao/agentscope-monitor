@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-12T07:57:53.803962Z",
+  "title": "feat(agent-team): support template-scoped worker tools",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1981#issuecomment-5263950178",
+  "number": 1981,
+  "body": "Closing because this implementation no longer matches the current sub-agent template contract. `SubAgentTemplate` is now deliberately pure data and serializable, while this PR introduces a non-seriali…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "RerankerGuo",
+    "commenter": "RerankerGuo"
+  },
+  "at_mobiles": []
+}
