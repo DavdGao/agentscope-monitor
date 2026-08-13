@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Solaris-star",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-13T19:44:16.890081Z",
+  "title": "fix(mcp): allow reconnecting stateful clients",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2308",
+  "number": 2308,
+  "body": "## AgentScope Version\n\n2.0.6 (current `main` at `31e0ec61`)\n\n## Description\n\nFixes #2307.\n\n`MCPClient` transport context managers are single-use. After `connect()` followed by `close()`, the stateful …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Solaris-star",
+    "head_sha": "4b8c56569477b22b8e9b0fbecbfbbe5660acef18",
+    "base_ref": "main",
+    "additions": 131,
+    "deletions": 12,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
