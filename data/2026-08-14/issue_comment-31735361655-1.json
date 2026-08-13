@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Solaris-star",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-13T19:20:57.359812Z",
+  "title": "[Bug]: MCPClient.connect() after close() reuses an exhausted context manager, so reconnect always crashes",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2307#issuecomment-5285341253",
+  "number": 2307,
+  "body": "I would like to take this issue. I will keep the fix focused on the documented reconnect lifecycle: recreate the transport context manager before each connection and clear the exhausted client referen…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "AmirF194",
+    "commenter": "Solaris-star"
+  },
+  "at_mobiles": []
+}
