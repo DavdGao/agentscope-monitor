@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "190554022",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-13T06:01:23.899259Z",
+  "title": "[Bug]: AG-UI example fails on Spring Boot 4: POST /agui/run throws \"Type definition error: MessageContent\"",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2303",
+  "number": 2303,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "190554022"
+  },
+  "at_mobiles": []
+}
