@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-13T04:18:11.864918Z",
+  "title": "fix(tool): fix the  meta tool",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2302",
+  "number": 2302,
+  "body": "## PR Title Format\n\nPlease ensure your PR title follows the Conventional Commits format:\n- Format: `<type>(<scope>): <description>`\n- Example: `feat(memory): add redis cache support`\n- Allowed types: …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "6a475c863571a8ebb31efa7666870962891955bf",
+    "base_ref": "main",
+    "additions": 28,
+    "deletions": 4,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
