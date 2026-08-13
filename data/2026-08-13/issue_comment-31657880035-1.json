@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "steven-ji",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-13T01:29:59.584080Z",
+  "title": "feat(channel): integrate channel with scheduled task mechanism",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2250#issuecomment-5274831758",
+  "number": 2250,
+  "body": "Hi, I would like to work on this issue if it is open to community contribution.\n\nBefore changing code, I want to align on the TBD integration semantics. For a focused first PR, my preference is option…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "steven-ji"
+  },
+  "at_mobiles": []
+}
