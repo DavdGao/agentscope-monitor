@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-13T03:20:08.827373Z",
+  "title": "feat(app): give the message bus an at-least-once work queue",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2300",
+  "number": 2300,
+  "body": "## Problem\n\n`queue_drain` is the bus's only way to consume a queue, and it is **at-most-once**: `XRANGE` then `XDEL`, so an entry is gone the instant it is read.\n\n```python\nentries = await bus.queue_d…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "4ea7a1803859f7e5f41559c455693ef5a3e627b9",
+    "base_ref": "main",
+    "additions": 745,
+    "deletions": 78,
+    "changed_files": 9
+  },
+  "at_mobiles": []
+}
