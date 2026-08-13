@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "wuwayaya",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-13T05:34:47.248596Z",
+  "title": "[Feature]: Explore Integration of Agent Skills with Automatic Tool Management via Progressive Disclosure",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1055#issuecomment-5276382958",
+  "number": 1055,
+  "body": "We've been working on the same problem from the practical side (QwenPaw-based agent) and wanted to share measurements + lessons that might inform the design.\n\n**The size problem is real.** In our depl…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "magicbrighter",
+    "commenter": "wuwayaya"
+  },
+  "at_mobiles": []
+}
