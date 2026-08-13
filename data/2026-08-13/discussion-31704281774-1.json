@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "YuhaoLin2005",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-13T13:19:00.691045Z",
+  "title": "[Feature] Opt-in \"source changed since derived\" recency marker for AgenticMemoryMiddleware",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2306",
+  "number": 2306,
+  "body": "---\n\n## Summary\n\nThe middleware already shows **recency** — the `MEMORY.md` index and the retrieval hints print each file's last-modified date (`_agentic_middleware.py:699-706`, `:782-785`). What it d…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "YuhaoLin2005"
+  },
+  "at_mobiles": []
+}
