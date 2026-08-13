@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-13T06:59:24.675241Z",
+  "title": "feat(mcp): add session-level MCP tool toggles",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2304",
+  "number": 2304,
+  "body": "## AgentScope Version\n\n2.0.6\n\n## Description\n\n### Summary\n\nAdd per-tool enable/disable controls for MCP servers while keeping their connections active.\n\n### Changes\n\n- Support allowlist and denylist f…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "9bffabc8c12e132d0729656d0e995d7584fa4ca1",
+    "base_ref": "main",
+    "additions": 1350,
+    "deletions": 108,
+    "changed_files": 22
+  },
+  "at_mobiles": []
+}
