@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-13T02:58:51.631015Z",
+  "title": "GroupActivationGuard: a ToolMiddlewareBase that checks a reset_tools call before AgentScope applies it",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2287#discussioncomment-17996324",
+  "number": 2287,
+  "body": "Thanks for the detailed write-up and for sharing the implementation.\n\nYou're right about `reset_tools` — it clears the activated set before validating the group names, so a misspelled name silently dr…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "auxiliar-ag"
+  },
+  "at_mobiles": []
+}
