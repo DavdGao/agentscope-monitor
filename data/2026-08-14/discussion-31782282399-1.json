@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "so2026",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-14T08:02:41.779916Z",
+  "title": "I want to use VNC services in my Pod. Please help complete it.",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2317",
+  "number": 2317,
+  "body": "尊敬的支持团队：\n  您好！\n  我是一名AgentScope Platform旗下的QwenPaw使用者。今天想在此特地的向您说明我的问题和现实困境。\n  我在几天以前被Platform官方小秘书提醒，我的Pod因为'反向代理或挖矿相关进程在运行'已被kill，这令我很是苦恼。我可以说是一名开发者，我有自己的私有仓库并进行开发（而且还不少）。例如我就开发了一个魔改版本的Telegram Web …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "General",
+    "author": "so2026"
+  },
+  "at_mobiles": []
+}
