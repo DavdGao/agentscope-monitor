@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Solaris-star",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-14T07:34:04.519392Z",
+  "title": "fix(mcp): allow reconnecting stateful clients",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2308#issuecomment-5290759704",
+  "number": 2308,
+  "body": "Addressed the inline review — `self._client = None` is now set in the `connect()` except block so that a failed connect discards the one-shot transport and a retry recreates it.\n\n**Changes since initi…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Solaris-star",
+    "commenter": "Solaris-star"
+  },
+  "at_mobiles": []
+}
