@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "review_requested",
+  "action_cn": "请求审核",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-14T11:47:44.387011Z",
+  "title": "feat(agent): let on_reply middlewares swallow ReplyEndEvent to continue the reply loop",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2322",
+  "number": 2322,
+  "body": "## AgentScope Version\n\n2.0.6\n\n## Description\n\n**Background.** Middlewares previously had no way to veto the end of a reply: once the reasoning-acting loop decided to exit, the `ReplyEndEvent` and fina…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "371afb6c3423f353d4b6c7e5cce7644fcbd786ce",
+    "base_ref": "main",
+    "additions": 233,
+    "deletions": 36,
+    "changed_files": 7
+  },
+  "at_mobiles": []
+}
