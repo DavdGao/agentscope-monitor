@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "VirtualCoder0",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-14T08:31:57.703228Z",
+  "title": "[Bug]:   SSE MCP servers whose URL carries a query string (e.g. `?key=...`) are misdetected   as `streamable_http` transport, causing `McpError: Session terminated`",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2309#issuecomment-5291235759",
+  "number": 2309,
+  "body": "I would like to work on this issue. I plan to use the URL path for SSE transport detection so query strings do not change the classification, and add focused tests for SSE URLs with query parameters w…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "1753936488",
+    "commenter": "VirtualCoder0"
+  },
+  "at_mobiles": []
+}
