@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "nottydadie",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-14T11:28:23.229996Z",
+  "title": "AgentScope v2 roadmap for AgentScope Studio as a production client delivery layer?",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1909#discussioncomment-18016552",
+  "number": 1909,
+  "body": "Hi, please check this MR in the agent scope studio:\n\n[MR](https://github.com/agentscope-ai/agentscope-studio/pull/137)\n\nI have also added a md file explaining why each changes was done.\n\nChanges in th…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "nottydadie",
+    "discussion_author": "nottydadie"
+  },
+  "at_mobiles": []
+}
