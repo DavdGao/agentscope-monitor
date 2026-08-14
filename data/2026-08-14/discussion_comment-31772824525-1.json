@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-14T05:23:17.277545Z",
+  "title": "Warn when DashScope returns thinking content while thinking is disabled",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2272#discussioncomment-18012102",
+  "number": 2272,
+  "body": "@qbc2016 Plz check this issue.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "wxxlamp"
+  },
+  "at_mobiles": []
+}
