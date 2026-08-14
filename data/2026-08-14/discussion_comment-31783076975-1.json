@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-14T08:14:15.274690Z",
+  "title": "feat(tool): support cache-friendly on-demand tool loading",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2310#discussioncomment-18013925",
+  "number": 2310,
+  "body": "感谢详细回复，我现在的理解是，这里其实需要区分“缓存稳定的工具激活”和“渐进式 `schema` 加载”两个问题。\n\n`Responses API` 的 `allowed_tools` 是前者的原生解法：当完整工具目录在会话内保持稳定时，可以始终发送全部 `schema`，仅通过 `allowed_tools` 改变当前可调用集合。这样既能复用 `KV cache`，也能保留真实工具的原生调用和参…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "iluv7",
+    "discussion_author": "iluv7"
+  },
+  "at_mobiles": []
+}
