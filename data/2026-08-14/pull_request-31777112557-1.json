@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-14T06:40:40.748684Z",
+  "title": "fix(model): fixing MoonshotChatModel streaming usage",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2314",
+  "number": 2314,
+  "body": "MoonShotChatModel not yield usage as deepseek or openai models do. This should be fixed by using the same method in deepseek varient, so usage track will be correct when using MoonshotChatModel.\n### B…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "silicon14",
+    "head_sha": "f4224e24135db51bacfb5435cebbeb633bb017e0",
+    "base_ref": "main",
+    "additions": 8,
+    "deletions": 0,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
