@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-14T07:24:06.253940Z",
+  "title": "refactor(app): make the message bus queue at-least-once, and move its users onto it",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2300",
+  "number": 2300,
+  "body": "## Problem\n\n`queue_drain` is the bus's only way to consume a queue, and it is **at-most-once**: `XRANGE` then `XDEL`, so an entry is gone the instant it is read.\n\n```python\nentries = await bus.queue_d…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "eb6dc4e8ec4d60c366ae492c09c7eebdaff33150",
+    "base_ref": "main",
+    "additions": 1207,
+    "deletions": 882,
+    "changed_files": 20
+  },
+  "at_mobiles": []
+}
