@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-14T07:27:43.819341Z",
+  "title": "fix(formatter): use data URLs for DashScope base64 audio",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2315",
+  "number": 2315,
+  "body": "## AgentScope Version\n\n2.0.6\n\n## Description\n\nWraps Base64 and local audio data in DashScope-compatible data URLs and maps `audio/mpeg` to `mp3`. Adds tests covering Base64 audio, local audio files, a…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "2f08bace561be490555d146b4604149952f90610",
+    "base_ref": "main",
+    "additions": 128,
+    "deletions": 10,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
