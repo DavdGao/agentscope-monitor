@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-14T06:30:08.710599Z",
+  "title": "feat(tool): support cache-friendly on-demand tool loading",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2310#discussioncomment-18012764",
+  "number": 2310,
+  "body": "So maybe the answer is to use `execute_tool` together with the schema-exposing strategy above — `execute_tool` handles the additional tools, while the s`ystem-reminder` injection ensures the agent alw…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "iluv7"
+  },
+  "at_mobiles": []
+}
