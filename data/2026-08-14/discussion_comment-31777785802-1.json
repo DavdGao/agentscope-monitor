@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-14T06:52:02.198440Z",
+  "title": "会借鉴和参考deepseek harness的结构吗？",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2312#discussioncomment-18012984",
+  "number": 2312,
+  "body": "@liyunhan Thanks for the interest — could you clarify what you mean by \"DeepSeek harness structure\" specifically?",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "liyunhan"
+  },
+  "at_mobiles": []
+}
