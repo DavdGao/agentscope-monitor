@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "jimfan2008",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-14T11:10:03.204540Z",
+  "title": "[Bug]: Agent输出中断的问题",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2321",
+  "number": 2321,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "jimfan2008"
+  },
+  "at_mobiles": []
+}
