@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "hw872715125",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-14T08:41:04.112668Z",
+  "title": "[Bug]: AgentInvite lists cross-owner shared agents but rejects them as no longer invitable",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2319",
+  "number": 2319,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "hw872715125"
+  },
+  "at_mobiles": []
+}
