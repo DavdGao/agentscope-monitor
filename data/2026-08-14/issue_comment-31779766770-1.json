@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-14T07:23:58.527787Z",
+  "title": "refactor(app): make the message bus queue at-least-once, and move its users onto it",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2300#issuecomment-5290681071",
+  "number": 2300,
+  "body": "The fix addresses the wrong layer — it leaves the message bus bugs intact while piling on complexity.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "DavdGao",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
