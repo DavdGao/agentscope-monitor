@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "nexiouscaliver",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-14T10:26:10.713966Z",
+  "title": "fix(agent): prevent orphan tool_calls from bricking sessions",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1905",
+  "number": 1905,
+  "body": "## Summary\n\nFixes a session-bricking bug where a mid-stream failure can leave an assistant tool call in `AgentState.context` without its matching tool result. On the next run the provider rejects the …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "nexiouscaliver",
+    "head_sha": "fec9d6b6d97a952420e389a13b92b1abdb50b259",
+    "base_ref": "main",
+    "additions": 363,
+    "deletions": 5,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
