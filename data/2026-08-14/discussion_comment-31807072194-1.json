@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-14T13:56:40.092276Z",
+  "title": "会借鉴和参考deepseek harness的结构吗？",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2312#discussioncomment-18018164",
+  "number": 2312,
+  "body": "@DavdGao \nThank you for sharing these ideas. I may still be missing some of the broader design context, so I would appreciate your perspective on two points. First, my understanding is that DeepSeek H…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "iluv7",
+    "discussion_author": "liyunhan"
+  },
+  "at_mobiles": []
+}
