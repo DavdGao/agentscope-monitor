@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "hw872715125",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-14T09:17:14.126247Z",
+  "title": "[Bug]: AgentInvite lists cross-owner shared agents but rejects them as no longer invitable",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2319#issuecomment-5291625872",
+  "number": 2319,
+  "body": "### Additional evidence: live Web UI reproduction (not a unit test)\n\nI reproduced this end to end through the stock AgentScope Web UI and HTTP runtime on **AgentScope 2.0.6**, without patching AgentSc…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "hw872715125",
+    "commenter": "hw872715125"
+  },
+  "at_mobiles": []
+}
