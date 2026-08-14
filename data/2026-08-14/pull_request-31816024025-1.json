@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "RICARDO51167",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-14T15:45:19.303334Z",
+  "title": "fix(model): propagate max-token termination reasons",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2323",
+  "number": 2323,
+  "body": "## AgentScope Version\n\n2.0.6\n\n## Description\n\n### Background\n\nWhen an upstream model stops because it reaches its output token limit, AgentScope currently loses the provider’s termination reason and r…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "RICARDO51167",
+    "head_sha": "64ae866773d1cf3691d9524ac09bec4e9555e980",
+    "base_ref": "main",
+    "additions": 929,
+    "deletions": 61,
+    "changed_files": 30
+  },
+  "at_mobiles": []
+}
