@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "liyunhan",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-14T07:01:10.854089Z",
+  "title": "会借鉴和参考deepseek harness的结构吗？",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2312#discussioncomment-18013097",
+  "number": 2312,
+  "body": "Sorry, to be honest, I haven’t looked closely at DeepSeek Harness yet, so I can’t really give any specific opinions on it. But I do plan to take a closer look. I just noticed things like Cordis and th…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "liyunhan",
+    "discussion_author": "liyunhan"
+  },
+  "at_mobiles": []
+}
