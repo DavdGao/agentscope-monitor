@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Joechen-beep",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-15T06:06:08.713729Z",
+  "title": "[Bug]: Subagent HITL confirm card spins forever; every click logs \"Agent is not waiting for user confirmation\" (same event re-posted 400+ times)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2324",
+  "number": 2324,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Joechen-beep"
+  },
+  "at_mobiles": []
+}
