@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "YuhaoLin2005",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-15T09:03:02.992965Z",
+  "title": "fix(app): interrupt assembling chat run via local registry check (#2320)",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2325",
+  "number": 2325,
+  "body": "## Why\n\nFixes #2320. During the **assembly phase** of `ChatService._run_impl` (steps 1–6: workspace materialisation, TTS, middleware, KB, toolkit, model) — which on a session's **first message** can t…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "YuhaoLin2005",
+    "head_sha": "5722eefca31cd3c5064b4e0eab22c8667672f413",
+    "base_ref": "main",
+    "additions": 313,
+    "deletions": 7,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
