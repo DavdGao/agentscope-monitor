@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "labmimors",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-15T23:36:12.475296Z",
+  "title": "feat(tool): support cache-friendly on-demand tool loading",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2310#discussioncomment-18035441",
+  "number": 2310,
+  "body": "The two concerns you called out are the right acceptance gates: a stable top-level tool surface is useful only if discovery recall and the extra request path are measured independently.\n\nDisclosure: I…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "labmimors",
+    "discussion_author": "iluv7"
+  },
+  "at_mobiles": []
+}
