@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "logicwu0",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-15T09:22:31.801380Z",
+  "title": "[Bug]: AgentInvite lists cross-owner shared agents but rejects them as no longer invitable",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2319#issuecomment-5301577967",
+  "number": 2319,
+  "body": "I reproduced this on current main and am working on a fix. The change re-resolves shared agents through the resource access service at invocation time, preserves the split between definition and sessi…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "hw872715125",
+    "commenter": "logicwu0"
+  },
+  "at_mobiles": []
+}
