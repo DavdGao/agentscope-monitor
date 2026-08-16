@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "REISEN2330",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-16T11:20:55.913562Z",
+  "title": "[Bug]:   SSE MCP servers whose URL carries a query string (e.g. `?key=...`) are misdetected   as `streamable_http` transport, causing `McpError: Session terminated`",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2309#issuecomment-5307178648",
+  "number": 2309,
+  "body": "Hi, I'd like to work on this one.\n\n**Root cause** — transport auto-detection in `MCPClient._create_http_client`\n(`src/agentscope/mcp/_mcp_client.py`) matches the *raw* URL suffix:\n\nif config.url.endsw…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "1753936488",
+    "commenter": "REISEN2330"
+  },
+  "at_mobiles": []
+}
