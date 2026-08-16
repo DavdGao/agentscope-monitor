@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "YuhaoLin2005",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-16T05:54:55.561958Z",
+  "title": "fix(app): interrupt assembling chat run via local registry check (#2320)",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2325#issuecomment-5306004208",
+  "number": 2325,
+  "body": "@C:/Users/86131/AppData/Local/Temp/pr2325-reply.md",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "YuhaoLin2005",
+    "commenter": "YuhaoLin2005"
+  },
+  "at_mobiles": []
+}
