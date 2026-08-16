@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "wxxlamp",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-16T16:17:01.680606Z",
+  "title": "feat(model): warn on unexpected thinking content",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2330",
+  "number": 2330,
+  "body": "## AgentScope Version\n\n2.0.6\n\n## Description\n\nRelated feature discussion: https://github.com/agentscope-ai/agentscope/discussions/2272\n\nWhen a chat model is configured with thinking disabled but its p…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "wxxlamp",
+    "head_sha": "2a8bb22dece39a512854da2cff2ba0d9aa6c16b5",
+    "base_ref": "main",
+    "additions": 155,
+    "deletions": 0,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
