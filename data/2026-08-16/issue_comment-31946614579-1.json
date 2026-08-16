@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "REISEN2330",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-16T12:16:40.982950Z",
+  "title": "[Bug]: Subagent HITL confirm card spins forever; every click logs \"Agent is not waiting for user confirmation\" (same event re-posted 400+ times)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2324#issuecomment-5307387436",
+  "number": 2324,
+  "body": "Hi, I'd like to work on this one.\n\nMy reading of the loop: the confirm-routing branch in `POST /chat`\nresolves the projected card and enqueues a resume for the worker, but\nreturns 200 \"started\" uncond…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Joechen-beep",
+    "commenter": "REISEN2330"
+  },
+  "at_mobiles": []
+}
