@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "REISEN2330",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-16T15:59:04.686005Z",
+  "title": "fix(agent): hint after repeated tool errors",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1816#issuecomment-5308320992",
+  "number": 1816,
+  "body": "Nice implementation — I checked out this branch and verified it locally:\n`pytest tests/agent_basic_test.py` → 8 passed (including the fan-out\nregression test, which addresses the earlier edge-case rev…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "he-yufeng",
+    "commenter": "REISEN2330"
+  },
+  "at_mobiles": []
+}
