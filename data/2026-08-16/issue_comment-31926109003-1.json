@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ktz03",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-16T04:13:25.526447Z",
+  "title": "feat(webui): improve chat page UX and message navigation",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2094#issuecomment-5305670359",
+  "number": 2094,
+  "body": "I'd like to take this as my first AgentScope contribution.\n\nPlan: improve chat page UX / message navigation per the issue description (focused, incremental PR). I'll comment the concrete UX checklist …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "ktz03"
+  },
+  "at_mobiles": []
+}
