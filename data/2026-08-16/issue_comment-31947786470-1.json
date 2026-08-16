@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "tao943",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-16T12:42:44.619468Z",
+  "title": "SubAgentTemplate workers cannot declare or receive custom business tools — only the framework default toolset",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1947#issuecomment-5307488449",
+  "number": 1947,
+  "body": "Hi! I’d like to work on this issue with a smaller, backward-compatible approach that keeps `SubAgentTemplate` fully serializable.\n\nThe proposed scope is:\n\n1. Persist the resolved template type interna…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "75ACOL",
+    "commenter": "tao943"
+  },
+  "at_mobiles": []
+}
