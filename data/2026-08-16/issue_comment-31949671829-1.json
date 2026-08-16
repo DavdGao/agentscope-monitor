@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ump45nose",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-16T13:23:29.558618Z",
+  "title": "Swallowing a ReplyEndEvent to force a redo permanently merges the discarded draft into the agent's persisted context",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2328#issuecomment-5307650094",
+  "number": 2328,
+  "body": "I reproduced the plain-text final-answer path on current main and will take this with a minimal context rollback plus regression assertion.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "AmirF194",
+    "commenter": "ump45nose"
+  },
+  "at_mobiles": []
+}
