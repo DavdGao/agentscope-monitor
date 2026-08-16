@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "AmirF194",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-16T13:09:47.799695Z",
+  "title": "Swallowing a ReplyEndEvent to force a redo permanently merges the discarded draft into the agent's persisted context",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2328",
+  "number": 2328,
+  "body": "### Background / Description\n\nWhen a middleware's `on_reply` hook swallows a `ReplyEndEvent` to force another\nreasoning-acting round within the same reply (the pattern the middleware system's\nown docs…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "AmirF194"
+  },
+  "at_mobiles": []
+}
