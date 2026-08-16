@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "AmirF194",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-16T18:25:43.454529Z",
+  "title": "Swallowing a ReplyEndEvent to force a redo permanently merges the discarded draft into the agent's persisted context",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2328#issuecomment-5308989129",
+  "number": 2328,
+  "body": "Thanks for confirming the repro. The mechanism traces further: `_reply_impl`'s swallow-and-redo branch (`_agent.py`, around the `final_msg = None` reset) only clears the local variable, it never touch…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "AmirF194",
+    "commenter": "AmirF194"
+  },
+  "at_mobiles": []
+}
