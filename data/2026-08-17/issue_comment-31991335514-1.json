@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "connorshen",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-17T03:29:59.410966Z",
+  "title": "[Bug]: Need expose `use_server_proxy` and `volumes` in OpenSandboxWorkspace / OpenSandboxWorkspaceManager",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2194#issuecomment-5311436916",
+  "number": 2194,
+  "body": "合入了吗",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "BWZhang-NLP",
+    "commenter": "connorshen"
+  },
+  "at_mobiles": []
+}
