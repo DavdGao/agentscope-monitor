@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Shaurya2k06",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-17T19:49:48.348361Z",
+  "title": "feat(tool): complete PowerShell permission checks and rule matching",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2160#issuecomment-5319487185",
+  "number": 2160,
+  "body": "Hey @DavdGao , could I get a review on this? Happy to make changes if needed.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Shaurya2k06",
+    "commenter": "Shaurya2k06"
+  },
+  "at_mobiles": []
+}
