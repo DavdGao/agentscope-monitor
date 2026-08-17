@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "CF-art",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-17T02:39:37.838384Z",
+  "title": "fix(agent): keep prompt cache tokens in usage",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2318#issuecomment-5311147020",
+  "number": 2318,
+  "body": "> Blocking event-replay gap at head [8dd62e9](https://github.com/agentscope-ai/agentscope/commit/8dd62e9b475b8f938abb685e811e9872a5740834):\n> \n> Msg.append_event(ModelCallEndEvent(...)) still construc…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "CF-art",
+    "commenter": "CF-art"
+  },
+  "at_mobiles": []
+}
