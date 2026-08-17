@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "bin-maker",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-17T13:50:07.138612Z",
+  "title": "[Bug]: 五、桌面模式严重BUG",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2342",
+  "number": 2342,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "bin-maker"
+  },
+  "at_mobiles": []
+}
