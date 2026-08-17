@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Ricardo-M-L",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-17T04:31:26.200742Z",
+  "title": "fix: fix(agent): add missing await on memory.add in DeepResearchAgent._summarizing",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2333",
+  "number": 2333,
+  "body": "This PR addresses: fix(agent): add missing await on memory.add in DeepResearchAgent._summarizing",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Ricardo-M-L",
+    "head_sha": "7b379fd541210bc6c69ed9ae40f86ff20626cbb9",
+    "base_ref": "main",
+    "additions": 3657,
+    "deletions": 9,
+    "changed_files": 22
+  },
+  "at_mobiles": []
+}
