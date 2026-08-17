@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ENCHIGO",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-17T16:13:19.408954Z",
+  "title": "feat(examples): add ACP Agent (stdio) example (examples/acp/)",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2251#issuecomment-5317524671",
+  "number": 2251,
+  "body": "@DavdGao gentle ping — this is the `examples/acp/` implementation you green-lit in #1948 (design doc v2 in #1973). One housekeeping ask: the CI workflows for the latest commit are waiting on a maintai…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "ENCHIGO",
+    "commenter": "ENCHIGO"
+  },
+  "at_mobiles": []
+}
