@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "fszcd",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-17T02:27:57.466672Z",
+  "title": "[Bug]: shared RAGMiddleware mixes static queries across concurrent agents",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2331",
+  "number": 2331,
+  "body": "### Prerequisites\n\n- [x] I searched existing issues and pull requests for RAGMiddleware concurrency and cached-input isolation.\n- [x] This is a reproducible bug, not a usage question.\n\n### Background …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "fszcd"
+  },
+  "at_mobiles": []
+}
