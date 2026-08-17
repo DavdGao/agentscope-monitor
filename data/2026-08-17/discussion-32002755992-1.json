@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "tingaicompass",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-17T06:43:05.244768Z",
+  "title": "Feature Missing: Lack of APIs for raw document preview, chunk browsing and full knowledge base configuration",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2336",
+  "number": 2336,
+  "body": "### Current Situation\n\nBackend only provides APIs for document list, status query, upload, delete and semantic search. The following frontend capabilities cannot be implemented now:\n\n1. Preview origin…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "tingaicompass"
+  },
+  "at_mobiles": []
+}
