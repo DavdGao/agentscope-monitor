@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "fszcd",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-17T02:37:15.269413Z",
+  "title": "fix(rag): isolate concurrent middleware inputs",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2332",
+  "number": 2332,
+  "body": "## AgentScope Version\n\n2.0.6 (current `main` at `3a4e2ae`)\n\n## Description\n\nFixes #2331.\n\n`RAGMiddleware` static mode kept reply inputs in one instance field. When a middleware instance was shared acr…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "fszcd",
+    "head_sha": "99336a766ef6c190783951edf826860f0d3f9c0d",
+    "base_ref": "main",
+    "additions": 95,
+    "deletions": 5,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
