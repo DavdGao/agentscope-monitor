@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-18T08:37:08.518396Z",
+  "title": "fix(model): close OpenAI Responses stream deterministically",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2349#issuecomment-5325711369",
+  "number": 2349,
+  "body": "Please run `per-commit run --all-files` to format the code.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "BlessedWithLuck1105",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
