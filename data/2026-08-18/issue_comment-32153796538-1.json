@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "BlessedWithLuck1105",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-18T15:20:03.792112Z",
+  "title": "fix(formatter): keep images accumulated before a tool call",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2351#issuecomment-5330271073",
+  "number": 2351,
+  "body": "Good catch on the server-side `collate` merging consecutive same-role messages — a separate images message would indeed be collapsed away. Updated the branch to keep `content`, `images`, and `tool_cal…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "BlessedWithLuck1105",
+    "commenter": "BlessedWithLuck1105"
+  },
+  "at_mobiles": []
+}
