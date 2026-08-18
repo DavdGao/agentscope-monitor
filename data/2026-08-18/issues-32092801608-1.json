@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "sunrong1",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-18T02:42:30.705008Z",
+  "title": "fix(rag): embedding service always forwards `dimensions` even when the model does not support matryoshka",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2344",
+  "number": 2344,
+  "body": "## Bug\n\nIn `src/agentscope/app/_service/_embedding.py`, the `build_embedding_model` helper unconditionally sets `kwargs[\"pass_dimensions\"]` based on whether `supported_dimensions` is present on the mo…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "sunrong1"
+  },
+  "at_mobiles": []
+}
