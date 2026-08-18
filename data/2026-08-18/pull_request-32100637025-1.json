@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "BlessedWithLuck1105",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-18T04:51:06.432908Z",
+  "title": "fix(formatter): keep images accumulated before a tool call",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2351",
+  "number": 2351,
+  "body": "## Summary\n\nIn `OllamaChatFormatter.format`, the `ToolCallBlock` branch reset the accumulated `images` list without flushing it, so an assistant message containing image `DataBlock`s followed by a `To…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "BlessedWithLuck1105",
+    "head_sha": "526863b24fdc6279a1657b5914d033df6998d5ba",
+    "base_ref": "main",
+    "additions": 80,
+    "deletions": 25,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
