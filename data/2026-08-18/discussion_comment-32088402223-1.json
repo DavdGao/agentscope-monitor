@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "luckbyte",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-18T01:29:45.461152Z",
+  "title": "[Show and Tell] Introducing AgentScope-Go: A Golang implementation of AgentScope framework",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1338#discussioncomment-18058657",
+  "number": 1338,
+  "body": "Thank you for your reply. Has there been any progress in donating agentscope-go to the agentscope-ai organization?",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "luckbyte",
+    "discussion_author": "AlanFokCo"
+  },
+  "at_mobiles": []
+}
