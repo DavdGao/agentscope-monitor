@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "PiedPiper911",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-18T04:18:53.997554Z",
+  "title": "[Bug]: 二、后台任务的ui栏堆叠爆满卡死前端聊天内容框",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2338#issuecomment-5323544985",
+  "number": 2338,
+  "body": "I dug into agentscope-studio (main) to locate the background-task UI bar described here, but couldn't find a component that renders a stacked list of background/minimized task windows. What I checked:…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "bin-maker",
+    "commenter": "PiedPiper911"
+  },
+  "at_mobiles": []
+}
