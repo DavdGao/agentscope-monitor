@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "BlessedWithLuck1105",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-18T03:18:36.019219Z",
+  "title": "fix(model): only send enable_thinking when thinking is enabled",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2346",
+  "number": 2346,
+  "body": "## Summary\n\n`DashScopeChatModel.Parameters.thinking_enable` is a plain `bool` defaulting to `False`, so the guard `if self.parameters.thinking_enable is not None:` is always true. Every request theref…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "BlessedWithLuck1105",
+    "head_sha": "cde5f738a68c7e4ae24ad84083b7ca4b080c9157",
+    "base_ref": "main",
+    "additions": 40,
+    "deletions": 7,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
