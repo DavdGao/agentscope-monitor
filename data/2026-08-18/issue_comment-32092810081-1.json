@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "sunrong1",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-18T02:42:38.467466Z",
+  "title": "fix(rag): embedding service always forwards `dimensions` even when the model does not support matryoshka",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2344#issuecomment-5322833213",
+  "number": 2344,
+  "body": "**Companion PR**: #2343 — implements the fix described above.\n\n**Validation summary**:\n- AST check on 4 provider `__init__` signatures — only OpenAI exposes `pass_dimensions`.\n- 17-line single-file ch…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "sunrong1",
+    "commenter": "sunrong1"
+  },
+  "at_mobiles": []
+}
