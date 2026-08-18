@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "JohnWick348",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-18T13:23:12.571487Z",
+  "title": "docs(tool): fix typo in toolkit group validation comment",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2355",
+  "number": 2355,
+  "body": "## AgentScope Version\n\n2.0.6\n\n## Description\n\nFix the spelling of `existance` to `existence` in the toolkit group validation comment.\n\nThis is a comment-only change and does not affect runtime behavio…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "JohnWick348",
+    "head_sha": "4ad1965c6fbe80dffbbd120fcde4c42c80cd5b23",
+    "base_ref": "main",
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
