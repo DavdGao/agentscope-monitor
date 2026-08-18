@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "BlessedWithLuck1105",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-18T03:28:34.351115Z",
+  "title": "fix(model): accept null parameter overrides in model cards",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2348",
+  "number": 2348,
+  "body": "## Summary\n\n`from_yaml` documents `parameter_overrides` values of `null` as \"null means remove\", and the removal logic works. But the raw overrides dict is then stored verbatim into `ModelCard.paramet…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "BlessedWithLuck1105",
+    "head_sha": "f339f24919f4da30aa8c3f86b734450c4b580ca2",
+    "base_ref": "main",
+    "additions": 296,
+    "deletions": 21,
+    "changed_files": 13
+  },
+  "at_mobiles": []
+}
