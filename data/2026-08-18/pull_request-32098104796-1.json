@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "BlessedWithLuck1105",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-18T04:09:52.138219Z",
+  "title": "fix(formatter): include media type in DashScope audio data URLs",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2345",
+  "number": 2345,
+  "body": "## Summary\n\n`DashScopeChatFormatter` builds base64 audio data URLs as `data:;base64,<data>`, which omits the media type. Image and video sources already include it (`data:<media_type>;base64,...`), so…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "BlessedWithLuck1105",
+    "head_sha": "ded7e7489dbc3f6c246cf87e7a92745a2826ff69",
+    "base_ref": "main",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
