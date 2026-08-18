@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iamroylim",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-18T02:07:20.208426Z",
+  "title": "fix: prevent double end signal in stream_printing_messages and add NotImplementedError in UserAgent.observe",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2334#issuecomment-5322549491",
+  "number": 2334,
+  "body": "The current diff against `main` includes 26 commits, 38 files, and 4,727 additions, including Tablestore, formatter, session, and documentation changes unrelated to the two fixes in this PR. That make…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Ricardo-M-L",
+    "commenter": "iamroylim"
+  },
+  "at_mobiles": []
+}
