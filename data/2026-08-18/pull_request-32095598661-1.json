@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "BlessedWithLuck1105",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-18T03:28:38.251759Z",
+  "title": "fix(model): decouple reasoning_effort from thinking_enable",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2347",
+  "number": 2347,
+  "body": "## Summary\n\n`reasoning_effort` was only forwarded when `thinking_enable` was also set, because the three OpenAI-compatible clients (Chat Completions, Responses, and xAI) gated it with `thinking_enable…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "BlessedWithLuck1105",
+    "head_sha": "494e169d1e5a9c191020c28183bae792117decaa",
+    "base_ref": "main",
+    "additions": 170,
+    "deletions": 19,
+    "changed_files": 10
+  },
+  "at_mobiles": []
+}
