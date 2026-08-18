@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "PiedPiper911",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-18T06:48:00.993378Z",
+  "title": "feat(channel): add WeCom (企业微信) channel support (PoC)",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2353",
+  "number": 2353,
+  "body": "## Summary\nThis PR adds a **proof-of-concept** WeCom (企业微信) channel implementing the current `ChannelBase` interface, addressing #2246 / #2266.\n\n- Receives encrypted callback payloads (AES-256-CBC) ov…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "PiedPiper911",
+    "head_sha": "25cc72e7b1649d3dbd1b509f89d8fb9631e04568",
+    "base_ref": "main",
+    "additions": 452,
+    "deletions": 0,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
