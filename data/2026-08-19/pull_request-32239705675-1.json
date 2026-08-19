@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-19T09:51:08.312410Z",
+  "title": "fix(tool): pick the shell by the backend OS instead of the host OS in Bash",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2366",
+  "number": 2366,
+  "body": "## Summary\n\nFixes #2340.\n\n`Bash.call` decided between `cmd /c` and `/bin/sh -c` by the **host** `os.name`, so a Windows host driving a Linux sandbox backend (Docker / K8s / E2B / Daytona / OpenSandbox…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "5b9b6b4d77eca8085b0d6309e5db83c9124dccad",
+    "base_ref": "main",
+    "additions": 63,
+    "deletions": 4,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
