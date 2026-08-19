@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "william-xue",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-19T08:36:04.367472Z",
+  "title": "Feature request: expose workspace file-change notifications for session UIs",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2364",
+  "number": 2364,
+  "body": "## Problem\n\nIn AgentScope v2.0.6, an agent can finish a background task after writing artifacts to its session workspace. The workspace APIs expose directory/file snapshots, but the client has no way …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "william-xue"
+  },
+  "at_mobiles": []
+}
