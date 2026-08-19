@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-19T10:15:25.557690Z",
+  "title": "fix(tool): run sync tool functions in worker threads to avoid blocking the event loop",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2361",
+  "number": 2361,
+  "body": "## AgentScope Version\n\n2.0.6 (main)\n\n## Description\n\nSync tool functions and sync generators are currently executed directly on the event loop thread, so a slow or CPU-bound sync tool blocks the whole…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "8def3e8011e1564d275d22f006360b8069e5ffe0",
+    "base_ref": "main",
+    "additions": 96,
+    "deletions": 6,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
