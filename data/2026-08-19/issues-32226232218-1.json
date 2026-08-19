@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "kaiwangleo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-19T07:05:39.368417Z",
+  "title": "[Bug]: ToolResultDataDeltaEvent accepts missing or conflicting data sources",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2363",
+  "number": 2363,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing issues and pull requests, and this is not a duplicate.\n- [x] This is a reproducible bug rather than a usage question.\n\n### Background / Descriptio…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "kaiwangleo"
+  },
+  "at_mobiles": []
+}
