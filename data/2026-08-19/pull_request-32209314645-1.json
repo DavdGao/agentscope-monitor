@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-19T02:39:18.506323Z",
+  "title": "fix(model): close OpenAI Responses stream deterministically",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2349",
+  "number": 2349,
+  "body": "## Summary\n\n`_parse_stream_response` in the OpenAI Responses client iterated the SDK stream with a bare `async for`, while the three sibling clients (`_openai_chat`, `_deepseek`, `_moonshot`) wrap the…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "BlessedWithLuck1105",
+    "head_sha": "0ec10f7b9d0bf9e526beb177e1a770507f46e767",
+    "base_ref": "main",
+    "additions": 94,
+    "deletions": 79,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
