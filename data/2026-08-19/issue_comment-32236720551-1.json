@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-19T09:16:14.697049Z",
+  "title": "[Bug]: 二、后台任务的ui栏堆叠爆满卡死前端聊天内容框",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2338#issuecomment-5340060187",
+  "number": 2338,
+  "body": "@bin-maker Are you referring to QwenPaw? This repository is dedicated to maintaining AgentScope. For QwenPaw-related issues, please open an issue at https://github.com/agentscope-ai/qwenpaw instead.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "bin-maker",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
