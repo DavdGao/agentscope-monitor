@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-19T09:17:50.294814Z",
+  "title": "[Bug]: 三、前端巨卡，输出内容巨多，强烈要求增加设置项自主控制允许输出的内容",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2339#issuecomment-5340079332",
+  "number": 2339,
+  "body": "@bin-maker For QwenPaw-related issues, please open an issue at https://github.com/agentscope-ai/qwenpaw instead.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "bin-maker",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
