@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-19T10:13:55.025320Z",
+  "title": "docs(tool): fix typo in toolkit group validation comment",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2354",
+  "number": 2354,
+  "body": "### Problem\n\nThe validation comment in `src/agentscope/tool/_builtin/_meta.py` uses `existance` instead of `existence`.\n\n### Proposed change\n\nCorrect the spelling in the comment only. This change does…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "JohnWick348"
+  },
+  "at_mobiles": []
+}
