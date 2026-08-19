@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-19T07:19:50.479696Z",
+  "title": "[Bug]: ChatService._run_impl reads mutable session state before acquiring session lock — stale-read-after-lock race",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2226",
+  "number": 2226,
+  "body": "**TL;DR:** `_run_impl` reads session state before acquiring `session_lock`; a concurrent run can overwrite the latest persisted state with a stale snapshot. No revision check exists to prevent this.\n\n…",
+  "labels": [],
+  "assignees": [
+    "qbc2016"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "qbc2016"
+  },
+  "at_mobiles": []
+}
