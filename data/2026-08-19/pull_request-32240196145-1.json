@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-19T09:56:53.464508Z",
+  "title": "feat(tool): support DataBlock return in Read tool for binary and structured files",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2114",
+  "number": 2114,
+  "body": "## AgentScope Version\n\n2.0.4.post1\n\n## Description\n\nThe Read tool previously decoded all files as UTF-8 text, returning garbled content for binary files despite claiming image/PDF support. Now it disp…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "d10dc180daffc23254a8d34516a5e4b58afbed17",
+    "base_ref": "main",
+    "additions": 868,
+    "deletions": 101,
+    "changed_files": 47
+  },
+  "at_mobiles": []
+}
