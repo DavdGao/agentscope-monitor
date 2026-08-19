@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-19T09:13:41.602282Z",
+  "title": "[Bug]: 一、命令放到后台任务后，奇怪输出占满前端",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2337#issuecomment-5340033792",
+  "number": 2337,
+  "body": "@bin-maker Could you please provide more details about the tools or commands you were running? This will help us reproduce the issue more accurately.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "bin-maker",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
