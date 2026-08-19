@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "review_requested",
+  "action_cn": "请求审核",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-19T02:27:40.569886Z",
+  "title": "fix(model): close Anthropic stream deterministically",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2350",
+  "number": 2350,
+  "body": "## Summary\n\n`_parse_anthropic_stream_completion_response` iterated the `anthropic.AsyncStream` with a bare `async for`, so the stream is never deterministically closed when the generator exits early (…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [
+    "qbc2016"
+  ],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "BlessedWithLuck1105",
+    "head_sha": "be4dc016e00e4631c888bcc959419375122daf90",
+    "base_ref": "main",
+    "additions": 105,
+    "deletions": 89,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
