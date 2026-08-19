@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "yym36991",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-19T09:21:51.488433Z",
+  "title": "增加框架级通用专家agent？",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2365",
+  "number": 2365,
+  "body": "虽然开放给所有用户自己构建自己的专家团队，但是如果团队几个成员共用相同的专家组，也有一些重复创建。当前已经有ResourceAccessPolicyBase，实现了邀请已经存在的专家，但是还是需要运维来维护共享关系，是否可以再细分一下，从框架角度，初始化一些专家，可以被共享，但是不用在ResourceAccessPolicyBase维护共享关系，每个用户都可以邀请这些框架级元专家？",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "yym36991"
+  },
+  "at_mobiles": []
+}
