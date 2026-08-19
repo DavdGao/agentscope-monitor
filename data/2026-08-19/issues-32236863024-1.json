@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-19T09:17:45.811187Z",
+  "title": "[Bug]: 三、前端巨卡，输出内容巨多，强烈要求增加设置项自主控制允许输出的内容",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2339",
+  "number": 2339,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "bin-maker"
+  },
+  "at_mobiles": []
+}
