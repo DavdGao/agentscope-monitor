@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-19T09:17:35.555790Z",
+  "title": "[Bug]: 四、经常性跑脚本时候，会话直接中断",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2341#issuecomment-5340073936",
+  "number": 2341,
+  "body": "@bin-maker For QwenPaw-related issues, please open an issue at https://github.com/agentscope-ai/qwenpaw instead.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "bin-maker",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
