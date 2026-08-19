@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "WangJinchao602",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-19T01:37:56.853710Z",
+  "title": "Feat 260806 wjc  add(图片上传处理)新增图片解析工具",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2359",
+  "number": 2359,
+  "body": "",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "WangJinchao602",
+    "head_sha": "2da941d6f8bff2d27897a0beaee492728277bf8d",
+    "base_ref": "main",
+    "additions": 34283,
+    "deletions": 1063,
+    "changed_files": 237
+  },
+  "at_mobiles": []
+}
