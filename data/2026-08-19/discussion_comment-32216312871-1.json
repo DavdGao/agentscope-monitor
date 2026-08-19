@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-19T04:35:42.995756Z",
+  "title": "Feature Missing: Lack of APIs for raw document preview, chunk browsing and full knowledge base configuration",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2336#discussioncomment-18074888",
+  "number": 2336,
+  "body": "@tingaicompass Thanks for pointing out this issues in RAG service. We will fix it as soon as possible.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "tingaicompass"
+  },
+  "at_mobiles": []
+}
