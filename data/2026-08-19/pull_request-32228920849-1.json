@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "review_requested",
+  "action_cn": "请求审核",
+  "sender": "MannXo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-19T07:40:44.218946Z",
+  "title": "feat(channel): add Slack channel support",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2267",
+  "number": 2267,
+  "body": "## Summary\n\nAdds `SlackChannel`, bringing Slack alongside the existing Feishu and Discord channels in Agent Service.\n\n## Context\n\nCloses #2256 (sub-issue of #2245).\n\nSlack offers two ways to receive e…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [
+    "qbc2016"
+  ],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "MannXo",
+    "head_sha": "ada7ea04f785c82187e7b4981bdd29294c3ec32c",
+    "base_ref": "main",
+    "additions": 2188,
+    "deletions": 1,
+    "changed_files": 14
+  },
+  "at_mobiles": []
+}
