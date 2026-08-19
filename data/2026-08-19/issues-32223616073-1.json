@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-19T06:29:30.278370Z",
+  "title": "compress_context: structured summary relies on forced tool_choice; providers rejecting it (DeepSeek thinking) make compression fail probabilistically and kill the whole reply",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2137",
+  "number": 2137,
+  "body": "### Summary\n\n`Agent.compress_context()` generates its structured summary via `model.generate_structured_output()`, which relies on a **forced `tool_choice`**. Some providers reject forced tool_choice …",
+  "labels": [],
+  "assignees": [
+    "qbc2016"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "Elucidator-hky"
+  },
+  "at_mobiles": []
+}
