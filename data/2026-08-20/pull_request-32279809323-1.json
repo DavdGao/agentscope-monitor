@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Nayjest",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-19T17:07:39.586698Z",
+  "title": "docs: add inspect.software health badge",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2368",
+  "number": 2368,
+  "body": "This PR adds the [inspect.software](https://inspect.software) health badge to the README.\n\n**Why this PR?**\nYour project ranks in the upper rating bands of our open-source health index (which measures…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Nayjest",
+    "head_sha": "9db53170c10685c31917ed2a5fb9aad7fbaa7127",
+    "base_ref": "main",
+    "additions": 1,
+    "deletions": 0,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
