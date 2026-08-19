@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-19T08:59:45.123554Z",
+  "title": "feat(agent): add max_image_num to ContextConfig to limit images in context",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2362",
+  "number": 2362,
+  "body": "## AgentScope Version\n\n`2.0.6`\n\n## Description\n\nAdd `max_image_num` to `ContextConfig` to bound the number of images kept in the agent context.\n\n- `compress_context` now also enforces the image limit …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "05f8883088978377276e3f9be18544ac6f3b0878",
+    "base_ref": "main",
+    "additions": 819,
+    "deletions": 0,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
