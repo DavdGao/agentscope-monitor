@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "1ASunny",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-20T02:28:04.010944Z",
+  "title": "fix(formatter): normalize OpenAI audio input formats",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2294",
+  "number": 2294,
+  "body": "Fixes #2293\n\n## AgentScope Version\n\n2.0.6 (based on commit `1d97e964` from `main`)\n\n## Description\n\n### Background\n\n`OpenAIChatFormatter` rejected MP3 audio using the standard `audio/mpeg` MIME type b…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "1ASunny",
+    "head_sha": "94efa9c79ac60263f6e6c0aa0301e790f2db4ca4",
+    "base_ref": "main",
+    "additions": 120,
+    "deletions": 44,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
