@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "fancyboi999",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-20T02:56:28.799612Z",
+  "title": "[Bug]: ToolResultDataDeltaEvent accepts missing or conflicting data sources",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2363#issuecomment-5350667833",
+  "number": 2363,
+  "body": "I reproduced this on AgentScope 2.0.6 and checked the current `main` implementation. The proposed scope looks correct.\n\nThis is an AgentScope event-model invariant rather than a model-provider tool-pr…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "kaiwangleo",
+    "commenter": "fancyboi999"
+  },
+  "at_mobiles": []
+}
