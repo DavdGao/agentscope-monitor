@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-20T04:43:25.676254Z",
+  "title": "fix(rag): normalize Milvus Lite cosine scores",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2116",
+  "number": 2116,
+  "body": "## Summary\n- normalize Milvus Lite COSINE scores by computing cosine similarity from returned vectors\n- keep scores stable across Python/Milvus Lite wheel combinations that expose raw COSINE values di…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "alex-mm",
+    "head_sha": "374b700a29bc82c905a8cc5f3c87e7adcd1646d6",
+    "base_ref": "main",
+    "additions": 72,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
