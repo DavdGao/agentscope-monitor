@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "fancyboi999",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-20T03:19:50.094471Z",
+  "title": "[Feature]: use native multimodal function_call_output in OpenAI Responses formatter",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2369",
+  "number": 2369,
+  "body": "### Background\n\nThe current OpenAI Responses API accepts either a string or an array of text, image, and file content items in `function_call_output.output`. See the official [function-calling guide](…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "fancyboi999"
+  },
+  "at_mobiles": []
+}
