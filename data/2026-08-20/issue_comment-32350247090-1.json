@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "cyyecao-lappland",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-20T08:43:52.613960Z",
+  "title": "feat(channel): restrict tool approval to the requester in group chats",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2373#issuecomment-5353530992",
+  "number": 2373,
+  "body": "Hi, I’d be interested in working on this if it’s open to a community contribution. I plan to carry the originating user ID through the approval flow, verify the actor before resolving the pending conf…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "qbc2016",
+    "commenter": "cyyecao-lappland"
+  },
+  "at_mobiles": []
+}
