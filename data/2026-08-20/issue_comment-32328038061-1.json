@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "redSun64",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-20T03:23:19.169522Z",
+  "title": "feat(channel): add WhatsApp Business API support",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2270#issuecomment-5350962397",
+  "number": 2270,
+  "body": "Thanks for the review. I’ve addressed the latest webhook comments in the follow-up commit.\n\nThe main change is that I **reused the existing MessageBus replay-log primitives** (`log_append` / `log_read…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "redSun64",
+    "commenter": "redSun64"
+  },
+  "at_mobiles": []
+}
