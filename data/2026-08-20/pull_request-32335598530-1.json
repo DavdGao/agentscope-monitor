@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ployts",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-20T05:26:39.638279Z",
+  "title": "fix(memory): own minimal ReMe configuration",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2374",
+  "number": 2374,
+  "body": "## AgentScope Version\n\n2.0.6\n\n## Description\n\nFixes #2357. Supersedes the narrower configuration patch in #2358.\n\n`ReMeMiddleware` previously resolved ReMe's bundled `default.yaml`. That standalone co…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ployts",
+    "head_sha": "ad878d0182259c717f32d199041617bf85dad6fe",
+    "base_ref": "main",
+    "additions": 513,
+    "deletions": 120,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
