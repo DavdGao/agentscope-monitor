@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ployts",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-20T06:24:43.394504Z",
+  "title": "fix(reme): declare as_embedding/embedding_store components when vector store is enabled",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2358#issuecomment-5352225530",
+  "number": 2358,
+  "body": "Thanks for identifying the missing-component root cause. The issue addressed by this PR is now covered by #2374 as part of a broader, self-contained ReMe configuration change.\n\n#2374 removes the depen…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "weike-zhang",
+    "commenter": "ployts"
+  },
+  "at_mobiles": []
+}
