@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-20T04:27:08.402792Z",
+  "title": "fix(utils): honor Python attribute lookup semantics",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2281",
+  "number": 2281,
+  "body": "## Summary\n\nFixes #2239.\n\n`DictMixin` uses dictionary keys for attribute-style access, but a missing key currently raises `KeyError`. That breaks Python's attribute lookup contract: `hasattr()` and `g…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "uuzzrm",
+    "head_sha": "61007437819a1848d159e5aa1b5d7255cbb4d756",
+    "base_ref": "main",
+    "additions": 37,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
