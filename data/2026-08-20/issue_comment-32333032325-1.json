@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-20T04:45:28.261524Z",
+  "title": "fix(webui): surface EXCEED_MAX_ITERS as a visible error banner",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2079#issuecomment-5351474001",
+  "number": 2079,
+  "body": "Thanks for your contribution! However, ExceedMaxItersEvent has been deprecated in favor of the finish_reason field in ReplyEndEvent. Closing this PR for now.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "CGeekhl",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
