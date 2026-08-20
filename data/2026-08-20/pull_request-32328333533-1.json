@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-20T03:28:18.381953Z",
+  "title": "fix(tool): resolve PEP 563 lazy annotations when extracting tool schemas",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2371",
+  "number": 2371,
+  "body": "## AgentScope Version\n\n2.0.6 (main, 77524b8f6)\n\n## Description\n\n### Background\n\nWhen a tool function is defined in a module that uses `from __future__ import annotations` (PEP 563 lazy annotations), `…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "268a1154b4f751ef44559116ee90f94af81cade1",
+    "base_ref": "main",
+    "additions": 129,
+    "deletions": 10,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
