@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "sunrong1",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-20T08:34:42.995968Z",
+  "title": "fix(rag):  restrict OpenAI embedding `dimensions` forwarding to matryoshka-capable models",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2343",
+  "number": 2343,
+  "body": "## What this PR does\n\nThis PR fixes a regression where `dimensions` was incorrectly forwarded to OpenAI embedding models that do **not** support Matryoshka Representation Learning (MRL).\n\n- Introduces…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "sunrong1",
+    "head_sha": "b9cfafa5c508d24bdad42ee95d234a41819c121c",
+    "base_ref": "main",
+    "additions": 246,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
