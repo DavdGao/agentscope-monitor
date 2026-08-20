@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "weichu2002",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-20T16:50:32.475104Z",
+  "title": "fix(middleware): isolate static RAG inputs across concurrent replies",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2382",
+  "number": 2382,
+  "body": "## Summary\n\nFixes #2331.\n\n### Root cause\n\nIn static mode, `RAGMiddleware` stored reply inputs in one mutable instance attribute, `_cached_inputs`. A shared middleware instance therefore allowed an ove…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "weichu2002",
+    "head_sha": "838b667da0cda8eb06f151f06337c3ac709cf3c5",
+    "base_ref": "main",
+    "additions": 112,
+    "deletions": 7,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
