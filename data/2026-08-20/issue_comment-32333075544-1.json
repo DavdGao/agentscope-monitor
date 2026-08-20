@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-20T04:46:10.122196Z",
+  "title": "fix(agent): emit ThinkingBlockEnd before TextBlockStart on thinking→text transition",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1907#issuecomment-5351478578",
+  "number": 1907,
+  "body": "Fixed in #1885",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "XingyongCheng",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
