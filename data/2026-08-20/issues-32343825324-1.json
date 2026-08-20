@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-20T07:24:10.862830Z",
+  "title": "[Bug]: ReMe middleware fails with \"Component 'default' not found in as_embedding\" when embedding_model is set",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2357",
+  "number": 2357,
+  "body": "## Bug Report\n\n### Environment\n- AgentScope: 2.0.6\n- reme-ai: 0.4.1.7\n- Python: 3.11\n\n### Expected Behavior\nConfiguring `ReMeMiddleware` with an `embedding_model` should enable ReMe's vector store: se…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "weike-zhang"
+  },
+  "at_mobiles": []
+}
