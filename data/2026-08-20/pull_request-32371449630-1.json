@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-20T12:56:23.193102Z",
+  "title": "feat(ui): display exceeding max iteration alert in chat page",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2381",
+  "number": 2381,
+  "body": "## PR Title Format\n\nPlease ensure your PR title follows the Conventional Commits format:\n- Format: `<type>(<scope>): <description>`\n- Example: `feat(memory): add redis cache support`\n- Allowed types: …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "b18dfc5c8c6a42c23237029c3d6cc560fc1334e4",
+    "base_ref": "main",
+    "additions": 56,
+    "deletions": 12,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
