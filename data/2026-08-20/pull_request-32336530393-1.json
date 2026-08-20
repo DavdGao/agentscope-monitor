@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-20T05:41:13.099377Z",
+  "title": "fix(state): refresh read file cache recency on access",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1811",
+  "number": 1811,
+  "body": "## AgentScope Version\n\n  `2.0.1`\n\n  ## Description\n\n  This PR fixes the LRU behavior of the Read/Write/Edit file cache in `ToolContext`.\n\n  ### Problem\n\n  `ToolContext.cache_file()` already treats the…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "faisalishfaq2005",
+    "head_sha": "a62297161bab48a7eee0b7b2b83d07f43650a201",
+    "base_ref": "main",
+    "additions": 38,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
