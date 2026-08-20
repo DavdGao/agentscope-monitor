@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-20T08:55:39.504835Z",
+  "title": "feat(tool): support custom input_schema in FunctionTool",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2378",
+  "number": 2378,
+  "body": "## AgentScope Version\n\n2.0.6 (main branch)\n\n## Description\n\nPreviously `FunctionTool` always generated its input schema via `_extract_input_schema(func)` from the function's type annotations and docst…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "e3a901e7bcefbbb2c3de4e73d321c52c6d42ffe8",
+    "base_ref": "main",
+    "additions": 144,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
