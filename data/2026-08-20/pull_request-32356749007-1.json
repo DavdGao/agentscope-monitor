@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "ump45nose",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-20T10:00:30.567416Z",
+  "title": "fix(formatter): derive audio format from media type",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2301",
+  "number": 2301,
+  "body": "## AgentScope Version\n\nCurrent `main` (`8f240093`).\n\n## Description\n\n`OpenAIChatFormatter` previously inferred URL audio formats from the URL path and only accepted `audio/mp3` for base64 MP3 input. T…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ump45nose",
+    "head_sha": "b37943f087ddfdb068f9239058facda20a183bc8",
+    "base_ref": "main",
+    "additions": 78,
+    "deletions": 30,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
