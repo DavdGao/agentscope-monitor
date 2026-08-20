@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-20T06:36:35.375436Z",
+  "title": "fix(reme): declare as_embedding/embedding_store components when vector store is enabled",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2358",
+  "number": 2358,
+  "body": "Fixes #2357 (also the underlying cause of #2356).\n\n## Summary\n\n`ReMeMiddleware` with an `embedding_model` crashes every ReMe job with `KeyError: Component 'default' not found in as_embedding`. Root ca…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [
+    "jinliyl"
+  ],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "weike-zhang",
+    "head_sha": "2f9af4b307b04f55bc2e32b235e06be819901dd3",
+    "base_ref": "main",
+    "additions": 22,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
