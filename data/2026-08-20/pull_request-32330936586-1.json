@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-20T04:11:21.180611Z",
+  "title": "fix(mcp): detect SSE transport by URL path so query strings work",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2311",
+  "number": 2311,
+  "body": "## Problem\n\nSSE MCP servers whose URL carries a query string fail to connect.\n`MCPClient.list_tools()` / `get_tool()` raise:\n\n```\nmcp.shared.exceptions.McpError: Session terminated\n```\n\nand when the c…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "1753936488",
+    "head_sha": "52e139224eaf0ee07290417c9816b1ac0bdcd17a",
+    "base_ref": "main",
+    "additions": 39,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
