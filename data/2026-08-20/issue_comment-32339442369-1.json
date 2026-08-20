@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ployts",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-20T06:24:23.099595Z",
+  "title": "[Bug]: ReMe middleware fails with \"Component 'default' not found in as_embedding\" when embedding_model is set",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2357#issuecomment-5352222105",
+  "number": 2357,
+  "body": "Fixed by #2374.\n\nThe middleware now builds an AgentScope-owned embedded ReMe configuration instead of relying on ReMe's bundled `default.yaml`. When an `embedding_model` is provided, the configuration…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "weike-zhang",
+    "commenter": "ployts"
+  },
+  "at_mobiles": []
+}
