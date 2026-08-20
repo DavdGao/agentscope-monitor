@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "review_requested",
+  "action_cn": "请求审核",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-20T04:14:55.762178Z",
+  "title": "fix(model): preserve per-item reasoning_item_id in streaming Responses API",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2253",
+  "number": 2253,
+  "body": "## Description\n\nThe streaming path in `_parse_stream_response` used a single `thinking_id` as `block_id` for all reasoning content. When a response contains multiple reasoning items (e.g. reasoning → …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [
+    "qbc2016"
+  ],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "weed33834",
+    "head_sha": "5a30fd06bebefa2199b348f21b4a31520467ae97",
+    "base_ref": "main",
+    "additions": 70,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
