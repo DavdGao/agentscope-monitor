@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-20T04:47:19.618340Z",
+  "title": "chore: improve agentscope maintenance path",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1790",
+  "number": 1790,
+  "body": "Summary:\n- Add or tighten focused edge-case tests or type assertions in tests/utils.py, tests/event_test.py related to Python typing, tests, CLI ergonomics, observability; avoid docs-only changes and …",
+  "labels": [
+    "stale-pr"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "lphuc2250gma",
+    "head_sha": "9b695d575e9768ccf5f3fd10e23da98eb7e0bc18",
+    "base_ref": "main",
+    "additions": 10,
+    "deletions": 1,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
