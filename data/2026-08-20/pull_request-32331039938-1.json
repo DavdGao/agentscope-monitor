@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-20T04:12:56.294485Z",
+  "title": "fix(tool): distinguish inactive tool groups from missing tools in check_tool_available",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2316",
+  "number": 2316,
+  "body": "## Description\n\n`Toolkit` has two lookup paths that disagree about a tool registered in an **inactive** tool group:\n\n- `Toolkit.call_tool` distinguishes correctly: after missing the activated groups i…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "wizardeur",
+    "head_sha": "ab46d2e343ff2b8f4cab435867b941463175cfbc",
+    "base_ref": "main",
+    "additions": 55,
+    "deletions": 9,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
