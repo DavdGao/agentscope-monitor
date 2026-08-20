@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-20T13:23:40.094377Z",
+  "title": "feat(rag): add chunk browsing, raw document preview and enriched knowledge base listing",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2372",
+  "number": 2372,
+  "body": "## AgentScope Version\n\n2.0.6\n\n## Description\n\nCloses #2360 (from discussion #2336).\n\nThe RAG service backend only exposed document list / status / upload / delete / semantic search, so the frontend co…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "3336016f35e8f97de4e746c27b5560a87df3b096",
+    "base_ref": "main",
+    "additions": 3450,
+    "deletions": 103,
+    "changed_files": 31
+  },
+  "at_mobiles": []
+}
