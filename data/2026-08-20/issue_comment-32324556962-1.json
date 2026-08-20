@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iamroylim",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-20T02:25:19.072069Z",
+  "title": "fix(agent): keep prompt cache tokens in usage",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2318#issuecomment-5350434463",
+  "number": 2318,
+  "body": "The current head now fails the refreshed full test matrix because the event serialization contract grew, but the HITL expected-event fixtures did not.\n\nReproduction on b01d70f310dcc70e41d6525008c17180…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "yingz23",
+    "commenter": "iamroylim"
+  },
+  "at_mobiles": []
+}
