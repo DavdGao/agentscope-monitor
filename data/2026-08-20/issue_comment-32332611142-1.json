@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-20T04:38:35.126581Z",
+  "title": "fix(reme): declare as_embedding/embedding_store components when vector store is enabled",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2358#issuecomment-5351430019",
+  "number": 2358,
+  "body": "@ployts Plz check this pr",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "weike-zhang",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
