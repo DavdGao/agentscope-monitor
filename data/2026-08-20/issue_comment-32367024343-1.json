@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "sunrong1",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-20T12:05:27.228042Z",
+  "title": "fix(rag):  restrict OpenAI embedding `dimensions` forwarding to matryoshka-capable models",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2343#issuecomment-5355625218",
+  "number": 2343,
+  "body": "@Solaris-star thanks again for the detailed review — your three points were spot on, and they pushed the fix into a much more correct shape.\n\n**Update pushed** (`ce500a6` → `d71df39`, force-pushed ont…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "sunrong1",
+    "commenter": "sunrong1"
+  },
+  "at_mobiles": []
+}
