@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "lajxw",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-20T06:04:46.296678Z",
+  "title": "feat(agent): allow callers to supply reply_id for external ID alignment",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2375",
+  "number": 2375,
+  "body": "**Motivation**\nWhen a reply is triggered by an external system — a DB-persisted chat service, a message-queue-driven agent, or any workflow where the reply's final message is stored under an external …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "lajxw"
+  },
+  "at_mobiles": []
+}
