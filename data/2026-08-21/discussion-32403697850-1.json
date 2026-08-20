@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "jaden3824",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-20T18:31:58.264912Z",
+  "title": "External AgentScope runner wanted for one bounded agent-message decode",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2383",
+  "number": 2383,
+  "body": "I am seeking one AgentScope operator outside the Urusilla project to test a single declarative inter-agent message. This is a bounded interoperability request, not a promotion claim or evidence of ado…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "General",
+    "author": "jaden3824"
+  },
+  "at_mobiles": []
+}
