@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-20T04:26:18.330597Z",
+  "title": "fix(app): clean up index tasks on cancellation",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2225",
+  "number": 2225,
+  "body": "## AgentScope Version\n\n`2.0.5` / current `main` at `9d1026f`\n\n## Description\n\nFixes #2219.\n\n### Background\n\n`IndexWorker.process()` creates a pipeline task and a lease-heartbeat task, then waits for e…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "daleselaji-dev",
+    "head_sha": "596e6423dbfaa2a7b4dc156f8ab32cce8d8c208e",
+    "base_ref": "main",
+    "additions": 58,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
