@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "yingz23",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-20T07:35:42.809122Z",
+  "title": "fix(agent): keep prompt cache tokens in usage",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2318#issuecomment-5352855595",
+  "number": 2318,
+  "body": "Thanks a lot for all the detailed reviews!\n\nAt first I thought those 11 HITL test failures were pre-existing environment issues. Then I realized they came from the new serialization contract — fixed a…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "yingz23",
+    "commenter": "yingz23"
+  },
+  "at_mobiles": []
+}
