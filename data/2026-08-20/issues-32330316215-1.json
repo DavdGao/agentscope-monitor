@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-20T04:01:12.567711Z",
+  "title": "feat(channel): restrict tool approval to the requester in group chats",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2373",
+  "number": 2373,
+  "body": "**Background**\n\nCurrently, tool approval requests posted in a group chat can be approved or denied by any member of that chat.\n\nThe existing Feishu and Discord implementations report the identity of t…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "qbc2016"
+  },
+  "at_mobiles": []
+}
