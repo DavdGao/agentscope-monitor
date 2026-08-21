@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-21T09:26:02.828878Z",
+  "title": "feat(sop): SOP definition, run and decision core",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2393#issuecomment-5368060361",
+  "number": 2393,
+  "body": "Pushed `94302866d` — stripped the service-only concepts that had leaked into the SDK model.\n\nEach of these needed a scheduler, a workspace manager, channels or a message bus underneath, and none of th…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "DavdGao",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
