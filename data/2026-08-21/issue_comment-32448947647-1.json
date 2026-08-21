@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-21T05:00:28.176034Z",
+  "title": "[Bug]: Long-Term Memory Reme",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2356#issuecomment-5365400687",
+  "number": 2356,
+  "body": "Fixed in #2374",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "qibowang",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
