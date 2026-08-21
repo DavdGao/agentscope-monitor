@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-21T05:08:56.913498Z",
+  "title": "feat(event): add iteration extension event",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1697",
+  "number": 1697,
+  "body": "**Background**\n\nWe have established an event system to support frontend interactions and human-in-the-loop (HITL) workflows. Currently, when the agent reaches its execution or iteration loop limit, th…",
+  "labels": [
+    "stale-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
