@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-21T05:09:54.999218Z",
+  "title": "feat(service): support MCP and Skill hub in the agent service",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1843",
+  "number": 1843,
+  "body": "**Background**\n\nCurrently, MCPs and skills are imported manually by users from the frontend. We should build a proper abstraction for MCP Hub and Skill Hub, allowing the agent service to connect to de…",
+  "labels": [
+    "stale-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
