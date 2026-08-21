@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-21T07:18:21.126095Z",
+  "title": "[Bug]: Prompt cache tokens (cache_input_tokens, cache_creation_input_tokens) are dropped in ModelCallEndEvent and _save_to_context",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2305",
+  "number": 2305,
+  "body": "## Background\n\nAgentScope's `ChatUsage` dataclass correctly captures prompt cache tokens (`cache_input_tokens`, `cache_creation_input_tokens`) from provider APIs. The OpenAI-compatible model adapter (…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "scanleale"
+  },
+  "at_mobiles": []
+}
