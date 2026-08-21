@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-21T04:59:09.319125Z",
+  "title": "fix(web_ui): keep an uploaded file visible while the worker indexes it",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2387",
+  "number": 2387,
+  "body": "An uploaded file disappears from the documents panel while the worker\nindexes it.\n\nThe panel built its rows from the server list, and an upload task only\nrendered on its own while it had no document i…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "ec89b8257a8d75879f7113ffdf333142e5354324",
+    "base_ref": "main",
+    "additions": 44,
+    "deletions": 29,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
