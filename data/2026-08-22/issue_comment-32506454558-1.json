@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "weed33834",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-21T17:07:04.106454Z",
+  "title": "feat(channel): implement list_tools for DiscordChannel",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2273#issuecomment-5372918192",
+  "number": 2273,
+  "body": "Hi maintainers, this adds a list_tools implementation for the Discord channel and is mergeable. Could you review?",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "weed33834",
+    "commenter": "weed33834"
+  },
+  "at_mobiles": []
+}
