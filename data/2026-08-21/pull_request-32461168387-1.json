@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-21T08:00:38.743223Z",
+  "title": "fix(tracing): include input messages in chat spans",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2391",
+  "number": 2391,
+  "body": "## AgentScope Version\n\n[The version of AgentScope you are working on, e.g. `import agentscope; print(agentscope.__version__)`]\n\n## Description\n\nFix OpenTelemetry chat spans missing `gen_ai.input.messa…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "60d22291f173c4785c85971c0c0a8650a714187f",
+    "base_ref": "main",
+    "additions": 64,
+    "deletions": 6,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
