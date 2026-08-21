@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-21T11:09:39.147751Z",
+  "title": "沙箱是否有预热功能，python精简镜像冷启动10s以上",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2392#discussioncomment-18104868",
+  "number": 2392,
+  "body": "@connorshen We're working on the warm-up feature in #1755 (and release in 2.0.7)",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "connorshen"
+  },
+  "at_mobiles": []
+}
