@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-21T03:59:32.511176Z",
+  "title": "feat(agent-team): tell the leader when a member's turn fails",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2386",
+  "number": 2386,
+  "body": "## AgentScope Version\n\n2.0.6 (main, e0e43cad9)\n\n## Description\n\n### Background\n\nA team member reports to its leader by calling `TeamSay` — that is the only channel carrying a worker's result back. `Te…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "3ade83316cf6acc771d5ee0f88da323a98bbb377",
+    "base_ref": "main",
+    "additions": 627,
+    "deletions": 36,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
