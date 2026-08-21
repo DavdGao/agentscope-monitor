@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-21T09:36:47.924006Z",
+  "title": "feat(app): add client-declared external tools and interactive user input",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2394",
+  "number": 2394,
+  "body": "## AgentScope Version\n\n2.0.6\n\n## Description\n\n### Summary\n\nIntroduce per-request client external tools so interactive capabilities are declared by the active client instead of being permanently tied t…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "8a1cc34f3c6e579eccf7c0c3b95e74c8ba42f234",
+    "base_ref": "main",
+    "additions": 3756,
+    "deletions": 91,
+    "changed_files": 46
+  },
+  "at_mobiles": []
+}
