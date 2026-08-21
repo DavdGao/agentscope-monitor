@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-21T05:07:57.902157Z",
+  "title": "feat(agent-team): improve the overall capability and reliability of agent team",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1802",
+  "number": 1802,
+  "body": "**Background**\n\nThis is a tracking issue for the overall effort to improve the agent team feature, including capability enhancements, reliability improvements, and bug fixes.",
+  "labels": [
+    "stale-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
