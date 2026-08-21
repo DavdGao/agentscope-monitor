@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-21T05:07:41.390497Z",
+  "title": "feat(agent-team): add ralph loop for team members to ensure task completion",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1797",
+  "number": 1797,
+  "body": "**Background**\n\nWhen a team member completes a task, it is expected to call `TeamSay` to send the result back to the team leader, which wakes the leader up. \n\nHowever, the sub-agent sometimes forgets …",
+  "labels": [
+    "Help Wanted"
+  ],
+  "assignees": [
+    "YingchaoX"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
