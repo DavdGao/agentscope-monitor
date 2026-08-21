@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-21T02:42:29.645693Z",
+  "title": "[Feature]: use native multimodal function_call_output in OpenAI Responses formatter",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2369#discussioncomment-18100591",
+  "number": 2369,
+  "body": "@fancyboi999 Thanks for pointing out this issue. @qbc2016 Plz take a look at this?",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "fancyboi999"
+  },
+  "at_mobiles": []
+}
