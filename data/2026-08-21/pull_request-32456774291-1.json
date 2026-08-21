@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "fancyboi999",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-21T07:01:03.705591Z",
+  "title": "feat(formatter): use native multimodal tool outputs",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2389",
+  "number": 2389,
+  "body": "## AgentScope Version\n\n2.0.6, based on `main` at `b490ca45`.\n\n## Description\n\nDiscussion: https://github.com/agentscope-ai/agentscope/discussions/2369\n\n`OpenAIResponseFormatter` promoted multimodal to…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "fancyboi999",
+    "head_sha": "3c19f8d625c61c3e245d72cbcd934c17b3df0f82",
+    "base_ref": "main",
+    "additions": 410,
+    "deletions": 162,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
