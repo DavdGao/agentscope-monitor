@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "review_requested",
+  "action_cn": "请求审核",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-21T07:01:49.272724Z",
+  "title": "fix(agent): keep prompt cache tokens in usage",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2318",
+  "number": 2318,
+  "body": "## AgentScope Version\n\n2.0.6 (`import agentscope; print(agentscope.__version__)`)\n\n## Description\n\nFixes #2305. `cached_tokens` is already parsed into `ChatUsage.cache_input_tokens`\nby the model adapt…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "yingz23",
+    "head_sha": "75e13a6decb41dc6a127d277bcff67a140d9a01f",
+    "base_ref": "main",
+    "additions": 291,
+    "deletions": 10,
+    "changed_files": 8
+  },
+  "at_mobiles": []
+}
