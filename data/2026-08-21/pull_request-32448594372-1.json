@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-21T04:54:35.131514Z",
+  "title": "fix(web_ui): keep uploads visible during indexing; allow switching a knowledge base's embedding credential",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2387",
+  "number": 2387,
+  "body": "Two fixes to the knowledge-base web UI, one per commit.\n\n## 1. An uploaded file disappears while the worker indexes it\n\nThe documents panel built its rows from the server list, and an upload\ntask only…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "ec89b8257a8d75879f7113ffdf333142e5354324",
+    "base_ref": "main",
+    "additions": 44,
+    "deletions": 29,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
