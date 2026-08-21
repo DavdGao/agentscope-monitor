@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "review_requested",
+  "action_cn": "请求审核",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-21T02:25:52.468352Z",
+  "title": "feat(agent-team): add loop middleware for subagent in teams",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2379",
+  "number": 2379,
+  "body": "## PR Title Format\n\nPlease ensure your PR title follows the Conventional Commits format:\n- Format: `<type>(<scope>): <description>`\n- Example: `feat(memory): add redis cache support`\n- Allowed types: …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "f7d35b4b91b134f22ecff73a6efbb5a94a1c8765",
+    "base_ref": "main",
+    "additions": 743,
+    "deletions": 362,
+    "changed_files": 18
+  },
+  "at_mobiles": []
+}
