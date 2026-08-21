@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-21T05:06:05.308316Z",
+  "title": "feat(workspace): support multiple agents for the same workspace",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1796",
+  "number": 1796,
+  "body": "**Background**\n\n1. Currently, workspaces and workspace managers are isolated at the agent level. However, in agent team scenarios, team members also need to operate within the same workspace. Therefor…",
+  "labels": [],
+  "assignees": [
+    "iluv7"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
