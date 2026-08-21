@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-21T11:50:25.578255Z",
+  "title": "feat(channel): support distributed deployment for channels in agentscope",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2398",
+  "number": 2398,
+  "body": "**Background**\n\nCurrently, each channel record/credential establishes a persistent connection. In distributed mode, setting up WebSocket connections on every node is wasteful. Therefore, we need to **…",
+  "labels": [],
+  "assignees": [
+    "DavdGao"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
