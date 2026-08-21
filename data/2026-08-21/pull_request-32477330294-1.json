@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-21T11:28:11.154412Z",
+  "title": "refactor(channel): deliver a reply from the node that produced it",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2395",
+  "number": 2395,
+  "body": "## AgentScope Version\n\n`2.0.6`\n\n## Description\n\nFollow-up to #2390, which moved the channels' long connections into a dedicated worker. This removes the outbound round-trip that split made unnecessary…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "bcd0948d1c11ebba214aba19095597d75f34af0e",
+    "base_ref": "main",
+    "additions": 807,
+    "deletions": 271,
+    "changed_files": 10
+  },
+  "at_mobiles": []
+}
