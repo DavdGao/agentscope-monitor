@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-21T03:25:26.965137Z",
+  "title": "feat(app): add raw document preview, chunk browsing and full knowledge base configuration",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2360",
+  "number": 2360,
+  "body": "### Discussed in https://github.com/agentscope-ai/agentscope/discussions/2336\n\n<div type='discussions-op-text'>\n\n<sup>Originally posted by **tingaicompass** August 17, 2026</sup>\n### Current Situation…",
+  "labels": [],
+  "assignees": [
+    "DavdGao"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
