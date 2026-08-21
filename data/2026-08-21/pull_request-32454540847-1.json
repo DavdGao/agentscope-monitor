@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-21T06:28:51.227977Z",
+  "title": "fix(rag): escape Word and PPT Markdown table cells",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2377",
+  "number": 2377,
+  "body": "## Summary\n\n- escape backslashes and pipe delimiters in shared Markdown table rendering\n- preserve Word and PowerPoint soft line breaks and render multiline cells as `<br>`\n- add focused end-to-end re…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "kaiwangleo",
+    "head_sha": "5e69261b2212fe13ec134d26ade5ae30dacb582d",
+    "base_ref": "main",
+    "additions": 162,
+    "deletions": 15,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
