@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-21T09:57:04.639914Z",
+  "title": "fix(context): allow trigger ratio of 0.9",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2396",
+  "number": 2396,
+  "body": "## AgentScope Version\n\n2.0.6\n\n## Description\n\nAligns `ContextConfig.trigger_ratio` validation with its documented maximum. A value of `0.9` now passes validation while values above `0.9` remain reject…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "87134be24e7b36bc4c2e8ea9b522c8ef18659640",
+    "base_ref": "main",
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
