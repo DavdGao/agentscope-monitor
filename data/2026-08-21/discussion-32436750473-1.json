@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "KasonLee-marker",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-21T01:34:09.080127Z",
+  "title": "[Question] Intended way to make a tool available across multiple SkillToolGroups?",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2384",
+  "number": 2384,
+  "body": "## Use case\n\nWe use `SkillToolGroup` for progressive tool disclosure: skill-gated tools stay hidden until the\ncorresponding skill is loaded. Some of our tools are **shared by more than one skill** — e…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "General",
+    "author": "KasonLee-marker"
+  },
+  "at_mobiles": []
+}
