@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "connorshen",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-21T08:01:55.907111Z",
+  "title": "沙箱是否有预热功能，python精简镜像冷启动10s以上",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2392",
+  "number": 2392,
+  "body": "如题",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "General",
+    "author": "connorshen"
+  },
+  "at_mobiles": []
+}
