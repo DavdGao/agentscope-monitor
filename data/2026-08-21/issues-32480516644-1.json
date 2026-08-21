@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-21T12:09:23.457065Z",
+  "title": "feat(sop): support service-level SOP in agent service",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2402",
+  "number": 2402,
+  "body": "**Background**\n\nBuilding on top of the SDK-level SOP implementation, the service-level implementation introduces **persistent storage, lifecycle management, and API exposure** for SOPs within agent se…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
