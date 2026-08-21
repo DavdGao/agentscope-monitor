@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-21T05:00:22.141748Z",
+  "title": "[Bug]: Long-Term Memory Reme",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2356",
+  "number": 2356,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [],
+  "assignees": [
+    "jinliyl"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "qibowang"
+  },
+  "at_mobiles": []
+}
