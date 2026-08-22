@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-22T02:33:18.442645Z",
+  "title": "[Discussion] Is it a cool idea to allow mixed group chat with multiple agents&users?",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2138#discussioncomment-18112200",
+  "number": 2138,
+  "body": "I think I understand your point now. I also really like the idea of treating humans and agents as equal first-class participants in the same conversation. The “agent as a coworker” experience feels ge…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "iluv7",
+    "discussion_author": "DavdGao"
+  },
+  "at_mobiles": []
+}
