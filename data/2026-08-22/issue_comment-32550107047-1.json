@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "steven-ji",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-22T03:51:22.487942Z",
+  "title": "[Bug]: unsupported-media Base64Source tool results write a new undeleted temp file with a new random path on every reformat",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2173#issuecomment-5377707277",
+  "number": 2173,
+  "body": "Hi, I would like to take this over if it is still open to community contribution.\n\nI verified the current `main` at `da00849f`. The original `application/pdf` reproduction now follows the supported-me…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "AmirF194",
+    "commenter": "steven-ji"
+  },
+  "at_mobiles": []
+}
