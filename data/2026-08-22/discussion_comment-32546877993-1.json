@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-22T02:40:21.338528Z",
+  "title": "[Discussion] Is it a cool idea to allow mixed group chat with multiple agents&users?",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2138#discussioncomment-18112225",
+  "number": 2138,
+  "body": "I think the main challenges are workspace isolation in group conversations, preventing unintended knowledge-base leakage, and establishing clear HITL approval boundaries. Solving these properly may re…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "iluv7",
+    "discussion_author": "DavdGao"
+  },
+  "at_mobiles": []
+}
