@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "redSun64",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-22T02:12:49.781921Z",
+  "title": "feat(channel): add WhatsApp Business API support",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2270",
+  "number": 2270,
+  "body": "## Summary\n\nThis PR adds WhatsApp Business API support to the Agent Service channel system. Resolves #2254\n\nThe scope includes:\n\n- A new `WhatsAppChannel` implementation based on `ChannelBase`\n- Tools…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "redSun64",
+    "head_sha": "cc724a48f0ac76df5ab025caabe8a27eb32153a1",
+    "base_ref": "main",
+    "additions": 3617,
+    "deletions": 29,
+    "changed_files": 25
+  },
+  "at_mobiles": []
+}
