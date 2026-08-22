@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Oxygen56",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-22T17:08:48.961653Z",
+  "title": "Feature request: expose workspace file-change notifications for session UIs",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2364#issuecomment-5381594782",
+  "number": 2364,
+  "body": "I would like to take this once the contract is confirmed. To cover the full user flow rather than only one notification path, my recommended design is a durable workspace revision plus a best-effort s…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "william-xue",
+    "commenter": "Oxygen56"
+  },
+  "at_mobiles": []
+}
