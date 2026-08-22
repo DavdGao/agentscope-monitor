@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Oxygen56",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-22T16:41:26.994655Z",
+  "title": "[Bug]: Context compaction fails and crashes with 400 error due to token underestimation in count_tokens",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2385#issuecomment-5381474839",
+  "number": 2385,
+  "body": "Thanks for the detailed report. While validating the benchmark, I found that the SQL snippet in the reproduction is 172 UTF-8 bytes, so the current `bytes / 4` fallback returns 43, while the table rep…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "qiboyu301-crypto",
+    "commenter": "Oxygen56"
+  },
+  "at_mobiles": []
+}
