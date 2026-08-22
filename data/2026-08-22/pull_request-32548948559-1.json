@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "steven-ji",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-22T03:26:03.702461Z",
+  "title": "feat(workspace): expose OpenSandbox proxy and volumes",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2403",
+  "number": 2403,
+  "body": "## AgentScope Version\n\n2.0.6 (current `main` at `da00849f`)\n\n## Description\n\nCloses #2194.\n\nOpenSandbox already supports routing sandbox traffic through the API server and attaching persistent volumes…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "steven-ji",
+    "head_sha": "639b076cc9062a545a653ce7ea20684fb5725a1b",
+    "base_ref": "main",
+    "additions": 126,
+    "deletions": 5,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
