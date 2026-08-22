@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "weike-zhang",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-22T13:53:37.314750Z",
+  "title": "fix(model): use conservative fallback token estimate",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2397#issuecomment-5380759339",
+  "number": 2397,
+  "body": "Thanks for this fix. One concern with a uniform `(bytes * 4 + 4) // 5` (~0.8 tokens/byte) is that it over-counts ASCII/English — the dominant content — by roughly 3×. Example: 135 bytes of English pro…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Oxygen56",
+    "commenter": "weike-zhang"
+  },
+  "at_mobiles": []
+}
