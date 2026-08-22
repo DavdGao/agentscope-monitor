@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Oxygen56",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-22T17:00:51.708959Z",
+  "title": "fix(model): use conservative fallback token estimate",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2397#issuecomment-5381559353",
+  "number": 2397,
+  "body": "Good point — I agree that a uniform 0.8-token-per-byte fallback is too aggressive for ordinary ASCII/English. I have moved this PR back to draft while I rework the estimate so natural text stays close…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Oxygen56",
+    "commenter": "Oxygen56"
+  },
+  "at_mobiles": []
+}
