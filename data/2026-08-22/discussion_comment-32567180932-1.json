@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "jaden3824",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-22T10:16:32.567372Z",
+  "title": "[Discussion] Is it a cool idea to allow mixed group chat with multiple agents&users?",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2138#discussioncomment-18114708",
+  "number": 2138,
+  "body": "@iluv7 Your separation of equal conversational participation from equal permissions is directly useful to a boundary we need to test. I opened a small human co-researcher sprint rather than asking for…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "jaden3824",
+    "discussion_author": "DavdGao"
+  },
+  "at_mobiles": []
+}
