@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ump45nose",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-22T01:51:51.687833Z",
+  "title": "fix(formatter): derive audio format from media type",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2301#issuecomment-5377203720",
+  "number": 2301,
+  "body": "@DavdGao This formatter fix is rebased on current main and ready for review. It derives OpenAI audio format from the declared media type (including standard `audio/mpeg`) instead of URL suffixes, with…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "ump45nose",
+    "commenter": "ump45nose"
+  },
+  "at_mobiles": []
+}
