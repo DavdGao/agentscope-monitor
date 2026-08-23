@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "AmirF194",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-23T22:45:03.401123Z",
+  "title": "[Bug]: GeminiChatModel reports inflated output_tokens when a response includes tool-execution usage",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2405",
+  "number": 2405,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing issues and discussions, and this is not a duplicate.\n- [x] This is a bug, not a usage question.\n\n### Background / Description\n\nWhen talking to a G…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "AmirF194"
+  },
+  "at_mobiles": []
+}
