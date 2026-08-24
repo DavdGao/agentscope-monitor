@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Mrljq",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-24T16:27:07.439766Z",
+  "title": "fix(toolkit): describe active tool groups in reset_tools",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2414",
+  "number": 2414,
+  "body": "Closes #2413\n\n## Summary\n\n- Synchronize the reset_tools schema with the currently active tool groups.\n- Append an explicit prompt to descriptions of already active groups.\n- Preserve the existing rese…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Mrljq",
+    "head_sha": "1ead0fb64d1fb0b7dd8f2e82699a33ad84eb42f1",
+    "base_ref": "main",
+    "additions": 13,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
