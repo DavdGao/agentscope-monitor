@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-24T12:25:39.804477Z",
+  "title": "feat(storage): support channel records on SQL storage",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2388",
+  "number": 2388,
+  "body": "## AgentScope Version\n\n`2.0.6`\n\n## Description\n\n**This is step 1 of a staged refactor that makes `app/channel` correct under multi-node deployment. Opened as a draft — later steps land on this same br…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "DavdGao",
+    "head_sha": "f679d9fb443c2902d30bf8bcaf111aedbd0f85c7",
+    "base_ref": "main",
+    "additions": 461,
+    "deletions": 26,
+    "changed_files": 12
+  },
+  "at_mobiles": []
+}
