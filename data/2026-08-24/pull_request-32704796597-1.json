@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-24T08:08:43.782749Z",
+  "title": "fix(gemini): exclude tool-execution tokens from output_tokens",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2406",
+  "number": 2406,
+  "body": "## AgentScope Version\n\n2.0.6\n\n## Description\n\nGemini's `usage_metadata.total_token_count` covers prompt, candidates, tool-use prompt, and thinking tokens. `GeminiChatModel` derived `output_tokens` as …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [
+    "qbc2016"
+  ],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "iluv7",
+    "head_sha": "e53fdc671fd1af6cdf6ca1332de1dd1666ad3795",
+    "base_ref": "main",
+    "additions": 112,
+    "deletions": 8,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
