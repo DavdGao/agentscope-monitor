@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Mchenr",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-24T13:07:02.890509Z",
+  "title": "[Proposal] OpenViking long-term memory middleware for AgentScope",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2412",
+  "number": 2412,
+  "body": "Summary\n\nI would like to explore an AgentScope-native integration with [OpenViking](https://github.com/volcengine/OpenViking), implemented as an optional long-term-memory middleware.\n\nThe goal is to l…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "Mchenr"
+  },
+  "at_mobiles": []
+}
