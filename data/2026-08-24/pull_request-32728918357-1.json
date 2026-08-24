@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-24T12:46:55.103998Z",
+  "title": "feat(storage): support channel records on SQL storage",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2388",
+  "number": 2388,
+  "body": "## AgentScope Version\n\n`2.0.7`\n\n## Description\n\nChannels were only implemented on the Redis backend: `StorageBase` shipped `NotImplementedError` defaults and `AsyncSQLAlchemyStorage` inherited them, s…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "e004b3e591f446743feaf032124d1154720235fa",
+    "base_ref": "main",
+    "additions": 525,
+    "deletions": 26,
+    "changed_files": 12
+  },
+  "at_mobiles": []
+}
