@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-24T03:21:30.434274Z",
+  "title": "feat(workspace): add workspace pool for pooling",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1755",
+  "number": 1755,
+  "body": "## PR Title Format\n\nPlease ensure your PR title follows the Conventional Commits format:\n- Format: `<type>(<scope>): <description>`\n- Example: `feat(memory): add redis cache support`\n- Allowed types: …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [
+    "weizhang25"
+  ],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "cuiyuebing",
+    "head_sha": "d23c7ec12976f60728e72b61dfc73a0dedffca2c",
+    "base_ref": "main",
+    "additions": 1214,
+    "deletions": 70,
+    "changed_files": 22
+  },
+  "at_mobiles": []
+}
