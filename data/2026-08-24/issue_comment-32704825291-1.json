@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-24T08:09:09.088682Z",
+  "title": "fix(gemini): exclude tool-execution tokens from output_tokens",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2406#issuecomment-5392402684",
+  "number": 2406,
+  "body": "> @iluv7 Is this pr ready for review?\n\nYep.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "iluv7",
+    "commenter": "iluv7"
+  },
+  "at_mobiles": []
+}
