@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-24T06:27:13.588338Z",
+  "title": "feat(workspace): expose OpenSandbox proxy and volumes",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2403#issuecomment-5391521185",
+  "number": 2403,
+  "body": "@jwx0925 Hi, could you take a look at this pr?",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "steven-ji",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
