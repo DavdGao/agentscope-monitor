@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-24T03:06:46.707837Z",
+  "title": "chore(version): bump version to 2.0.7 for release",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2407",
+  "number": 2407,
+  "body": "Bump `agentscope` version from 2.0.6 to 2.0.7 for release.\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nhttps://claude.ai/code/session_017WCzX6BCDnMmytExPorcqr",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "663cbbdf468180375cbb28072410d822c0ff75ef",
+    "base_ref": "main",
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
