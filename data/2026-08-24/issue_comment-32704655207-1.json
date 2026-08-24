@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-24T08:07:02.097377Z",
+  "title": "feat(channel): add DingTalk channel",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2285#issuecomment-5392382645",
+  "number": 2285,
+  "body": "@DavdGao \nUnlike Feishu, DingTalk does not provide a default tool approval card that can be used directly. To enable HITL, users currently need to create and publish an approval card template on the D…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "iluv7",
+    "commenter": "iluv7"
+  },
+  "at_mobiles": []
+}
