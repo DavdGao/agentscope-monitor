@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-24T11:21:39.624087Z",
+  "title": "fix(scheduler): bind a real workspace to scheduled sessions",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2410",
+  "number": 2410,
+  "body": "Fixes #2408.\n\n## The bug\n\n`SchedulerManager._build_trigger` persisted the session it creates for a fire with `workspace_id=\"\"`. Every workspace manager caches on `workspace_id` and guards its fallback…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "a5534a5ecd1fe4c4fdf809c8148ad383bd8efb06",
+    "base_ref": "main",
+    "additions": 164,
+    "deletions": 25,
+    "changed_files": 16
+  },
+  "at_mobiles": []
+}
