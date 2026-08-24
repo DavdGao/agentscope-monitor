@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-24T03:07:01.894099Z",
+  "title": "Scheduled sessions persist an empty workspace_id, so unrelated users share one workspace",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2408",
+  "number": 2408,
+  "body": "### Summary\n\nScheduled tasks persist their session with `workspace_id=\"\"`. Every workspace manager caches by `workspace_id`, so all such sessions collide on the single cache key `\"\"` — **two different…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
