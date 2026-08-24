@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "h2h2h",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-24T05:48:31.155033Z",
+  "title": "Scheduled sessions persist an empty workspace_id, so unrelated users share one workspace",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2408#issuecomment-5391226511",
+  "number": 2408,
+  "body": "Hi @DavdGao, thanks for reporting this. I've reproduced the issue locally and confirmed the workspace collision. Are you already working on a PR? If not, I'd be happy to take this on and submit a fix.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "h2h2h"
+  },
+  "at_mobiles": []
+}
