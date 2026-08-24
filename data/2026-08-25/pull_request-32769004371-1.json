@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Oxygen56",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-24T19:35:22.867684Z",
+  "title": "fix(toolkit): mark active groups in reset_tools schema",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2415",
+  "number": 2415,
+  "body": "Fixes #2413\n\n## AgentScope Version\n\n2.0.7\n\n## Description\n\nWhen a tool group was already active, its concrete tools were available to\nthe model, but `reset_tools` presented the same group description …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Oxygen56",
+    "head_sha": "d0be8a5d22030de6b074310dfc539dbd5fe8ac96",
+    "base_ref": "main",
+    "additions": 64,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
