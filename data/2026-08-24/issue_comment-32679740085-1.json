@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qiboyu301-crypto",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-24T01:25:48.807140Z",
+  "title": "[Bug]: Context compaction fails and crashes with 400 error due to token underestimation in count_tokens",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2385#issuecomment-5389666372",
+  "number": 2385,
+  "body": "Hi @Oxygen56, thanks for following up and working on the fix!\n\nWe verified the exact runtime environment on our deployment server (`vLLM v0.27.1`) and tested the payloads directly. Here are the full d…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "qiboyu301-crypto",
+    "commenter": "qiboyu301-crypto"
+  },
+  "at_mobiles": []
+}
