@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "syyy44",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-24T08:34:47.531906Z",
+  "title": "fix(tool): use backend mtime for file cache validation",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2105#issuecomment-5392682797",
+  "number": 2105,
+  "body": "Following up on your Aug 11 note about the cache lifecycle — I hit the same thing and have a working fix with tests, so flagging it here before anyone duplicates work.\n\n**Reproduced the shape you desc…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "qiboyu301-crypto",
+    "commenter": "syyy44"
+  },
+  "at_mobiles": []
+}
