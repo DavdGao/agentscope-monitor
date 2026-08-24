@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-24T08:25:46.834662Z",
+  "title": "fix(channel): let DingTalk send without the inbound connection",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2409#issuecomment-5392588145",
+  "number": 2409,
+  "body": "Thanks for the update. I noticed that you’re using DingTalk’s published general-purpose AI card and providing the approval layout and buttons dynamically through sys_full_json_obj. I hadn’t realized t…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "DavdGao",
+    "commenter": "iluv7"
+  },
+  "at_mobiles": []
+}
