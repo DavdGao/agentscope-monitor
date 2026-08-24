@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ENCHIGO",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-24T08:39:22.599483Z",
+  "title": "feat(examples): add ACP Agent (stdio) example (examples/acp/)",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2251#issuecomment-5392728552",
+  "number": 2251,
+  "body": "@DavdGao following up — this has been open since Aug 6 and I know the queue is busy.\n\nThe smallest unblock is one click: as a fork PR, the workflows on the latest commit sit at **\"Approve and run\"**, …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "ENCHIGO",
+    "commenter": "ENCHIGO"
+  },
+  "at_mobiles": []
+}
