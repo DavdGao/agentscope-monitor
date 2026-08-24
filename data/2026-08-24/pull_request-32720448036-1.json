@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "review_requested",
+  "action_cn": "请求审核",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-24T11:10:12.381441Z",
+  "title": "fix(channel): let DingTalk send without the inbound connection",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2409",
+  "number": 2409,
+  "body": "### Problem\n\nEvery outbound DingTalk call fails. The reported symptom is a reply that never\narrives, with this warning repeating in the backend:\n\n```\nWARNING | _channel:_send_text:1171 - DingTalk 'd48…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "8f97d7c202cee4704675d94ca7947bae67ea57e2",
+    "base_ref": "main",
+    "additions": 828,
+    "deletions": 364,
+    "changed_files": 15
+  },
+  "at_mobiles": []
+}
