@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Terminator666666",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-25T09:00:45.518761Z",
+  "title": "[Bug]: ReplyBudgetControlMiddleware raises KeyError when an outer middleware swallows the ReplyEndEvent",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2418",
+  "number": 2418,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Terminator666666"
+  },
+  "at_mobiles": []
+}
