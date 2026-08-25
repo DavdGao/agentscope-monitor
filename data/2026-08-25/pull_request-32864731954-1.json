@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "Oxygen56",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-25T15:16:18.631611Z",
+  "title": "fix(model): use conservative fallback token estimate",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2397",
+  "number": 2397,
+  "body": "Fixes #2385\n\n## AgentScope Version\n\n2.0.6\n\n## Description\n\n`ChatModelBase.count_tokens` previously estimated all text as one token per\nfour UTF-8 bytes. That fallback can miss token-dense numeric and …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Oxygen56",
+    "head_sha": "d5f3450340fbc246c790102b27112cef3cc57a84",
+    "base_ref": "main",
+    "additions": 838,
+    "deletions": 34,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
