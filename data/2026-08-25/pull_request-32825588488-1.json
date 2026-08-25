@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-25T08:14:28.815284Z",
+  "title": "feat(agent): let a sub-agent template come with its own MCPs and skills",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2416",
+  "number": 2416,
+  "body": "## Problem\n\nA `SubAgentTemplate` can pin a worker's prompt, context, permissions and tasks — but not the tools it needs to act on them. A `\"researcher\"` type only works if someone has already installe…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "c0baf90541a98ab4de47573a830b5a8a410224a6",
+    "base_ref": "main",
+    "additions": 495,
+    "deletions": 22,
+    "changed_files": 7
+  },
+  "at_mobiles": []
+}
