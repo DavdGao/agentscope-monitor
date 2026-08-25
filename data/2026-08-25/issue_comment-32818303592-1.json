@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-25T06:44:46.909401Z",
+  "title": "fix(gemini): exclude tool-execution tokens from output_tokens",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2406#issuecomment-5406574200",
+  "number": 2406,
+  "body": "Hi, @qbc2016 \nWhile reviewing usage accounting across the other providers, I noticed a similar issue in XAIChatModel: output_tokens currently includes only completion_tokens, while the xAI SDK reports…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "iluv7",
+    "commenter": "iluv7"
+  },
+  "at_mobiles": []
+}
