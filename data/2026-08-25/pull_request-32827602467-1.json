@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lwylab",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-25T08:37:51.304955Z",
+  "title": "fix(web_ui): correct thinking/reply elapsed time across UTC offsets",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2417",
+  "number": 2417,
+  "body": "## Summary\n\nFixes incorrect thinking/reply elapsed badges (e.g. flashing **8h** while streaming in UTC+8, then snapping to **1s** after THINKING_BLOCK_END) when the Agent Service runs in UTC (Docker) …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "lwylab",
+    "head_sha": "1e11fa5b1bf6281697d2c3351afea7dfc026cc92",
+    "base_ref": "main",
+    "additions": 154,
+    "deletions": 39,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
