@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Oxygen56",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-25T15:17:31.026461Z",
+  "title": "[Bug]: Context compaction fails and crashes with 400 error due to token underestimation in count_tokens",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2385#issuecomment-5412598823",
+  "number": 2385,
+  "body": "Thanks for the exact payloads and the usage-anchoring details. I have updated #2397 to cover all five payloads and added session-local calibration from `usage.input_tokens` for both streaming and non-…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "qiboyu301-crypto",
+    "commenter": "Oxygen56"
+  },
+  "at_mobiles": []
+}
