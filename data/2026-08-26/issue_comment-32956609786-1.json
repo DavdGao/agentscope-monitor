@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-26T10:07:28.329994Z",
+  "title": "[Bug]: Context compression aborts the agent on recoverable structured-output schema validation errors",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2425#issuecomment-5423766766",
+  "number": 2425,
+  "body": "Thanks for the detailed report. The behavior is reproducible on AgentScope 2.0.5. It has been addressed in 2.0.7 by #2140: schema/Pydantic validation failures are converted to `StructuredOutputError`,…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "wxxlamp",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
