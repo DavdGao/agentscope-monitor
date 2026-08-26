@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-26T08:25:00.711724Z",
+  "title": "fix(model): preserve encrypted reasoning items in OpenAI Responses history",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2426",
+  "number": 2426,
+  "body": "## AgentScope Version\n\n2.0.7\n\n## Description\n\nPreserve complete OpenAI Responses reasoning items, including `encrypted_content`, across streaming and non-streaming message round-trips. The formatter n…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "77cd512ed310f4a9827935d47d54fc4b965a3f39",
+    "base_ref": "main",
+    "additions": 293,
+    "deletions": 19,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
