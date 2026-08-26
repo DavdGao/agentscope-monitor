@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Ricky-7-Yan",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-26T17:16:44.549187Z",
+  "title": "fix(agent): emit final-only streaming text",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2432",
+  "number": 2432,
+  "body": "## AgentScope Version\n\n2.0.7 (`main` at `142c3411`)\n\n## Description\n\nFixes #2430.\n\nA streaming `ChatModelBase` may legally return all text only in its final `ChatResponse`. `Agent._reasoning_impl()` p…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "Ricky-7-Yan",
+    "head_sha": "91e9ec2042b8378c2b0908f13c1a4a9cc0772ee8",
+    "base_ref": "main",
+    "additions": 90,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
