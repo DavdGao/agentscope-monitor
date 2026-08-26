@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "RICARDO51167",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-26T14:09:39.274011Z",
+  "title": "feat(channel): add Telegram channel",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2271",
+  "number": 2271,
+  "body": "## AgentScope Version\n2.0.6\n\n## Description\n**Closes #2255**\n\n### Background\nAgentScope currently supports external IM channels including Feishu and Discord, but lacks integration with Telegram. Teleg…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "RICARDO51167",
+    "head_sha": "c6ae30b22717c1c805de84b619977a28c20ed9e5",
+    "base_ref": "main",
+    "additions": 4499,
+    "deletions": 13,
+    "changed_files": 23
+  },
+  "at_mobiles": []
+}
