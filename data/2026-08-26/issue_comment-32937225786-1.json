@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "jinliyl",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-26T06:13:47.008508Z",
+  "title": "feat(agent): add agent-driven context compression tool",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2143#issuecomment-5421357845",
+  "number": 2143,
+  "body": "Addressed all review feedback in `5a5d166`:\n\n- Replaced the `ReplyEndEvent` hook and per-reply rubric call with the config-gated `CompressContext` agent tool.\n- Reused runtime context awareness and re…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "jinliyl",
+    "commenter": "jinliyl"
+  },
+  "at_mobiles": []
+}
