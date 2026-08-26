@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-26T09:50:20.473167Z",
+  "title": "[Bug]: 当A智能体第一条会话有信息时，新建其他智能体，会串出A智能体的会话",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2422#issuecomment-5423565126",
+  "number": 2422,
+  "body": "I plan to fix this by keeping track of which agent each session list belongs to. After switching agents, the frontend will wait for the new agent's sessions instead of using the previous agent's sessi…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "john00010",
+    "commenter": "iluv7"
+  },
+  "at_mobiles": []
+}
