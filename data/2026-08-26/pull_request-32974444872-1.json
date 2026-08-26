@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-26T13:29:00.808073Z",
+  "title": "fix(webui): isolate sessions when switching agents",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2429",
+  "number": 2429,
+  "body": "## AgentScope Version\n\n`2.0.7`\n\n## Description\n\nFixes [#2422](https://github.com/agentscope-ai/agentscope/issues/2422).\n\nFixes the Web UI session race that could show or request a previous agent's con…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "iluv7",
+    "head_sha": "1d4c65984a38bc7da5ba60c2c7311e6ab213f661",
+    "base_ref": "main",
+    "additions": 56,
+    "deletions": 26,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
