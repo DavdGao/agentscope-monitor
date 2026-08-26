@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Ricky-7-Yan",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-26T16:50:57.460550Z",
+  "title": "[Bug]: reply_stream() emits no text events for a final-only streaming ChatResponse",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2430#issuecomment-5428159181",
+  "number": 2430,
+  "body": "I reproduced this on the current main commit (142c3411). I would like to prepare a focused regression fix if this is open to a community contribution. The scope I plan is to convert the complete final…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "fengting124",
+    "commenter": "Ricky-7-Yan"
+  },
+  "at_mobiles": []
+}
