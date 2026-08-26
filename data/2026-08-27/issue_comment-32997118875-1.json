@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "dvd233",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-26T17:58:47.106232Z",
+  "title": "[Bug]: OpenAI Responses multi-turn fails with 400 \"Referenced reasoning item ... not found or has expired\" on stateless upstreams — formatter drops encrypted_content",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2420#issuecomment-5429089726",
+  "number": 2420,
+  "body": "I'd like to take this one. Confirmed the round trip on current main:\n\n- `_parse_completion_response` / `_parse_stream_response` (`model/_openai_response/_model.py`) keep only `reasoning_item_id` + sum…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "huajiao1998",
+    "commenter": "dvd233"
+  },
+  "at_mobiles": []
+}
