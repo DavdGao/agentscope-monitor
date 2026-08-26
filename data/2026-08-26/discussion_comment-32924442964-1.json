@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "cuihuan",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-26T02:54:27.227764Z",
+  "title": "Add Synthorai as a model provider",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2421#discussioncomment-18156278",
+  "number": 2421,
+  "body": "Belated but important disclosure: **I'm affiliated with Synthorai** — this request adds support for our own product, it isn't me reporting demand from elsewhere. I should have said so in the original …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "cuihuan",
+    "discussion_author": "cuihuan"
+  },
+  "at_mobiles": []
+}
