@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-26T11:59:43.833698Z",
+  "title": "[Feature Missing]: Lack of APIs for raw document preview, chunk browsing and full knowledge base configuration",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2335#issuecomment-5424939636",
+  "number": 2335,
+  "body": "This issue has already been implemented in #2372 and is available on `main` and in `v2.0.7`.\n\nThe implementation covers all three requested capabilities:\n\n- Raw document preview/download:\n  - `GET /kn…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "tingaicompass",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
