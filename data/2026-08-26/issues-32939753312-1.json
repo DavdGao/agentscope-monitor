@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "john00010",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-26T06:48:25.694709Z",
+  "title": "[Bug]: windows 启动  NotImplementedError   asyncio.create_subprocess_exec(...)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2423",
+  "number": 2423,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "john00010"
+  },
+  "at_mobiles": []
+}
