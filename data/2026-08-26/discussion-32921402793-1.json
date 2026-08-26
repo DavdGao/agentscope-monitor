@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "cuihuan",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-26T02:05:25.812023Z",
+  "title": "Add Synthorai as a model provider",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2421",
+  "number": 2421,
+  "body": "Requesting a new model provider for Synthorai (https://synthorai.io), following the same pattern as the recently-added Kimi (#2141) and DashScope (#2073/#1866) providers.\n\nSynthorai is an OpenAI/Anthr…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "cuihuan"
+  },
+  "at_mobiles": []
+}
