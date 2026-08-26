@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "jinliyl",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-26T06:45:16.646509Z",
+  "title": "feat(agent): add agent-driven context compression tool",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2143#issuecomment-5421616466",
+  "number": 2143,
+  "body": "Follow-up in `67c63a0`:\n\n- `CompressContext` now uses one stable agent-owned tool instance. It is registered before the first model input and remains registered across replies while `compression_tool_…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "jinliyl",
+    "commenter": "jinliyl"
+  },
+  "at_mobiles": []
+}
