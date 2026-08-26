@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-26T08:51:50.574094Z",
+  "title": "feat(app): add revision-safe /clear command for web and channels",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2424",
+  "number": 2424,
+  "body": "## AgentScope Version\n\n2.0.7\n\n## Description\n\n### Summary\n\nAdd a built-in `/clear` slash command that resets conversation state while preserving session configuration, permissions, workspace data, MCP…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "03081b7e1ad36998c66c3a9165b664333167e97c",
+    "base_ref": "main",
+    "additions": 2762,
+    "deletions": 123,
+    "changed_files": 56
+  },
+  "at_mobiles": []
+}
