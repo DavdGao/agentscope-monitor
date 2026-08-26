@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "silicon14",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-26T14:28:56.371370Z",
+  "title": "fix(formatter): derive multimodal tool-result identifier from the block's own stable id",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2165#issuecomment-5426815633",
+  "number": 2165,
+  "body": "这破bug直接让同事把我的k3蹬爆了，次次缓存不中雷霆大input",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "AmirF194",
+    "commenter": "silicon14"
+  },
+  "at_mobiles": []
+}
