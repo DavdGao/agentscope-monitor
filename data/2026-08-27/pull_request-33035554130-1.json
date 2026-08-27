@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-27T03:10:36.351557Z",
+  "title": "feat(rag): add configurable recursive token chunking",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2439",
+  "number": 2439,
+  "body": "## AgentScope Version\n\n2.0.7\n\n## Description\n\n### Summary\n\nThis PR introduces `RecursiveTokenChunker`, a configurable chunking strategy that preserves natural text boundaries while enforcing an approx…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "cda0c1e6366167aaf45e54b9ca48c3ae5b5ad38b",
+    "base_ref": "main",
+    "additions": 849,
+    "deletions": 30,
+    "changed_files": 17
+  },
+  "at_mobiles": []
+}
