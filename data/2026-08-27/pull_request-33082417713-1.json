@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "steven-ji",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-27T14:28:32.588601Z",
+  "title": "feat(channel): add Discord discovery and send tools",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2453",
+  "number": 2453,
+  "body": "## AgentScope Version\n\n2.0.7.post1\n\n## Description\n\nCloses #2248.\n\nThis PR exposes Discord discovery and cross-target send tools through `DiscordChannel.list_tools`, following the existing Feishu and …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "steven-ji",
+    "head_sha": "27f03b4b0f9f36df4fce7f5bc1f7d17b88f71816",
+    "base_ref": "main",
+    "additions": 907,
+    "deletions": 0,
+    "changed_files": 8
+  },
+  "at_mobiles": []
+}
