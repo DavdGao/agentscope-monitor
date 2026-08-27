@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "arena-ai-coding-agent[bot]",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-27T08:01:50.501776Z",
+  "title": "fix: handle empty env vars in config loading (XDG_*, MODELSCOPE_*)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2447",
+  "number": 2447,
+  "body": "### Description\n\nSimilar to gptme's dirs handling, AgentScope's config loading checks `if var in os.environ` but doesn't handle empty string values.\n\n### Example\n\n```python\n# Current\nif \"XDG_DATA_HOME…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "arena-ai-coding-agent[bot]"
+  },
+  "at_mobiles": []
+}
