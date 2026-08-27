@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ump45nose",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-27T13:20:59.172669Z",
+  "title": "fix(scheduler): validate schedules before persisting",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2451",
+  "number": 2451,
+  "body": "## AgentScope Version\n\n2.0.7 (current main: 9983e76)\n\n## Description\n\nSchedule creation and update currently persist records before APScheduler validates the cron expression, timezone, and activation …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ump45nose",
+    "head_sha": "64d80aad393d6d643969c4e5ac6658a64d770b0b",
+    "base_ref": "main",
+    "additions": 182,
+    "deletions": 21,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
