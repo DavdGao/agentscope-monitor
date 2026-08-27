@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "john00010",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-27T07:45:10.306228Z",
+  "title": "Fix confirmation card overlapping chat messages",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2446",
+  "number": 2446,
+  "body": "## Summary`n`nThe confirmation card was absolutely positioned above the composer, which caused it to overlap and obscure the latest chat messages.`n`nThis change keeps the confirmation card in the nor…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "john00010",
+    "head_sha": "ba4e1c66c070287a6ecd05f333b0ac41054da15b",
+    "base_ref": "main",
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
