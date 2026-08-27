@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lwylab",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-27T06:47:59.033639Z",
+  "title": "fix(app): use Proactor event loop on Windows for LocalBackend subprocesses",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2444",
+  "number": 2444,
+  "body": "## Summary\n\nOn Windows, Agent Service workspace routes (`/workspace/skill`, MCP listing, shell tools, etc.) can raise `NotImplementedError` from `asyncio.create_subprocess_exec`.\n\n**Root cause (docume…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "lwylab",
+    "head_sha": "0770d8e8101f6e051aae810355de69ce4a74f65c",
+    "base_ref": "main",
+    "additions": 99,
+    "deletions": 1,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
