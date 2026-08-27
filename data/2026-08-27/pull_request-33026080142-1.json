@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "dvd233",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-27T00:13:02.825622Z",
+  "title": "fix(example): disable uvicorn hot reload on Windows",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2434",
+  "number": 2434,
+  "body": "## Description\n\nFixes #2423.\n\nOn Windows, `uvicorn.run(..., reload=True)` runs the server with `use_subprocess=True`, which makes uvicorn select a `SelectorEventLoop` — and `SelectorEventLoop` does no…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "dvd233",
+    "head_sha": "1cf2c1961f51805c3766eddf5cb6ec9b45ae76c3",
+    "base_ref": "main",
+    "additions": 12,
+    "deletions": 1,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
