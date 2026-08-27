@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "steven-ji",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-27T01:16:16.897312Z",
+  "title": "fix(formatter): stabilize unsupported media temp files",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2404",
+  "number": 2404,
+  "body": "## AgentScope Version\n\n2.0.6 (current `main` at `da00849f`)\n\n## Description\n\nCloses #2173.\n\n`FormatterBase.convert_tool_result_to_string` writes unsupported-media `Base64Source` payloads to `NamedTemp…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "steven-ji",
+    "head_sha": "689630f04310a94980ec45b635bf785a164eaed7",
+    "base_ref": "main",
+    "additions": 305,
+    "deletions": 17,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
