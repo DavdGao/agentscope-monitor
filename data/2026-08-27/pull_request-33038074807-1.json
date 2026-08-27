@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-27T04:00:44.507745Z",
+  "title": "feat(pipeline): add new pipeline module and a `GoalPipeline` class",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2428",
+  "number": 2428,
+  "body": "Adds `agentscope.pipeline` with its first member, `GoalPipeline`: run an executor agent until a verifier agent accepts its work.\n\n```python\npipe = GoalPipeline(executor=executor, verifier=verifier, go…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "d3508c738ae18baad2bc29e5c05dcc1a23a03aed",
+    "base_ref": "main",
+    "additions": 778,
+    "deletions": 8,
+    "changed_files": 11
+  },
+  "at_mobiles": []
+}
