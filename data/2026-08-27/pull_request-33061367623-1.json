@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "fengting124",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-27T10:03:48.601175Z",
+  "title": "fix(tracing): use chat response finish reason",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2450",
+  "number": 2450,
+  "body": "## AgentScope Version\n\n2.0.7\n\n## Description\n\nRefs #2449.\n\nLLM tracing currently hardcodes response finish reasons as `stop`, even though `ChatResponse` carries a `finished_reason` field. This change …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "fengting124",
+    "head_sha": "658dfa076b4830d93ad0439d7be05771ac3d39ea",
+    "base_ref": "main",
+    "additions": 50,
+    "deletions": 5,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
