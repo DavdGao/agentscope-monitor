@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "feizhuzheng",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-27T01:58:07.002986Z",
+  "title": "docs(examples): fix broken relative link to _types.py in mem0 README",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2438",
+  "number": 2438,
+  "body": "## Description\n\n**Background:** In the mem0 long-term-memory example README, the \"Service-mode integration\" section links the `extra_agent_middlewares` factory to its type definition in `_types.py`.\n\n…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "feizhuzheng",
+    "head_sha": "5ef12394db6e41013861cb8b3bbafc63a6e68c55",
+    "base_ref": "main",
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
