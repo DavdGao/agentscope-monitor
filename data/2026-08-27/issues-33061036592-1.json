@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "fengting124",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-27T09:59:26.411905Z",
+  "title": "[Bug]: tracing hardcodes LLM finish reason instead of using ChatResponse.finished_reason",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2449",
+  "number": 2449,
+  "body": "### Background / Description\n\nAgentScope `ChatResponse` now carries a `finished_reason` field, but the OpenTelemetry tracing extractor still hardcodes LLM finish reasons as `\"stop\"`.\n\nIn `src/agentsco…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "fengting124"
+  },
+  "at_mobiles": []
+}
