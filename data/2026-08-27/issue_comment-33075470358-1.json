@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ump45nose",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-27T13:10:50.442712Z",
+  "title": "[Bug]: Invalid schedules are persisted before registration fails",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2441#issuecomment-5439614270",
+  "number": 2441,
+  "body": "I reproduced the persist-before-validation ordering on the current main branch and am preparing a focused fix. The change validates the same APScheduler CronTrigger configuration before storage or sch…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "redSun64",
+    "commenter": "ump45nose"
+  },
+  "at_mobiles": []
+}
