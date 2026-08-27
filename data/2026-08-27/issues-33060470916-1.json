@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "chyroc",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-27T09:51:50.504128Z",
+  "title": "feat(models): add Volcengine Ark (Doubao) chat model support",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2448",
+  "number": 2448,
+  "body": "**What's missing**\n\nAgentScope supports DashScope, DeepSeek, Moonshot, Gemini, Anthropic, xAI and Ollama,\nbut not Volcengine Ark (火山方舟), which serves ByteDance's Doubao models. There's no\n`volcengine`…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "chyroc"
+  },
+  "at_mobiles": []
+}
