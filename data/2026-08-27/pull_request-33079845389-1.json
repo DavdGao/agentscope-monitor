@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-27T14:00:32.177707Z",
+  "title": "feat(agent): generate a final text summary after reaching max iterations",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2443",
+  "number": 2443,
+  "body": "## AgentScope Version\n\n2.0.7\n\n## Description\n\nWhen the ReAct loop reaches its iteration limit without producing final text, make one additional model call with tools disabled to generate a summary. Th…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "b56a6eff8d1eccaa226247a086deb4db2f1702e8",
+    "base_ref": "main",
+    "additions": 182,
+    "deletions": 7,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
