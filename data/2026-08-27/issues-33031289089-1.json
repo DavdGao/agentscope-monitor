@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "helloJamest",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-27T01:48:57.348111Z",
+  "title": "[Bug]: Gemini tool schema sanitizer leaves nullable JSON Schema type arrays unsupported",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2436",
+  "number": 2436,
+  "body": "### Describe the bug\n\n`_sanitize_schema_for_gemini` handles the common `anyOf: [X, {\"type\": \"null\"}]` shape, but it does not sanitize the equivalent JSON Schema type-array form, for example:\n\n```json\n…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "helloJamest"
+  },
+  "at_mobiles": []
+}
