@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-28T03:36:00.236825Z",
+  "title": "Support a distributed scheduler for multi-instance deployments",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2454",
+  "number": 2454,
+  "body": "# Support a distributed scheduler for multi-instance deployments\n\nAgentScope currently has one scheduler implementation. `SchedulerManager` creates an in-process APScheduler, and its jobs live in the …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "iluv7"
+  },
+  "at_mobiles": []
+}
