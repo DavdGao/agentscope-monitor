@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-28T02:37:12.421377Z",
+  "title": "[Bug]: tracing reports interrupted ChatResponse as stop",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2449#issuecomment-5447698999",
+  "number": 2449,
+  "body": "Fixed in #2450.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "fengting124",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
