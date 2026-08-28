@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-28T02:34:34.482814Z",
+  "title": "fix(model): preserve encrypted_content on Responses reasoning items",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2435",
+  "number": 2435,
+  "body": "## Description\n\nFixes #2420.\n\nMulti-turn conversations against a stateless Responses-API upstream (e.g. `store=false` providers such as OpenCode Zen/Go) fail on the second turn with:\n\n```\n400 invalid_…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "dvd233",
+    "head_sha": "42937337e7aaabe4f1b48a50ecd114bc78a42ef9",
+    "base_ref": "main",
+    "additions": 179,
+    "deletions": 7,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
