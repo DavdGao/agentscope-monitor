@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-28T02:16:47.684486Z",
+  "title": "chore(version): bumping version to 2.0.7.post1",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2445",
+  "number": 2445,
+  "body": "## AgentScope Version\n\n2.0.7\n\n## Description\n\nAs the title says.\n\n## Checklist\n\nPlease check the following items before code is ready to be reviewed.\n\n- [ ]  An issue has been created for this PR\n- [ …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "8445c38b4ce2561a1ba9593cc264759dd5c0795a",
+    "base_ref": "main",
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
