@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-28T02:37:09.922288Z",
+  "title": "[Bug]: tracing reports interrupted ChatResponse as stop",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2449",
+  "number": 2449,
+  "body": "### Background / Description\n\nThe OpenTelemetry tracing extractor currently records `\"stop\"` as the finish\nreason for every `ChatResponse`.\n\nThis is incorrect when an AgentScope model call is interrup…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "fengting124"
+  },
+  "at_mobiles": []
+}
