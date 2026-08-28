@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-28T08:59:13.471332Z",
+  "title": "feat(mcp): support runtime MCP headers in Docker workspaces",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2456",
+  "number": 2456,
+  "body": "## AgentScope Version\n\n2.0.7.post1\n\n## Description\n\n### Summary\n\nAdd support for updating MCP HTTP headers at runtime without rebuilding or re-registering the MCP client.\n\nThis mainly addresses Docker…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "e5578d3d65c48dccadec8d659437d4e58604df22",
+    "base_ref": "main",
+    "additions": 895,
+    "deletions": 14,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
