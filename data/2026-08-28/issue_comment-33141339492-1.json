@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-28T04:16:39.882977Z",
+  "title": "feat(models): add Volcengine Ark (Doubao) chat model support",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2448#issuecomment-5448335225",
+  "number": 2448,
+  "body": "Thanks for the detailed proposal and for disclosing your affiliation. A first-party Volcengine Ark integration makes sense, and the DeepSeek implementation looks like a reasonable starting point.\n\nPle…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "chyroc",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
