@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-28T02:34:20.217621Z",
+  "title": "[Bug]: OpenAI Responses multi-turn fails with 400 \"Referenced reasoning item ... not found or has expired\" on stateless upstreams — formatter drops encrypted_content",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2420",
+  "number": 2420,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing issues and discussions, and this is not a duplicate.\n- [x] This is a bug, not a usage question.\n\n### Background / Description\n\nMulti-turn conversa…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "huajiao1998"
+  },
+  "at_mobiles": []
+}
