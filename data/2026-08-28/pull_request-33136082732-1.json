@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-28T02:30:03.783088Z",
+  "title": "fix(tracing): report interrupted chat responses",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2450",
+  "number": 2450,
+  "body": "## AgentScope Version\n\n2.0.7\n\n## Description\n\nRefs #2449.\n\nLLM tracing currently records `stop` for every `ChatResponse`, including\nresponses interrupted by AgentScope.\n\nThis change records `interrupt…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "fengting124",
+    "head_sha": "fa1b43a89e49c91fdc927fb81d695f5525abb2c1",
+    "base_ref": "main",
+    "additions": 52,
+    "deletions": 5,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
