@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-28T02:16:49.136050Z",
+  "title": "chore(version): bumping version to 2.0.7.post1",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2445#issuecomment-5447566748",
+  "number": 2445,
+  "body": "Duplicated with #2452",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "qbc2016",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
