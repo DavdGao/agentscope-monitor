@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "fengting124",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-28T07:14:58.608407Z",
+  "title": "fix(agent): record compression usage in context",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2433",
+  "number": 2433,
+  "body": "## AgentScope Version\n\n2.0.7\n\n## Description\n\nDraft PR for #2151. The compression path calls `generate_structured_output()` and receives a `StructuredResponse` that can include token usage, but `_comp…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "fengting124",
+    "head_sha": "15cde950305f6f34e04d600fd7d2b39916c12928",
+    "base_ref": "main",
+    "additions": 130,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
