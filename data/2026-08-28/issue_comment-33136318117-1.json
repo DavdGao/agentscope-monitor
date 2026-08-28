@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-28T02:34:31.679373Z",
+  "title": "fix(model): preserve encrypted_content on Responses reasoning items",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2435#issuecomment-5447680286",
+  "number": 2435,
+  "body": "Thanks for the contribution. This overlaps with #2426, which was opened earlier and addresses the same issue.\n\n#2426 now preserves and replays the complete raw reasoning item, rather than only `encryp…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "dvd233",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
