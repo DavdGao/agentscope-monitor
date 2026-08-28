@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "helloJamest",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-28T01:11:20.547855Z",
+  "title": "fix(gemini): sanitize nullable type arrays",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2437",
+  "number": 2437,
+  "body": "## Summary\n\n- sanitize nullable JSON Schema `type` arrays before passing tool schemas to Gemini function declarations\n- convert multi-type nullable arrays to non-null `anyOf` alternatives\n- treat anno…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "helloJamest",
+    "head_sha": "93632cb5f037a727a293f9e8cfc40e07fc73e0d8",
+    "base_ref": "main",
+    "additions": 114,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
