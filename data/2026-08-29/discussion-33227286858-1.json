@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "liujianzhen0128",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-29T01:46:35.394112Z",
+  "title": "Request: Publish GitHub Releases/ Tags for @agentscope-ai/design and @agentscope-ai/chat to support enterprise compliance",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2460",
+  "number": 2460,
+  "body": "## Background\n\nWe are an enterprise team integrating `@agentscope-ai/design` (v1.0.23) \nand `@agentscope-ai/chat` (v1.1.45) into our internal AI Agent platform.\nOur company's open-source compliance po…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "liujianzhen0128"
+  },
+  "at_mobiles": []
+}
