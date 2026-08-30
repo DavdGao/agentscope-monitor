@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "angus-guo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-30T16:17:15.231271Z",
+  "title": "[Bug]: cancelling MCPClient.connect() leaks a partially initialized connection",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2458#issuecomment-5469825932",
+  "number": 2458,
+  "body": "I'd like to pick this up if you're not already working on it.\n\nYour analysis is spot-on — the `AsyncExitStack` enters the transport/session contexts synchronously before the first `await`, so a cancel…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "fengting124",
+    "commenter": "angus-guo"
+  },
+  "at_mobiles": []
+}
