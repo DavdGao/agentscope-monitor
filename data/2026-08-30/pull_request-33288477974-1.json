@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-30T02:39:09.037060Z",
+  "title": "fix(webui): keep channel toggle inside card",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2466",
+  "number": 2466,
+  "body": "# PR Title\n\n`fix(webui): keep channel toggle inside card`\n\n## AgentScope Version\n\n`2.0.7.post1`\n\n## Description\n\nWhile performing the DingTalk knowledge-base E2E test, I noticed that the channel enabl…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "iluv7",
+    "head_sha": "0bca926949bee3ff348054457be946f43bc25d91",
+    "base_ref": "main",
+    "additions": 6,
+    "deletions": 6,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
