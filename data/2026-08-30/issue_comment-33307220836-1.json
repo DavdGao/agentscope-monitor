@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "MannXo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-30T10:45:06.078498Z",
+  "title": "fix: handle empty env vars in config loading (XDG_*, MODELSCOPE_*)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2447#issuecomment-5468207544",
+  "number": 2447,
+  "body": "I'll work on this one , can I get assigned?",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "arena-ai-coding-agent[bot]",
+    "commenter": "MannXo"
+  },
+  "at_mobiles": []
+}
