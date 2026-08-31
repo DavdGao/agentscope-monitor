@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-31T09:52:28.331013Z",
+  "title": "fix(service): skip empty wake-up runs",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1870",
+  "number": 1870,
+  "body": "## Summary\n- pre-drain inbox content for wake-up driven ChatService runs\n- skip agent execution when a wake-up finds no pending inbox entries\n- add regression coverage for empty and non-empty wake-up …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "Premsenareddy",
+    "head_sha": "6e795b26e1753265b651231d1a94a4513585f376",
+    "base_ref": "main",
+    "additions": 368,
+    "deletions": 42,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
