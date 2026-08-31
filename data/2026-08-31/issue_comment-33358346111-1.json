@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "AmirF194",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-31T04:48:20.337474Z",
+  "title": "fix(formatter): derive multimodal tool-result identifier from the block's own stable id",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2165#issuecomment-5473859075",
+  "number": 2165,
+  "body": "Thanks for reviewing and merging this one.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "AmirF194",
+    "commenter": "AmirF194"
+  },
+  "at_mobiles": []
+}
