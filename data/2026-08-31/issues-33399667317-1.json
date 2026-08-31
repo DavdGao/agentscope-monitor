@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-31T13:55:49.465926Z",
+  "title": "refactor(schedule): refactor the schedule manager to support distributed deployment",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1848",
+  "number": 1848,
+  "body": "## Background\n\nThe current schedule manager loads all cron tasks from storage at startup and executes them at their designated times. \n\nHowever, in a distributed deployment scenario, this design does …",
+  "labels": [
+    "stale-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
