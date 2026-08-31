@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-31T13:55:57.409747Z",
+  "title": "feat(service): support multi-process and distributed deployment",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1722",
+  "number": 1722,
+  "body": "**Background**\n\nThe current agent service is a single-process implementation. To support **multi-process, distributed deployment**, we need to eliminate the architectural barriers that prevent horizon…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
