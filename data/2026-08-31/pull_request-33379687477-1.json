@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-31T09:51:16.832599Z",
+  "title": "fix(app): drain the wake-up queue atomically",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2476",
+  "number": 2476,
+  "body": "## AgentScope Version\n\n`main` @ `a40487a75`\n\n## Description\n\n### Background\n\nFixes #1868 (Defect A).\n\n`RedisMessageBus.queue_drain` reads with `XRANGE` and then removes with `XDEL` in a second round-t…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "1e9e2d90bd5b71e02a3266dd4b47f42d334122c5",
+    "base_ref": "main",
+    "additions": 59,
+    "deletions": 26,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
