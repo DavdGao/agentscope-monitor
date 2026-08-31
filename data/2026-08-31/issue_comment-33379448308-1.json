@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-31T09:48:11.898594Z",
+  "title": "fix(agent): finalize react loop on max iterations",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1877#issuecomment-5476629140",
+  "number": 1877,
+  "body": "The ExceedMaxItersEvent is deprecated and the text reply is fixed in #2443",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "BreezyB1n",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
