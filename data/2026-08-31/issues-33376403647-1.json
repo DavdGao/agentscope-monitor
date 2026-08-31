@@ -1,0 +1,26 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-31T09:14:23.016054Z",
+  "title": "feat(agent): support consecutive tool failure detection and fallback hint in ReAct agent",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1795",
+  "number": 1795,
+  "body": "**Background**\n\nWhen an agent repeatedly calls the same tool and keeps getting errors, it may get stuck in an infinite retry loop. A fallback mechanism should be triggered in such cases to insert a `H…",
+  "labels": [
+    "Help Wanted",
+    "stale-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
