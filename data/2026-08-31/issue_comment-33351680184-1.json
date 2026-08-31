@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "connorshen",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-31T02:45:46.781999Z",
+  "title": "[Bug]: OpenSandbox Error",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2465#issuecomment-5473056498",
+  "number": 2465,
+  "body": "This is my sandbox packaging code. It can help you.\n`# syntax=docker/dockerfile:1.6\n# =============================================================================\n# AgentScope OpenSandbox 预装镜像 —— 与 _…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "john00010",
+    "commenter": "connorshen"
+  },
+  "at_mobiles": []
+}
