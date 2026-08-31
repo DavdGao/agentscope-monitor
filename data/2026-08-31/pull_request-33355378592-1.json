@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-31T03:55:35.319522Z",
+  "title": "fix(state): preserve LRU cache under concurrent hits",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2457",
+  "number": 2457,
+  "body": "## AgentScope Version\n\n2.0.7.post1\n\n## Description\n\nFixes #2455.\n\n`ToolContext.get_cache()` kept a cache-list index across an asynchronous\n`getmtime()` call. Concurrent hits could reorder the list whi…",
+  "labels": [
+    "Ready for Merge"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "fengting124",
+    "head_sha": "c17e0ddc38c64a129ca5db70244dab170c350669",
+    "base_ref": "main",
+    "additions": 94,
+    "deletions": 12,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
