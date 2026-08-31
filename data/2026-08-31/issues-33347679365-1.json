@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Baochr",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-31T01:28:36.314881Z",
+  "title": "[Bug]: UI buttons invisible in dark mode when browser dark theme is enabled",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2467",
+  "number": 2467,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Baochr"
+  },
+  "at_mobiles": []
+}
