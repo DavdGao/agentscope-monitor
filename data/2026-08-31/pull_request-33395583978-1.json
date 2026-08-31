@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-31T13:11:27.462586Z",
+  "title": "feat(rag): add LLM rerank support",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1975",
+  "number": 1975,
+  "body": "## AgentScope Version\n\n`2.0.4dev`\n\n## Description\n\n### Related Issue\n\nCloses #1955\n\nRelated design discussion: https://github.com/agentscope-ai/agentscope/issues/1955#issuecomment-4843653471\n\n### Back…",
+  "labels": [
+    "stale-pr"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "BreezyB1n",
+    "head_sha": "6af80c2b0fdc8efe410f9797c28c28aff1f4c77b",
+    "base_ref": "main",
+    "additions": 839,
+    "deletions": 15,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
