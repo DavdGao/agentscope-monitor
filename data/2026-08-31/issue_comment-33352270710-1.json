@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-31T02:57:36.335849Z",
+  "title": "[Bug]: interrupting a streaming tool call persists truncated JSON and breaks subsequent turns",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2469#issuecomment-5473129251",
+  "number": 2469,
+  "body": "Thank you for finding and reporting this issue in detail! I implemented the interrupt functionality, and after reviewing the code, I confirmed the root cause: when the model is interrupted while strea…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "qiboyu301-crypto",
+    "commenter": "iluv7"
+  },
+  "at_mobiles": []
+}
