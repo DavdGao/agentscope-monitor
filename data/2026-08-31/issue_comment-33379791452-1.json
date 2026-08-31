@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-31T09:52:39.685321Z",
+  "title": "[Bug]: Wake-up / scheduled runs execute N times across instances (1 real reply + N empty \"your message was empty\" replies)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1868#issuecomment-5476674529",
+  "number": 1868,
+  "body": "Defect A is fixed in #2476 — `queue_drain` is now atomic, so a single wake-up entry goes to exactly one dispatcher and the N× fan-out is gone.\n\nTwo things from this issue are not covered by that and s…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "lichengwu",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
