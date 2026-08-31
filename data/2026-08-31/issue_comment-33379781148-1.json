@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-31T09:52:29.242188Z",
+  "title": "fix(service): skip empty wake-up runs",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1870#issuecomment-5476673247",
+  "number": 1870,
+  "body": "Thanks for the patch. We ended up fixing this at the root in #2476 — `queue_drain` now runs the XRANGE+XDEL as one Lua script, so the duplicate wake-ups that caused the empty runs don't happen in the …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Premsenareddy",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
