@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "benrrr56-wq",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-31T04:29:17.049866Z",
+  "title": "[Bug]: Resume triggers (HITL/external tool results) can be duplicated or permanently lost in multi-instance deployments",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2227#issuecomment-5473728504",
+  "number": 2227,
+  "body": "Calling this data correctness distinct from the wake-up duplicate issue is exactly right. Resume triggers carry irreplaceable and single-apply data (HITL approval decisions, external execution results…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "qbc2016",
+    "commenter": "benrrr56-wq"
+  },
+  "at_mobiles": []
+}
