@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "hata33",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-31T10:31:21.470280Z",
+  "title": "fix(middleware): isolate concurrent retrieval tasks per session",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2459",
+  "number": 2459,
+  "body": "Fixes #2274\n\n## AgentScope Version\n\n2.0.7.post1 (main @ e90f1c75)\n\n## Description\n\n**Problem.** `AgenticMemoryMiddleware` kept its in-flight retrieval task in a single instance-level `_retrieval_task`…",
+  "labels": [
+    "state: awaiting changes"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "hata33",
+    "head_sha": "32f88b61ca5d28bf73fea2b411c4a0bdc6e16f29",
+    "base_ref": "main",
+    "additions": 125,
+    "deletions": 26,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
