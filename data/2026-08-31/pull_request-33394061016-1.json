@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-31T12:54:05.244338Z",
+  "title": "fix(scheduler): let one node own the timers",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2477",
+  "number": 2477,
+  "body": "## AgentScope Version\n\n`main` @ `215289d0b`\n\n## Description\n\n### Background\n\nFixes #2223.\n\n`SchedulerManager` builds a plain `AsyncIOScheduler()` — an in-memory jobstore — and `__aenter__` registered …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "1b79efc681e395f78fa410b458d2a216a9c83211",
+    "base_ref": "main",
+    "additions": 377,
+    "deletions": 70,
+    "changed_files": 7
+  },
+  "at_mobiles": []
+}
