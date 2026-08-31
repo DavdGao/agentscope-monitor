@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "tancheng33",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-31T03:56:40.692503Z",
+  "title": "fix(tool): split read-only bash commands on every separator",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2471",
+  "number": 2471,
+  "body": "## AgentScope Version\n\n2.0.7.post1 / current `main`\n\n## Description\n\nFixes #2470.\n\n`BashCommandParser.is_read_only_command()` decided whether a command was compound by\nscanning the raw string for `&&`…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "tancheng33",
+    "head_sha": "451851b8db303b9e3a316e1b1327619ce13d059f",
+    "base_ref": "main",
+    "additions": 82,
+    "deletions": 20,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
