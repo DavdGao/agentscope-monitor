@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-31T04:09:00.193596Z",
+  "title": "fix(xai): include reasoning tokens in output usage",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2461",
+  "number": 2461,
+  "body": "## AgentScope Version\n\n2.0.7.post1\n\n## Description\n\nThe xAI SDK reports `completion_tokens` and `reasoning_tokens` separately, but `XAIChatModel` previously used only `completion_tokens` for normalize…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "iluv7",
+    "head_sha": "74abbd10d2ff2dc6f607acc86455c3acc67d2af6",
+    "base_ref": "main",
+    "additions": 48,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
