@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-31T13:43:41.858385Z",
+  "title": "fix(scheduler): validate schedules before persisting",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2451#issuecomment-5479244160",
+  "number": 2451,
+  "body": "Thanks — this is the same fix as #2442, which came in first and is ready to merge. Closing this one as a duplicate.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "ump45nose",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
