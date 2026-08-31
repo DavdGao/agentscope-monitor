@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-31T08:08:13.708149Z",
+  "title": "fix(tool): make read cache backend-aware so Read->Edit works in workspaces",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2092",
+  "number": 2092,
+  "body": "## Problem\n\n`ToolContext.cache_file()` and `get_cache()` used `aiofiles.os.path.getmtime(file_path)` on the **host** filesystem. For a sandbox backend (`DockerWorkspace`/`E2B`), a path like `/workspac…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "nolanchic",
+    "head_sha": "5d3c730dbc4da25a1006dbae2eae6ff82daff597",
+    "base_ref": "main",
+    "additions": 210,
+    "deletions": 21,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
