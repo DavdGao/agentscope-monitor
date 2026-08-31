@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "Oxygen56",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-31T05:26:37.484875Z",
+  "title": "fix(gemini): preserve tool call thought signatures",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2463",
+  "number": 2463,
+  "body": "Fixes #2462\n\n## AgentScope Version\n\n2.0.7.post1 (main @ e90f1c7)\n\n## Description\n\nGemini 3 requires the opaque `thought_signature` from a function-call response to be returned with that same history p…",
+  "labels": [
+    "state: awaiting changes"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Oxygen56",
+    "head_sha": "dbb657a22541b3888be9516031e7ca97daa705f6",
+    "base_ref": "main",
+    "additions": 428,
+    "deletions": 26,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
