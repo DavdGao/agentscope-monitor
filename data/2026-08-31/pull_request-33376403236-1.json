@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-08-31T09:11:47.997779Z",
+  "title": "fix(agent): hint after repeated tool errors",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1816",
+  "number": 1816,
+  "body": "## Summary\n\nFixes #1795.\n\nThis adds a small ReAct-level guard for retry loops where the agent keeps calling the same tool and keeps getting error results.\n\nChanges:\n\n- add `ReActConfig.max_tool_retrie…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "he-yufeng",
+    "head_sha": "cb01c9479e88fabb276bf731d1185d5c3d4d76c2",
+    "base_ref": "main",
+    "additions": 241,
+    "deletions": 1,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
