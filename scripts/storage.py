@@ -9,6 +9,7 @@ from __future__ import annotations
 import base64
 import json
 import os
+import time
 from datetime import datetime
 from typing import Any
 
@@ -17,6 +18,7 @@ import requests
 from .config import STORAGE_REPO, TIMEZONE, require_env
 
 API_ROOT = "https://api.github.com"
+CONFLICT_RETRIES = 4
 
 
 def _headers() -> dict[str, str]:
@@ -59,17 +61,23 @@ def save_event(event: dict[str, Any], event_id: str) -> str:
             "email": "bot@users.noreply.github.com",
         },
     }
-    existing_sha = _get_sha_if_exists(path)
-    if existing_sha:
-        payload["sha"] = existing_sha
-
+    # Every event has its own path, but all runs commit to the same branch, so
+    # the API answers 409 whenever a concurrent run moved the head. Just retry.
     url = f"{API_ROOT}/repos/{STORAGE_REPO}/contents/{path}"
-    resp = requests.put(url, headers=_headers(), json=payload, timeout=20)
-    if resp.status_code not in (200, 201):
-        raise RuntimeError(
-            f"Failed to store event ({resp.status_code}): {resp.text}"
-        )
-    return path
+    for attempt in range(CONFLICT_RETRIES):
+        if attempt:
+            time.sleep(attempt)
+        existing_sha = _get_sha_if_exists(path)
+        if existing_sha:
+            payload["sha"] = existing_sha
+
+        resp = requests.put(url, headers=_headers(), json=payload, timeout=20)
+        if resp.status_code in (200, 201):
+            return path
+        if resp.status_code != 409:
+            break
+
+    raise RuntimeError(f"Failed to store event ({resp.status_code}): {resp.text}")
 
 
 def list_events_for_day(day: str) -> list[dict[str, Any]]:
