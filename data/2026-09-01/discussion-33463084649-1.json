@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "legend0000",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-01T02:35:14.032170Z",
+  "title": "feat(knowledge): add ocr model",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2478",
+  "number": 2478,
+  "body": "<img width=\"520\" height=\"811\" alt=\"image\" src=\"https://github.com/user-attachments/assets/3218a73f-0ed4-4b60-83fc-261aafd7fd13\" />",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "legend0000"
+  },
+  "at_mobiles": []
+}
