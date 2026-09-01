@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-01T14:39:08.017177Z",
+  "title": "fix(channel): show a channel that is starting as connecting, not stopped",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2487",
+  "number": 2487,
+  "body": "## AgentScope Version\n\n`main` @ `180b409b8`\n\n## Description\n\n### Background\n\nCreating a channel shows it as closed for a moment, then connecting, then connected — so the first thing the operator sees …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "d01338c21cd7810323a06fa3e6abfcc6b823fa16",
+    "base_ref": "main",
+    "additions": 45,
+    "deletions": 7,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
