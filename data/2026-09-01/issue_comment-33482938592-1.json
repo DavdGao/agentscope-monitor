@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "john00010",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-01T07:36:38.701454Z",
+  "title": "[Bug]: OpenSandbox Error",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2465#issuecomment-5490545774",
+  "number": 2465,
+  "body": "@connorshen  Thanks, it's running properly.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "john00010",
+    "commenter": "john00010"
+  },
+  "at_mobiles": []
+}
