@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "CoralGarden52",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-01T06:39:28.151639Z",
+  "title": "[Bug]: distance-based vector metrics are ranked in reverse by KnowledgeBase",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2482",
+  "number": 2482,
+  "body": "## Bug description\n\nThe RAG pipeline assumes that a larger `VectorSearchResult.score` always means a more relevant result, but Qdrant and Milvus expose distance-based metrics where a smaller value is …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "CoralGarden52"
+  },
+  "at_mobiles": []
+}
