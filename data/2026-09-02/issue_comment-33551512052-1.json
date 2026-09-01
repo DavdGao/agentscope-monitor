@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Premsenareddy",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-01T19:47:18.689124Z",
+  "title": "feat(webui): display context usage",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1871#issuecomment-5499494288",
+  "number": 1871,
+  "body": "Refreshed this PR against latest main and reapplied the context-usage implementation on top of the current reply-context/Web UI architecture.\n\nNotes:\n- kept the new ReplyContext state model and added …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Premsenareddy",
+    "commenter": "Premsenareddy"
+  },
+  "at_mobiles": []
+}
