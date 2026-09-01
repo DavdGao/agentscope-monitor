@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-01T06:20:34.542343Z",
+  "title": "feat(rag): support RAGFlow in a new `RAGFlowKnowledgeBase` class rather than VDB",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2481",
+  "number": 2481,
+  "body": "**Background**\n\nThrough recent investigation into RAGFlow, we found that it provides a complete, end-to-end RAG pipeline — including document parsing, chunking, indexing, and retrieval — as a fully ma…",
+  "labels": [
+    "Help Wanted"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
