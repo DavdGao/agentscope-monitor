@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lyh7c00",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-01T10:22:32.395503Z",
+  "title": "fix(rag): respect distance metric direction when ranking search results",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2486",
+  "number": 2486,
+  "body": "## Summary\n\n`KnowledgeBase.search` assumed that a higher `VectorSearchResult.score` always means a more relevant result. That assumption is wrong for distance-based metrics, where a **lower** score is…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "lyh7c00",
+    "head_sha": "e299d8aea3c37558ff03aa4be2b015183c31a054",
+    "base_ref": "main",
+    "additions": 267,
+    "deletions": 11,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
