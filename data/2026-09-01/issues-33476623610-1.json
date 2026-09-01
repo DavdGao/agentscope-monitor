@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-01T06:12:43.915480Z",
+  "title": "feat(pipeline): support pipeline module in agentscope",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2479",
+  "number": 2479,
+  "body": "**Background**\n\nWhile implementing SOP support in AgentScope, we identified strong structural similarities between pipelines and SOPs — both require unified input interfaces, human-in-the-loop (HITL) …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
