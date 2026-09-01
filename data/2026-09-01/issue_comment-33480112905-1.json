@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-01T07:00:49.668599Z",
+  "title": "fix(app): make resume triggers reliable and concurrent across instances",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2235#issuecomment-5490155899",
+  "number": 2235,
+  "body": "Thanks for this, and sorry it sat for a while.\n\nSince you opened it, #2476 made `queue_drain` atomic, so the duplicate half of #2227 is gone — the stale-state half was already fixed by #2232. What's l…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "qbc2016",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
