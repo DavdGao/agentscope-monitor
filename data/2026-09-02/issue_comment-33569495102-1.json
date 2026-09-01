@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Premsenareddy",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-01T23:06:53.841749Z",
+  "title": "fix(webui): show credential schema load errors",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1858#issuecomment-5501661227",
+  "number": 1858,
+  "body": "Refreshed this PR against latest `main` after upstream moved to `61cdeae4` and resolved the Web UI conflicts.\\n\\nThe refresh keeps the newer setup health-check flow while preserving this PR's URL norm…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Premsenareddy",
+    "commenter": "Premsenareddy"
+  },
+  "at_mobiles": []
+}
