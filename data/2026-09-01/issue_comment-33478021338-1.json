@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-01T06:32:29.932903Z",
+  "title": "feat(rag): support RAGFlow in a new `RAGFlowKnowledgeBase` class rather than VDB",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2481#issuecomment-5489878116",
+  "number": 2481,
+  "body": "@MannXo Thanks for your interest! Since RAGFlow offers a more complete, end-to-end pipeline compared to a traditional VDB, there may well be additional functionalities worth exposing beyond the curren…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
