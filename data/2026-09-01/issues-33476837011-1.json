@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-01T06:15:46.418114Z",
+  "title": "feat(pipeline): support executor-verifier loop in a `GoalPipeline` class",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2480",
+  "number": 2480,
+  "body": "**Background**\n\nA common pattern in multi-agent workflows is the **executor-verifier loop**: one agent (or a group of agents) attempts to accomplish a goal, while another agent evaluates whether the g…",
+  "labels": [],
+  "assignees": [
+    "DavdGao"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
