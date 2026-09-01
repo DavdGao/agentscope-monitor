@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ConcaSun",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-01T10:12:24.402740Z",
+  "title": "feat(rag): add RAGFlowKnowledge knowledge-layer backend",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2485",
+  "number": 2485,
+  "body": "Support RAGFlow as a managed, end-to-end RAG pipeline at the knowledge layer, sitting alongside KnowledgeBase rather than underneath VectorStoreBase. RAGFlow owns document parsing, chunking, indexing,…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ConcaSun",
+    "head_sha": "530eab75c0a4c8034d64076621f49f46ebce6c60",
+    "base_ref": "main",
+    "additions": 1007,
+    "deletions": 0,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
