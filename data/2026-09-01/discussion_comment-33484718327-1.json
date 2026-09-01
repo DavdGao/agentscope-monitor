@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-01T07:58:50.578231Z",
+  "title": "前端怎么显示agent在workspace中生成的图片和文件？",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2473#discussioncomment-18230069",
+  "number": 2473,
+  "body": "ref: https://docs.agentscope.io/api-reference/workspace/read-workspace-file",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "connorshen"
+  },
+  "at_mobiles": []
+}
