@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "review_requested",
+  "action_cn": "请求审核",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-01T09:19:59.462755Z",
+  "title": "feat(agent): add agent-driven context compression tool",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2143",
+  "number": 2143,
+  "body": "## AgentScope Version\n\n`2.0.6`\n\n## Summary\n\nThis PR adds optional agent-driven context compression at meaningful task boundaries. Instead of treating `ReplyEndEvent` as task completion or making a sep…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "jinliyl",
+    "head_sha": "025c53a4966f6b79b54a394344f7bfbba6a5f4e6",
+    "base_ref": "main",
+    "additions": 560,
+    "deletions": 36,
+    "changed_files": 7
+  },
+  "at_mobiles": []
+}
