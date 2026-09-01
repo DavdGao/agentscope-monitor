@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "john00010",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-01T07:24:45.154323Z",
+  "title": "[Bug]: Lack of a lifecycle recovery mechanism after sandbox expiration.",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2483",
+  "number": 2483,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "john00010"
+  },
+  "at_mobiles": []
+}
