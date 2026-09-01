@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "review_requested",
+  "action_cn": "请求审核",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-01T08:48:03.836840Z",
+  "title": "feat(channel): bind channel credentials interactively",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2484",
+  "number": 2484,
+  "body": "## AgentScope Version\n\n`main` @ `de163b34b`\n\n## Description\n\n### Background\n\nToday a channel is created by pasting its credentials into a form. Most platforms would rather hand them over out of band —…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "5a80422ec91a1e7045ee69a9c746d0e033629345",
+    "base_ref": "main",
+    "additions": 1092,
+    "deletions": 6,
+    "changed_files": 22
+  },
+  "at_mobiles": []
+}
