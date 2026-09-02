@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-02T10:44:39.464255Z",
+  "title": "feat(tool): support cache-friendly on-demand tool loading",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2310#discussioncomment-18248080",
+  "number": 2310,
+  "body": "@iluv7 Sorry for the late reply. That sounds good, the four checkpoints make sense to me. Looking forward to your results — feel free to share here once you have any numbers, even partial ones.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "iluv7"
+  },
+  "at_mobiles": []
+}
