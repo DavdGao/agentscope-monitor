@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "yang0228",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-02T09:34:00.673525Z",
+  "title": "fix(web-ui): keep running MCP tool calls visible",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2490#issuecomment-5507496805",
+  "number": 2490,
+  "body": "Hi @DavdGao, could you please review this Web UI fix? The check has passed, and a runtime verification screenshot has been added. This PR currently requires one approving review from a reviewer with w…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "yang0228",
+    "commenter": "yang0228"
+  },
+  "at_mobiles": []
+}
