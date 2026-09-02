@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-02T10:31:01.012271Z",
+  "title": "feat: Support subagents in Agent class to manage context and scale complex tasks",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2491#discussioncomment-18247907",
+  "number": 2491,
+  "body": "@RICARDO51167 Yes, that does seem to be the direction we need to take — though it also means breaking some of the existing event bubbling logic. Specifically:\n\n1. We need a way to surface HITL events …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "GSword"
+  },
+  "at_mobiles": []
+}
