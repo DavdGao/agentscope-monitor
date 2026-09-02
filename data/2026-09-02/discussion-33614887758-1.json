@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "RICARDO51167",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-02T09:35:04.623001Z",
+  "title": "Progressive Tool Loading for Large Toolsets",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2492",
+  "number": 2492,
+  "body": "AgentScope already supports `ToolGroup`, which helps avoid exposing all tools at once.\n\nBut for large MCP servers, one activated group may still contain dozens of tools. In that case, all tool schemas…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "RICARDO51167"
+  },
+  "at_mobiles": []
+}
