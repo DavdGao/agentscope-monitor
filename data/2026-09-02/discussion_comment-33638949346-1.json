@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "RICARDO51167",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-02T13:57:43.842133Z",
+  "title": "Progressive Tool Loading for Large Toolsets",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2492#discussioncomment-18250937",
+  "number": 2492,
+  "body": "Thanks—I believe the search scope should be explicitly specified, not fixed.\n\nUnder the current semantics, searching only active groups is redundant, as activating a group already exposes all tool sch…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "RICARDO51167",
+    "discussion_author": "RICARDO51167"
+  },
+  "at_mobiles": []
+}
