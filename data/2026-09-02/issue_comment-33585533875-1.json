@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-02T03:03:17.119224Z",
+  "title": "feat(agent-team): add AgentRemove to remove a single team member",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2265#issuecomment-5503686611",
+  "number": 2265,
+  "body": "Resolved conficts.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "iluv7",
+    "commenter": "iluv7"
+  },
+  "at_mobiles": []
+}
