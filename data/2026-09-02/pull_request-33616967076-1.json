@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-02T09:58:10.770952Z",
+  "title": "feat(channel): add DingTalk knowledge base tools",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2464",
+  "number": 2464,
+  "body": "## AgentScope Version\n\n2.0.7.post1\n\n## Description\n\nRelated issue: [#2247](https://github.com/agentscope-ai/agentscope/issues/2247#event-29834931529)\n\nThis PR is a follow-up to [#2285](https://github.…",
+  "labels": [
+    "state: under discussion"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "iluv7",
+    "head_sha": "6babed3e49dc045668fa54fb1e393eb9fe9d18ad",
+    "base_ref": "main",
+    "additions": 1683,
+    "deletions": 10,
+    "changed_files": 21
+  },
+  "at_mobiles": []
+}
