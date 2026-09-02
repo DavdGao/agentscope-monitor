@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "RICARDO51167",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-02T13:26:07.222979Z",
+  "title": "feat: Support subagents in Agent class to manage context and scale complex tasks",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2491#discussioncomment-18250498",
+  "number": 2491,
+  "body": "One additional reference: Codex’s subagent design follows a similar separation. A subagent is an independently managed agent thread, while tools such as `spawn`, `wait`, and `interrupt` are only contr…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "RICARDO51167",
+    "discussion_author": "GSword"
+  },
+  "at_mobiles": []
+}
