@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "yang0228",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-02T04:47:39.719288Z",
+  "title": "fix(web-ui): keep running MCP tool calls visible",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2490",
+  "number": 2490,
+  "body": "## AgentScope Version\n\n2.0.7.post1\n\n## Description\n\nFixes #2475\n\nRunning MCP tool groups and tool rows used the `shimmer` utility. That utility makes text transparent and relies on background clipping…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "yang0228",
+    "head_sha": "de7c79254ab1c867b21bcdc8331d2bb8c31f08e8",
+    "base_ref": "main",
+    "additions": 6,
+    "deletions": 8,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
