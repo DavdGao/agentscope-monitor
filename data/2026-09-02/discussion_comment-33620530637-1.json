@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-02T10:39:03.205206Z",
+  "title": "Progressive Tool Loading for Large Toolsets",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2492#discussioncomment-18248015",
+  "number": 2492,
+  "body": "@RICARDO51167 Sure, that would be a valuable addition to AgentScope, and I think this discussion is related to #2310.\n\nIt seems like a `SearchTool` would be the natural starting point. However, one de…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "RICARDO51167"
+  },
+  "at_mobiles": []
+}
