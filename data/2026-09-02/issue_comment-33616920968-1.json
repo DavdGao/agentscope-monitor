@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-02T09:57:34.356731Z",
+  "title": "feat(channel): add DingTalk knowledge base tools",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2464#issuecomment-5507776480",
+  "number": 2464,
+  "body": "> There is one remaining edge case with PER_CHAT sessions in group chats. Normally, when the bot is idle and Bob starts a new turn, source_channel_user_id is updated to Bob, so the knowledge tools use…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "iluv7",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
