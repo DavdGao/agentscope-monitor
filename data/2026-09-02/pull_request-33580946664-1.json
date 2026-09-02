@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "steven-ji",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-02T01:50:43.203129Z",
+  "title": "feat(channel): enable channels for scheduled tasks",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2299",
+  "number": 2299,
+  "body": "## AgentScope Version\n\n2.0.6\n\n## Description\n\nCloses #2250.\n\nThis PR implements option 1 from the issue: a scheduled session remains owned by Agent Service, while an explicitly selected channel contri…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "steven-ji",
+    "head_sha": "52d2f5e932a3290325f1c17eebbe3fd54457cb81",
+    "base_ref": "main",
+    "additions": 1307,
+    "deletions": 37,
+    "changed_files": 20
+  },
+  "at_mobiles": []
+}
