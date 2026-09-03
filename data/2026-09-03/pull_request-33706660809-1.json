@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "review_requested",
+  "action_cn": "请求审核",
+  "sender": "zjncs",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-03T02:11:22.366057Z",
+  "title": "docs(middleware): fix reply budget example class name",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2493",
+  "number": 2493,
+  "body": "## AgentScope Version\n\n2.0.7.post1\n\n## Description\n\nThe public docstring example for ReplyBudgetControlMiddleware imports and instantiates BudgetControlMiddleware, which is not exported by agentscope.…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "zjncs",
+    "head_sha": "debc3002d67deacb21dd57a468b628e17e635635",
+    "base_ref": "main",
+    "additions": 2,
+    "deletions": 2,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
