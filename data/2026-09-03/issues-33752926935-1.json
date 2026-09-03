@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-03T12:02:07.845763Z",
+  "title": "feat(a2a): support A2A protocol in agentscope 2.0",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1941",
+  "number": 1941,
+  "body": "## Background\n\nAgentScope 2.0 plans to support the [A2A protocol](https://github.com/google/A2A) in two ways:\n\n1. **Expose agents as A2A endpoints** — Register or deploy an AgentScope agent as an A2A-…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
