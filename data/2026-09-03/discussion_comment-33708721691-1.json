@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-03T02:43:56.413209Z",
+  "title": "Progressive Tool Loading for Large Toolsets",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2492#discussioncomment-18260548",
+  "number": 2492,
+  "body": "@RICARDO51167 \nThanks for clarifying—I understand and agree with your proposed approach. The `deferred` mode is very close to what we discussed in [#2310](https://github.com/agentscope-ai/agentscope/d…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "iluv7",
+    "discussion_author": "RICARDO51167"
+  },
+  "at_mobiles": []
+}
