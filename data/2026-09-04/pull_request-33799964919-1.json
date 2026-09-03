@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "MannXo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-03T20:03:14.342777Z",
+  "title": "feat(channel): add WeCom channel support",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2266",
+  "number": 2266,
+  "body": "## Summary\n\nAdds `WeComChannel`, bringing WeCom (企业微信) alongside the existing Feishu and Discord channels in Agent Service.\n\n## Context\n\nCloses #2246 (sub-issue of #2245).\n\nWeCom offers two ways for a…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [
+    "DavdGao"
+  ],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "MannXo",
+    "head_sha": "d83bb0415b508c4eda0ee243e23383846db65c60",
+    "base_ref": "main",
+    "additions": 1910,
+    "deletions": 0,
+    "changed_files": 12
+  },
+  "at_mobiles": []
+}
