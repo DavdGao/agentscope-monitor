@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-03T15:29:24.188879Z",
+  "title": "fix(tool): apply schema-guided repair to tool arguments",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2496#issuecomment-5528051115",
+  "number": 2496,
+  "body": "The two CI failures exposed a compatibility regression: schema-guided repair was rejecting direct tool calls before the tools could apply their existing fallback behavior.\n\n- PowerShell: `timeout=9000…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "iluv7",
+    "commenter": "iluv7"
+  },
+  "at_mobiles": []
+}
