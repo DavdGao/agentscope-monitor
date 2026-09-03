@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-03T07:25:22.804027Z",
+  "title": "feat(tool): support cache-friendly on-demand tool loading",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2310#discussioncomment-18263605",
+  "number": 2310,
+  "body": "@DavdGao \nI’ve built a lightweight evaluation service for AgentScope, based on DeepEval: https://github.com/iluv7/agentscope-eval.\nThe tool-loading suite evaluates recorded traces at the four checkpoi…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "iluv7",
+    "discussion_author": "iluv7"
+  },
+  "at_mobiles": []
+}
