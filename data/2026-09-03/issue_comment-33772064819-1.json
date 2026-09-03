@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "lyh7c00",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-03T15:21:06.236980Z",
+  "title": "fix(rag): respect distance metric direction when ranking search results",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2486#issuecomment-5527942592",
+  "number": 2486,
+  "body": "Thanks for the review @DavdGao! I've reworked the fix to normalize the score inside the vector stores instead of exposing `score_higher_is_better`: `QdrantStore` now negates `Euclid`/`Manhattan` score…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "lyh7c00",
+    "commenter": "lyh7c00"
+  },
+  "at_mobiles": []
+}
