@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-03T10:54:31.446164Z",
+  "title": "feat(a2a): add `A2AAgent` class in the agent module",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2142",
+  "number": 2142,
+  "body": "## AgentScope Version\n\nAgentScope `2.0.4.post1`\n\n```python\nimport agentscope\n\nprint(agentscope.__version__)\n# 2.0.4.post1\n```\n\n## Description\n\n### Background\n\nThis PR implements the client-side A2A in…",
+  "labels": [
+    "state: awaiting feedback"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "YingchaoX",
+    "head_sha": "5f73c68689709b2d7e4d7b0f41a992afa2c8aad3",
+    "base_ref": "main",
+    "additions": 2076,
+    "deletions": 9,
+    "changed_files": 14
+  },
+  "at_mobiles": []
+}
