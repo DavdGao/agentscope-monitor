@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-03T13:56:30.210106Z",
+  "title": "feat(tool): support arguments repairment within the ToolBase class",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2222#issuecomment-5526880215",
+  "number": 2222,
+  "body": "> @iluv7 Thanks for the contribution!感谢您的贡献！\n> \n> Before going further with the hand-written coercion — `json_repair` already supports schema-guided repair via `repair_json(json_str, schema=...)`, and…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "iluv7",
+    "commenter": "iluv7"
+  },
+  "at_mobiles": []
+}
