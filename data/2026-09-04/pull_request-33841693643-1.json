@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "yaoruiquan",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-04T05:45:46.469770Z",
+  "title": "fix(tool): resolve the real command name in the bash removal check",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2501",
+  "number": 2501,
+  "body": "Fixes #2500\n\n## Summary\n\nResolve the real command name in `_check_dangerous_removal_path()` so every spelling bash runs as\n`rm` / `rmdir` reaches the bypass-immune removal check.\n\n## Root cause\n\nThe h…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "yaoruiquan",
+    "head_sha": "54f88dc769f1cc42fa9000465304ce7eeb540e60",
+    "base_ref": "main",
+    "additions": 116,
+    "deletions": 10,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
