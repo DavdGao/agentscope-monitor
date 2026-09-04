@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "RICARDO51167",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-04T07:04:06.022220Z",
+  "title": "fix(workspace): recover expired OpenSandbox sandboxes",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2488#issuecomment-5536965041",
+  "number": 2488,
+  "body": "Thanks for the detailed review. I've simplified the implementation along the suggested lines:\n\n- `DEFAULT_TIMEOUT` is now 1800 seconds.\n- Cache hits make a single `renew()` call, with no additional `g…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "RICARDO51167",
+    "commenter": "RICARDO51167"
+  },
+  "at_mobiles": []
+}
