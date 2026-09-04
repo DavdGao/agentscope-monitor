@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-04T09:53:09.369884Z",
+  "title": "Fix confirmation card overlapping chat messages",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2446#issuecomment-5538763336",
+  "number": 2446,
+  "body": "@john00010 Actually, the confirmation card is intentionally designed to overlay the text input component. I'm not sure whether it would be better to push the messages above the card instead.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "john00010",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
