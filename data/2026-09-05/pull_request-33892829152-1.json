@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "review_requested",
+  "action_cn": "请求审核",
+  "sender": "simpleqt",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-04T16:01:53.268207Z",
+  "title": "docs: replace full-width colons with ASCII colons in CONTRIBUTING_zh.md URLs",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2511",
+  "number": 2511,
+  "body": "Fixes #2508\n\nAll 13 URLs in CONTRIBUTING_zh.md used the full-width colon '：' (U+FF1A) instead of ':' — GitHub does not autolink them, and the `git clone` / `git remote add upstream` commands at lines …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "simpleqt",
+    "head_sha": "5e5da43bf4795d3841764acc02b71f753638a615",
+    "base_ref": "main",
+    "additions": 12,
+    "deletions": 12,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
