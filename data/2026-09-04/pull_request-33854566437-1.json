@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-04T08:40:36.145632Z",
+  "title": "fix(agent): record compression usage in context",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2433",
+  "number": 2433,
+  "body": "## AgentScope Version\n\n2.0.7\n\n## Description\n\nRefs #2151.\n\nContext compression currently consumes `StructuredResponse.content` but drops\nits `usage`. This change records the compression usage on the l…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "fengting124",
+    "head_sha": "5df895cea0cf834a71b9cdd174a1257d6366f2a6",
+    "base_ref": "main",
+    "additions": 298,
+    "deletions": 21,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
