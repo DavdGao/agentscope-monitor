@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "Luious-LYH",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-04T11:55:11.936295Z",
+  "title": "fix(app): reuse parser executor for embedded workers",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2489",
+  "number": 2489,
+  "body": "Fixes #2176\n\n## Summary\n\nCreate one ProcessPoolExecutor for the embedded IndexWorker when index workers are enabled, pass it to the worker, and shut it down with the app lifespan. This keeps CPU-bound…",
+  "labels": [
+    "state: awaiting changes"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Luious-LYH",
+    "head_sha": "077d091024a46f0f0d0dfe5dbb21cf068c5a6596",
+    "base_ref": "main",
+    "additions": 118,
+    "deletions": 12,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
