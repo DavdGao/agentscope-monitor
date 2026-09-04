@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-04T06:57:45.767917Z",
+  "title": "fix(tool): apply schema-guided repair to tool arguments",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2496",
+  "number": 2496,
+  "body": "## PR Title Format\n\nfix(tool): apply schema-guided repair to tool arguments\n\n## AgentScope Version\n\n2.0.7.post1\n\n## Description\n\nRelated to [#2222](https://github.com/agentscope-ai/agentscope/pull/222…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "iluv7",
+    "head_sha": "9df19c889affdc6674ab9b89d97d3d767e2dbbfa",
+    "base_ref": "main",
+    "additions": 322,
+    "deletions": 17,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
