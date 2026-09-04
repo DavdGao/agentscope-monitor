@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-04T11:04:13.362397Z",
+  "title": "Feature: add composable Rich/Textual terminal UI",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2506",
+  "number": 2506,
+  "body": "## Motivation\n\nAgentScope currently provides console rendering and a web UI, but no composable full-screen terminal chat interface for applications that need streaming messages, tool visibility, and h…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
