@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-04T10:58:59.917742Z",
+  "title": "chore(release): bump version to 2.0.8 and add the A2A news item",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2505",
+  "number": 2505,
+  "body": "Bump `__version__` to 2.0.8, and add an A2A news item to `docs/NEWS.md` and `docs/NEWS_zh.md`.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "fff5ee24db690241fa08fee761deabc6521d8a79",
+    "base_ref": "main",
+    "additions": 5,
+    "deletions": 3,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
