@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Luious-LYH",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-04T10:28:53.439730Z",
+  "title": "fix(app): reuse parser executor for embedded workers",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2489#issuecomment-5539152787",
+  "number": 2489,
+  "body": "Thanks for the detailed explanation — that makes sense. Moving the fallback into IndexWorker._parse is cleaner and avoids introducing a pickling requirement for parsers, while also covering both embed…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Luious-LYH",
+    "commenter": "Luious-LYH"
+  },
+  "at_mobiles": []
+}
