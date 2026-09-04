@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qiboyu301-crypto",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-04T10:49:49.034023Z",
+  "title": "fix(model): use conservative fallback token estimate",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2397#issuecomment-5539366239",
+  "number": 2397,
+  "body": "@Oxygen56 Thanks for addressing #2385. I have one framework-level concern about applying the calibration through ChatModelBase.count_tokens().\nIn this PR, the calibrated result is used not only for fu…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Oxygen56",
+    "commenter": "qiboyu301-crypto"
+  },
+  "at_mobiles": []
+}
