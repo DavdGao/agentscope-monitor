@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "yang0228",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-04T14:55:40.860357Z",
+  "title": "fix(web-ui): keep running MCP tool calls visible",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2490#issuecomment-5542277011",
+  "number": 2490,
+  "body": "@DavdGao Implemented the requested `@supports` fallback in [`5e9690a`](https://github.com/agentscope-ai/agentscope/pull/2490/commits/5e9690a0). Browsers with relative color support retain `shimmer`; o…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "yang0228",
+    "commenter": "yang0228"
+  },
+  "at_mobiles": []
+}
