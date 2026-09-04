@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-04T17:11:23.431194Z",
+  "title": "fix(agent): repair interrupted tool call arguments",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2474",
+  "number": 2474,
+  "body": "## AgentScope Version\n\n`2.0.7.post1`\n\n## Description\n\nFixes https://github.com/agentscope-ai/agentscope/issues/2469.\n\nWhen a streaming model call is interrupted while generating tool-call arguments, t…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "iluv7",
+    "head_sha": "fab8c67e1992aff959b1a668809771070a0b9b43",
+    "base_ref": "main",
+    "additions": 122,
+    "deletions": 1,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
