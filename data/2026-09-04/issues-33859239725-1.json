@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "zeng-bohan",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-04T09:37:23.931881Z",
+  "title": "[bug] `pip install -e \".[dev]\"` fails on Windows: ripgrep 15.x ships no Windows wheels",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2504",
+  "number": 2504,
+  "body": "## Environment\n- Windows 11 (10.0.22631), Python 3.12.10, uv 0.12.7 (also reproduces with pip), no Rust toolchain\n- Following CONTRIBUTING Step 3: `pip install -e \".[dev]\"`\n\n## Actual\nThe dependency c…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "zeng-bohan"
+  },
+  "at_mobiles": []
+}
