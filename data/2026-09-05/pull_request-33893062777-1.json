@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "review_requested",
+  "action_cn": "请求审核",
+  "sender": "simpleqt",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-04T16:04:22.861494Z",
+  "title": "fix: repair agent-facing prompt template text defects",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2513",
+  "number": 2513,
+  "body": "Fixes #2510\n\nFour small text defects that reach the LLM/agent:\n\n1. `DEFAULT_WORKSPACE_INSTRUCTIONS` (workspace/_utils.py) opened a \\`\\`\\`shell fence it never closed — the final instruction bullet and …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "simpleqt",
+    "head_sha": "a6063d31a1fae22db9f00ab5f39c2b888c4e4eaa",
+    "base_ref": "main",
+    "additions": 4,
+    "deletions": 3,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
