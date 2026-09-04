@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-04T10:49:56.460937Z",
+  "title": "chore(release): bump version to 2.0.8 and add the A2A news item",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2505",
+  "number": 2505,
+  "body": "Bump `__version__` to 2.0.8, and add an A2A news item to `docs/NEWS.md` and `docs/NEWS_zh.md`.\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nhttps://claude.ai/code/session_01Wo1qoXU…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "733fcc76a453af6097154ae933600e278055577b",
+    "base_ref": "main",
+    "additions": 3,
+    "deletions": 1,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
