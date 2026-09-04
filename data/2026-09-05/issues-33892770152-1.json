@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "simpleqt",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-04T16:01:18.815359Z",
+  "title": "Agent-facing prompt text defects: unclosed code fence in DEFAULT_WORKSPACE_INSTRUCTIONS, stray </search> tag, 'verfication' typo",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2510",
+  "number": 2510,
+  "body": "Three small text defects that reach the LLM/agent:\n\n1. `src/agentscope/workspace/_utils.py` `DEFAULT_WORKSPACE_INSTRUCTIONS` opens a ```shell fence (line 75) that is never closed, so the final bullet …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "simpleqt"
+  },
+  "at_mobiles": []
+}
