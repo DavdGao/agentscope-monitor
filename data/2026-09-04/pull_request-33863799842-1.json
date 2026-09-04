@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-04T10:33:37.679863Z",
+  "title": "fix(webui): auto-open task panel on first stateUpdated per session",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2431",
+  "number": 2431,
+  "body": "## What Problem This Solves\n\nWhen the agent creates or updates tasks during a reply, the backend pushes a `CustomEvent` with `name=\"state_updated\"` containing the latest `tasks_context`. The `ChatView…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "aniruddhaadak80",
+    "head_sha": "7614acde3ede05562533a7745b23e669687b7b8e",
+    "base_ref": "main",
+    "additions": 22,
+    "deletions": 8,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
