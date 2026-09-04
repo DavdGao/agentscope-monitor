@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-04T16:59:06.774266Z",
+  "title": "[Bug]: interrupting a streaming tool call persists truncated JSON and breaks subsequent turns",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2469#issuecomment-5543846646",
+  "number": 2469,
+  "body": "@chrischjh \nThanks for sharing this additional case! The formatter-layer defense in #2474 should cover output-limit truncation as well, since it sanitizes historical tool-call arguments regardless of …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "qiboyu301-crypto",
+    "commenter": "iluv7"
+  },
+  "at_mobiles": []
+}
