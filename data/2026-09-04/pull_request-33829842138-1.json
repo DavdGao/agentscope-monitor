@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "helloJamest",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-04T02:31:42.217476Z",
+  "title": "fix(pipeline): honor structured output retry limit",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2498",
+  "number": 2498,
+  "body": "## AgentScope Version\n\n`2.0.7.post1` (`main` at `10eaaac269101e25ad9f808353c45e305c6d7231`)\n\n## Description\n\nFixes #2497.\n\n`GoalPipeline.max_retries` was documented and stored but never applied to the…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "helloJamest",
+    "head_sha": "2960c83e74a79307d2917339b34e2db04940bc44",
+    "base_ref": "main",
+    "additions": 168,
+    "deletions": 11,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
