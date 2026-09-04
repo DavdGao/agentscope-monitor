@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "sunrong1",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-04T06:36:16.941903Z",
+  "title": "fix: correct misleading docstring in src/agentscope/__init__.py",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2502",
+  "number": 2502,
+  "body": "## Summary\n\nFix misleading docstring in `src/agentscope/__init__.py`.\n\nThe package's main `__init__.py` had a docstring claiming it was \"the agentscope serialization module\", but the file only exports…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "sunrong1",
+    "head_sha": "c16ab6b2f5faffdf0820a12102bba4a80402f7cf",
+    "base_ref": "main",
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
