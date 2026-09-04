@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-04T07:33:05.795827Z",
+  "title": "feat(tool): support arguments repairment within the ToolBase class",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1794",
+  "number": 1794,
+  "body": "**Background**\n\nLLM APIs are prone to returning arguments with incorrect types (e.g., returning a `str` when an `int` is expected). After the `__call__` method is introduced to `ToolBase` in #1719, we…",
+  "labels": [
+    "Help Wanted"
+  ],
+  "assignees": [
+    "mmskr666"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
