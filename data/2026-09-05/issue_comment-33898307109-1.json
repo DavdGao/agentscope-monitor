@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-04T17:01:20.809297Z",
+  "title": "[Bug]: interrupting a streaming tool call persists truncated JSON and breaks subsequent turns",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2469#issuecomment-5543872027",
+  "number": 2469,
+  "body": "One broader concern: malformed historical tool-call arguments are not specific to OpenAI Chat. Other formatters, such as OpenAI Responses, DeepSeek, Moonshot, and DashScope, also forward the raw argum…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "qiboyu301-crypto",
+    "commenter": "iluv7"
+  },
+  "at_mobiles": []
+}
