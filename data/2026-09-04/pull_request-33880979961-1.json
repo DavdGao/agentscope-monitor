@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "Luious-LYH",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-04T13:57:55.407671Z",
+  "title": "fix(app): offload parser execution in IndexWorker",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2489",
+  "number": 2489,
+  "body": "Fixes #2176\n\n## What does this PR do?\n\n- Offload parser execution with `asyncio.to_thread` when no\n  `parser_executor` is provided.\n- Preserve the explicit `parser_executor` path for callers that opt\n…",
+  "labels": [
+    "state: awaiting changes"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Luious-LYH",
+    "head_sha": "54688cd7aa6583d9d0b58c96f57ff4e1f1ab52e2",
+    "base_ref": "main",
+    "additions": 178,
+    "deletions": 10,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
