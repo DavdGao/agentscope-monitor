@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "simpleqt",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-04T16:02:41.091190Z",
+  "title": "docs: point zh news entries and README_zh doc links to the zh locale",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2512",
+  "number": 2512,
+  "body": "Fixes #2509\n\ndocs/NEWS_zh.md lines 13/14/17/18 and the two synced README_zh.md lines (83-84) linked Chinese news items to `/latest/en/` docs pages, while every other entry in these files links `/zh/`.…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "simpleqt",
+    "head_sha": "8847c1aa3da7442fc095c838469a1fad6708c983",
+    "base_ref": "main",
+    "additions": 6,
+    "deletions": 6,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
