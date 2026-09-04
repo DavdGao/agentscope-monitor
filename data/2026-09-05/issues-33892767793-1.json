@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "simpleqt",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-04T16:01:16.322166Z",
+  "title": "zh news entries and README_zh link to the /en/ docs locale",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2509",
+  "number": 2509,
+  "body": "docs/NEWS_zh.md lines 13, 14, 17, 18 and the synced README_zh.md lines 83-84 link Chinese-language news items to the `/latest/en/` docs locale (e.g. `https://docs.agentscope.io/latest/en/building-bloc…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "simpleqt"
+  },
+  "at_mobiles": []
+}
