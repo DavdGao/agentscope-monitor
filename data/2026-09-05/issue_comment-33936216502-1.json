@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "PiedPiper911",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-05T01:27:34.489152Z",
+  "title": "feat(channel): add WeCom (企业微信) channel support (PoC)",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2353#issuecomment-5548408343",
+  "number": 2353,
+  "body": "Thanks @DavdGao — the unrelated `.github/workflows/pre-commit.yml` and `.github/workflows/unittest.yml` changes (CI debugging leftovers on the fork branch) are removed; both files are restored to the …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "PiedPiper911",
+    "commenter": "PiedPiper911"
+  },
+  "at_mobiles": []
+}
