@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "CoralGarden52",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-05T09:05:05.203690Z",
+  "title": "fix(app): clear inbox consumer on session delete",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2519",
+  "number": 2519,
+  "body": "Fixes #2518\n\n## Summary\n\n- Remove the session's `inbox_consumer` marker when purging its bus state.\n- Add a regression test for deleting a session, reusing the same explicit ID, and delivering a new i…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "CoralGarden52",
+    "head_sha": "3a11c402c43d77daf2b4b1df718f0c93afc9020a",
+    "base_ref": "main",
+    "additions": 17,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
