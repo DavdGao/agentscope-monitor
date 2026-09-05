@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-05T08:28:00.064795Z",
+  "title": "[Bug]: interrupting a streaming tool call persists truncated JSON and breaks subsequent turns",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2469#issuecomment-5550585818",
+  "number": 2469,
+  "body": "Thank you again for the detailed Ark validation and for checking all of the formatters. This is extremely helpful. Your `finish_reason=\"length\"` case confirms that a wire-time defense is needed in add…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "qiboyu301-crypto",
+    "commenter": "iluv7"
+  },
+  "at_mobiles": []
+}
