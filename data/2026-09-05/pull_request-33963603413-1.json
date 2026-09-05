@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "CoralGarden52",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-05T11:32:43.440399Z",
+  "title": "fix(channel): preserve wakeups for messages arriving during run finalization",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2521",
+  "number": 2521,
+  "body": "Fixes #2520\n\n## Summary\n\n`ChannelGateway` used to push hints directly to a running session's inbox after checking `session_lock`. That bypassed the inbox hand-off protocol used by `ChatService` and co…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "CoralGarden52",
+    "head_sha": "b33eaf9e14db4b906a74ee3a9b9fd729933aa2bb",
+    "base_ref": "main",
+    "additions": 95,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
