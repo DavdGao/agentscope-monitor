@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "CoralGarden52",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-05T09:04:42.262529Z",
+  "title": "[Bug]: deleting a session leaves a stale inbox consumer marker",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2518",
+  "number": 2518,
+  "body": "## Bug description\n\n`SessionService._purge_session_bus()` removes a session's event log, inbox queue, and background-task registry, but it does not remove the `MessageBusKeys.inbox_consumer(session_id…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "CoralGarden52"
+  },
+  "at_mobiles": []
+}
