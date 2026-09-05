@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-05T02:50:31.079802Z",
+  "title": "[Bug]: interrupting a streaming tool call persists truncated JSON and breaks subsequent turns",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2469#issuecomment-5548856266",
+  "number": 2469,
+  "body": "@chrischjh \nThank you very much for testing this against the real Ark environment. Your detailed results are extremely helpful!\nI’ll carefully consider your suggestion to move the defensive repair int…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "qiboyu301-crypto",
+    "commenter": "iluv7"
+  },
+  "at_mobiles": []
+}
