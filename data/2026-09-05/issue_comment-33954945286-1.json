@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-05T08:19:39.495085Z",
+  "title": "fix(agent): repair interrupted tool call arguments",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2474#issuecomment-5550544545",
+  "number": 2474,
+  "body": "Once the approach #2516 in the new Discussion is agreed upon and the follow-up PR is opened, I will remove the OpenAI-specific formatter changes from this PR, as that logic will be moved to and handle…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "iluv7",
+    "commenter": "iluv7"
+  },
+  "at_mobiles": []
+}
