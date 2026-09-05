@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "CoralGarden52",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-05T03:36:25.259655Z",
+  "title": "fix(app): drain wakeup backlog completely on startup",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2515",
+  "number": 2515,
+  "body": "Fixes #2514\n\n## Summary\n\n`WakeupDispatcher` previously performed only one queue drain when starting. Because each drain is capped at 64 entries, a durable backlog larger than 64 could leave entries st…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "CoralGarden52",
+    "head_sha": "ae555f2bbd8e63d397f6be87d9ebc6e246440473",
+    "base_ref": "main",
+    "additions": 47,
+    "deletions": 5,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
