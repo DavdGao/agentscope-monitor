@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-05T08:19:15.486281Z",
+  "title": "Where should malformed historical tool-call arguments be sanitized?",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2516",
+  "number": 2516,
+  "body": "## Background\n\nThis discussion follows https://github.com/agentscope-ai/agentscope/issues/2469.\n\nThe original issue reported that interrupting a model while it was streaming tool-call arguments could …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "iluv7"
+  },
+  "at_mobiles": []
+}
