@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Okabe-Rintarou-0",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-05T08:27:30.113032Z",
+  "title": "chore(model): use polymorphic block methods in count_tokens",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2517",
+  "number": 2517,
+  "body": "## AgentScope Version\n\n`2.0.8`\n\n## Description\n\n### Background\n\n`ChatModelBase.count_tokens` used a long `isinstance` chain to walk every\ncontent block, extract its text, and collect `DataBlock`s. The…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Okabe-Rintarou-0",
+    "head_sha": "aae13c147e821875b9571cd8b5ef60b28736386d",
+    "base_ref": "main",
+    "additions": 66,
+    "deletions": 47,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
