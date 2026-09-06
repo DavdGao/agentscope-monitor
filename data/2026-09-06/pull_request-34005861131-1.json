@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "CoralGarden52",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-06T02:12:14.400330Z",
+  "title": "fix(rag): prevent deleted documents from being reinserted during indexing",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2524",
+  "number": 2524,
+  "body": "## Summary\n\nFixes a race where deleting a document while its asynchronous indexing worker is parsing or chunking could leave the deleted document reinserted into the vector store.\n\n`KnowledgeBaseServi…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "CoralGarden52",
+    "head_sha": "104c9bf9793369b297cf394a57b963d6708decee",
+    "base_ref": "main",
+    "additions": 302,
+    "deletions": 43,
+    "changed_files": 13
+  },
+  "at_mobiles": []
+}
