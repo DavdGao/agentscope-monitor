@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "CoralGarden52",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-06T01:37:36.078942Z",
+  "title": "[Bug]: deleted documents can be reinserted while indexing",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2523",
+  "number": 2523,
+  "body": "## Background / Description\n\nWhen a document is deleted while the asynchronous IndexWorker is still parsing, chunking, or indexing it, the delete endpoint removes the document's vectors and storage re…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "CoralGarden52"
+  },
+  "at_mobiles": []
+}
