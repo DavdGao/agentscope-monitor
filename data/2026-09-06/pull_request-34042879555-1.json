@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "MaxFreedomPollard",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-06T15:37:19.842132Z",
+  "title": "fix(rag): escape Excel Markdown table cells",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2528",
+  "number": 2528,
+  "body": "## AgentScope Version\n\n2.0.8 (`main`, base commit `41ba021`)\n\n## Description\n\n`ExcelParser` renders a sheet through its own cell formatter, `_fmt` at `src/agentscope/rag/_parser/_excel.py:419`, which …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "MaxFreedomPollard",
+    "head_sha": "3e439f0a2d03cd2cc3e01966cb194101334254a3",
+    "base_ref": "main",
+    "additions": 59,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
