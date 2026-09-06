@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "kabishou11",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-06T02:28:43.547449Z",
+  "title": "[Bug]: Discord tool approval buttons stop responding after direct reply delivery",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2522#issuecomment-5556353428",
+  "number": 2522,
+  "body": "I can take this. Plan: restore Discord tool Approve/Deny interaction handling after direct reply delivery so confirmation callbacks fire again. Targeting main.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "wxxlamp",
+    "commenter": "kabishou11"
+  },
+  "at_mobiles": []
+}
