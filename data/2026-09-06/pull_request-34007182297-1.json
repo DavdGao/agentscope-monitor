@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "kabishou11",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-06T02:42:57.322924Z",
+  "title": "fix(channel): restore Discord tool approval buttons after direct reply delivery",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2525",
+  "number": 2525,
+  "body": "Restore Discord tool Approve/Deny after direct reply delivery by handling interactions on the listening client via custom_id. Fixes #2522",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "kabishou11",
+    "head_sha": "5ee42697ab8bf1076f41a5404f48850e27250817",
+    "base_ref": "main",
+    "additions": 325,
+    "deletions": 52,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
