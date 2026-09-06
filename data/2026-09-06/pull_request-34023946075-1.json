@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "014-code",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-06T09:11:40.779422Z",
+  "title": "feat(rag): add Chroma vector store backend",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2527",
+  "number": 2527,
+  "body": "## Summary\n\n- add an optional ChromaDB-backed `ChromaStore` implementing `VectorStoreBase`\n- support persistent, ephemeral, and HTTP Chroma clients with lazy optional imports\n- add batching, determini…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "014-code",
+    "head_sha": "52dd716670c06c288b1b7ffd39453c97198f9d58",
+    "base_ref": "main",
+    "additions": 842,
+    "deletions": 7,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
