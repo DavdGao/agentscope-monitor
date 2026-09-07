@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "CoralGarden52",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-07T11:42:07.223027Z",
+  "title": "fix(app): reconnect index task consumer after Redis Pub/Sub disconnect",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2539",
+  "number": 2539,
+  "body": "## Summary\n\n- reconnect `IndexTaskConsumer` after a transient Pub/Sub failure or normal subscription termination;\n- use bounded exponential backoff from 1 second to 30 seconds;\n- drain the durable ind…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "CoralGarden52",
+    "head_sha": "7fea5cb138a874bb3423618621ab3438f4889b65",
+    "base_ref": "main",
+    "additions": 137,
+    "deletions": 14,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
