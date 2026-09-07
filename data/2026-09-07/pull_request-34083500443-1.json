@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-07T04:33:00.019738Z",
+  "title": "fix: block sending by Enter while a reply is in progress",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2529",
+  "number": 2529,
+  "body": "## Description\n\nIn the web UI chat input, the send/stop button picks its icon, tooltip, disabled state and click handler from the reply `phase`, but the Enter key path bypasses that entirely — `handle…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "9911e5be65afc36bbda5c09c93d70e7d425c75d4",
+    "base_ref": "main",
+    "additions": 3,
+    "deletions": 1,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
