@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "liugy789",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-07T11:23:52.989081Z",
+  "title": "WordParser drops blank paragraphs when parsing DOCX files",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2535",
+  "number": 2535,
+  "body": "## Summary\n\n`WordParser` currently discards truly empty Word paragraphs (`<w:p>`), so blank lines between surrounding text paragraphs are lost.\n\n## Reproduction\n\nA document with these paragraphs:\n\n```…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "liugy789"
+  },
+  "at_mobiles": []
+}
