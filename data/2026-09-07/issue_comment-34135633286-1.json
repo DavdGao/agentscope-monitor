@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "wuwenbo0626",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-07T14:56:14.820507Z",
+  "title": "fix(state): skip oversized read-cache entries",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2534#issuecomment-5572436155",
+  "number": 2534,
+  "body": "The full test suite passed: 2186 passed, 147 skipped, with 399 subtests passed. It is ready for review now.\n:)",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "wuwenbo0626",
+    "commenter": "wuwenbo0626"
+  },
+  "at_mobiles": []
+}
