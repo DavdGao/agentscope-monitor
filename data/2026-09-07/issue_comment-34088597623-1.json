@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "YingchaoX",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-07T05:54:47.140463Z",
+  "title": "[Bug]: tool_choice参数支持的问题",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1608#issuecomment-5565718822",
+  "number": 1608,
+  "body": "I can still reproduce this with AgentScope `2.0.7.post1` and DashScope `qwen3.8-max`. The same named `tool_choice` succeeds when thinking is disabled, but fails deterministically when thinking is enab…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "shanghai-Jerry",
+    "commenter": "YingchaoX"
+  },
+  "at_mobiles": []
+}
