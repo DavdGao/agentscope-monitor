@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "zeng-bohan",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-07T02:05:37.586397Z",
+  "title": "fix(deps): pin ripgrep below 15.x to restore Windows dev installs",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2526#issuecomment-5563974427",
+  "number": 2526,
+  "body": "Issue author here — thanks for picking this up, and the extra verification is appreciated.\n\nI can confirm this direction from the Windows side: on Windows 11 (10.0.22631, Python 3.12), pinning `ripgre…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Shxiao101",
+    "commenter": "zeng-bohan"
+  },
+  "at_mobiles": []
+}
