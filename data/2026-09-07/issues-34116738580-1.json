@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "CoralGarden52",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-07T11:27:55.429900Z",
+  "title": "fix(app): reconnect index task consumer after Redis Pub/Sub disconnect",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2537",
+  "number": 2537,
+  "body": "## Problem\n\n`IndexTaskConsumer` subscribes to the Redis Pub/Sub signal once. If the subscription raises a connection error (for example during a Redis restart, failover, or network interruption), `_lo…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "CoralGarden52"
+  },
+  "at_mobiles": []
+}
