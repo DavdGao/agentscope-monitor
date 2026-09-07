@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "liugy789",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-07T11:30:58.202339Z",
+  "title": "fix(rag): preserve blank lines between paragraphs in WordParser",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2538",
+  "number": 2538,
+  "body": "## AgentScope Version\n\n2.0.3-SNAPSHOT (current main)\n\n## Description\n\nCloses #2535.\n\nWord represents a blank line as a structurally empty `w:p` paragraph. `WordParser` previously discarded it, so text…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "liugy789",
+    "head_sha": "d5f9bb15b302c21baa213a83db59f654b933574c",
+    "base_ref": "main",
+    "additions": 42,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
