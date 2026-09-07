@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "review_requested",
+  "action_cn": "请求审核",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-07T12:17:05.330430Z",
+  "title": "refactor(app): a session's origin is one tagged union",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2536",
+  "number": 2536,
+  "body": "## What\n\n`SessionRecord` carried a `source` enum beside four nullable ids, and every reader had to check both — the enum could say `channel` while the channel id was still `None`. `_chat.py` guarded t…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "0c9fce6406352c1b127f0b0aa06330d4502d916d",
+    "base_ref": "main",
+    "additions": 472,
+    "deletions": 162,
+    "changed_files": 23
+  },
+  "at_mobiles": []
+}
