@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "PiedPiper911",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-07T07:54:43.742701Z",
+  "title": "feat(channel): add WeCom (企业微信) channel support (PoC)",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2353#issuecomment-5567280250",
+  "number": 2353,
+  "body": "Gentle bump @DavdGao — the pre-commit failures were fixed in the new head (`e20d3bd`): dropped the unused imports, guarded `_emit` (mypy), and formatted with the repo black (`--line-length=79`). All C…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "PiedPiper911",
+    "commenter": "PiedPiper911"
+  },
+  "at_mobiles": []
+}
