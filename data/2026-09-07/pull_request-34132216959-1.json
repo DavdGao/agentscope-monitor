@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "wuwenbo0626",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-07T14:18:27.262758Z",
+  "title": "fix(task): hide completed prerequisites from blockedBy",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2541",
+  "number": 2541,
+  "body": "Fixes #2540.\n\n### AgentScope Version\n\nBased on `main` commit `bb5084c8de35e98fc4c74ef282248da430a4eda6`.\n\n### Description\n\n`TaskList` and `TaskGet` previously rendered every stored `blocked_by` ID,\nin…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "wuwenbo0626",
+    "head_sha": "e437d6dac579986f0c432879d2a80d7de57c33a3",
+    "base_ref": "main",
+    "additions": 91,
+    "deletions": 5,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
