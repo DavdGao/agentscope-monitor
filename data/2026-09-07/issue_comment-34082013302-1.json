@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-07T04:08:57.421942Z",
+  "title": "Fix confirmation card overlapping chat messages",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2446#issuecomment-5564885352",
+  "number": 2446,
+  "body": "Closing for now, and plz feel free to open new one if needed",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "john00010",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
