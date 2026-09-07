@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "wuwenbo0626",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-07T11:11:29.911352Z",
+  "title": "fix(state): skip oversized read-cache entries",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2534",
+  "number": 2534,
+  "body": "## PR Title Format\n\nPlease ensure your PR title follows the Conventional Commits format:\n- Format: `<type>(<scope>): <description>`\n- Example: `feat(memory): add redis cache support`\n- Allowed types: …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "wuwenbo0626",
+    "head_sha": "184ed5dd39cc18afb5919fe569363cfac8979beb",
+    "base_ref": "main",
+    "additions": 30,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
