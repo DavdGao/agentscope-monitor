@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-07T04:21:00.938484Z",
+  "title": "CONTRIBUTING_zh.md: all URLs use full-width colons (：), breaking links and copy-paste commands",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2508",
+  "number": 2508,
+  "body": "Every URL in CONTRIBUTING_zh.md (12 lines, 13 occurrences) uses the full-width colon '：' (U+FF1A) instead of ':', e.g. line 11: `https：//github.com/orgs/agentscope-ai/projects/2`. GitHub does not auto…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "simpleqt"
+  },
+  "at_mobiles": []
+}
