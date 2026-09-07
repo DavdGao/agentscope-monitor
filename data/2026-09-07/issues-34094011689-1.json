@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "CoralGarden52",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-07T07:08:37.637259Z",
+  "title": "[Bug]: channel reply stream can block forever after Redis Pub/Sub disconnect",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2530",
+  "number": 2530,
+  "body": "## Bug description\n\nThe Redis-backed channel reply stream can remain blocked forever when its\nPub/Sub connection is reset after the subscription has become ready.\n\nRedisMessageBus.subscribe() lets the…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "CoralGarden52"
+  },
+  "at_mobiles": []
+}
