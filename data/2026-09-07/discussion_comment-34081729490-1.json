@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-07T04:03:49.291916Z",
+  "title": "Where should malformed historical tool-call arguments be sanitized?",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2516#discussioncomment-18324402",
+  "number": 2516,
+  "body": "@iluv7 Thanks for digging into this, the finish_reason=\"length\" case is a good find.\n\nI'd go with neither A nor B. Both rescan the whole history every turn, and A makes the persisted context differ fr…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "iluv7"
+  },
+  "at_mobiles": []
+}
