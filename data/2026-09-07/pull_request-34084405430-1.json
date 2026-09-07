@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-07T04:47:31.497915Z",
+  "title": "fix(deps): pin ripgrep below 15.x to restore Windows dev installs",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2526",
+  "number": 2526,
+  "body": "## AgentScope Version\n\n2.0.8 (main @ 41ba021)\n\n## Description\n\n**Background**: `pip install -e \".[dev]\"` fails on Windows without a Rust toolchain. The `dev` extra pulls `full → agentscope[tools]`, an…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "Shxiao101",
+    "head_sha": "6c4a538f84f60c2e6ee1d16ddac7af8185245416",
+    "base_ref": "main",
+    "additions": 5,
+    "deletions": 1,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
