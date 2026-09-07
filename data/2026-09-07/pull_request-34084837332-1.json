@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-07T04:54:44.684068Z",
+  "title": "feat(sop): add SOP definition, run and decision core",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2393",
+  "number": 2393,
+  "body": "> **Draft — base abstractions only.** No engine yet, nothing wired to the\n> service. Opening early so the modelling can be argued with before code\n> is built on top of it.\n\n## What this is\n\nA **SOP** …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "8656e1e0ea278a735e69448f5933786de50a019d",
+    "base_ref": "main",
+    "additions": 2979,
+    "deletions": 0,
+    "changed_files": 16
+  },
+  "at_mobiles": []
+}
