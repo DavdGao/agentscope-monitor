@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-07T12:59:37.582588Z",
+  "title": "fix(app): support cross-owner agent invites",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2326",
+  "number": 2326,
+  "body": "## Summary\n\n- re-resolve invite targets through `ResourceAccessService` so cross-owner access is checked again at invocation time\n- preserve the shared agent definition owner while keeping the borrowe…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "logicwu0",
+    "head_sha": "85a5ddbd81f49a71c600088843d0bdb0739d776c",
+    "base_ref": "main",
+    "additions": 347,
+    "deletions": 43,
+    "changed_files": 13
+  },
+  "at_mobiles": []
+}
