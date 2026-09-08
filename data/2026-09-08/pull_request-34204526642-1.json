@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-08T08:26:51.760542Z",
+  "title": "feat(realtime): realtime voice agent with DashScope backends and local transport",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2547",
+  "number": 2547,
+  "body": "## AgentScope Version\n\n2.0.8\n\n## Description\n\nRewrites the realtime (speech-to-speech) support as a small set of independent pieces instead of one WebSocket bridge, so that the model, the transport an…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "c46771f456f38e0bbb01ce8c1ca7aa212f0f4146",
+    "base_ref": "main",
+    "additions": 4806,
+    "deletions": 6,
+    "changed_files": 40
+  },
+  "at_mobiles": []
+}
