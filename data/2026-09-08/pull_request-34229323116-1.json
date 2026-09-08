@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-08T13:00:23.714301Z",
+  "title": "fix(state): skip oversized read-cache entries",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2534",
+  "number": 2534,
+  "body": "Fixes #2533.\n\n## AgentScope Version\n\nBased on `main` commit `bb5084c8de35e98fc4c74ef282248da430a4eda6`.\n\n## Description\n\n`ToolContext.cache_file()` previously cached a new entry even when that entry a…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "wuwenbo0626",
+    "head_sha": "8c4a3301992b7dbfb419710d78ce544cbb9a0b25",
+    "base_ref": "main",
+    "additions": 30,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
