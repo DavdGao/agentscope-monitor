@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "yaodong-shen",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-08T04:13:46.707610Z",
+  "title": "[Bug]: GoalPipeline ignores verifier_reset_context after a failed verification",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2543",
+  "number": 2543,
+  "body": "### Problem\n\n`GoalPipeline.__init__` exposes `verifier_reset_context: bool = True`, documented as resetting the verifier context after each iteration. On current `main` (`ff8697e`), the value is store…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "yaodong-shen"
+  },
+  "at_mobiles": []
+}
