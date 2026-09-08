@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-08T02:44:45.555522Z",
+  "title": "feat(model): add Volcengine Ark chat model support",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2532#issuecomment-5578317445",
+  "number": 2532,
+  "body": "Addressed both points in 4ab6a3c9. I registered Volcengine for tracing, including the provider name, class-name, and `volces.com` base-URL mappings, with tests for both `VolcengineChatModel` and Ark a…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "iluv7",
+    "commenter": "iluv7"
+  },
+  "at_mobiles": []
+}
