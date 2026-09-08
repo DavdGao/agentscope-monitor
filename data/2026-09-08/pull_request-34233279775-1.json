@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "RICARDO51167",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-08T13:39:16.107663Z",
+  "title": "fix(workspace): recover expired OpenSandbox sandboxes",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2488",
+  "number": 2488,
+  "body": "## AgentScope Version\n\n2.0.7.post1\n\n## Description\n\nFixes #2483.\n\nOpenSandbox workspaces could remain cached after their remote sandbox had expired. Subsequent requests would reuse the stale local wor…",
+  "labels": [
+    "state: awaiting changes"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "RICARDO51167",
+    "head_sha": "4860cf4e19be60e3e3d2875359c6ac8e8c8c1dd8",
+    "base_ref": "main",
+    "additions": 679,
+    "deletions": 52,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
