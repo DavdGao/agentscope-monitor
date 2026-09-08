@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ConcaSun",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-08T06:50:00.018587Z",
+  "title": "docs(zh): link zh news entries to the zh docs locale",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2546",
+  "number": 2546,
+  "body": "Fixes #2509\n\n中文 issue #2509：`docs/NEWS_zh.md` 中 4 条（Daytona / K8s 工作区、agent-team、多模态 RAG）与 `README_zh.md` 同步的两条中文新闻，其文档链接误指到 /latest/en/ 英文 locale，而文件内其余条目均指向 /zh/。中文读者会被带到英文文档页。\n\n本次改动将这两处文件的 6 个链接从 /…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ConcaSun",
+    "head_sha": "eced2712a1baf2df3f804f3590c2217c76e3e1ee",
+    "base_ref": "main",
+    "additions": 6,
+    "deletions": 6,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
