@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "liugy789",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-08T13:54:11.764594Z",
+  "title": "[Bug]: AG-UI tool result events reuse messageId across tool calls",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2554#issuecomment-5586249945",
+  "number": 2554,
+  "body": "I've opened PR #2555 to fix this issue. The PR assigns a unique per-tool messageId to each AG-UI TOOL_CALL_RESULT and includes regression tests for multiple tool results and ID encoding.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "liugy789",
+    "commenter": "liugy789"
+  },
+  "at_mobiles": []
+}
