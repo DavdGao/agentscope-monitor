@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "CorgiBoyG",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-08T10:21:10.459493Z",
+  "title": "[Bug]: streamed tool data blocks lose identity during event replay",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2549#issuecomment-5583621870",
+  "number": 2549,
+  "body": "Implementation is complete and ready on [`CorgiBoyG:fix/tool-data-block-identity`](https://github.com/agentscope-ai/agentscope/compare/main...CorgiBoyG:agentscope:fix/tool-data-block-identity), commit…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "CorgiBoyG",
+    "commenter": "CorgiBoyG"
+  },
+  "at_mobiles": []
+}
