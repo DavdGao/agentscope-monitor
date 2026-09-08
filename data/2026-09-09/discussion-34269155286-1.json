@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "AgentTanuki",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-08T19:28:30.113802Z",
+  "title": "Expose the selected MCP client association to permission middleware",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2558",
+  "number": 2558,
+  "body": "A middleware applying a caller's endpoint policy needs to identify the MCP client that owns the resolved tool. In AgentScope 2.0.8, `on_check_permission` receives `tool_call`, `tool` and `tool_input`,…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "AgentTanuki"
+  },
+  "at_mobiles": []
+}
