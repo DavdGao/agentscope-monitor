@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "24kGarry",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-08T14:34:21.398808Z",
+  "title": "[Bug]:ToolOffloadMiddleware Prematurely Terminates Conversation When Tools Are Offloaded",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1711#issuecomment-5586817679",
+  "number": 1711,
+  "body": "I'm working on a fix for this against the latest `main`.\n\nThe existing wakeup fixes (#2286 / #2295) address delivery races, but the offload path still completes the original call with a synthetic `SUC…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "ljl3937",
+    "commenter": "24kGarry"
+  },
+  "at_mobiles": []
+}
