@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "CorgiBoyG",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-08T08:59:14.910753Z",
+  "title": "[Bug]: streamed tool data blocks lose identity during event replay",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2549",
+  "number": 2549,
+  "body": "### Prerequisites\n\n- [x] I searched existing issues, pull requests, discussions, and recent history for this symptom and root cause.\n- [x] This is a reproducible bug rather than a usage question.\n\n###…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "CorgiBoyG"
+  },
+  "at_mobiles": []
+}
