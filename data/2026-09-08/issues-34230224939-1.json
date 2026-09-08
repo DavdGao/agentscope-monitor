@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-08T13:09:26.197578Z",
+  "title": "[Bug]: WordParser drops blank paragraphs when parsing DOCX files",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2535",
+  "number": 2535,
+  "body": "## Prerequisites\n\n- [x] I searched existing issues and discussions and found no duplicate.\n- [x] This is a bug report, not a usage question.\n\n## Background / Description\n\n`WordParser` discards truly e…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "liugy789"
+  },
+  "at_mobiles": []
+}
