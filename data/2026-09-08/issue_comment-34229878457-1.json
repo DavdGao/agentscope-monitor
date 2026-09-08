@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-08T13:05:58.905024Z",
+  "title": "fix(agent): add missing await on memory.add in DeepResearchAgent._summarizing",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2333#issuecomment-5585600928",
+  "number": 2333,
+  "body": "The DeepResearch agent is available in the v1 branch. The main branch is reserved for maintaining the 2.0 version. Closing this issue for now.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Ricardo-M-L",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
