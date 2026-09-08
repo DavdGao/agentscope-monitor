@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "nolanchic",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-08T03:34:09.534180Z",
+  "title": "[Bug]: Gemini 3 tool calls fail with 400 — `function_call` loses `thought_signature` on history round-trip",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2462#issuecomment-5578705633",
+  "number": 2462,
+  "body": "Following up on my claim above — I'm stepping back from this one. I'd missed #2463 when I volunteered; it separates the signature from the call id the way this should be done, and the review feedback …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "wordcount",
+    "commenter": "nolanchic"
+  },
+  "at_mobiles": []
+}
