@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-08T13:32:05.621002Z",
+  "title": "feat(realtime): OpenAI Realtime API model",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2552",
+  "number": 2552,
+  "body": "## Description\n\nAdds `OpenAIRealtimeModel`, an OpenAI Realtime API adapter for `RealtimeAgent`, alongside the existing DashScope one. Raw `websockets` client, same shape as `DashScopeRealtimeModel`: `…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "e4440964213c433ba6444af72b2d6800cceaee29",
+    "base_ref": "main",
+    "additions": 1023,
+    "deletions": 2,
+    "changed_files": 14
+  },
+  "at_mobiles": []
+}
