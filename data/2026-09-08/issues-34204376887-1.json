@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "CorgiBoyG",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-08T08:25:10.164606Z",
+  "title": "[Bug]: external execution results are duplicated in persisted replies",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2548",
+  "number": 2548,
+  "body": "### Prerequisites\n\n- [x] I searched existing issues, pull requests, and discussions for this symptom and root cause.\n- [x] This is a bug rather than a usage question.\n\n### Background / Description\n\nWh…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "CorgiBoyG"
+  },
+  "at_mobiles": []
+}
