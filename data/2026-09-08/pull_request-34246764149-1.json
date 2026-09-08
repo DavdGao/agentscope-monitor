@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "dvd233",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-08T15:45:15.534037Z",
+  "title": "fix(agent): preserve tool data-block identity during event replay",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2551",
+  "number": 2551,
+  "body": "## AgentScope Version\n\n`main` @ f8b40f6 (2.0.7)\n\n## Description\n\nFixes #2549.\n\nA streaming tool can emit multiple `DataBlock` chunks that share one block id — the documented `ToolChunk` contract (\"for…",
+  "labels": [
+    "state: awaiting changes"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "dvd233",
+    "head_sha": "8081e78ab860366bfcc1cf8d50162fa73471fa28",
+    "base_ref": "main",
+    "additions": 202,
+    "deletions": 2,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
