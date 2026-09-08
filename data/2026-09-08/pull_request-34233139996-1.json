@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "liugy789",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-08T13:37:59.062772Z",
+  "title": "fix(app): assign unique AG-UI message IDs to tool results",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2555",
+  "number": 2555,
+  "body": "## AgentScope Version\n\n2.0.8\n\n## Description\n\n### Background\n\n`AGUIProtocolMiddleware` used the reply-level `reply_id` as the `messageId` of\nevery AG-UI `TOOL_CALL_RESULT` event. Because one assistant…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "liugy789",
+    "head_sha": "33b0c218f6adf70b285f74553cf153924cad3e1b",
+    "base_ref": "main",
+    "additions": 137,
+    "deletions": 5,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
