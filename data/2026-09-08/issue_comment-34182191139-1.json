@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-08T03:03:48.917961Z",
+  "title": "feat(model): add Volcengine Ark chat model support",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2532#issuecomment-5578462278",
+  "number": 2532,
+  "body": "The CI failure is unrelated to the Volcengine Ark changes in this PR. `mcp 1.30.0` was released between the previous successful run and this run, and it intentionally changed the default `follow_redir…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "iluv7",
+    "commenter": "iluv7"
+  },
+  "at_mobiles": []
+}
