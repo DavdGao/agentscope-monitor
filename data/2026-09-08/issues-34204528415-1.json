@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-08T08:26:54.620488Z",
+  "title": "feat(realtime): implement DashScope realtime model API",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1691",
+  "number": 1691,
+  "body": "**Background**\n\nThis issue tracks the implementation of the DashScope (Alibaba Cloud) realtime model in AgentScope 2.0, as part of the overall realtime module migration (blocked by #1689).\n\n**Task Bre…",
+  "labels": [
+    "stale-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "qbc2016"
+  },
+  "at_mobiles": []
+}
