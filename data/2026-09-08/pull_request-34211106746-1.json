@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-08T09:38:35.285859Z",
+  "title": "refactor(realtime): align RealtimeAgent naming with Agent",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2550",
+  "number": 2550,
+  "body": "## Description\n\nFollow-up to #2547, aligning the realtime agent's surface with `Agent`:\n\n- `RealtimeAgent(sys_prompt=...)` → `system_prompt`\n- `RealtimeAgent.run(transport)` → `reply_stream(transport)…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "3126f654d58d2a5e22fe0e9432a55a348c5ea7b9",
+    "base_ref": "main",
+    "additions": 31,
+    "deletions": 37,
+    "changed_files": 7
+  },
+  "at_mobiles": []
+}
