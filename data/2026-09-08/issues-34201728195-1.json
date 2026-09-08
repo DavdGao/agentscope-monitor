@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "1printf",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-08T07:54:59.148033Z",
+  "title": "[First-time contributor] Looking for beginner-friendly issues to contribute",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2545",
+  "number": 2545,
+  "body": "Hi maintainers! 👋\n\nI'm a first-time contributor looking to get involved with this project. I have experience with Python, LangChain, RAG systems, and AI application development.\n\nI'd love to contribut…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "1printf"
+  },
+  "at_mobiles": []
+}
