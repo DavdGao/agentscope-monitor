@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "review_requested",
+  "action_cn": "请求审核",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-08T06:15:31.849753Z",
+  "title": "feat(model): add Volcengine Ark chat model support",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2532",
+  "number": 2532,
+  "body": "## AgentScope Version\n\n`2.0.8`\n\n## Description\n\nCloses #2448\n\nThis PR adds first-class support for Volcengine Ark (Doubao) through Ark's OpenAI-compatible Chat Completions API. It addresses #2448 so A…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [
+    "DavdGao"
+  ],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "iluv7",
+    "head_sha": "e40e6ba7f28c0a789a9227404bc59aa4c3a94d78",
+    "base_ref": "main",
+    "additions": 2723,
+    "deletions": 3,
+    "changed_files": 20
+  },
+  "at_mobiles": []
+}
