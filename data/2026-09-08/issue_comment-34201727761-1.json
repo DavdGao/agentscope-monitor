@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "1printf",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-08T07:54:59.783788Z",
+  "title": "[First-time contributor] Looking for beginner-friendly issues to contribute",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2545#issuecomment-5581372216",
+  "number": 2545,
+  "body": "Closing this issue as I've decided to focus on other contribution opportunities. Thank you for your time and for building this great project! ??",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "1printf",
+    "commenter": "1printf"
+  },
+  "at_mobiles": []
+}
