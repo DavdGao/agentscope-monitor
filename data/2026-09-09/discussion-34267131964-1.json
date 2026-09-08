@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "hugoaimlapi",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-08T19:07:50.569823Z",
+  "title": "50/50 RevShare Integration: AgentScope & AIML API",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2557",
+  "number": 2557,
+  "body": "Hi! I'm Hugo from aimlapi.com — an AI aggregator that gives access to 1000+ models in one API, trusted by 400k+ users.\n\naimlapi.com is OpenAI-compatible, so AgentScope can already reach us today — but…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "hugoaimlapi"
+  },
+  "at_mobiles": []
+}
