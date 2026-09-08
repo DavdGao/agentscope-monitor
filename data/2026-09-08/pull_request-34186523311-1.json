@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "yaodong-shen",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-08T04:19:08.118158Z",
+  "title": "fix(pipeline): honor verifier context reset",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2544",
+  "number": 2544,
+  "body": "Fixes #2543\n\n## AgentScope Version\n\n2.0.8\n\n## Description\n\n`GoalPipeline` documented and stored `verifier_reset_context`, but never read it. A verifier that rejected one execution report therefore car…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "yaodong-shen",
+    "head_sha": "e8e0f54375aef434010b160dd97535ca8af27c8b",
+    "base_ref": "main",
+    "additions": 76,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
