@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-09T04:20:34.123309Z",
+  "title": "feat(realtime): support context management for the realtime agent",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2566",
+  "number": 2566,
+  "body": "**Background**\nContext management for `RealtimeAgent` differs fundamentally from the standard `Agent` class:\n\n- Runtime context is maintained on the API side, not locally\n- On session recovery, contex…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
