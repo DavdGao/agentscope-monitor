@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-09T02:35:30.911952Z",
+  "title": "fix(realtime): request a response after a caller-committed turn",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2559",
+  "number": 2559,
+  "body": "## Description\n\nWhen a local VAD owns turn detection, `RealtimeAgent` committed the audio buffer on speech end but never asked for a response. OpenAI-shaped realtime APIs (DashScope, OpenAI, xAI) only…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "a10ba3f58f40dcbab560c09072599cf3aad86449",
+    "base_ref": "main",
+    "additions": 1,
+    "deletions": 0,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
