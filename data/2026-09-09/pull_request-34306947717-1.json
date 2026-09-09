@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-09T03:23:51.351908Z",
+  "title": "feat(realtime): support Gemini Live API model",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2556",
+  "number": 2556,
+  "body": "## Description\n\nAdds `GeminiRealtimeModel`, a Gemini Live API adapter for the realtime voice agent, next to the DashScope one. Raw `websockets` client (no `google-genai` live client), imported lazily …",
+  "labels": [
+    "state: awaiting review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "16262b6dcd0a03b7942cb0155f580f5d6d5ab48f",
+    "base_ref": "main",
+    "additions": 1131,
+    "deletions": 30,
+    "changed_files": 16
+  },
+  "at_mobiles": []
+}
