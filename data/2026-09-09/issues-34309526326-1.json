@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-09T04:04:21.645183Z",
+  "title": "feat(asr): add asr module to agentscope library",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2564",
+  "number": 2564,
+  "body": "**Background**\nAgentScope lacks a native ASR abstraction. A dedicated ASR module is required as the foundation for the cascaded realtime pipeline (ASR → LLM → TTS).\n\n**Changes**\n- Add a new `asr` modu…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
