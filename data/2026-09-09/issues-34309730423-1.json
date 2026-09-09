@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-09T04:07:34.340619Z",
+  "title": "feat(realtime): add cascaded realtime model (asr-llm-tts)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2565",
+  "number": 2565,
+  "body": "**Background**\nThe current `RealtimeModel` relies on native speech-to-speech APIs, which have limited provider coverage and controllability. A cascaded pipeline (ASR → LLM → TTS) is a natural alternat…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
