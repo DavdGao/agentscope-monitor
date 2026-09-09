@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Tsubaki-01",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-09T13:16:45.458182Z",
+  "title": "[Bug]:  schema flattening drops properties named definitions or $defs",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2574#issuecomment-5602477808",
+  "number": 2574,
+  "body": "#2575",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Tsubaki-01",
+    "commenter": "Tsubaki-01"
+  },
+  "at_mobiles": []
+}
