@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-09T13:46:30.954000Z",
+  "title": "feat(tui): add rich textual chat interface",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2507",
+  "number": 2507,
+  "body": "## AgentScope Version\n\n2.0.7.post1\n\n## Description\n\nCloses #2506.\n\nThis PR adds an optional, composable terminal chat interface built with Rich and Textual.\n\n### What changed\n\n- add public MessagesUI …",
+  "labels": [
+    "state: awaiting review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "42c5e367703f44b676579b2465db9711f0942dd7",
+    "base_ref": "main",
+    "additions": 3489,
+    "deletions": 0,
+    "changed_files": 9
+  },
+  "at_mobiles": []
+}
