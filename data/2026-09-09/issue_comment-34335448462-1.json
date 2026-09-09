@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "radianceded",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-09T09:34:29.774875Z",
+  "title": "feat(realtime): support context management for the realtime agent",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2566#issuecomment-5599672670",
+  "number": 2566,
+  "body": "Hi @maintainers — I'd like to take this one. I've read through `RealtimeAgent` (`agent/_realtime/_agent.py`), `Agent`'s context pipeline (`agent/_agent.py`, `agent/_config.py`) and the realtime event/…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "radianceded"
+  },
+  "at_mobiles": []
+}
