@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "tutudouzi12",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-09T05:20:47.700216Z",
+  "title": "[Bug]: ReplyBudgetControlMiddleware raises KeyError when an outer middleware swallows the ReplyEndEvent",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2418#issuecomment-5596238426",
+  "number": 2418,
+  "body": "Hi, I would like to work on this issue. I can reproduce the KeyError and will prepare a fix with regression tests. Could you please confirm the expected budget behavior when ReplyEndEvent is swallowed…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Terminator666666",
+    "commenter": "tutudouzi12"
+  },
+  "at_mobiles": []
+}
