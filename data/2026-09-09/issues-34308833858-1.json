@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-09T03:53:24.833741Z",
+  "title": "perf(realtime): improve the current realtime agent implementation",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2563",
+  "number": 2563,
+  "body": "## Background\n\nRealtime agent is an increasingly important topic in LLM-based agent scenarios. Compared with traditional text-based communication, voice interaction offers a more natural, effortless, …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
