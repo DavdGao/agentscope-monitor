@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "liugy789",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-09T03:20:44.022223Z",
+  "title": "[Bug]: structured output reply loses model usage",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2561#issuecomment-5595256626",
+  "number": 2561,
+  "body": "I've opened PR #2562 to fix this issue. The PR preserves the accumulated usage on final structured-output messages, verifies that the usage belongs to the current reply, and includes regression tests …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "liugy789",
+    "commenter": "liugy789"
+  },
+  "at_mobiles": []
+}
