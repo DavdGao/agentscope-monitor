@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "hugoaimlapi",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-09T13:58:50.343096Z",
+  "title": "feat(model): add aimlapi.com as an LLM provider",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2576",
+  "number": 2576,
+  "body": "Hi! I'm Hugo from aimlapi.com — an AI aggregator that gives access to 1000+ models in one API, trusted by 400k+ users.\n\nWe'd love to be available as a built-in provider option inside AgentScope — so w…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "hugoaimlapi",
+    "head_sha": "b0f40e3f0c41df2dbb3ab813060da71000b2b997",
+    "base_ref": "main",
+    "additions": 1266,
+    "deletions": 2,
+    "changed_files": 25
+  },
+  "at_mobiles": []
+}
