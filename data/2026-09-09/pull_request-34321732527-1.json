@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "hulincup",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-09T07:00:57.850783Z",
+  "title": "fix(agent): retry compression on recoverable structured-output errors",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2569",
+  "number": 2569,
+  "body": "## Problem fixed & how\n\nWhen context compression triggers, `_compress_context_impl` calls `generate_structured_output` with the summary schema. If the model returns an almost-valid tool call with a mi…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "hulincup",
+    "head_sha": "993c4ba610cd5207fc8bfcd85f11112f703ab274",
+    "base_ref": "main",
+    "additions": 196,
+    "deletions": 5,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
