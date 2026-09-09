@@ -1,0 +1,28 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-09T03:32:26.831798Z",
+  "title": "feat(realtime): implement Gemini realtime model API",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1692",
+  "number": 1692,
+  "body": "**Background**\n\nThis issue tracks the implementation of the Gemini realtime model in AgentScope 2.0, as part of the overall realtime module migration (blocked by #1689).\n\n**Task Breakdown**\n\n- Impleme…",
+  "labels": [
+    "stale-issue"
+  ],
+  "assignees": [
+    "qbc2016",
+    "DavdGao"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "qbc2016"
+  },
+  "at_mobiles": []
+}
