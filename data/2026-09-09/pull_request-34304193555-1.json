@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "review_requested",
+  "action_cn": "请求审核",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-09T02:41:25.327784Z",
+  "title": "feat(realtime): xAI Grok voice API model",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2553",
+  "number": 2553,
+  "body": "## Description\n\nAdds `XAIRealtimeModel`, a realtime voice adapter for xAI's Grok speech-to-speech WebSocket API, alongside the existing DashScope one. Wires it into `XAICredential.get_realtime_model_c…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "b6736adf40805064e6f0079b6b7e1b7824055d02",
+    "base_ref": "main",
+    "additions": 853,
+    "deletions": 0,
+    "changed_files": 7
+  },
+  "at_mobiles": []
+}
