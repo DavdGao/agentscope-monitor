@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-09T04:24:22.831342Z",
+  "title": "feat(app): integrate realtime agent into the agent service in `agentscope.app`",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2568",
+  "number": 2568,
+  "body": "**Background**\n`agentscope.app` currently has no support for realtime voice interaction. As the realtime agent implementation matures, a corresponding frontend and backend is needed to expose these ca…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
