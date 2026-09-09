@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Tsubaki-01",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-09T13:14:50.510066Z",
+  "title": "fix(utils): preserve property names during schema flattening",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2575",
+  "number": 2575,
+  "body": "## Summary\n\n_flatten_json_schema currently interprets every dictionary as a schema node. That removes normal properties named definitions or $defs, and a property named $ref prevents the property mapp…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Tsubaki-01",
+    "head_sha": "e8a60b39423e7e078f4f14c2f65cc7f4408af639",
+    "base_ref": "main",
+    "additions": 20,
+    "deletions": 2,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
