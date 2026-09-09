@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-09T12:32:05.610170Z",
+  "title": "feat(tool): add AskUser, an external tool for asking the user",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2573",
+  "number": 2573,
+  "body": "## What\n\nAn agent that needs a decision from the person it is working for has had no way to ask for one — it could only guess, or stop and hope the guess was mentioned. `AskUser` gives it a call to ma…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "45782c2bcb38fc77355089f323857294f31ced0b",
+    "base_ref": "main",
+    "additions": 239,
+    "deletions": 0,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
