@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "liugy789",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-09T08:46:28.474051Z",
+  "title": "[Bug]: Glob can overflow agent context with unbounded output",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2571",
+  "number": 2571,
+  "body": "### Describe the bug\n\nThe built-in `Glob` tool currently joins every matching file path into one tool result. For a broad pattern such as `**/*`, the result can grow with the entire workspace and add …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "liugy789"
+  },
+  "at_mobiles": []
+}
