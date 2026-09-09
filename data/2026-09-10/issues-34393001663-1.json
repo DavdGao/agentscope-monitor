@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "memcodeoff",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-09T19:06:00.093134Z",
+  "title": "Could agentscope support durable memory across sessions?",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2577",
+  "number": 2577,
+  "body": "Hi, I’m Vivek Gupta, Founder & CEO at [MemCode](https://memcode.in). AgentScope helps teams build understandable, trustworthy agents; MemCode could provide a transparent long-term memory component wit…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "memcodeoff"
+  },
+  "at_mobiles": []
+}
