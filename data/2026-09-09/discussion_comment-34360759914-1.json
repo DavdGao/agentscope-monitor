@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "hugoaimlapi",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-09T14:00:39.762789Z",
+  "title": "50/50 RevShare Integration: AgentScope & AIML API",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2557#discussioncomment-18369649",
+  "number": 2557,
+  "body": "The implementation PR is now open: https://github.com/agentscope-ai/agentscope/pull/2576\n\nOne commit on top of the current `main`, 25 files, +1,266 / -2 — credential, chat model, 8 model cards, both f…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "hugoaimlapi",
+    "discussion_author": "hugoaimlapi"
+  },
+  "at_mobiles": []
+}
