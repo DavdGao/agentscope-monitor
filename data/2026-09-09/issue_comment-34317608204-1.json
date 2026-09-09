@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-09T06:06:30.103780Z",
+  "title": "feat(realtime): support context management for the realtime agent",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2566#issuecomment-5596675689",
+  "number": 2566,
+  "body": "I’ll first investigate the Realtime API’s token-usage capabilities and the concurrency model for context compression, then propose an implementation aligned with the existing Agent context-management …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "iluv7"
+  },
+  "at_mobiles": []
+}
