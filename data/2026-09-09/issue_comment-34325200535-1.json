@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "modelpath-dev",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-09T07:42:23.005744Z",
+  "title": "feat(realtime): add cascaded realtime model (asr-llm-tts)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2565#issuecomment-5598097695",
+  "number": 2565,
+  "body": "I will take this task. Please assign it to me.\n\nThe main task is to implement `CascadedRealtimeModel` while ensuring it matches the `RealtimeModel` interface. I will first review the current `Realtime…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "modelpath-dev"
+  },
+  "at_mobiles": []
+}
