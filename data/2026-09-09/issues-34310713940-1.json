@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-09T04:22:37.249261Z",
+  "title": "feat(realtime): support meta tool in realtime agent",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2567",
+  "number": 2567,
+  "body": "**Background**\n\nRealtime APIs require tool schemas to be submitted at session initialization and cannot be modified mid-session. This conflicts with AgentScope's meta tool mechanism, which dynamically…",
+  "labels": [
+    "state: under discussion"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
