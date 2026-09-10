@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-10T06:40:52.279806Z",
+  "title": "docs: mark legacy pages and deploy from v1",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2579",
+  "number": 2579,
+  "body": "Add an English or Chinese AgentScope 1.x notice at the start of every legacy documentation page, with links to the current stable documentation and the migration guide. The notice is rendered in HTML …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "335cf0c3365db2f354164c277c0454bc5fb3a554",
+    "base_ref": "v1",
+    "additions": 16,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
