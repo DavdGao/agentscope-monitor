@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-10T07:10:52.736898Z",
+  "title": "feat(channel): implement wiki access for WeComChannel",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2581#issuecomment-5614607155",
+  "number": 2581,
+  "body": "Closing this. WeDrive does not expose what the contract needs: there is no API listing the spaces a caller can see, and `space_info` / `file_list` take only ids and act with the app's permissions rath…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
