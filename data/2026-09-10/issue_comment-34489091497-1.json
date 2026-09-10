@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "liugy789",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-10T14:26:51.367814Z",
+  "title": "fix(agent): include paths in tool validation errors",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2583#issuecomment-5620284341",
+  "number": 2583,
+  "body": "Closing this pull request in favor of the new clean single-commit pull request #2584.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "liugy789",
+    "commenter": "liugy789"
+  },
+  "at_mobiles": []
+}
