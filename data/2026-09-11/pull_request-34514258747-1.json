@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "wuwenbo0626",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-10T18:25:53.894613Z",
+  "title": "fix(tool): validate AskUser question constraints",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2586",
+  "number": 2586,
+  "body": "Fixes #2585.\n\n## AgentScope Version\n\n2.0.8 (`main` at `0fe41c07`)\n\n## Description\n\nReject ambiguous `AskUser` inputs with duplicate question texts or duplicate option labels. Also reject previews on m…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "wuwenbo0626",
+    "head_sha": "407b7d87eeec24d115d3e081d65831084ab38e4d",
+    "base_ref": "main",
+    "additions": 116,
+    "deletions": 2,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
