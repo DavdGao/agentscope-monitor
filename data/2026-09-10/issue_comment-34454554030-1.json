@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Tsubaki-01",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-10T08:19:46.782449Z",
+  "title": "fix(utils): preserve property names during schema flattening",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2575#issuecomment-5615445902",
+  "number": 2575,
+  "body": "> Please run `pre-commit run --all-files` to format the code.\n\nFixed the formatting in `src/agentscope/_utils/_common.py` and rebased the branch onto the latest `main`. The formatter check now passes.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Tsubaki-01",
+    "commenter": "Tsubaki-01"
+  },
+  "at_mobiles": []
+}
