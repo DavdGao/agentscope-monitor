@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-10T06:48:55.329474Z",
+  "title": "feat(channel): add DingTalk knowledge base tools",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2464#issuecomment-5614372316",
+  "number": 2464,
+  "body": "Thanks for running that, both answers are exactly what was needed.\n\nOn `rowSize` you are right and I was wrong — reverted in the latest push, and the test fixture uses `rowSize` too now. For the recor…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "iluv7",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
