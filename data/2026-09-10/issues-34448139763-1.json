@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-10T07:04:23.557638Z",
+  "title": "feat(channel): implement wiki access for FeishuChannel",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2580",
+  "number": 2580,
+  "body": "**Background**\n\n#2464 added DingTalk knowledge base access and, with it, a shared contract on `ChannelBase`:\n\n- `list_wiki_spaces` / `list_wiki_nodes` / `read_wiki_document`, returning the platform-ne…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
