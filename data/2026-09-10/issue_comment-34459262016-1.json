@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "redSun64",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-10T09:11:47.834091Z",
+  "title": "feat(channel): add WhatsApp Business API support",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2270#issuecomment-5616108566",
+  "number": 2270,
+  "body": "> Thanks for the work here. The blocker isn't really the WhatsApp code — it's that `ChannelBase` is currently designed around a long-lived inbound connection (`start_listening`), and WhatsApp is webho…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "redSun64",
+    "commenter": "redSun64"
+  },
+  "at_mobiles": []
+}
