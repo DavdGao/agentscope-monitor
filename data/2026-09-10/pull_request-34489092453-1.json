@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "liugy789",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-10T14:26:50.746608Z",
+  "title": "fix(agent): include paths in tool validation errors",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2583",
+  "number": 2583,
+  "body": "## AgentScope Version\n\n2.0.8\n\n## Description\n\nTool argument validation currently reports only the JSON Schema error message and omits the instance path of the invalid value.\n\nFor example, when a tool …",
+  "labels": [
+    "state: awaiting review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "liugy789",
+    "head_sha": "66c52ae7c612dc127cc9ddc2d89bcf3aaa3f3556",
+    "base_ref": "main",
+    "additions": 102,
+    "deletions": 3,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
