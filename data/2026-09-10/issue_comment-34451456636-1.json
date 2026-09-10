@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "CorgiBoyG",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-10T07:44:24.324957Z",
+  "title": "fix(agent): preserve tool data-block identity during event replay",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2551#issuecomment-5614988947",
+  "number": 2551,
+  "body": "I ran two additional context-vs-replay consistency cases against the current head (`cb94cace`). Both reproduce deterministically with model-valid inputs:\n\n1. `TextBlock(id=\"same\") -> DataBlock(id=\"sam…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "dvd233",
+    "commenter": "CorgiBoyG"
+  },
+  "at_mobiles": []
+}
