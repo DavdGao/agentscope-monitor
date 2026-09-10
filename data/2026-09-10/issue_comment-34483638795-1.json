@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "liugy789",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-10T13:36:07.966652Z",
+  "title": "[Bug]: tool validation errors omit nested instance paths",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2582#issuecomment-5619561293",
+  "number": 2582,
+  "body": "I would like to work on this issue. I plan to address it in a pull request from my fork. Once the pull request is opened, I will update this comment with the PR link.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "liugy789",
+    "commenter": "liugy789"
+  },
+  "at_mobiles": []
+}
