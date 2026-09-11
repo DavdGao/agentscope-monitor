@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-11T02:43:00.421220Z",
+  "title": "feat(sop): standard operating procedures — fixed milestones, each verified",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2393",
+  "number": 2393,
+  "body": "## What\n\nA SOP is **a fixed skeleton with free flesh**: which milestones there are, in what order, and what each must prove is written by a person and can be read without running anything; how any of …",
+  "labels": [
+    "state: awaiting review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "8f2c22cee3ce96626a254d31c036f6672dbdec9d",
+    "base_ref": "main",
+    "additions": 2311,
+    "deletions": 14,
+    "changed_files": 11
+  },
+  "at_mobiles": []
+}
