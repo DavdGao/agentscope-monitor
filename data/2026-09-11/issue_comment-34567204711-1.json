@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "wuwenbo0626",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-11T05:45:49.897865Z",
+  "title": "fix(realtime): drop the previous session's terminal events on reconnect",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2588#issuecomment-5630067745",
+  "number": 2588,
+  "body": "Ops, we opened duplicate PRs, and your solution is much better and more robust than mine ;) I've closed my PR",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "L4XB",
+    "commenter": "wuwenbo0626"
+  },
+  "at_mobiles": []
+}
