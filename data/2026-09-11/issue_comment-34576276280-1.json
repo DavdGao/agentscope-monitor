@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "L4XB",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-11T07:50:42.065772Z",
+  "title": "fix(realtime): drop the previous session's terminal events on reconnect",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2588#issuecomment-5631221252",
+  "number": 2588,
+  "body": "Thanks for closing yours and for taking a look at this one — much appreciated. Happy to adjust anything the maintainers would like changed here.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "L4XB",
+    "commenter": "L4XB"
+  },
+  "at_mobiles": []
+}
