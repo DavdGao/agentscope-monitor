@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-11T09:53:18.389673Z",
+  "title": "feat(tui): add launch_realtime_ui for voice sessions",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2594",
+  "number": 2594,
+  "body": "## What\n\n`agentscope.tui` only served an `Agent` or a `PipelineProtocol`: one `reply_stream` call per submission, a queue that serializes them, interrupts implemented by cancelling that call's task. N…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "a4c813629770963977e552af5bb8bc360c9aa37d",
+    "base_ref": "main",
+    "additions": 435,
+    "deletions": 170,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
