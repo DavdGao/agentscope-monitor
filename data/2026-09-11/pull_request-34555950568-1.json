@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "wuwenbo0626",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-11T02:47:18.190518Z",
+  "title": "fix(realtime): isolate event queues across connections",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2589",
+  "number": 2589,
+  "body": "Fixes #2587.\n\n## AgentScope Version\n\n2.0.8 (main at `0fe41c07`)\n\n## Description\n\nCreate a fresh event queue whenever the OpenAI, Gemini, DashScope, or xAI realtime adapter starts a connection. This pr…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "wuwenbo0626",
+    "head_sha": "828591ef01a92df0ecc3dcb6cdb89839ebc677f4",
+    "base_ref": "main",
+    "additions": 104,
+    "deletions": 0,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
