@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "decebal",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-11T08:55:09.131151Z",
+  "title": "[Bug]: Mid-stream failures can leave orphan tool_calls and brick sessions",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1888#issuecomment-5631972684",
+  "number": 1888,
+  "body": "75ACOL — AgentScope #1888 captures a sharp crash boundary: an assistant tool call gets persisted, its matching result does not, and the provider rejects every resumed turn. I build AllSource, an event…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "75ACOL",
+    "commenter": "decebal"
+  },
+  "at_mobiles": []
+}
