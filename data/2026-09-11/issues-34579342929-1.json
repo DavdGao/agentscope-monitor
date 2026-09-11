@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "wuwenbo0626",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-11T08:28:36.888045Z",
+  "title": "[Bug]: RealtimeAgent does not reconnect for text input after disconnect",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2590",
+  "number": 2590,
+  "body": "## Background / Description\n\n`RealtimeAgent` reconnects a disconnected provider when the next audio frame arrives, but text input does not use the same reconnect path.\n\nAfter a provider timeout, `Real…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "wuwenbo0626"
+  },
+  "at_mobiles": []
+}
