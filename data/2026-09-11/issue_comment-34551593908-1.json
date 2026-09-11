@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "steven-ji",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-11T01:40:33.055667Z",
+  "title": "feat(channel): add Discord discovery and send tools",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2453#issuecomment-5628121164",
+  "number": 2453,
+  "body": "Rebased onto `main` at `0fe41c07` and adapted the Discord tools in `b89b941d` to the `list_tools(workspace, channel_user_id)` interface introduced by #2464. Previously the service's two-argument call …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "steven-ji",
+    "commenter": "steven-ji"
+  },
+  "at_mobiles": []
+}
