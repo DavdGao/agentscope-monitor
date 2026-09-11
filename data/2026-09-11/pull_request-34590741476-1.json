@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-11T10:45:26.125140Z",
+  "title": "fix(app): assign unique AG-UI message IDs to tool results",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2555",
+  "number": 2555,
+  "body": "## AgentScope Version\n\n2.0.8\n\n## Description\n\n### Problem in One Sentence\n\nTwo different tool results are currently sent with the same message ID.\n\nOne assistant reply can call multiple tools:\n\n```tex…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "liugy789",
+    "head_sha": "00e74537f1291905436ef02a9c5bde15894675c9",
+    "base_ref": "main",
+    "additions": 56,
+    "deletions": 5,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
