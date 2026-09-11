@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-11T10:28:51.597628Z",
+  "title": "docs: point zh news entries and README_zh doc links to the zh locale",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2512#issuecomment-5633094719",
+  "number": 2512,
+  "body": "Fixed in #2546.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "simpleqt",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
