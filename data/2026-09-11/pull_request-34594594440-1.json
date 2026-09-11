@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "L4XB",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-11T11:33:26.997253Z",
+  "title": "fix(realtime): drop the previous session's terminal events on reconnect",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2588",
+  "number": 2588,
+  "body": "## AgentScope Version\n\n`2.0.8` (current `main`, 0fe41c0)\n\n## Description\n\nFixes #2587.\n\n**Background.** The OpenAI, Gemini, DashScope and xAI realtime adapters allocate their event queue once in `__in…",
+  "labels": [
+    "state: awaiting changes"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "L4XB",
+    "head_sha": "5df65feb209538cf615c4214021aaf6ec8cac16b",
+    "base_ref": "main",
+    "additions": 207,
+    "deletions": 0,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
