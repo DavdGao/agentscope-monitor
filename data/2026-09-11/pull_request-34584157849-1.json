@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-11T09:28:34.723694Z",
+  "title": "docs: announce AgentScope v2 skill support",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2578",
+  "number": 2578,
+  "body": "Add English and Chinese news announcing that agentscope-skill now supports AgentScope v2, linking directly to the skill directory in agentscope-ai/skills.\n\nOnly the two NEWS source files are changed; …",
+  "labels": [
+    "state: awaiting review",
+    "no linked issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "4e596d0ffb4dd026e919e3e5751846d9180884a0",
+    "base_ref": "main",
+    "additions": 4,
+    "deletions": 2,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
