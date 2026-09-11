@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-11T09:25:22.636874Z",
+  "title": "feat(sop): support sdk-level SOP creation, execution, and verification",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2401",
+  "number": 2401,
+  "body": "**Background**\n\n- The SDK-level implementation focuses on the core logic of **SOP creation, execution, and verification**, without any dependency on external storage or frontend interfaces. It also in…",
+  "labels": [],
+  "assignees": [
+    "DavdGao"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
