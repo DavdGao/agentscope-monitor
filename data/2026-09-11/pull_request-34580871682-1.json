@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Tsubaki-01",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-11T08:47:04.190036Z",
+  "title": "fix(utils): preserve instance values during schema flattening",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2592",
+  "number": 2592,
+  "body": "## AgentScope Version\n\n2.0.8\n\n## Description\n\nFollow-up to #2575, addressing [the review feedback](https://github.com/agentscope-ai/agentscope/pull/2575#pullrequestreview-5174928051). Refs #2574.\n\n`_f…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Tsubaki-01",
+    "head_sha": "2a821ff1e61d44fa710766f9c3e30dfd322b83ae",
+    "base_ref": "main",
+    "additions": 105,
+    "deletions": 52,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
