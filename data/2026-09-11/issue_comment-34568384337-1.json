@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "wuwenbo0626",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-11T06:04:05.358607Z",
+  "title": "fix(realtime): isolate event queues across connections",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2589#issuecomment-5630209623",
+  "number": 2589,
+  "body": "Closing this PR in favor of #2588, which addresses the same issue and preserves the existing event queue for iterators created before reconnect. Thanks for catching this overlap.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "wuwenbo0626",
+    "commenter": "wuwenbo0626"
+  },
+  "at_mobiles": []
+}
