@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-11T10:37:15.532415Z",
+  "title": "fix(realtime): report tool call arguments in the event stream",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2593",
+  "number": 2593,
+  "body": "## Problem\n\n`RealtimeAgent` emits `ToolCallStartEvent` and `ToolCallEndEvent` for each tool call, but never a `ToolCallDeltaEvent`. Since `Msg.append_event` creates the `ToolCallBlock` with `input=\"\"`…",
+  "labels": [
+    "state: awaiting review",
+    "no linked issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "b3010a7151012e7c40712285160b971066dd7f22",
+    "base_ref": "main",
+    "additions": 71,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
