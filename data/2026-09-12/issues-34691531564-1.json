@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "chenhz01",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-12T11:37:37.981331Z",
+  "title": "给 2.0 安全叙事补个审计闸门（开源）",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2598",
+  "number": 2598,
+  "body": "AgentScope 2.0 的细粒度权限和 bypass_immune 栅栏在开源框架里少见。我们的审计层与之同路：对 multi-agent 报告输出做覆盖率算术、分簇加总验算、引用核验，MCP 即接：github.com/chenhz01/adversarial-research-audit。想看回一句；不相关请忽略。",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "chenhz01"
+  },
+  "at_mobiles": []
+}
