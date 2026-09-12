@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "Premsenareddy",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-12T21:34:05.586597Z",
+  "title": "fix(credential): validate custom credential discriminators",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1963",
+  "number": 1963,
+  "body": "## Summary\n- validate custom credential classes when they are registered with CredentialFactory\n- reject mismatched Literal/default discriminator pairs and duplicate provider types with clear errors\n-…",
+  "labels": [
+    "stale-pr"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Premsenareddy",
+    "head_sha": "9c10b82364ddac3743ed2cfb88933597e6a0e042",
+    "base_ref": "main",
+    "additions": 186,
+    "deletions": 7,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
