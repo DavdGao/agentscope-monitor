@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Shxiao101",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-12T15:57:45.248736Z",
+  "title": "docs: fix broken apple container install link",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2601",
+  "number": 2601,
+  "body": "## What\n\nPoint the Apple Container install link in `examples/workspace/apple-container-workspace.md` to Apple's official project page, `https://opensource.apple.com/projects/container`.\n\n## Why\n\nThe p…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Shxiao101",
+    "head_sha": "cd4be90a910a8b284ee52acc70d29291d19c4bb1",
+    "base_ref": "main",
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
