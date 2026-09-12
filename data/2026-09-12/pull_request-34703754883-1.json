@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Shxiao101",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-12T15:57:15.281550Z",
+  "title": "docs: fix dead realtime docs links in README and news",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2600",
+  "number": 2600,
+  "body": "## What\n\nReplace the dead `building-blocks/realtime/full-duplex` docs URL with the current `building-blocks/realtime/speech-to-speech` page in `README.md`, `README_zh.md`, `docs/NEWS.md` and `docs/NEW…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Shxiao101",
+    "head_sha": "5237adc181cebb150090ed6e03cf499de65827cf",
+    "base_ref": "main",
+    "additions": 4,
+    "deletions": 4,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
