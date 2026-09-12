@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "code-code567",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-12T08:32:16.143582Z",
+  "title": "fix(app): pass model card's context_size to chat model",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2597#issuecomment-5644759621",
+  "number": 2597,
+  "body": "Hi maintainers,\n\nThis is my first contribution to AgentScope, so the workflows on this PR are showing `action_required` and waiting for a maintainer to approve them.\n\nWould someone mind approving the …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "code-code567",
+    "commenter": "code-code567"
+  },
+  "at_mobiles": []
+}
