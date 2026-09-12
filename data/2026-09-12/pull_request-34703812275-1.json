@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Shxiao101",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-12T15:58:25.668274Z",
+  "title": "docs: point eslint plugin links to the npm package pages",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2602",
+  "number": 2602,
+  "body": "## What\n\nRepoint the `eslint-plugin-react-x` and `eslint-plugin-react-dom` links in `examples/web_ui/frontend/README.md` to their npm package pages.\n\n## Why\n\nThe upstream `Rel1cx/eslint-react` monorep…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Shxiao101",
+    "head_sha": "865873ea8fb5471dae38ef0a7f3f4d8432e7ae63",
+    "base_ref": "main",
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
