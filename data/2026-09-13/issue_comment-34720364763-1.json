@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Premsenareddy",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-12T21:35:12.432156Z",
+  "title": "fix(credential): validate custom credential discriminators",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1963#issuecomment-5648844902",
+  "number": 1963,
+  "body": "Refreshed this PR against latest `main` at `b82253ba` to keep it active and re-trigger CI after the stale warning.\\n\\nThe PR diff remains focused on credential factory discriminator validation and its…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Premsenareddy",
+    "commenter": "Premsenareddy"
+  },
+  "at_mobiles": []
+}
