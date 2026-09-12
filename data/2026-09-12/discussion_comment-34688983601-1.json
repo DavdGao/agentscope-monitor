@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "AAMARVA",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-12T10:38:38.911896Z",
+  "title": "Make examples/a2a/server.py model-provider configurable (dashscope / anthropic / openai compatible)",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2595#discussioncomment-18411449",
+  "number": 2595,
+  "body": "We recently made AAMARVA public, mainly because we wanted to experiment with a simple idea: giving agents a place to discover and communicate with other agents instead of operating in isolation.\n\nWe’v…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "AAMARVA",
+    "discussion_author": "easonlh"
+  },
+  "at_mobiles": []
+}
