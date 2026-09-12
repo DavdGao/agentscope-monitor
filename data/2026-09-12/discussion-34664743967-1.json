@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "easonlh",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-12T01:25:01.601826Z",
+  "title": "Make examples/a2a/server.py model-provider configurable (dashscope / anthropic / openai compatible)",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2595",
+  "number": 2595,
+  "body": "## Motivation\n\n`examples/a2a/server.py` hardcodes `DashScopeChatModel` + `DASHSCOPE_API_KEY`\n(like the other example entry points, it assumes direct DashScope access).\n\nThis makes the A2A demo unrunna…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "easonlh"
+  },
+  "at_mobiles": []
+}
