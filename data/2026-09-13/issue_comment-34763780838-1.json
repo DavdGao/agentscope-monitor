@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "harbinresearcher",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-13T14:49:37.797573Z",
+  "title": "[Bug]: `tee` is classified read-only, so its write is auto-ALLOWed while the equivalent redirection is not",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2605#issuecomment-5653991431",
+  "number": 2605,
+  "body": "### Correction: this is stronger than my original report — it also defeats EXPLORE's \"no writes\" contract\n\nMy first report framed this as a rule-consistency gap and said it was not comparable to #2470…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "harbinresearcher",
+    "commenter": "harbinresearcher"
+  },
+  "at_mobiles": []
+}
