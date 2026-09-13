@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "fszcd",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-13T19:21:05.773061Z",
+  "title": "[Bug]: test_defs_preserved_and_titles_stripped fails on Python 3.13+ (docstring dedent change)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2610",
+  "number": 2610,
+  "body": "- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this is not a duplicate.…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "fszcd"
+  },
+  "at_mobiles": []
+}
