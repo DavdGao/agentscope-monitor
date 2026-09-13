@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "nuthalapativarun",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-13T21:02:49.942663Z",
+  "title": "feat(model): add ollama model cards for qwen3-7b, llama3.2, and phi4-mini",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1753#issuecomment-5656119692",
+  "number": 1753,
+  "body": "@qbc2016 thanks for the catch — addressed in 1d6cd156.\n\nYou're right that `qwen3:7b` isn't a real Ollama tag (Qwen3 is published as 0.6b/1.7b/4b/8b/14b/30b-a3b/32b/235b-a22b, no 7b). Renamed the card …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "nuthalapativarun",
+    "commenter": "nuthalapativarun"
+  },
+  "at_mobiles": []
+}
