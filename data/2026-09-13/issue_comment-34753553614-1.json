@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ZxlDragonDoctor",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-13T11:06:12.423193Z",
+  "title": "docs(realtime): document Gemini Live models in example README",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2599#issuecomment-5652878087",
+  "number": 2599,
+  "body": "Pushed a fix for the corrupted bash code fence in the Gemini Live section (it was stored as a broken single-backtick + backspace sequence instead of a proper  `\bash  fence).\n\nThis PR is still marked *…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "ZxlDragonDoctor",
+    "commenter": "ZxlDragonDoctor"
+  },
+  "at_mobiles": []
+}
