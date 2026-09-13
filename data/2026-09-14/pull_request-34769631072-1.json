@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "ZxlDragonDoctor",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-13T16:47:30.878753Z",
+  "title": "docs(realtime): document Gemini Live models in example README",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2599",
+  "number": 2599,
+  "body": "### Problem\n\n`examples/realtime/README.md` only documents the DashScope path, but the package already ships a Gemini Live adapter and model cards under `src/agentscope/realtime/_gemini/_models/`.\n\n###…",
+  "labels": [
+    "state: awaiting review",
+    "no linked issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "ZxlDragonDoctor",
+    "head_sha": "ed253aec9fbaf81c09d1d674a8a41fc3c9f2d9ab",
+    "base_ref": "main",
+    "additions": 114,
+    "deletions": 0,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
