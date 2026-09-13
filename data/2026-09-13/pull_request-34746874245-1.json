@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-13T08:06:55.832779Z",
+  "title": "feat(channel): implement Feishu wiki access",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2603",
+  "number": 2603,
+  "body": "## AgentScope Version\n\n2.0.8\n\n## Description\n\nCloses [#2580](https://github.com/agentscope-ai/agentscope/issues/2580).\n\nThis PR implements user-scoped Wiki access for `FeishuChannel` using the shared …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "iluv7",
+    "head_sha": "2b951e9d52a2b17f38c6808eccd0282b671dce06",
+    "base_ref": "main",
+    "additions": 2024,
+    "deletions": 13,
+    "changed_files": 19
+  },
+  "at_mobiles": []
+}
