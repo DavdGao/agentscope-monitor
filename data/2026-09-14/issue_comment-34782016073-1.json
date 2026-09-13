@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "nuthalapativarun",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-13T20:50:54.450333Z",
+  "title": "feat: add OrcaRouter chat model integration",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1637#issuecomment-5656043579",
+  "number": 1637,
+  "body": "Following up on this — is a first-class OrcaRouter provider still wanted post-2.0?\n\nThe original implementation (#1638) predates the 2.0 migration and was closed for that reason. Per CONTRIBUTING.md §…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "xilema2",
+    "commenter": "nuthalapativarun"
+  },
+  "at_mobiles": []
+}
