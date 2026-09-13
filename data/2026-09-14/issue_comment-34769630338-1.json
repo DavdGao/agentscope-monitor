@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ZxlDragonDoctor",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-13T16:47:31.212062Z",
+  "title": "docs(realtime): document Gemini Live models in example README",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2599#issuecomment-5654635484",
+  "number": 2599,
+  "body": "Closing this PR. The branch is stuck dirty against current main (fork base predates examples/realtime/README.md, so the merge is an add/add conflict), and rebasing through upstream workflow-file chang…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "ZxlDragonDoctor",
+    "commenter": "ZxlDragonDoctor"
+  },
+  "at_mobiles": []
+}
