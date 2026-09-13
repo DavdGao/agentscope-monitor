@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "harbinresearcher",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-13T14:45:25.631216Z",
+  "title": "[Bug]: \\\tee\\ is classified read-only, so its write is auto-ALLOWed while the equivalent redirection is not",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2605",
+  "number": 2605,
+  "body": "- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this is not a duplicate.…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "harbinresearcher"
+  },
+  "at_mobiles": []
+}
