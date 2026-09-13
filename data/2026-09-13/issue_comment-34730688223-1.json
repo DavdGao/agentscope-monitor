@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "dvd233",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-13T01:30:23.297681Z",
+  "title": "fix(agent): preserve tool data-block identity during event replay",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2551#issuecomment-5649958961",
+  "number": 2551,
+  "body": "Thanks for the additional cases. I pushed d9710f38 with the follow-up fixes:\n\n- Msg.append_event now merges same-ID Base64 deltas across the output and keeps an existing media type when an incoming de…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "dvd233",
+    "commenter": "dvd233"
+  },
+  "at_mobiles": []
+}
