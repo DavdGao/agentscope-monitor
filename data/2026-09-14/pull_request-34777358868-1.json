@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "fszcd",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-13T19:20:03.871696Z",
+  "title": "test(workspace): skip POSIX-shell-dependent tests on Windows hosts without coreutils",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2609",
+  "number": 2609,
+  "body": "## AgentScope Version\n\n2.0.8 (main @ b82253b)\n\n## Description\n\nFixes agentscope-ai/agentscope#2608\n\n**Background.** Three tests fail on Windows dev machines where Git''s `usr/bin` (POSIX coreutils) is…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "fszcd",
+    "head_sha": "a8eb4813e0466539c29c45fae90432bce312bf81",
+    "base_ref": "main",
+    "additions": 25,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
