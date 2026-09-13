@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "fszcd",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-13T19:13:34.624571Z",
+  "title": "fix(storage): make packaged alembic.ini ASCII-safe for non-UTF-8 locales",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2607",
+  "number": 2607,
+  "body": "## AgentScope Version\n\n2.0.8 (main @ b82253b)\n\n## Description\n\nFixes agentscope-ai/agentscope#2606\n\n**Background.** `AsyncSQLAlchemyStorage` auto-migration crashes with `UnicodeDecodeError` on Windows…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "fszcd",
+    "head_sha": "13f8933ab99bdb83a0fb32327890d754c815155d",
+    "base_ref": "main",
+    "additions": 2,
+    "deletions": 2,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
