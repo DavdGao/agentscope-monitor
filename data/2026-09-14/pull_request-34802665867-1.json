@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-14T03:27:35.189163Z",
+  "title": "fix(sop): write out what a step actually kept",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2616",
+  "number": 2616,
+  "body": "## What\n\n`SOPRunState.steps` is declared `list[SOPStepRunState]`, so pydantic serialises every entry as that base class. A step that subclasses the run state — which `SOPStepBase.state_type` exists to…",
+  "labels": [
+    "state: awaiting review",
+    "no linked issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "81c2e0af43b6867cdaf984e2acdad817095883df",
+    "base_ref": "main",
+    "additions": 149,
+    "deletions": 7,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
