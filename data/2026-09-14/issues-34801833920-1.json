@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-14T03:13:18.388917Z",
+  "title": "[Bug]: AsyncSQLAlchemyStorage auto-migrate crashes with UnicodeDecodeError on non-UTF-8-locale Windows (packaged alembic.ini is not ASCII)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2606",
+  "number": 2606,
+  "body": "- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this is not a duplicate.…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "fszcd"
+  },
+  "at_mobiles": []
+}
