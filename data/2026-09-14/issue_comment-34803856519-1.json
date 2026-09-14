@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "wangtaotaotao95",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-14T03:48:48.460958Z",
+  "title": "[Bug]: Model card's context_size is ignored by the app service chat model factory",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2596#issuecomment-5658707479",
+  "number": 2596,
+  "body": "I found the existing implementation in #2597 after opening my PR, so I closed #2619 to avoid duplicate review work. Sorry for the noise.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "code-code567",
+    "commenter": "wangtaotaotao95"
+  },
+  "at_mobiles": []
+}
