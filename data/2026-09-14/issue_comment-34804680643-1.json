@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "RICARDO51167",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-14T04:03:50.461723Z",
+  "title": "feat(channel): add Telegram channel",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2271#issuecomment-5658818379",
+  "number": 2271,
+  "body": "The latest review feedback is addressed in `ae94c3f4` and `aca3222b`, with `upstream/main` merged in `8810b5f7`.\n\nHighlights:\n- one shared listener lease with retryable `Conflict` recovery\n- Telegram-…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "RICARDO51167",
+    "commenter": "RICARDO51167"
+  },
+  "at_mobiles": []
+}
