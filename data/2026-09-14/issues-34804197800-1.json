@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "RICARDO51167",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-14T03:55:05.636846Z",
+  "title": "feat(channel): add platform-agnostic inbound access control",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2621",
+  "number": 2621,
+  "body": "## Background\n\nPR #2271 highlighted that publicly reachable channel bots can route messages from unknown users or groups into agent sessions. Telegram-specific allowlists were removed from that PR bec…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "RICARDO51167"
+  },
+  "at_mobiles": []
+}
