@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "liugy789",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-14T08:22:06.737663Z",
+  "title": "fix(agent): preserve usage in structured output replies",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2562#issuecomment-5661103205",
+  "number": 2562,
+  "body": "Hi @DavdGao,\n\nThank you for the detailed review and for pointing out the additional exit\npaths that were affected by the same usage loss.\n\nI have addressed all of the requested changes:\n\n- Added the a…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "liugy789",
+    "commenter": "liugy789"
+  },
+  "at_mobiles": []
+}
