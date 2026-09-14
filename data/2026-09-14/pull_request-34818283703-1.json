@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-14T07:32:00.656341Z",
+  "title": "fix(tool): bound glob search tool output",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2572",
+  "number": 2572,
+  "body": "## Background and motivation\n\nThe built-in `Glob` tool currently returns every matching path in one tool result. When a workspace contains many files and the pattern is broad, such as `**/*`, this can…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "liugy789",
+    "head_sha": "4baf4f61a6eb51856eb63ce6bfd0aadddb72c776",
+    "base_ref": "main",
+    "additions": 168,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
