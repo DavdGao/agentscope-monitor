@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "wangtaotaotao95",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-14T04:04:35.169152Z",
+  "title": "[Bug]: RealtimeAgent does not reconnect for text input after disconnect",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2590#issuecomment-5658829035",
+  "number": 2590,
+  "body": "With the latest main update, I found this behavior has already been implemented upstream together with focused regression coverage. I will not duplicate that work; please disregard my earlier claim. S…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "wuwenbo0626",
+    "commenter": "wangtaotaotao95"
+  },
+  "at_mobiles": []
+}
