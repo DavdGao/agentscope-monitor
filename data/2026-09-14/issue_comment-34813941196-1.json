@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "alanhuangyoo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-14T06:33:19.099266Z",
+  "title": "fix(formatter): keep media from tool results after all tool messages of a turn",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2613#issuecomment-5659984509",
+  "number": 2613,
+  "body": "Thanks for the review. Pushed 87b5b7e:\n\n- Ollama: same fix, and `tool -> tool -> user` now (new test in `formatter_ollama_test.py`).\n- Comments cut to one line; tests assert the full structure.\n- Gemi…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "alanhuangyoo",
+    "commenter": "alanhuangyoo"
+  },
+  "at_mobiles": []
+}
