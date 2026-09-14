@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Sanjay-jat",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-14T06:19:43.844032Z",
+  "title": "fix(agent): terminate reply with sanitized error on fatal tool exception",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2626",
+  "number": 2626,
+  "body": "### Background\n\n`DeveloperOrientedException` is meant to be fatal — `Toolkit.call_tool`\nre-raises it so framework-contract errors reach the developer instead\nof being silently converted into agent-fac…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Sanjay-jat",
+    "head_sha": "350e4ccb8a2da2a89902ef1ac002e57c0bdb7113",
+    "base_ref": "main",
+    "additions": 170,
+    "deletions": 7,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
