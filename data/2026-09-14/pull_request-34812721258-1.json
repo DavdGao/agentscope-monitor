@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-14T06:16:06.133501Z",
+  "title": "feat(app): run a stored procedure through ordinary chat sessions",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2625",
+  "number": 2625,
+  "body": "Stacked on #2617 — its three commits appear here too and should land first. This PR is the last two commits: the tools, the middleware, and `SOPService`.\n\n## The shape\n\nA step does not drive an agent.…",
+  "labels": [
+    "state: awaiting review",
+    "no linked issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "58258a84fa3482f8fa63c46892f6803c8abe8ac8",
+    "base_ref": "main",
+    "additions": 2800,
+    "deletions": 3,
+    "changed_files": 21
+  },
+  "at_mobiles": []
+}
