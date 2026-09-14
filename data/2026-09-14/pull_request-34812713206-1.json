@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-14T06:15:58.752448Z",
+  "title": "feat(app): store procedures and their runs",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2617",
+  "number": 2617,
+  "body": "Storage for the SOP service. No service or router yet — this is the layer they will sit on.\n\n## What is stored\n\nA `SOP` holds live agents (model clients, toolkits, MCP connections), so it is code and …",
+  "labels": [
+    "state: awaiting review",
+    "no linked issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "58258a84fa3482f8fa63c46892f6803c8abe8ac8",
+    "base_ref": "main",
+    "additions": 2800,
+    "deletions": 3,
+    "changed_files": 21
+  },
+  "at_mobiles": []
+}
