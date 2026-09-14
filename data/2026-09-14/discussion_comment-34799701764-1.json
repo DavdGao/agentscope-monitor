@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-14T02:35:18.356074Z",
+  "title": "harness engineering",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2615#discussioncomment-18427923",
+  "number": 2615,
+  "body": "@mei-727 Can you provide more details about \"harness engineering\"? AgentScope now provides workspace as basic  abstraction for harness, and supports workspace-based memory in `agentscope.middleware.Ag…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "mei-727"
+  },
+  "at_mobiles": []
+}
