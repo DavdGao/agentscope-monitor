@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "wangtaotaotao95",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-14T03:50:58.394251Z",
+  "title": "test(read): use portable missing file path",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2620",
+  "number": 2620,
+  "body": "Fixes #2604\n\n## Summary\n- generate a platform-native absolute path for the nonexistent-file Read test\n- make the path unique so it cannot collide with an existing temp file\n- avoid the Windows Python …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "wangtaotaotao95",
+    "head_sha": "5eae9524e9d0ea463c8ee0a1fb76b8b61d16256e",
+    "base_ref": "main",
+    "additions": 6,
+    "deletions": 1,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
