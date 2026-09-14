@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "xizhuomengcontin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-14T01:29:17.416012Z",
+  "title": "Replaying an AgentScope run with no provider reachable — and one thing that will never reproduce",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2614",
+  "number": 2614,
+  "body": "I record model traffic at the HTTP boundary — from outside the process — and serve the recording back so a run happens again with no provider called. Ran it against AgentScope 2.0.8 tonight. It captur…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Show and tell",
+    "author": "xizhuomengcontin"
+  },
+  "at_mobiles": []
+}
