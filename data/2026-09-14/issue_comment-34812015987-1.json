@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "liugy789",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-14T06:05:51.748111Z",
+  "title": "fix(tool): bound glob search tool output",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2572#issuecomment-5659723670",
+  "number": 2572,
+  "body": "Thanks for the detailed review. I have updated the implementation to follow the existing `Grep` conventions:\n\n- Renamed `limit` to `head_limit`.\n- Replaced the public class-level limits with a module-…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "liugy789",
+    "commenter": "liugy789"
+  },
+  "at_mobiles": []
+}
