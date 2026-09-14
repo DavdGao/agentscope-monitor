@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-14T05:00:21.674568Z",
+  "title": "fix(tool): validate AskUser question constraints",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2586#issuecomment-5659245687",
+  "number": 2586,
+  "body": "Thanks for the fix. The duplicate question/label checks on `AskUserParams` make sense, but I don't think the framework should validate AskUser input locally with a new `validate_input` hook on `ToolBa…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "wuwenbo0626",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
