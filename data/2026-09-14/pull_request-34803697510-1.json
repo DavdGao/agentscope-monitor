@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "wangtaotaotao95",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-14T03:45:51.229863Z",
+  "title": "fix(app): use model card context size",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2619",
+  "number": 2619,
+  "body": "Fixes #2596\n\n## Summary\n- resolve the matching built-in chat model card once in the app-service model factory\n- pass its `context_size` to the chat model so context compression uses the card-declared …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "wangtaotaotao95",
+    "head_sha": "b9a2dcd84d39887e0a5f81dac34bab35d492604e",
+    "base_ref": "main",
+    "additions": 113,
+    "deletions": 15,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
