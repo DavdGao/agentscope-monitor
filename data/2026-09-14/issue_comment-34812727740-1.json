@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-14T06:16:08.990756Z",
+  "title": "feat(app): run a stored procedure through ordinary chat sessions",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2625#issuecomment-5659814361",
+  "number": 2625,
+  "body": "Folded into #2617 — the whole SOP change lands as one PR so its size is visible in one place.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "DavdGao",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
