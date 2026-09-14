@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-14T03:49:14.398567Z",
+  "title": "fix(realtime): reconnect before sending text input",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2591#issuecomment-5658710157",
+  "number": 2591,
+  "body": "Pushed a commit on top of yours.\n\n- Reconnecting inside `send()` was a second way back to a live session, and it skipped what `_forward_audio` does after one: the audio kept while the provider was dow…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "wuwenbo0626",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
