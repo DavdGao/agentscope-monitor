@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-14T05:04:08.171205Z",
+  "title": "fix(agent): retry compression on recoverable structured-output errors",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2569#issuecomment-5659270416",
+  "number": 2569,
+  "body": "The problem this PR fixes is already handled on the latest main. Verified on `4c0547b0c` with a model whose structured output always fails schema validation:\n\n- `generate_structured_output` already re…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "hulincup",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
