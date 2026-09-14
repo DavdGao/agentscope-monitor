@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Sanjay-jat",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-14T04:05:53.264410Z",
+  "title": "[Bug]: DeveloperOrientedException can emit an empty success and leave tool calls unfinished",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2618#issuecomment-5658846938",
+  "number": 2618,
+  "body": ".take",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "tengjiaozhai",
+    "commenter": "Sanjay-jat"
+  },
+  "at_mobiles": []
+}
