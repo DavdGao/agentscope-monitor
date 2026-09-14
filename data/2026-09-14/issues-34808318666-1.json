@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-14T05:05:07.349458Z",
+  "title": "[Bug]: test_read_nonexistent_file fails on Windows with Python 3.13+ (ntpath.isabs change)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2604",
+  "number": 2604,
+  "body": "- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this is not a duplicate.…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "harbinresearcher"
+  },
+  "at_mobiles": []
+}
