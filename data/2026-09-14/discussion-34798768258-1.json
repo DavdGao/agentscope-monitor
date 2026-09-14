@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "mei-727",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-14T02:18:33.239063Z",
+  "title": "harness engineering",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2615",
+  "number": 2615,
+  "body": "Is there any plan to add Harness engineering capabilities to the Python version?",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "mei-727"
+  },
+  "at_mobiles": []
+}
