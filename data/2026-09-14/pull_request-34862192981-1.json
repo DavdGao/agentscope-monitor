@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ljluestc",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-14T15:26:54.887099Z",
+  "title": "feat(mcp): support OAuth dynamic auth for HTTP MCP transports",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2630",
+  "number": 2630,
+  "body": "feat(mcp): support OAuth dynamic auth for HTTP MCP transports\n\n## AgentScope Version\n\n2.0.8 (`main`, at b82253b)\n\n## Description\n\n### Background\n\nCloses #1314.\n\nHTTP MCP clients could only send static…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "ljluestc",
+    "head_sha": "db4e6c3ce4ee543a448772f26cd58ca04f215b4f",
+    "base_ref": "main",
+    "additions": 1289,
+    "deletions": 3,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
