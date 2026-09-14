@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "tengjiaozhai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-14T04:47:57.292962Z",
+  "title": "fix(agent): finalize tool calls after fatal execution errors",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2624",
+  "number": 2624,
+  "body": "## AgentScope Version\n\n2.0.8\n\n## Description\n\n### Problem in One Sentence\n\nA fatal tool error can be exposed as an empty successful result and leave the failed reply's tool call unfinished, so Agent S…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "tengjiaozhai",
+    "head_sha": "f4286dab2e9781482265556760086f9a5e28cfa4",
+    "base_ref": "main",
+    "additions": 182,
+    "deletions": 12,
+    "changed_files": 8
+  },
+  "at_mobiles": []
+}
