@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "fszcd",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-14T06:41:25.569451Z",
+  "title": "test(workspace): skip POSIX-shell-dependent tests on Windows hosts without coreutils",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2609#issuecomment-5660060983",
+  "number": 2609,
+  "body": "Thanks for the careful review, @DavdGao -- all three comments addressed in the latest push: the live Daytona test is untouched again, and both guard styles are simplified to inline `shutil.which(...) …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "fszcd",
+    "commenter": "fszcd"
+  },
+  "at_mobiles": []
+}
