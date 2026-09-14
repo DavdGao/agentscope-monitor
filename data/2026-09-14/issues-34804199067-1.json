@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "RICARDO51167",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-14T03:55:06.159240Z",
+  "title": "feat(channel): use Telegram rich and ephemeral messages when supported",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2622",
+  "number": 2622,
+  "body": "## Background\n\nThe Telegram channel in #2271 currently targets `python-telegram-bot>=22.8`, whose supported Bot API does not expose the newer rich-message and ephemeral-message capabilities discussed …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "RICARDO51167"
+  },
+  "at_mobiles": []
+}
