@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-14T02:28:21.843920Z",
+  "title": "test(mcp): derive the expected tool description from __doc__",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2611",
+  "number": 2611,
+  "body": "## AgentScope Version\n\n2.0.8 (main @ b82253b)\n\n## Description\n\nFixes agentscope-ai/agentscope#2610\n\n**Background.** `SseSchemaDefsPreservationTest::test_defs_preserved_and_titles_stripped` fails on Py…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "fszcd",
+    "head_sha": "cbc4b7003c19c0c586b2ef57186dd6e338043c60",
+    "base_ref": "main",
+    "additions": 5,
+    "deletions": 4,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
