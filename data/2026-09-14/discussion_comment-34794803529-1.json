@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "jimy-r",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-14T01:06:27.934474Z",
+  "title": "feat: Support subagents in Agent class to manage context and scale complex tasks",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2491#discussioncomment-18427303",
+  "number": 2491,
+  "body": "Agreed that the contract has to be structural, and one harness already exposes it. Claude Code has a per-subagent return cap (taskOutputMaxChars). I run it at 6,000 characters, roughly the 1,500-token…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "jimy-r",
+    "discussion_author": "GSword"
+  },
+  "at_mobiles": []
+}
