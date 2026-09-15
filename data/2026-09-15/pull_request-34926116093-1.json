@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-15T03:44:22.746072Z",
+  "title": "fix(formatter): keep media from tool results after all tool messages of a turn",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2613",
+  "number": 2613,
+  "body": "## AgentScope Version\n\n2.0.8 (main at b82253b)\n\n## Description\n\nFixes #2612.\n\nWhen one assistant reply has parallel tool calls and a result that isn't the last one carries media, the OpenAI, DashScope…",
+  "labels": [
+    "state: awaiting review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "alanhuangyoo",
+    "head_sha": "369c48cb84844f1396e54c5673040dba570bb7d5",
+    "base_ref": "main",
+    "additions": 656,
+    "deletions": 5,
+    "changed_files": 10
+  },
+  "at_mobiles": []
+}
