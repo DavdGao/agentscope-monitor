@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ljluestc",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-15T04:26:16.659158Z",
+  "title": "Feat/message visibility 1286",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2635",
+  "number": 2635,
+  "body": "## AgentScope Version\n\n`2.0.8`（当前 `main` 分支）\n\n## Description\n\n### 背景\n\nIssue #1286 提出了一个多 Agent 复杂场景下的问题：Agent 之间流转的消息和最终要展示给用户看的消息混在同一条事件流里，前端无从区分。一个 planner 给 worker 下达的任务书、一个 critic 的返工意见、一个代码生成 Age…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "ljluestc",
+    "head_sha": "1342220977b0eeecc6edb0486e861d5bf2a7ade3",
+    "base_ref": "main",
+    "additions": 1867,
+    "deletions": 11,
+    "changed_files": 36
+  },
+  "at_mobiles": []
+}
