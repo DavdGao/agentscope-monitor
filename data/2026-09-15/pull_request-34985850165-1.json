@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "wuwenbo0626",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-15T15:03:44.622937Z",
+  "title": "fix(tui): hide realtime messages that fail to send",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2646",
+  "number": 2646,
+  "body": "## AgentScope Version\n2.0.8 (`main` at `d0f4be4a`)\n[The version of AgentScope you are working on, e.g. `import agentscope; print(agentscope.__version__)`]\n\n## Description\n\nThe realtime TUI rendered ty…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "wuwenbo0626",
+    "head_sha": "683fbc0ae4e01d5436105465b460c504ce196452",
+    "base_ref": "main",
+    "additions": 24,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
