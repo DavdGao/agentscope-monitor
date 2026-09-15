@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Cryocell77",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-15T19:19:15.914813Z",
+  "title": "[Bug]: interruption_raise_cancelled_error is ignored after model or tool cancellation",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2649",
+  "number": 2649,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Cryocell77"
+  },
+  "at_mobiles": []
+}
