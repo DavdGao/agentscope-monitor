@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-15T04:11:34.055875Z",
+  "title": "Storage layer: adding a persisted feature costs the same boilerplate in three files",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2634",
+  "number": 2634,
+  "body": "## What the storage layer costs per feature\n\n`StorageBase` now declares **61 abstract methods** across 1445 lines, and every one of them is implemented twice — `AsyncSQLAlchemyStorage` (2210 lines) an…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
