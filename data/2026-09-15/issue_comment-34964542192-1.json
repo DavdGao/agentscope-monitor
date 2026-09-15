@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ZxlDragonDoctor",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-15T11:40:30.734632Z",
+  "title": "[Bug]: AskUser accepts duplicate questions and option labels",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2585#issuecomment-5679564781",
+  "number": 2585,
+  "body": "Local fix is ready (validators on AskUserParams / _Question + regression tests, 11 passed offline). I cannot open the PR right now: pushing a branch based on current main requires a PAT with the workf…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "wuwenbo0626",
+    "commenter": "ZxlDragonDoctor"
+  },
+  "at_mobiles": []
+}
