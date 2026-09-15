@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-15T06:17:30.969236Z",
+  "title": "docs(realtime): add realtime related documentation in docs.agentscope.io",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1694",
+  "number": 1694,
+  "body": "**Background**\n\nThis issue tracks the documentation work for the realtime module in AgentScope 2.0 on [docs.agentscope.io](https://docs.agentscope.io/), covering:\n\n- The overall design of `RealtimeMod…",
+  "labels": [
+    "stale-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "qbc2016"
+  },
+  "at_mobiles": []
+}
