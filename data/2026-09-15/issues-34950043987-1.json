@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "wangtaotaotao95",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-15T09:00:05.975924Z",
+  "title": "[Bug]: GeminiChatFormatter emits empty text parts rejected by Gemini",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2640",
+  "number": 2640,
+  "body": "### Prerequisites\n\n- [x] I searched existing issues and pull requests for this behavior.\n- [x] This is a reproducible formatter bug rather than a usage question.\n\n### Background / Description\n\n`Gemini…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "wangtaotaotao95"
+  },
+  "at_mobiles": []
+}
