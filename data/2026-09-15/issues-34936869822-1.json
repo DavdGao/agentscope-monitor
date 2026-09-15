@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "tomsen02",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-15T06:28:29.815629Z",
+  "title": "[Bug]: LocalWorkspace Glob/Grep ignore workdir for default and relative searches",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2636",
+  "number": 2636,
+  "body": "## Prerequisites\n\n- [x] I searched existing issues, pull requests, discussions, and the references to #2257 for a duplicate fix.\n- [x] This report includes a reproducible bug.\n\n## Background / Descrip…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "tomsen02"
+  },
+  "at_mobiles": []
+}
