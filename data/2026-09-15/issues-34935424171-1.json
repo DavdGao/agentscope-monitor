@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-15T06:06:13.617922Z",
+  "title": "feat(agent): enhance agent robustness and expand agent capabilities",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1804",
+  "number": 1804,
+  "body": "**Background**\n\nThis is a tracking issue covering ongoing improvements to the agent layer, spanning new features, behavioral refinements, and stability fixes.",
+  "labels": [
+    "stale-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
