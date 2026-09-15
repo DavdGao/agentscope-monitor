@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "wuwenbo0626",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-15T15:11:51.829885Z",
+  "title": "fix(tool): validate AskUser question constraints",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2586#issuecomment-5682736129",
+  "number": 2586,
+  "body": "Updated as suggested. The PR now keeps only the two model validators on `_Question` and `AskUserParams`, together with their direct `model_validate` tests.\n\nI removed the multi-select preview restrict…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "wuwenbo0626",
+    "commenter": "wuwenbo0626"
+  },
+  "at_mobiles": []
+}
