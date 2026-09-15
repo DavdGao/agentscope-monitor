@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "bhooshanvarma",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-15T19:19:42.067343Z",
+  "title": "[Bug]: Resume triggers (HITL/external tool results) can be duplicated or permanently lost in multi-instance deployments",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2227#issuecomment-5686707907",
+  "number": 2227,
+  "body": "The consumer-group and idempotency changes address delivery, but the pre-lock state load is a separate stale-decision boundary. Even with one durable resume application, a worker can still act on a se…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "qbc2016",
+    "commenter": "bhooshanvarma"
+  },
+  "at_mobiles": []
+}
