@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-15T04:01:55.643233Z",
+  "title": "fix(agent): preserve tool data-block identity during event replay",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2551#issuecomment-5674536799",
+  "number": 2551,
+  "body": "Thanks for the numbers. The decode/re-encode per delta is real, but it's not introduced here: `ToolResponse.append_chunk` (`_merge_base64_chunks`) and the existing `DATA_BLOCK_DELTA` branch do exactly…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "dvd233",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
