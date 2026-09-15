@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-15T03:57:09.466388Z",
+  "title": "[Bug]: three tests fail on Windows dev machines without Git usr/bin on PATH (POSIX shell tool dependency)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2608",
+  "number": 2608,
+  "body": "- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this is not a duplicate.…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "fszcd"
+  },
+  "at_mobiles": []
+}
