@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-15T06:17:38.184391Z",
+  "title": "feat(realtime): migrate the previous realtime models and agent back to the new version",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1688",
+  "number": 1688,
+  "body": "**Background**\n\nAgentScope has supported multiple realtime (full-duplex, low-latency) models and a `RealtimeAgent` class in previous versions. As we move toward 2.0, we plan to re-integrate and redesi…",
+  "labels": [
+    "stale-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "qbc2016"
+  },
+  "at_mobiles": []
+}
