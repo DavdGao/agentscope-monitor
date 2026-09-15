@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Santoshkumarpuppala",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-15T12:16:45.145358Z",
+  "title": "fix(tool): resolve the real command name in the bash removal check",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2501#issuecomment-5680001273",
+  "number": 2501,
+  "body": "@yaoruiquan Step 5 misses exec-style wrappers beyond `sudo`/`env`/`command`, pre-existing on `main` (`d0f4be4a`) and not in #2500. `_COMMAND_WRAPPERS` (`_bash.py:31`) is only those three; any other co…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "yaoruiquan",
+    "commenter": "Santoshkumarpuppala"
+  },
+  "at_mobiles": []
+}
