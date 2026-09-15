@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-15T06:06:04.740169Z",
+  "title": "feat(agent): handle max iteration exceeded gracefully in ReAct agent",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1805",
+  "number": 1805,
+  "body": "**Background**\n\nWhen a ReAct agent exceeds the maximum number of iterations, it currently terminates the loop abruptly. A more graceful handling strategy should be introduced to improve the user exper…",
+  "labels": [
+    "stale-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
