@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "wuwenbo0626",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-15T15:38:48.117904Z",
+  "title": "[Bug]: SOP run state can be restored against reordered steps",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2647",
+  "number": 2647,
+  "body": "## English\n\n`SOPEngine` restores each stored `SOPStepRunState` by list position and only rejects a stored run when the number of steps differs. If an SOP is edited from steps `A, B` to `B, A`, the cou…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "wuwenbo0626"
+  },
+  "at_mobiles": []
+}
