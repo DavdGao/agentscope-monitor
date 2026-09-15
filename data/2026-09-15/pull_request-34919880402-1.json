@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lwylab",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-15T02:06:21.260539Z",
+  "title": "fix(web_ui): reconnect SSE stream and resync reply phase",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2632",
+  "number": 2632,
+  "body": "## Summary\n- The `examples/web_ui` chat hook treated a dropped `/sessions/{id}/stream` as a terminal error (`setError` only), so a missed `ReplyEndEvent` could leave `phase` stuck in `streaming`.\n- Re…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "lwylab",
+    "head_sha": "ff85bd00b7ded072885c950f4c6783f4c058e318",
+    "base_ref": "main",
+    "additions": 107,
+    "deletions": 12,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
