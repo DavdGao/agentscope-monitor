@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "L4XB",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-15T10:56:41.189099Z",
+  "title": "fix(examples): rename the default MCP client to match the server it runs",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2644",
+  "number": 2644,
+  "body": "## AgentScope Version\n\n`2.0.8` (branched from `main` @ `d0f4be4a`)\n\n## Description\n\nThe `agent_service` example seeds every workspace with an MCP client named\n`\"browser-use\"` that actually launches `n…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "L4XB",
+    "head_sha": "a3d912c0cdb03a39df5059d48b8148640cfbaa41",
+    "base_ref": "main",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
