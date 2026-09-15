@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "lironghai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-15T02:44:27.244971Z",
+  "title": "Borrowing or introducing the Volcengine/OpenViking project to optimize context management and memory",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2633",
+  "number": 2633,
+  "body": "The volcengine/OpenViking project has been very active recently. Do you have any essence to learn from, or directly introduce the third-party optimization context",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "lironghai"
+  },
+  "at_mobiles": []
+}
