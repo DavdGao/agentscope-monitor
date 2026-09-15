@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "wangtaotaotao95",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-15T08:23:23.722787Z",
+  "title": "feat(channel): add platform-agnostic inbound access control",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2621#issuecomment-5677080664",
+  "number": 2621,
+  "body": "Hi maintainers, I would like to work on this issue. I traced the shared ingress point to `ChannelGateway`, before routing, media buffering, session creation, and attachment handling in the gateway.\n\nM…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "RICARDO51167",
+    "commenter": "wangtaotaotao95"
+  },
+  "at_mobiles": []
+}
