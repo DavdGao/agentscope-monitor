@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "lwylab",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-15T13:12:53.939424Z",
+  "title": "fix(web_ui): reconnect SSE stream and resync reply phase",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2632#issuecomment-5680750890",
+  "number": 2632,
+  "body": "Ready for review — CI notify/labels passed. Happy to adjust if anything looks off. cc @DavdGao",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "lwylab",
+    "commenter": "lwylab"
+  },
+  "at_mobiles": []
+}
