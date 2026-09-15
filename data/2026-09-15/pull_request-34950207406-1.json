@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "wangtaotaotao95",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-15T09:01:42.688037Z",
+  "title": "fix(formatter): drop empty Gemini text parts",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2641",
+  "number": 2641,
+  "body": "## Summary\n\n- skip empty `TextBlock` values in `GeminiChatFormatter`\n- omit a message when no valid Gemini parts remain\n- cover empty-only and mixed empty/non-empty messages\n\n## Validation\n\n- `pytest …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "wangtaotaotao95",
+    "head_sha": "b0d396ebd5e281078941bf754038c385fa346aef",
+    "base_ref": "main",
+    "additions": 38,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
