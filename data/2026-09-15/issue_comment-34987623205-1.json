@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qq1069730908",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-15T15:19:16.769028Z",
+  "title": "[Bug]: Multi-agent formatters consume the first-history marker on an empty group",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2642#issuecomment-5682869653",
+  "number": 2642,
+  "body": "I would like to work on this issue.\n\nI reproduced the behavior on the current main branch. I plan to update all affected multi-agent formatters so that `is_first_agent_message` is only set to `False` …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "wangtaotaotao95",
+    "commenter": "qq1069730908"
+  },
+  "at_mobiles": []
+}
