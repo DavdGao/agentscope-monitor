@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "six-teen",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-15T08:15:18.568953Z",
+  "title": "How to solve the OpenTelemetry conflict between Agentscope and AliyunJavaAgent",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2638",
+  "number": 2638,
+  "body": "When I was upgrading agentscope to 2.0.0, I encountered a problem with trace reporting to my own \"agent-studio\" platform. Both the project and runs could see it, but only the trace page had no informa…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "General",
+    "author": "six-teen"
+  },
+  "at_mobiles": []
+}
