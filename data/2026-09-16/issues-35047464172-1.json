@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "helloJamest",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-16T02:18:26.020202Z",
+  "title": "[Bug]: CancelDispatcher stops listening after a Pub/Sub disconnect",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2651",
+  "number": 2651,
+  "body": "## Prerequisites\n\n- [x] I searched existing issues and PRs; this is not a duplicate.\n- [x] This is a bug, not a usage question.\n\n## Background / Description\n\n`CancelDispatcher` owns three long-lived s…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "helloJamest"
+  },
+  "at_mobiles": []
+}
