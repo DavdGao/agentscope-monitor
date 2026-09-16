@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "L4XB",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-16T18:51:33.172726Z",
+  "title": "fix(rag): read the text inside grouped shapes in PPTParser",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2660",
+  "number": 2660,
+  "body": "Fixes #2659.\n\n## AgentScope Version\n\n`2.0.8` (branched from `main` @ `0b157a31`)\n\n## Description\n\n`PPTParser`'s slide loop dispatches on three shape kinds — picture, table, text\nframe. A **group** is …",
+  "labels": [
+    "state: awaiting changes"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "L4XB",
+    "head_sha": "f76a15401f4b5de4a62dfc24375aebd30d72044a",
+    "base_ref": "main",
+    "additions": 165,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
