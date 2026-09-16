@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "wangtaotaotao95",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-16T04:04:02.000413Z",
+  "title": "fix(formatter): drop empty hint text",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2656",
+  "number": 2656,
+  "body": "## Summary\n\n- ignore empty string hints in the Anthropic and Gemini chat formatters\n- filter empty `TextBlock` entries from list-form hints\n- keep adjacent assistant/model content in the same message …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "wangtaotaotao95",
+    "head_sha": "b8acf8655907509ca0df79672507e74763819e41",
+    "base_ref": "main",
+    "additions": 126,
+    "deletions": 36,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
