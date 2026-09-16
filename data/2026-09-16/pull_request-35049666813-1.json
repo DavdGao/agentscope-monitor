@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "helloJamest",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-16T02:52:53.577679Z",
+  "title": "fix(app): reconnect cancel subscriptions after Pub/Sub errors",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2652",
+  "number": 2652,
+  "body": "Fixes #2651\n\n## AgentScope Version\n\n2.0.8 (`main` @ 0b157a311c1cc8fbe1c792003fe567bef54512db)\n\n## Description\n\n`CancelDispatcher` used one-shot Pub/Sub subscriptions for session cancellation, backgrou…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "helloJamest",
+    "head_sha": "6585b402df0705190720e2dfd5d18668763497b3",
+    "base_ref": "main",
+    "additions": 324,
+    "deletions": 59,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
