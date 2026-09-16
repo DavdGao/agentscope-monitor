@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "wangtaotaotao95",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-16T02:32:34.098637Z",
+  "title": "fix(formatter): preserve first rendered history marker",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2643",
+  "number": 2643,
+  "body": "## Summary\n\n- keep `is_first_agent_message` true when an agent-message group formats to no provider messages\n- apply the behavior consistently across all multi-agent formatters\n- add Anthropic and Gem…",
+  "labels": [
+    "state: awaiting changes",
+    "no linked issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "wangtaotaotao95",
+    "head_sha": "72333629048f8bb5b8a4f6b1a662b716672afe9f",
+    "base_ref": "main",
+    "additions": 164,
+    "deletions": 55,
+    "changed_files": 12
+  },
+  "at_mobiles": []
+}
