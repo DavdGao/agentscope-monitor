@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "L4XB",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-16T03:54:43.828735Z",
+  "title": "fix(message_bus): expire the in-memory try_lock claim after ttl_secs",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2654",
+  "number": 2654,
+  "body": "Fixes #2653.\n\n## AgentScope Version\n\n`2.0.8` (branched from `main` @ `0b157a31`)\n\n## Description\n\n`MessageBus.try_lock` documents `ttl_secs` as a **lease**, in `_base.py:373-392`:\n\n> Used to make an a…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "L4XB",
+    "head_sha": "9322d41fb79a9189c59235026dafaedf1d8f4667",
+    "base_ref": "main",
+    "additions": 64,
+    "deletions": 5,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
