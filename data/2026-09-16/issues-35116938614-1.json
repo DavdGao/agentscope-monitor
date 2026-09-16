@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "yang0228",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-16T15:40:48.773681Z",
+  "title": "[Bug]: Cancelling RealtimeAgent.reply_stream leaves a reader that consumes future events",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2665",
+  "number": 2665,
+  "body": "### Prerequisites\n\n- [x] I searched existing issues, pull requests, and discussions and did not find this bug reported.\n- [x] This is a bug, not a usage question.\n\n### Background / Description\n\nCancel…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "yang0228"
+  },
+  "at_mobiles": []
+}
