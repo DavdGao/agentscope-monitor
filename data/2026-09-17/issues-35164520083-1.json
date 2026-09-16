@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "liyunhan",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-16T23:57:41.030680Z",
+  "title": "[Bug]:官方文档formatter一章，vllm适配的OpenAIFormatter是不是忘删了",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1599",
+  "number": 1599,
+  "body": "RT",
+  "labels": [],
+  "assignees": [
+    "qbc2016"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "liyunhan"
+  },
+  "at_mobiles": []
+}
