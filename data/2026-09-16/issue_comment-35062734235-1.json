@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-16T06:13:21.631444Z",
+  "title": "Storage layer: adding a persisted feature costs the same boilerplate in three files",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2634#issuecomment-5692907300",
+  "number": 2634,
+  "body": "Thanks for writing this up — the measurement matches what I see in the code. I would like to work on this, in two phases:\n\n**Phase 1 (this PR): kill the boilerplate without changing behavior**\n\n- SQL:…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "iluv7"
+  },
+  "at_mobiles": []
+}
