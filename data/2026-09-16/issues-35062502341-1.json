@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "L4XB",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-16T06:10:15.940139Z",
+  "title": "[Bug]: PPTParser drops the text inside grouped shapes",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2659",
+  "number": 2659,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing issues and discussions, and this is not a duplicate.\n- [x] This is a bug, not a usage question.\n\n### Background / Description\n\n`PPTParser` walks a…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "L4XB"
+  },
+  "at_mobiles": []
+}
