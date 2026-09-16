@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "yang0228",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-16T15:40:24.531792Z",
+  "title": "[Bug]: ExcelParser drops image-only and single-row worksheets",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2664",
+  "number": 2664,
+  "body": "### Prerequisites\n\n- [x] I searched existing issues, pull requests, and discussions and did not find this bug reported.\n- [x] This is a bug, not a usage question.\n\n### Background / Description\n\n`Excel…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "yang0228"
+  },
+  "at_mobiles": []
+}
