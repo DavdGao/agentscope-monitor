@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "AmirF194",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-16T09:34:11.691792Z",
+  "title": "fix(tool): resolve the real command name in the bash removal check",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2501#issuecomment-5695285017",
+  "number": 2501,
+  "body": "Ran timeout/nice/nohup through the extracted function too, same result: None on all three, since _COMMAND_WRAPPERS only lists sudo/env/command and the loop returns None the first time command_name mis…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "yaoruiquan",
+    "commenter": "AmirF194"
+  },
+  "at_mobiles": []
+}
