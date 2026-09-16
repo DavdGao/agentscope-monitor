@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "aron-intframe",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-16T03:41:04.046215Z",
+  "title": "[Bug]: CancelDispatcher stops listening after a Pub/Sub disconnect",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2651#issuecomment-5691687077",
+  "number": 2651,
+  "body": "Reproduced on `main` @ `0b157a311c1cc8fbe1c792003fe567bef54512db`.\n\n**Cause:** each loop consumes `MessageBus.subscribe()` exactly once. `_cancel_dispatcher.py:123-138` is `async for ... / except Exce…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "helloJamest",
+    "commenter": "aron-intframe"
+  },
+  "at_mobiles": []
+}
