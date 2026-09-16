@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "yang0228",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-16T16:14:13.474980Z",
+  "title": "fix(rag): preserve image-only and header-only Excel sheets",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2666",
+  "number": 2666,
+  "body": "## AgentScope Version\n\n2.0.8, based on `main` at `3ae8a1f4eca2dec6a519753e0c1f0e76ef83731f`.\n\n## Description\n\nFixes #2664.\n\n`ExcelParser._parse_sheet()` returns immediately when pandas reports `df.emp…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "yang0228",
+    "head_sha": "27c90d3cb8c680800461db3235859a454dec67fc",
+    "base_ref": "main",
+    "additions": 127,
+    "deletions": 18,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
