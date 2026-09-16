@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-16T06:16:25.879593Z",
+  "title": "[Bug]: Empty HintBlock text bypasses Anthropic and Gemini formatter filtering",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2655",
+  "number": 2655,
+  "body": "## Prerequisites\n\n- [x] I searched existing issues and pull requests for empty formatter text and HintBlock handling.\n- [x] This reproduces on current `main` after #2641.\n\n## Background / Description\n…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "wangtaotaotao95"
+  },
+  "at_mobiles": []
+}
