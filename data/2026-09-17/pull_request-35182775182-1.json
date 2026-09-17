@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "jinliyl",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-17T04:40:16.499053Z",
+  "title": "fix(agent): anchor context estimates to model usage",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2670",
+  "number": 2670,
+  "body": "## AgentScope Version\n\n2.0.8 (`main` at `20228d5`)\n\n## Description\n\nThe compression trigger and context-length hint currently use the byte-based `count_tokens()` estimate for the entire request. That …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "jinliyl",
+    "head_sha": "4b811e67156ff833197b8283acb26722478fe1b4",
+    "base_ref": "main",
+    "additions": 226,
+    "deletions": 2,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
