@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-17T02:16:29.051435Z",
+  "title": "feat(asr): add asr module to agentscope library",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2564#issuecomment-5707428525",
+  "number": 2564,
+  "body": "@wangtaotaotao95 To avoid unnecessary rework, here's a suggested approach:\n\n- Submit the base class PR first: Once the ASR base class is built, submit it as a standalone PR first. This allows us to al…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
