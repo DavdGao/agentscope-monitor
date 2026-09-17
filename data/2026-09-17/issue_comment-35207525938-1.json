@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "wangtaotaotao95",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-17T09:53:10.468420Z",
+  "title": "fix(agent): check summary_template against summary_schema",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2669#issuecomment-5712393419",
+  "number": 2669,
+  "body": "Good catch — you're right, and I reproduced it before changing anything. That was a false positive in the check I added, not a limitation I had considered.\n\n`Formatter().parse()` returns the whole acc…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "wangtaotaotao95",
+    "commenter": "wangtaotaotao95"
+  },
+  "at_mobiles": []
+}
