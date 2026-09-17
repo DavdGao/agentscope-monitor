@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ZxlDragonDoctor",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-17T14:59:48.799348Z",
+  "title": "[Bug]: OpenAIChatFormatter: multimodal tool results promoted mid-batch break parallel tool_calls (400 on DeepSeek & other strict OpenAI-compatible providers)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2675#issuecomment-5716525200",
+  "number": 2675,
+  "body": "Verified on current `main` (`d425f60`, includes `43deddc` / #2613).\n\nThe issue repro no longer reproduces. Formatted sequence is now:\n\n```\nuser → assistant(tool_calls A,B) → tool:A → tool:B → user-pro…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "chenqp",
+    "commenter": "ZxlDragonDoctor"
+  },
+  "at_mobiles": []
+}
