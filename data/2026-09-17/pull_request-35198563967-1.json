@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lwylab",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-17T08:14:00.211033Z",
+  "title": "fix(web_ui): stop plan panel flicker during streaming replies",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2672",
+  "number": 2672,
+  "body": "## Summary\n- Keep `tasksContext` referentially stable when task rows are unchanged during frequent `state_updated` events.\n- Memoize `TaskPanel` and stabilize the in-progress spinner so streaming chat…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "lwylab",
+    "head_sha": "317411fb2a8763ea64223ed6e5b3995bfa8e320d",
+    "base_ref": "main",
+    "additions": 70,
+    "deletions": 6,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
