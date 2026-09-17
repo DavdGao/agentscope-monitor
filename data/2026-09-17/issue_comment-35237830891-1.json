@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "chenhz01",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-17T15:04:51.775046Z",
+  "title": "refactor(skill): update the agentscope skill for agentscope 2.0",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2044#issuecomment-5716595391",
+  "number": 2044,
+  "body": "Related experience that may help scope this: we maintain a ~489-skill library (Agent Skills / SKILL.md format) and run automated audits over it — dependency graph, orphans, hubs, conflicts, near-dupli…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "chenhz01"
+  },
+  "at_mobiles": []
+}
