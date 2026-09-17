@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-17T10:53:16.075029Z",
+  "title": "docs: update ecosystem image in READMEs",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2673",
+  "number": 2673,
+  "body": "## PR Title Format\n\nPlease ensure your PR title follows the Conventional Commits format:\n- Format: `<type>(<scope>): <description>`\n- Example: `feat(memory): add redis cache support`\n- Allowed types: …",
+  "labels": [
+    "state: awaiting review",
+    "no linked issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "Osier-Yi",
+    "head_sha": "89d9e5453f39ffc6baf585548083ab0374232983",
+    "base_ref": "main",
+    "additions": 2,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
