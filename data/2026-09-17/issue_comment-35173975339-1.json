@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "wangtaotaotao95",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-17T02:19:39.505550Z",
+  "title": "feat(asr): add asr module to agentscope library",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2564#issuecomment-5707458141",
+  "number": 2564,
+  "body": "Opened PR #2667 with the batch ASR base, OpenAI reference implementation, credential discovery/model cards, and mocked regression tests. The PR body records the batch-vs-realtime provider survey and t…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "wangtaotaotao95"
+  },
+  "at_mobiles": []
+}
