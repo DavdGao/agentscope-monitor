@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "wangtaotaotao95",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-17T09:51:31.957840Z",
+  "title": "fix(agent): check summary_template against summary_schema",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2669",
+  "number": 2669,
+  "body": "## AgentScope Version\n\n2.0.8 (`main` at `20228d5c`)\n\nFixes #2668\n\n## Description\n\n`ContextConfig.summary_template` is rendered with the fields that `summary_schema` declares:\n\n```python\n# src/agentsco…",
+  "labels": [
+    "state: awaiting review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "wangtaotaotao95",
+    "head_sha": "1cb15c633c94c3ebdb4a08258132a2568aa3eb24",
+    "base_ref": "main",
+    "additions": 188,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
