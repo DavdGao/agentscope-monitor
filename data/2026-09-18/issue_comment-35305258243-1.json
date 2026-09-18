@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-18T03:59:58.895374Z",
+  "title": "[Bug]: reply_stream() emits no text events for a final-only streaming ChatResponse",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2430#issuecomment-5724944727",
+  "number": 2430,
+  "body": "A streaming generator that yields only a final chunk has nothing to stream, so it should return a plain `ChatResponse` instead — the non-generator branch in `_reasoning_impl` already emits the events …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "fengting124",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
