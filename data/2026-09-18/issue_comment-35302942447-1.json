@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "PiedPiper911",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-18T03:22:29.804208Z",
+  "title": "fix(security): patch 4 MCP client vulnerabilities including SSRF and command injection",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2131#issuecomment-5724653849",
+  "number": 2131,
+  "body": "Closing this. The branch no longer carries a diff against `main`, so there's nothing left to review here. Withdrawing to keep the review queue clean.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "PiedPiper911",
+    "commenter": "PiedPiper911"
+  },
+  "at_mobiles": []
+}
