@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "AaronProbha18",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-18T07:29:51.653999Z",
+  "title": "feat(app): integrate realtime agent into the agent service in `agentscope.app`",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2568#issuecomment-5726743175",
+  "number": 2568,
+  "body": "Hi @DavdGao, \nI’d like to work on this issue.\n\n## Plan\nThe goal is to expose the existing realtime SDK through `agentscope.app`, allowing authenticated browser sessions to stream microphone audio over…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "AaronProbha18"
+  },
+  "at_mobiles": []
+}
