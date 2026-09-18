@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-18T04:01:02.785011Z",
+  "title": "fix(app): drain wakeup backlog completely on startup",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2515#issuecomment-5724954059",
+  "number": 2515,
+  "body": "The loop in `__aenter__` can wedge startup. `_dispatch_one` re-queues a trigger whose session lock is held (`_schedule_retry`, 0.1s), so while the loop drains, retries keep refilling the queue and the…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "CoralGarden52",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
