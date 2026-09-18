@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "review_requested",
+  "action_cn": "请求审核",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-18T07:14:44.630470Z",
+  "title": "ci(issue-triage): verify new bug reports with an agent",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2678",
+  "number": 2678,
+  "body": "## Description\n\nFour workflows around two questions: **is this issue real**, and **who is working on it**.\n\n### 1. Is the issue real — `issue-triage.yml` (new)\n\nWhen someone other than a maintainer op…",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "e569694636347db09f125c09b55bd347577b5d53",
+    "base_ref": "main",
+    "additions": 1489,
+    "deletions": 8,
+    "changed_files": 9
+  },
+  "at_mobiles": []
+}
