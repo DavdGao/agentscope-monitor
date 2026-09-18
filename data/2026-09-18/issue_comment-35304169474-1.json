@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "chenqp",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-18T03:42:07.032575Z",
+  "title": "[Bug]: OpenAIChatFormatter: multimodal tool results promoted mid-batch break parallel tool_calls (400 on DeepSeek & other strict OpenAI-compatible providers)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2675#issuecomment-5724817983",
+  "number": 2675,
+  "body": "Thanks for the quick response! I think I know why the common multi-tool path doesn't reproduce it on your side: **the trigger requires multimodal data (`DataBlock` with a `media_type` matching `suppor…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "chenqp",
+    "commenter": "chenqp"
+  },
+  "at_mobiles": []
+}
