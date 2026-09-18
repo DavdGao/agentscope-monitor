@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "tomsen02",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-18T02:54:18.365338Z",
+  "title": "fix(workspace): resolve local search paths from the workspace directory",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2637#issuecomment-5724452691",
+  "number": 2637,
+  "body": "Hi maintainers, a gentle follow-up on this fix for #2636. Could someone please approve the pending CI workflows and take a look when available? The PR includes regression tests for workspace-relative …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "tomsen02",
+    "commenter": "tomsen02"
+  },
+  "at_mobiles": []
+}
