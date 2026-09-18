@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-18T03:20:23.972948Z",
+  "title": "[Bug]: InMemoryMessageBus.try_lock ignores ttl_secs, so a crashed holder blocks the key forever",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2653",
+  "number": 2653,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing issues and discussions, and this is not a duplicate.\n- [x] This is a bug, not a usage question.\n\n### Background / Description\n\n`MessageBus.try_loc…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "L4XB"
+  },
+  "at_mobiles": []
+}
