@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-18T04:00:44.766064Z",
+  "title": "[Bug]: reply_stream() emits no text events for a final-only streaming ChatResponse",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2430",
+  "number": 2430,
+  "body": "### Background / Description\n\n`Agent.reply_stream()` normally exposes model text through `TextBlockStartEvent`, `TextBlockDeltaEvent`, and `TextBlockEndEvent`.\n\n`ChatResponse.is_last=True` is document…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "fengting124"
+  },
+  "at_mobiles": []
+}
