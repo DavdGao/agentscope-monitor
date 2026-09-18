@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "hot1335",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-18T03:07:40.452127Z",
+  "title": "AgentScope 是否会主动对接国内的企业级软件服务商，类似 Claude和 Salesoforce 的合作产出 Claudeforce",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2676",
+  "number": 2676,
+  "body": "最近，有观察到  Anthropic 在垂类业务的覆盖方面，动作频频；开源了几个项目 ，如：电商、企业级应用Agent等，最突出的是和 Salesforce 的两次合作 —— 1）和Slack推出的 Claude tags ， 2） ClaudeForce （ Salesforce in Claude ）。",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "General",
+    "author": "hot1335"
+  },
+  "at_mobiles": []
+}
