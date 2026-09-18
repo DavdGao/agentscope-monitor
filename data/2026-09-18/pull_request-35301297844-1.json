@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-18T02:56:37.770058Z",
+  "title": "fix(tui): hide realtime messages that fail to send",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2646",
+  "number": 2646,
+  "body": "Fixes #2645.\n\n## AgentScope Version\n\n2.0.8 (`main` at `d0f4be4a`)\n\n## Description\n\nThe realtime TUI rendered typed messages before `RealtimeAgent.send()` accepted them. A reconnect or provider failure…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "wuwenbo0626",
+    "head_sha": "683fbc0ae4e01d5436105465b460c504ce196452",
+    "base_ref": "main",
+    "additions": 24,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
