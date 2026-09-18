@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-18T04:00:38.259618Z",
+  "title": "fix(app): use Proactor event loop on Windows for LocalBackend subprocesses",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2444#issuecomment-5724950149",
+  "number": 2444,
+  "body": "The reload part is already on main — `examples/agent_service/main.py` has `reload=sys.platform != \"win32\"` with the same reasoning, and #2423 was closed as completed back in August.\n\nThe policy helper…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "lwylab",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
