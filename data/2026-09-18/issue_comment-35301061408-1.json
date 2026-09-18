@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "chenqp",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-18T02:52:46.714545Z",
+  "title": "[Bug]: OpenAIChatFormatter: orphaned role=\"tool\" message when self-paired Msg has empty content_blocks/tool_calls",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2067#issuecomment-5724441679",
+  "number": 2067,
+  "body": "测的「常见多工具路径」是纯文本结果，不会产生提升消息。真实触发条件是 DataBlock（media_type 命中 supported_input_media_types，如 image/png）出现在并行批的非末位结果。用三个对照实验验证过：纯文本并行→干净；单工具+图→合法；并行+非末位图→user 提升消息插进 tool 消息中间（bug）。\nThanks for the quick re…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Heavae",
+    "commenter": "chenqp"
+  },
+  "at_mobiles": []
+}
