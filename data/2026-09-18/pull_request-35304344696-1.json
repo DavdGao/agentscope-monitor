@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-18T03:44:55.950208Z",
+  "title": "fix(console): propagate caller cancellation",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2658",
+  "number": 2658,
+  "body": "## Summary\n\n- propagate cancellation when the caller cancels `_run_reply`\n- continue swallowing the internal reply-consumer cancellation triggered by SIGINT\n- cover both cancellation paths with async …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "wangtaotaotao95",
+    "head_sha": "a300fc683e7bd74ca9b80826ec4b866de9a85843",
+    "base_ref": "main",
+    "additions": 93,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
