@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "FOWEPJF255",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-18T14:57:02.241324Z",
+  "title": "[Bug]: WakeupDispatcher can exhaust the Redis connection pool during slow-tool offload",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2677#issuecomment-5731833859",
+  "number": 2677,
+  "body": "I'd like to take this.\n\nProposed fix in WakeupDispatcher:\n1. Coalesce retry timers per `(kind, session_id)` so a held lock cannot spawn unbounded detached tasks.\n2. Exponential backoff with jitter (ca…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "qiboyu301-crypto",
+    "commenter": "FOWEPJF255"
+  },
+  "at_mobiles": []
+}
