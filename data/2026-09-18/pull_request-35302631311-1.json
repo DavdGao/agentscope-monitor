@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-18T03:17:23.849621Z",
+  "title": "fix(tool): stop classifying tee as a read-only command",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2629",
+  "number": 2629,
+  "body": "## Problem\n\n`tee` writes the file it is given, but it sits in `SAFE_COMMANDS`, and membership in that set is read as \"no permission needed\" in two places:\n\n```python\n# src/agentscope/tool/_builtin/_ba…",
+  "labels": [
+    "no linked issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "harbinresearcher",
+    "head_sha": "d7445f698d5fa3a5ec00949153beea862c415887",
+    "base_ref": "main",
+    "additions": 20,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
