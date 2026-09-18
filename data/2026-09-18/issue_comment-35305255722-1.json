@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-18T03:59:51.488041Z",
+  "title": "docs: add inspect.software health badge",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2368#issuecomment-5724944261",
+  "number": 2368,
+  "body": "Thanks, but we don't add third-party rating badges to the README.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Nayjest",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
