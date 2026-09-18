@@ -1,0 +1,26 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "reopened",
+  "action_cn": "重新打开",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-18T07:48:03.895083Z",
+  "title": "[Bug]: Test the ci workflow",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2679",
+  "number": 2679,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [
+    "Bug",
+    "triage/failed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "AgentScopeTeam"
+  },
+  "at_mobiles": []
+}
