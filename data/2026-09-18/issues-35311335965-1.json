@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qiboyu301-crypto",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-18T05:34:41.364094Z",
+  "title": "[Bug]: WakeupDispatcher can exhaust the Redis connection pool during slow-tool offload",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2677",
+  "number": 2677,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "qiboyu301-crypto"
+  },
+  "at_mobiles": []
+}
