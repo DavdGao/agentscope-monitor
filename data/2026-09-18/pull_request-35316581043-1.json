@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-18T06:49:45.887722Z",
+  "title": "ci(issue-triage): verify new bug reports with an agent",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2678",
+  "number": 2678,
+  "body": "## Description\n\nAdds an agent that triages each newly opened issue. It runs in two stages, each one structured-output reply:\n\n1. **Intent** — is the text a bug report at all? No tools, no repository a…",
+  "labels": [
+    "state: awaiting review",
+    "no linked issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "8bc848ab663963f135e85b5d3cd91db358e73f6c",
+    "base_ref": "main",
+    "additions": 1167,
+    "deletions": 0,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
