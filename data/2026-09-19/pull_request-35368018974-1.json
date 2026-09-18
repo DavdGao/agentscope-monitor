@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "FOWEPJF255",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-18T16:21:59.332309Z",
+  "title": "fix(app): bound wakeup retries while a session lock is held",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2682",
+  "number": 2682,
+  "body": "## Summary\n- Coalesce lock-held wake/resume retries in `WakeupDispatcher` to one timer per `(kind, session_id)` so a held session lock cannot spawn unbounded detached Redis re-enqueue tasks (#2677).\n-…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "FOWEPJF255",
+    "head_sha": "e6fd9d2f27797704bc4a95cb960395669f6854ce",
+    "base_ref": "main",
+    "additions": 318,
+    "deletions": 57,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
