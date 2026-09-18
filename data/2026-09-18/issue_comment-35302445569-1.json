@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-18T03:14:29.556599Z",
+  "title": "fix(toolkit): mark active groups in reset_tools schema",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2415#issuecomment-5724597691",
+  "number": 2415,
+  "body": "Thanks for the PR. Not taking this one — reason in https://github.com/agentscope-ai/agentscope/issues/2413#issuecomment-5724596268",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Oxygen56",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
