@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "kabishou11",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-18T04:29:14.578680Z",
+  "title": "fix(agent): release reply_stream queue getter on cancel",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2671",
+  "number": 2671,
+  "body": "## AgentScope Version\n\n2.0.8 (based on `main` @ `20228d5`)\n\n## Description\n\nFixes #2665.\n\n`RealtimeAgent.reply_stream` races an `asyncio.Queue` getter against the uplink with `asyncio.wait`. Cancellin…",
+  "labels": [
+    "state: awaiting review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "kabishou11",
+    "head_sha": "3041ba5d0be4f12e69cae9d3a217b7980ac5983e",
+    "base_ref": "main",
+    "additions": 198,
+    "deletions": 13,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
