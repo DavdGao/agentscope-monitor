@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-18T07:39:54.940255Z",
+  "title": "fix(ci): let the triage workflows create their environment",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2680",
+  "number": 2680,
+  "body": "## Description\n\nThe first real run of the triage workflow (#2679, [run](https://github.com/agentscope-ai/agentscope/actions/runs/35320078354/job/105520401327)) never reached the agent:\n\n```\nRun uv ven…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "5b1d5fa35f204194b9aa773ffe215ca645f7c4c6",
+    "base_ref": "main",
+    "additions": 7,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
