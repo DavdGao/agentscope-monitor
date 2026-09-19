@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lorenzozanee",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-19T21:22:27.740132Z",
+  "title": "fix(formatter): reject orphaned OpenAI tool results",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2693",
+  "number": 2693,
+  "body": "## AgentScope Version\n\n2.0.8, based on `main` at `5ff52f87`.\n\n## Description\n\n`OpenAIChatFormatter` could emit a `role=\"tool\"` message without a preceding matching tool call when a result-only block w…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "lorenzozanee",
+    "head_sha": "87ed5917da3ceae62adb5849a15b5202125fb2fb",
+    "base_ref": "main",
+    "additions": 68,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
