@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "aron-intframe",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-19T03:43:29.254592Z",
+  "title": "[Bug]: ApproxTokenChunker emits empty chunks for blank pages, which can fail whole-document indexing",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2685#issuecomment-5739089633",
+  "number": 2685,
+  "body": "Reproduced on `main` @ `5ff52f87` (Python 3.12), same output as reported. Two things worth adding while this is being fixed.\n\n**1. Blank sections are not the only source of empty chunks.** `_split_tex…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "iluv7",
+    "commenter": "aron-intframe"
+  },
+  "at_mobiles": []
+}
