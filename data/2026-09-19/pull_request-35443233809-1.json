@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ZxlDragonDoctor",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-19T12:34:26.107595Z",
+  "title": "fix(embedding): report cache source for fully cached multi-batch merges",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2690",
+  "number": 2690,
+  "body": "### Problem\n`EmbeddingModelBase._merge_responses` hard-codes `source=\"api\"` when combining ?2 batch responses. A fully cache-hit multi-batch embedding call therefore reports `source=\"api\"` with `usage…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ZxlDragonDoctor",
+    "head_sha": "b67fd2e82ab2615b01056d4cc80d22613c89bed9",
+    "base_ref": "main",
+    "additions": 45,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
