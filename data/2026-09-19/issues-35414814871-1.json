@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "sloemo01",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-19T02:09:22.213427Z",
+  "title": "[Bug]: quoting or expanding a redirection target hides it from the dangerous-path check, so a write into a protected file escapes the bypass-immune ASK",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2684",
+  "number": 2684,
+  "body": "## Summary\n\n`_extract_paths_from_node` reads a redirection target only when the target's node type is `word`. A quoted or expanded target parses as `string`, `raw_string` or `concatenation`, so it is …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "sloemo01"
+  },
+  "at_mobiles": []
+}
