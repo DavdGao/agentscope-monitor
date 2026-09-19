@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-19T01:50:23.444739Z",
+  "title": "[Bug]: PPTParser silently drops text and images inside grouped shapes",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2674#issuecomment-5738389577",
+  "number": 2674,
+  "body": "Confirmed — verified against current `main` (`5ff52f87`): the reproduction now prints\n\n```text\nextracted text: '<slide index=1>\\nUNGROUPED TEXT\\nGROUPED TEXT\\n</slide>'\nimage sections: 1\n```\n\n`GROUPED…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "iluv7",
+    "commenter": "iluv7"
+  },
+  "at_mobiles": []
+}
