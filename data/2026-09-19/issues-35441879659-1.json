@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Lesereingrape",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-19T12:05:36.761499Z",
+  "title": "[embedding] merged EmbeddingResponse reports source=\"api\" for a fully cached multi-batch call",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2689",
+  "number": 2689,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing issues and discussions, and this is not a duplicate. (`EmbeddingResponse source cache`, `embedding cache source api`, `batch merge embedding cache…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Lesereingrape"
+  },
+  "at_mobiles": []
+}
