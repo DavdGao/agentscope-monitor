@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ZxlDragonDoctor",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-19T12:31:41.423632Z",
+  "title": "[embedding] merged EmbeddingResponse reports source=\"api\" for a fully cached multi-batch call",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2689#issuecomment-5741881708",
+  "number": 2689,
+  "body": "I'd like to take this issue.\n\n**Scope**\n- In: mark fully cache-hit merged `EmbeddingResponse` with the correct source (not `api`) so usage/accounting reflects offline cache hits.\n- Out: redesigning th…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Lesereingrape",
+    "commenter": "ZxlDragonDoctor"
+  },
+  "at_mobiles": []
+}
