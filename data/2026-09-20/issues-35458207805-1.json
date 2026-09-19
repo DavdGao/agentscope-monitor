@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Tsubaki-01",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-19T17:28:58.021963Z",
+  "title": "[Bug]: RealtimeAgent interrupt entrypoints raise a missing reply_id error",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2691",
+  "number": 2691,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing issues and discussions and did not find a duplicate.\n- [x] This is a bug, not a usage question.\n\n### Background / Description\n\n**The built-in micr…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Tsubaki-01"
+  },
+  "at_mobiles": []
+}
