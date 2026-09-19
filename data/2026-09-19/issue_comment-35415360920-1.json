@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "sloemo01",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-19T02:20:39.706653Z",
+  "title": "fix(tool): read a quoted or expanded redirect target, not just a bare word",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2686#issuecomment-5738565217",
+  "number": 2686,
+  "body": "Ready for review when someone has a moment.\n\nThe `pr-guard` note above is addressed: the body now closes #2684, so the change and the problem are linked. That issue carries the mechanism, a runnable r…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "sloemo01",
+    "commenter": "sloemo01"
+  },
+  "at_mobiles": []
+}
