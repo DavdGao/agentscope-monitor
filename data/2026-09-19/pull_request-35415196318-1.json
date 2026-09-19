@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "sloemo01",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-19T02:17:13.706921Z",
+  "title": "fix(tool): read a quoted or expanded redirect target, not just a bare word",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2686",
+  "number": 2686,
+  "body": "Refs #2684\n\n## What was wrong\n\n`_extract_paths_from_node` read a redirection target only when the target's node type was `word`:\n\n```python\nif node.type == \"file_redirect\":\n    for child in node.child…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "sloemo01",
+    "head_sha": "f316ced053b8410593f448f121dde2be86089df2",
+    "base_ref": "main",
+    "additions": 66,
+    "deletions": 4,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
