@@ -1,0 +1,34 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "review_requested",
+  "action_cn": "请求审核",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-19T03:44:51.686201Z",
+  "title": "feat(agent-team): add AgentRemove to remove a single team member",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2265",
+  "number": 2265,
+  "body": "## AgentScope Version\n\n2.0.6\n\n## Description\n\nCloses https://github.com/agentscope-ai/agentscope/issues/2238\n\n**Discussed in** [**#2010**](https://github.com/agentscope-ai/agentscope/discussions/2010)…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [
+    "DavdGao"
+  ],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "iluv7",
+    "head_sha": "e5f26891b18a28cb46a4fd770271286e36af6d75",
+    "base_ref": "main",
+    "additions": 1250,
+    "deletions": 154,
+    "changed_files": 13
+  },
+  "at_mobiles": []
+}
