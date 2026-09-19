@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "steven-ji",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-19T12:10:25.039062Z",
+  "title": "feat(channel): enable channels for scheduled tasks",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2299#issuecomment-5741735449",
+  "number": 2299,
+  "body": "Hi, I noticed that #2250 is now labeled `Roadmap` without `Help Wanted`. Since this PR was opened before that change, could you confirm whether further work on the scheduled-channel integration propos…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "steven-ji",
+    "commenter": "steven-ji"
+  },
+  "at_mobiles": []
+}
