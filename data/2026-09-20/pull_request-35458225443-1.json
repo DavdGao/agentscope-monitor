@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Tsubaki-01",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-19T17:29:17.135445Z",
+  "title": "fix(realtime): include reply ID in interrupt events",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2692",
+  "number": 2692,
+  "body": "## PR Title Format\n\n`fix(realtime): include reply ID in interrupt events`\n\n## AgentScope Version\n\n2.0.8\n\n## Description\n\nFixes #2691.\n\n**The built-in microphone/TUI voice flow is unaffected by this er…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Tsubaki-01",
+    "head_sha": "1c182d6175bdc18c95e3ce3b8b38c03ade3538c7",
+    "base_ref": "main",
+    "additions": 82,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
