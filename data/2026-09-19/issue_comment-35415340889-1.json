@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "CoralGarden52",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-19T02:20:19.548327Z",
+  "title": "fix(app): drain wakeup backlog completely on startup",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2515#issuecomment-5738563295",
+  "number": 2515,
+  "body": "I also manually set up a local test matching the scenario you described as closely as possible.\n\nI preloaded 300 durable wakeups across five locked sessions and added a 1 ms async delay to the queue, …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "CoralGarden52",
+    "commenter": "CoralGarden52"
+  },
+  "at_mobiles": []
+}
