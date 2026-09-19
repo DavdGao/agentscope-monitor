@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-19T04:12:37.932710Z",
+  "title": "[Bug]: ApproxTokenChunker emits empty chunks for blank pages, which can fail whole-document indexing",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2685#issuecomment-5739265588",
+  "number": 2685,
+  "body": "Thanks for verifying — the OpenAI 400 on the batch confirms the failure mode, and the `input[0]` observation matches the \"error does not point at the cause\" part of the report.\n\nAgreed on the whitespa…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "iluv7",
+    "commenter": "iluv7"
+  },
+  "at_mobiles": []
+}
