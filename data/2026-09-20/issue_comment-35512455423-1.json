@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "wangtaotaotao95",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-20T13:05:04.459004Z",
+  "title": "[Bug]: context-compression LLM call's token usage is never recorded anywhere",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2151#issuecomment-5749979245",
+  "number": 2151,
+  "body": "Correction after checking current : the focused first slice I described has already landed in #2433 (commit ). Current  records  on the retained context tail (including accumulation and the fully-comp…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "AmirF194",
+    "commenter": "wangtaotaotao95"
+  },
+  "at_mobiles": []
+}
