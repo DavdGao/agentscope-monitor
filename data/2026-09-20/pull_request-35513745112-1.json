@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "wangtaotaotao95",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-20T13:31:26.189407Z",
+  "title": "feat(example): add FastAPI HITL flow",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2704",
+  "number": 2704,
+  "body": "## AgentScope Version\n\n2.0.8\n\n## Description\n\nCloses #1120.\n\nAdds a focused FastAPI human-in-the-loop example for the current AgentScope API:\n\n- keeps one persistent `Agent` per `session_id` so follow…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "wangtaotaotao95",
+    "head_sha": "c07a7980279a4fd1a35ff42ae2fc3142d8857e13",
+    "base_ref": "main",
+    "additions": 617,
+    "deletions": 0,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
