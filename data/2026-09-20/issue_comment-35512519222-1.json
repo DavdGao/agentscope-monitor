@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "wangtaotaotao95",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-20T13:06:16.210181Z",
+  "title": "[human in loop]how to interrupt the agent  flow and give a confirm/new information to the agent to continue the flow when coding by fastapi?",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1120#issuecomment-5749985765",
+  "number": 1120,
+  "body": "I would like to take this over now that the previous claim has been released. I checked current main: AgentScope has the interruption/HITL primitives and tests, but there is still no FastAPI HITL exam…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "fhkankan",
+    "commenter": "wangtaotaotao95"
+  },
+  "at_mobiles": []
+}
