@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "chenhz01",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-20T08:39:21.455394Z",
+  "title": "[Bug]: WakeupDispatcher can exhaust the Redis connection pool during slow-tool offload",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2677#issuecomment-5748722747",
+  "number": 2677,
+  "body": "The unbounded detached-retry pattern reads like a slow-motion leak: every slow-tool offload under a held session lock spawns a fresh 100 ms retry with no ceiling, so a busy pool gets drained by work n…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "qiboyu301-crypto",
+    "commenter": "chenhz01"
+  },
+  "at_mobiles": []
+}
