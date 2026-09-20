@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "iamsee",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-20T13:48:54.647174Z",
+  "title": "fix(app): resolve shared team leaders through the resource access policy",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2706",
+  "number": 2706,
+  "body": "## PR Title Format\n\nfix(app): resolve shared team leaders through the resource access policy\n\n## AgentScope Version\n\n2.0.8 (branch cut from main @ 5ff52f87)\n\n## Description\n\nFixes #2705\n\n### Problem\n\n…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "iamsee",
+    "head_sha": "bfc0b6c30a8921892f58c4889435930080d2be8b",
+    "base_ref": "main",
+    "additions": 544,
+    "deletions": 21,
+    "changed_files": 10
+  },
+  "at_mobiles": []
+}
