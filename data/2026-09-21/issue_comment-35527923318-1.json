@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "sxh313",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-20T18:05:27.797135Z",
+  "title": "[Bug]: Toolkit.add_tool() mutates the caller's own tool list (lists kept by reference)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2708#issuecomment-5751622864",
+  "number": 2708,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "sxh313",
+    "commenter": "sxh313"
+  },
+  "at_mobiles": []
+}
