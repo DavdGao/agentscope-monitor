@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Tsubaki-01",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-20T12:36:40.758529Z",
+  "title": "fix(embedding): expose DashScope multimodal capability",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2701",
+  "number": 2701,
+  "body": "## AgentScope Version\n\n2.0.8\n\n## Description\n\nFixes #2700.\n\nDashScope multimodal models leave `supports_multimodal` set to `False`, so `KnowledgeBase.search` drops image queries before embedding. Set …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Tsubaki-01",
+    "head_sha": "14782dbed515c7cb4faa7eb8be0223dbfc87caa3",
+    "base_ref": "main",
+    "additions": 158,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
