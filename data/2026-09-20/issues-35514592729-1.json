@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "iamsee",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-20T13:48:55.187569Z",
+  "title": "[Bug]: Team led by a shared (cross-owner) agent loses its leader on every leader read",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2705",
+  "number": 2705,
+  "body": "### AgentScope version\n\nmain @ 5ff52f87 (same behavior in v2.0.8)\n\n### Describe the bug\n\nSince the resource-sharing support (#1998), session creation accepts agents shared through the resource access …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "iamsee"
+  },
+  "at_mobiles": []
+}
