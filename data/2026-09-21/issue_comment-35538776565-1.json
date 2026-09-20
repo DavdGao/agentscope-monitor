@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "BlueX888",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-20T21:27:59.373868Z",
+  "title": "[Bug]: Grep: offset/head_limit pagination silently drops and duplicates matches because ripgrep output order is non-deterministic across invocations",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2709#issuecomment-5752783493",
+  "number": 2709,
+  "body": "<!-- oss-claim -->\nReproduced this. Root cause: src/agentscope/tool/_builtin/_grep.py:289 builds the rg argv with no sort flag, so rg's parallel walker returns matches in a different order on every in…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "BlueX888",
+    "commenter": "BlueX888"
+  },
+  "at_mobiles": []
+}
