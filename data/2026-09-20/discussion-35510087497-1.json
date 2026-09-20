@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "windmelody",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-20T12:15:25.449085Z",
+  "title": "Jev Support",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2699",
+  "number": 2699,
+  "body": "agentscope会考虑对Jev节点的集成吗？我看langchain已经加上了",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "windmelody"
+  },
+  "at_mobiles": []
+}
