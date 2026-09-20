@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "AmirF194",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-20T11:34:07.689809Z",
+  "title": "fix(memory): stop layout bootstrap crashing replies on an unreachable backend",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2698",
+  "number": 2698,
+  "body": "## PR Title Format\n\n`fix(memory): stop layout bootstrap crashing replies on an unreachable backend`\n\n## AgentScope Version\n\n2.0.8 (main @ 5ff52f877)\n\n## Description\n\nReproduced this with a backend dou…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "AmirF194",
+    "head_sha": "87bbf62a75fc0dde806a1e7615c349cf62abf2f2",
+    "base_ref": "main",
+    "additions": 104,
+    "deletions": 8,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
