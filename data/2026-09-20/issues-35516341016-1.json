@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "CorgiBoyG",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-20T14:23:42.681707Z",
+  "title": "[Bug]: streamed Base64 accumulation repeatedly transcodes the full payload",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2707",
+  "number": 2707,
+  "body": "### Prerequisites\n\n- [x] I searched existing issues, discussions, PRs, and relevant history. This is not a duplicate.\n- [x] This is a performance bug rather than a usage question.\n\n### Background / De…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "CorgiBoyG"
+  },
+  "at_mobiles": []
+}
