@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "gdisk",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-20T08:34:43.043135Z",
+  "title": "[Bug]: 沙箱异常终止后，对话无法继续，需要手动启动沙箱",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2697",
+  "number": 2697,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [
+    "Bug"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "gdisk"
+  },
+  "at_mobiles": []
+}
