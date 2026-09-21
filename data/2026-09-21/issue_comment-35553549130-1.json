@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "javacaoyu",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T02:15:09.796741Z",
+  "title": "[Bug]: TaskUpdate accepts cyclic and completed task dependencies",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2710#issuecomment-5754534484",
+  "number": 2710,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "helloJamest",
+    "commenter": "javacaoyu"
+  },
+  "at_mobiles": []
+}
