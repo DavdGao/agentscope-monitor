@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Ha02hen",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T17:47:12.516986Z",
+  "title": "如何给工具实时传参",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1076#issuecomment-5764953214",
+  "number": 1076,
+  "body": "I’m working on this issue and have prepared a focused PR.\n\nThe change adds protected `preset_kwargs` support to `FunctionTool`: preset keys are removed from the model-visible schema, application-manag…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "superme32767",
+    "commenter": "Ha02hen"
+  },
+  "at_mobiles": []
+}
