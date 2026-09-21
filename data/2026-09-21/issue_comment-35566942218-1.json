@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T06:05:35.854679Z",
+  "title": "test(formatter): cover multimodal parallel tool results",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2694#issuecomment-5756093445",
+  "number": 2694,
+  "body": "Fixed in #2613",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "lorenzozanee",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
