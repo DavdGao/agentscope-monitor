@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lihongyuan99",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T10:24:57.669042Z",
+  "title": "fix(skill): read SKILL.md as utf-8-sig so a BOM keeps front matter",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2735",
+  "number": 2735,
+  "body": "## AgentScope Version\n\n`main` at `226daf0` (2.0.8)\n\n## Description\n\n**What** — `src/agentscope/skill/_local_loader.py:63` opens `SKILL.md` with `encoding=\"utf-8-sig\"` instead of `\"utf-8\"`.\n\n**Why** — …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "lihongyuan99",
+    "head_sha": "2bc903fe865f98db0a32f5f790f8c457fd6fe969",
+    "base_ref": "main",
+    "additions": 46,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
