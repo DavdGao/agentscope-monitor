@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ydflow",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T15:30:07.299127Z",
+  "title": "fix(embedding): stop blocking the event loop on Gemini and DashScope calls",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2755#issuecomment-5763057357",
+  "number": 2755,
+  "body": "Closing as a duplicate of #2703, which fixes the same issue with a better Gemini approach (client.aio instead of to_thread). See my comment above for the comparison.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "ydflow",
+    "commenter": "ydflow"
+  },
+  "at_mobiles": []
+}
