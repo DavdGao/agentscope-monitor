@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T06:19:27.627292Z",
+  "title": "fix(rag): drop empty and whitespace-only chunks in ApproxTokenChunker",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2687",
+  "number": 2687,
+  "body": "## AgentScope Version\n\n2.0.8 (based on `main` @ `5ff52f87`)\n\n## Description\n\nClosed #2685.\n\n`ApproxTokenChunker.chunk()` emitted a `Chunk` with empty / whitespace-only text for every empty-text `Secti…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "iluv7",
+    "head_sha": "dfc1aa9305989b0925a6483c706210befe1ea5d3",
+    "base_ref": "main",
+    "additions": 51,
+    "deletions": 1,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
