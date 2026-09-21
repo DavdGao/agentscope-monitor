@@ -1,0 +1,34 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "review_requested",
+  "action_cn": "请求审核",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T02:42:56.188524Z",
+  "title": "feat(asr): add batch transcription abstraction and OpenAI model",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2667",
+  "number": 2667,
+  "body": "## Summary\n\nCloses #2564.\n\n- Add a batch-first `agentscope.asr` interface and typed text response.\n- Add an OpenAI Audio Transcriptions reference model with language/prompt parameters, credential disc…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [
+    "qbc2016"
+  ],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "wangtaotaotao95",
+    "head_sha": "457ca9b64f4fd2e64067c9e5959741dd78c7ab9b",
+    "base_ref": "main",
+    "additions": 338,
+    "deletions": 0,
+    "changed_files": 11
+  },
+  "at_mobiles": []
+}
