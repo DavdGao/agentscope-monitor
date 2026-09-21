@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lihongyuan99",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T12:34:57.895773Z",
+  "title": "[Bug]: PATCH /sessions/{id} with {\"name\": null} escapes as an unhandled ValidationError (500)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2743",
+  "number": 2743,
+  "body": "## Describe the bug\n\n`PATCH /sessions/{session_id}` answers a 500 for `{\"name\": null}`, because the merged config raises a `ValidationError` that nothing catches.\n\nThe handler deliberately uses `body.…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "lihongyuan99"
+  },
+  "at_mobiles": []
+}
