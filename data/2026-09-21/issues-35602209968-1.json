@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lihongyuan99",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T12:53:57.993662Z",
+  "title": "[Bug]: only the first sed -e expression is checked, so later ones bypass the write/execute denylist",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2746",
+  "number": 2746,
+  "body": "## Describe the bug\n\nThe `sed` safety checks in `check_sed_constraints` only ever see the **first** `-e` expression. Every second and later `-e` expression bypasses the `w/W` (write file) and `e/E` (e…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "lihongyuan99"
+  },
+  "at_mobiles": []
+}
