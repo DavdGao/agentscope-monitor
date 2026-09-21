@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "helloJamest",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T01:54:02.364568Z",
+  "title": "[Bug]: TaskUpdate accepts cyclic and completed task dependencies",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2710",
+  "number": 2710,
+  "body": "### Prerequisites\n\n- [x] I searched the open issues and pull requests for task dependencies, cycles, and `blockedBy`.\n- [x] This is a bug, not a usage question.\n\n### Summary\n\n`TaskUpdate` accepts depe…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "helloJamest"
+  },
+  "at_mobiles": []
+}
