@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Linxiushen",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T12:06:57.674753Z",
+  "title": "fix(_utils): keep nested arguments that schema-guided repair drops",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2712#issuecomment-5760210309",
+  "number": 2712,
+  "body": "Thanks for the review, @DavdGao. Reworked in 8d11eaf as suggested: the helper is now a small recursive predicate (`_has_dropped_keys`), the revert stays `res = parsed`, the list-length branch is remov…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Linxiushen",
+    "commenter": "Linxiushen"
+  },
+  "at_mobiles": []
+}
