@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lihongyuan99",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T10:24:55.870108Z",
+  "title": "fix(tool): count written lines the way Read numbers them",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2734",
+  "number": 2734,
+  "body": "## AgentScope Version\n\n`main` at `226daf0` (2.0.8)\n\n## Description\n\n**What** — one expression in the `Write` tool: `line_count = len(content.split(\"\\n\"))` becomes `len(content.splitlines())` (`src/age…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "lihongyuan99",
+    "head_sha": "fe228ee577705a7f759a523b780f276a153c6e55",
+    "base_ref": "main",
+    "additions": 43,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
