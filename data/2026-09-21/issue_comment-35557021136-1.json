@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T03:17:26.029984Z",
+  "title": "[Bug]: streamed Base64 accumulation repeatedly transcodes the full payload",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2707#issuecomment-5754925203",
+  "number": 2707,
+  "body": "@CorgiBoyG \nYou’re right, and I’m sorry. I missed the note in the original report stating that you intended to implement the fix within 3–5 days after receiving maintainer feedback.\nI didn’t mean to r…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "CorgiBoyG",
+    "commenter": "iluv7"
+  },
+  "at_mobiles": []
+}
