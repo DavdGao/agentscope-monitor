@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "wangtaotaotao95",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T03:55:08.022239Z",
+  "title": "feat(rag): add RAGFlowKnowledge knowledge-layer backend",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2485#issuecomment-5755163795",
+  "number": 2485,
+  "body": "The issue claim was released and reassigned to me, so I continued this work in #2722. I cherry-picked both of your commits intact to preserve authorship and credit, then adapted the implementation to …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "ConcaSun",
+    "commenter": "wangtaotaotao95"
+  },
+  "at_mobiles": []
+}
