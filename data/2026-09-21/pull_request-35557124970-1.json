@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "helloJamest",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T03:19:24.222020Z",
+  "title": "fix(task): reject unsatisfiable dependencies",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2714",
+  "number": 2714,
+  "body": "Fixes #2710\n\n## Summary\n- reject self-referential dependency edges and edges that close direct or indirect cycles\n- prevent completed tasks from participating in new dependency relations\n- add regress…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "helloJamest",
+    "head_sha": "279c148d19db4121f94e92ea3716bdbb783c56d4",
+    "base_ref": "main",
+    "additions": 143,
+    "deletions": 8,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
