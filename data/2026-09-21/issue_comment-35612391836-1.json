@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ZxlDragonDoctor",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T14:28:35.275695Z",
+  "title": "[Bug]: Remote media downloads in async formatters block the event loop",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2724#issuecomment-5762133192",
+  "number": 2724,
+  "body": "Checked the linked work before implementing: **#2725** (`fix(formatter): offload media conversion from event loop`, @wangtaotaotao95) is already open and targets this issue.\n\nThat PR wraps the existin…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "wangtaotaotao95",
+    "commenter": "ZxlDragonDoctor"
+  },
+  "at_mobiles": []
+}
