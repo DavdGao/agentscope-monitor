@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ZxlDragonDoctor",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T11:13:50.035896Z",
+  "title": "[Bug]: Expired try_lock holder can unlock a successor lease",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2728#issuecomment-5759568214",
+  "number": 2728,
+  "body": "I'd like to take this.\n\n**Alignment:** no prior design note on the issue; follows the reporter's ownership-gap analysis.\n\n**Scope**\n- In: make MessageBus.try_lock / unlock ownership-safe - a late unlo…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "wangtaotaotao95",
+    "commenter": "ZxlDragonDoctor"
+  },
+  "at_mobiles": []
+}
