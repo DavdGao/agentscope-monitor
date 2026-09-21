@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "wangtaotaotao95",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T12:23:55.072946Z",
+  "title": "fix(realtime): reset local transport across restarts",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2740",
+  "number": 2740,
+  "body": "## Summary\n\n- start each local-audio session with a fresh capture queue\n- detach the event loop before stopping PortAudio streams so late callbacks cannot append after the terminal sentinel\n- clear qu…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "wangtaotaotao95",
+    "head_sha": "0be614a6cf58ecb9071ce30eef6d5d3189da5065",
+    "base_ref": "main",
+    "additions": 60,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
