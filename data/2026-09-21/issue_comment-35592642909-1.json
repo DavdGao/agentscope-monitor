@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ZxlDragonDoctor",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T11:10:32.324553Z",
+  "title": "[Bug]:set_console_output_enabled(False) unexpectedly disables AgentScope Studio tracing/output",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1149#issuecomment-5759529397",
+  "number": 1149,
+  "body": "Checked current `main` while taking a look at this claim.\n\n**Evidence the original defect path is gone / already addressed:**\n\n1. Commit `9c7e418` — `fix(hook): make set_console_output_enabled only af…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "WuJiaoJue",
+    "commenter": "ZxlDragonDoctor"
+  },
+  "at_mobiles": []
+}
