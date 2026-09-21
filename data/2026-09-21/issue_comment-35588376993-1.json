@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "lihongyuan99",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T10:22:29.662497Z",
+  "title": "[Bug]: set_timestamp_factory is ignored by Msg, events, tasks and model responses",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2730#issuecomment-5758942954",
+  "number": 2730,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "lihongyuan99",
+    "commenter": "lihongyuan99"
+  },
+  "at_mobiles": []
+}
