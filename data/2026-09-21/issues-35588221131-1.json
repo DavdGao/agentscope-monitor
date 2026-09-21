@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lihongyuan99",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T10:20:39.773558Z",
+  "title": "[Bug]: a SKILL.md saved as UTF-8 with a BOM is silently skipped",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2732",
+  "number": 2732,
+  "body": "## Describe the bug\n\nA `SKILL.md` saved as UTF-8 **with a byte order mark** is silently dropped by `LocalSkillLoader`, and the warning it logs points at the wrong cause.\n\n`src/agentscope/skill/_local_…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "lihongyuan99"
+  },
+  "at_mobiles": []
+}
