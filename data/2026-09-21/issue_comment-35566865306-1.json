@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "CorgiBoyG",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T06:04:22.166405Z",
+  "title": "perf(message): optimize streamed base64 accumulation",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2713#issuecomment-5756084057",
+  "number": 2713,
+  "body": "Understood, thank you for checking. The maintainers will need to handle the issue assignment. Could you still close this draft PR from your side, as you offered in the issue thread? That will remove t…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "iluv7",
+    "commenter": "CorgiBoyG"
+  },
+  "at_mobiles": []
+}
