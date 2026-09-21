@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lihongyuan99",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T10:24:41.809745Z",
+  "title": "fix(utils): honour set_timestamp_factory in all entities",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2733",
+  "number": 2733,
+  "body": "## AgentScope Version\n\n`main` at `226daf0` (2.0.8)\n\n## Description\n\n**What** — routes the hard-coded `created_at` defaults through the existing `_generate_timestamp()` accessor, in the four modules th…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "lihongyuan99",
+    "head_sha": "aac1a3a72e73f839ba7d3942060c90f3fc3c74bd",
+    "base_ref": "main",
+    "additions": 73,
+    "deletions": 20,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
