@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T06:05:36.358274Z",
+  "title": "test(formatter): cover multimodal parallel tool results",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2694",
+  "number": 2694,
+  "body": "## AgentScope Version\n\n2.0.8\n\n## Description\n\nExtend the OpenAI formatter regression test so every sibling tool result carries multimodal data and verify that all tool messages precede the promoted me…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "lorenzozanee",
+    "head_sha": "0fc2b45830430a1f4a5e3765a4231695d7919f6b",
+    "base_ref": "main",
+    "additions": 39,
+    "deletions": 2,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
