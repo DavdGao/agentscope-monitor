@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lihongyuan99",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T13:44:03.217835Z",
+  "title": "fix(storage): keep native datetimes for promoted DateTime columns",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2749",
+  "number": 2749,
+  "body": "## AgentScope Version\n\n`main` at `226daf0` (2.0.8)\n\n## Description\n\n**What** — in `_from_record` (`src/agentscope/app/storage/_sql/_mappers.py`) an indexed field whose record attribute is a `datetime`…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "lihongyuan99",
+    "head_sha": "8a4d466e83d25ae61bbd6913fd909fcf3e3de3e1",
+    "base_ref": "main",
+    "additions": 57,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
