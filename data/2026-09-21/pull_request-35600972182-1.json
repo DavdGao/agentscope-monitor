@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lihongyuan99",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T12:41:26.363612Z",
+  "title": "fix(app): answer 422 when a session patch cannot be represented",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2745",
+  "number": 2745,
+  "body": "## AgentScope Version\n\n`main` at `226daf0` (2.0.8)\n\n## Description\n\n**What** — wrap the `SessionConfig.model_validate(...)` call in `update_session` (`src/agentscope/app/_router/_session.py:559-563`) …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "lihongyuan99",
+    "head_sha": "123dc23586634010cda96324615e4e391064da3c",
+    "base_ref": "main",
+    "additions": 49,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
