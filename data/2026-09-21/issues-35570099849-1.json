@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T06:49:15.821852Z",
+  "title": "examples/agent_service names Playwright MCP \"browser-use\" - would you take either real route?",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2627",
+  "number": 2627,
+  "body": "In examples/agent_service/main.py the default MCP client is named \"browser-use\" but runs npx @playwright/mcp@latest. I work on Browser Use, so I would like to offer the real thing, and I have a two-fi…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "MagMueller"
+  },
+  "at_mobiles": []
+}
