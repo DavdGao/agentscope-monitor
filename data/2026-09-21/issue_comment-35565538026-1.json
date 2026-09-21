@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T05:42:22.287282Z",
+  "title": "perf(message): optimize streamed base64 accumulation",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2713#issuecomment-5755924552",
+  "number": 2713,
+  "body": "@CorgiBoyG \nOnly maintainers can modify the assigned object.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "iluv7",
+    "commenter": "iluv7"
+  },
+  "at_mobiles": []
+}
