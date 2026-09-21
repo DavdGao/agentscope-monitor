@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lihongyuan99",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T12:34:54.684121Z",
+  "title": "[Bug]: PATCH /channels/{id} with an explicit null on a required field 500s and makes the record unreadable forever",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2742",
+  "number": 2742,
+  "body": "## Describe the bug\n\n`PATCH /channels/{channel_id}` writes the caller's payload straight onto the stored record without validating it, so an explicit `null` on a non-nullable field is persisted. The c…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "lihongyuan99"
+  },
+  "at_mobiles": []
+}
