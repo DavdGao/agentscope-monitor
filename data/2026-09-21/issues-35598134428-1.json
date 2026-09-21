@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "wangtaotaotao95",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T12:11:57.074354Z",
+  "title": "LocalAudioTransport replays stale audio or stops immediately after restart",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2739",
+  "number": 2739,
+  "body": "## Problem\n\n`LocalAudioTransport.close()` appends the terminal `None` sentinel to `_in_queue`, but `start()` reuses that same queue. It also leaves `_pending` and the playout counters intact.\n\nAs a re…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "wangtaotaotao95"
+  },
+  "at_mobiles": []
+}
