@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "wangtaotaotao95",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T06:54:44.749157Z",
+  "title": "[Bug]: Remote media downloads in async formatters block the event loop",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2724",
+  "number": 2724,
+  "body": "## Describe the bug\n\nAgentScope's public formatter APIs are async, but their remote media paths call synchronous `requests.get(...)` directly on the event-loop thread. Formatting a message containing …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "wangtaotaotao95"
+  },
+  "at_mobiles": []
+}
