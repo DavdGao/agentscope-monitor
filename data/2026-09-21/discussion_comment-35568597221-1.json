@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T06:27:56.068179Z",
+  "title": "How to solve the OpenTelemetry conflict between Agentscope and AliyunJavaAgent",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2638#discussioncomment-18534837",
+  "number": 2638,
+  "body": "@six-teen Java related issues plz refer to https://github.com/agentscope-ai/agentscope-java",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "six-teen"
+  },
+  "at_mobiles": []
+}
