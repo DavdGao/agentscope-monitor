@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "wangtaotaotao95",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T09:04:25.620228Z",
+  "title": "fix(message_bus): protect successor try-lock leases",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2729",
+  "number": 2729,
+  "body": "Fixes #2728.\n\n## AgentScope Version\n\n2.0.8 (`main` at `226daf01`)\n\n## Description\n\nProtect non-blocking lock leases from stale cleanup after TTL expiry.\n\nPreviously, every Redis `try_lock()` claim sto…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "wangtaotaotao95",
+    "head_sha": "31db540b25f4994530df93d29c43092e0a96a894",
+    "base_ref": "main",
+    "additions": 110,
+    "deletions": 15,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
