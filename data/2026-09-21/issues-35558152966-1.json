@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T03:37:43.308543Z",
+  "title": "feat(jev): support Jev model in agentscope",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2715",
+  "number": 2715,
+  "body": "**Background**\n\nThe development of Jev models introduces new opportunities to optimize the current agent pipeline. We should consider integrating it into AgentScope.\n\nAs Jev models continue to evolve,…",
+  "labels": [
+    "Roadmap"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
