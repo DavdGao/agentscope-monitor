@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lihongyuan99",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T13:59:22.617394Z",
+  "title": "[Bug]: xAI formatter puts a tool result's DataBlock repr, base64 payload included, into the prompt",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2750",
+  "number": 2750,
+  "body": "## Describe the bug\n\nWhen a tool result carries media, `XAIChatFormatter` puts the block's **Python repr** into the prompt — including the entire base64 payload.\n\n`src/agentscope/formatter/_xai_format…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "lihongyuan99"
+  },
+  "at_mobiles": []
+}
