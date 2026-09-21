@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T07:31:30.162293Z",
+  "title": "fix(tool): sort ripgrep output by path so Grep pagination is stable",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2726",
+  "number": 2726,
+  "body": "## AgentScope Version\n\n2.0.8 (main at 8a97dcb)\n\n## Description\n\nFixes #2709.\n\n`Grep` paginates the raw ripgrep output with `offset` / `head_limit`, and tells the caller to fetch the next page with `of…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "765823c61de875923a85cdefc3ae91aa24cbd2cf",
+    "base_ref": "main",
+    "additions": 27,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
