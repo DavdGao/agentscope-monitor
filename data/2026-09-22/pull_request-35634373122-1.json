@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Ha02hen",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T17:48:55.862438Z",
+  "title": "fix(tool): support dynamic protected preset arguments",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2756",
+  "number": 2756,
+  "body": "## AgentScope Version\n\n`2.0.8` (main)\n\n## Description\n\nFixes #1076.\n\nWhen an application needs to provide a tool argument that changes at runtime, binding the value at registration time is not suffici…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Ha02hen",
+    "head_sha": "fbb056c5950761ef108ae525642ce39dd526726c",
+    "base_ref": "main",
+    "additions": 103,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
