@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Lesereingrape",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T15:02:07.110001Z",
+  "title": "[Bug]: Truncating a long tool result drops its metadata and timestamps from the saved context",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2753#issuecomment-5762648357",
+  "number": 2753,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Lesereingrape",
+    "commenter": "Lesereingrape"
+  },
+  "at_mobiles": []
+}
