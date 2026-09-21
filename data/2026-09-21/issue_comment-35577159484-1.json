@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T08:17:58.659986Z",
+  "title": "refactor(skill): update the agentscope skill for agentscope 2.0",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2044#issuecomment-5757470616",
+  "number": 2044,
+  "body": "Implemented in [#10](https://github.com/agentscope-ai/skills/pull/10).",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
