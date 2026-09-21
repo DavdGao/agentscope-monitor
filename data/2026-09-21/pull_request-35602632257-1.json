@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lihongyuan99",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T12:58:15.457499Z",
+  "title": "fix(tool): check every sed -e expression against the denylist",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2747",
+  "number": 2747,
+  "body": "## AgentScope Version\n\n`main` at `226daf0` (2.0.8)\n\n## Description\n\n**What** — in `check_sed_constraints` (`src/agentscope/tool/_builtin/_bash_parser.py`) the `-e` / `--expression` case is now handled…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "lihongyuan99",
+    "head_sha": "3ebef7ebfcb9ce134341fa2bc60c3d5d453e0717",
+    "base_ref": "main",
+    "additions": 44,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
