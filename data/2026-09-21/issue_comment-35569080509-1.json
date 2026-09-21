@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "six-teen",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T06:34:45.799136Z",
+  "title": "[Bug]: How to solve the OpenTelemetry conflict between Agentscope and AliyunJavaAgent",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2639#issuecomment-5756366690",
+  "number": 2639,
+  "body": "> It sounds like there's a compatibility issue between AliyunJavaAgent and Agentscope when it comes to trace reporting. Have you tried checking if there's any specific configuration that might be caus…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "six-teen",
+    "commenter": "six-teen"
+  },
+  "at_mobiles": []
+}
