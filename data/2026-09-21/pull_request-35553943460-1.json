@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T02:22:17.564930Z",
+  "title": "perf(message): optimize streamed base64 accumulation",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2713",
+  "number": 2713,
+  "body": "## AgentScope Version\n\n2.0.8\n\n## Description\n\nCloses #2707.\n\nStreamed Base64 data was accumulated by decoding the complete historical\npayload, appending the latest independently encoded chunk, and re-…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "iluv7",
+    "head_sha": "85b590c0f6c8b18a398a2d3a85b7b334e5be7ac8",
+    "base_ref": "main",
+    "additions": 217,
+    "deletions": 32,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
