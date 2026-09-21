@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "JHWu1117",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T05:14:05.037092Z",
+  "title": "feat(rag): support RAGFlow in a new `RAGFlowKnowledgeBase` class rather than VDB",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2481#issuecomment-5755718339",
+  "number": 2481,
+  "body": "Hi! I'd like to work on this. Before writing code, here's my proposed design for feedback:\n\n**Design sketch**\n- Add a new `RAGFlowKnowledge` class under `src/agentscope/rag/` (e.g. `_ragflow_knowledge…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "JHWu1117"
+  },
+  "at_mobiles": []
+}
