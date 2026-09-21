@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T06:19:26.125454Z",
+  "title": "[Bug]: ApproxTokenChunker emits empty chunks for blank pages, which can fail whole-document indexing",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2685",
+  "number": 2685,
+  "body": "### Prerequisites\n\n- [x] I searched existing issues, pull requests, and discussions and did not find this bug reported.\n- [x] This is a bug, not a usage question.\n\n### Background / Description\n\n`Appro…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "iluv7"
+  },
+  "at_mobiles": []
+}
