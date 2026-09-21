@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "sxh313",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T03:50:34.072113Z",
+  "title": "fix(tool): copy the tool lists a ToolGroup is constructed with",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2721",
+  "number": 2721,
+  "body": "## AgentScope Version\n\n`2.0.8`, i.e. `main` @ `5ff52f87` (see the note below on why the branch itself starts at `27b6a0d2a2af`)\n\n## Description\n\nCloses #2708\n\n`ToolGroup.__init__` stores the list obje…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "sxh313",
+    "head_sha": "ee95cc12146a9ca0261f0adffdcae2c03a6050b4",
+    "base_ref": "main",
+    "additions": 122,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
