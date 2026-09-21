@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "wangtaotaotao95",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T09:02:54.252059Z",
+  "title": "[Bug]: Expired try_lock holder can unlock a successor lease",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2728",
+  "number": 2728,
+  "body": "### AgentScope version\n\n`main` at `226daf01`\n\n### What happened?\n\nAn expired `MessageBus.try_lock()` holder can release a successor's active lease by calling `unlock(key)` late.\n\nThis became directly …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "wangtaotaotao95"
+  },
+  "at_mobiles": []
+}
