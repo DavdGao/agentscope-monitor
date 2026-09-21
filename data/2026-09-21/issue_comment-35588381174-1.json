@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "lihongyuan99",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T10:22:32.094918Z",
+  "title": "[Bug]: Write reports one extra line whenever content ends with a newline",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2731#issuecomment-5758943369",
+  "number": 2731,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "lihongyuan99",
+    "commenter": "lihongyuan99"
+  },
+  "at_mobiles": []
+}
