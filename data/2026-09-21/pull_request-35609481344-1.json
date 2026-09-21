@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lihongyuan99",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T14:02:46.573951Z",
+  "title": "fix(formatter): fall back to the media placeholder in xAI tool results",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2751",
+  "number": 2751,
+  "body": "## AgentScope Version\n\n`main` at `226daf0` (2.0.8)\n\n## Description\n\n**What** — `_extract_result_text` in `src/agentscope/formatter/_xai_formatter.py` gains an `elif isinstance(item, DataBlock)` branch…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "lihongyuan99",
+    "head_sha": "60942c3145008f4e52f6e631a0ce2b8f35bcf24b",
+    "base_ref": "main",
+    "additions": 94,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
