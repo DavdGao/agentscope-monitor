@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T08:17:56.290350Z",
+  "title": "refactor(skill): update the agentscope skill for agentscope 2.0",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2044",
+  "number": 2044,
+  "body": "**Background**\n\nAs AgentScope evolves to 2.0, the existing skill implementations need to be updated to align with the new architecture, APIs, and conventions introduced in this major version. Without …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
