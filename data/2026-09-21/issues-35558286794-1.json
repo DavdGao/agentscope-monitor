@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Linxiushen",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T03:40:08.923392Z",
+  "title": "_json_loads_with_repair silently drops nested arguments under additionalProperties: false",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2718",
+  "number": 2718,
+  "body": "## Problem\n\n`_json_loads_with_repair` guards against `json_repair` deleting arguments under `additionalProperties: false` — the guard's own comment says dropping an argument \"is a rewrite rather than …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Linxiushen"
+  },
+  "at_mobiles": []
+}
