@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ydflow",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T15:30:05.105551Z",
+  "title": "fix(embedding): stop blocking the event loop on Gemini and DashScope calls",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2755#issuecomment-5763055184",
+  "number": 2755,
+  "body": "Thanks for the nudge — you're right, and I should have caught this before opening.\n\n#2703 by @Tsubaki-01 is the better change and I'm closing this one as a duplicate.\n\nComparing the two:\n\n- **DashScop…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "ydflow",
+    "commenter": "ydflow"
+  },
+  "at_mobiles": []
+}
