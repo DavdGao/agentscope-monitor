@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T07:26:32.261785Z",
+  "title": "fix(agent): propagate cancellation after interruption cleanup",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2650",
+  "number": 2650,
+  "body": "## AgentScope Version\n\n2.0.8\n\n## Description\n\n\nFixes #2649\n\n`ReActConfig(interruption_raise_cancelled_error=True)` is intended to propagate `asyncio.CancelledError` after AgentScope finishes handling …",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "Cryocell77",
+    "head_sha": "37b980487e8cc5c8c1ea5a2bf1464ece1a0989b3",
+    "base_ref": "main",
+    "additions": 77,
+    "deletions": 20,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
