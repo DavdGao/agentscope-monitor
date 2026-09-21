@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Lesereingrape",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T15:04:35.432396Z",
+  "title": "fix(agent): keep tool-result metadata and timestamps when truncating",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2754",
+  "number": 2754,
+  "body": "Closes #2753\n\n## AgentScope Version\n\n`2.0.8` (`src/agentscope/_version.py`), branch cut from `main` @ `226daf0`, Python 3.12.11.\n\n## Description\n\n`Agent._split_tool_result_for_compression` truncates a…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Lesereingrape",
+    "head_sha": "fd4ebcdd41b6174a6aaab0d76bc9b731f74acd43",
+    "base_ref": "main",
+    "additions": 83,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
