@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T06:45:31.671733Z",
+  "title": "fix(rag): read a Word text box once, and as its own block",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2662#issuecomment-5756476167",
+  "number": 2662,
+  "body": "@qbc2016 Plz take a look at this pull request",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "L4XB",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
