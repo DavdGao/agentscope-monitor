@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "sxh313",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T11:50:27.395729Z",
+  "title": "fix(formatter): skip audio the provider cannot encode",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2737",
+  "number": 2737,
+  "body": "## AgentScope Version\n\n`2.0.8` (branched from `main` at `226daf01`)\n\n## Description\n\n### What changed\n\n`_OpenAIFormatterBase._format_audio_source` (`src/agentscope/formatter/_openai_formatter.py:123`)…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "sxh313",
+    "head_sha": "4b4ed96df077b6710624444bd470b7cdfd10a0bf",
+    "base_ref": "main",
+    "additions": 107,
+    "deletions": 7,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
