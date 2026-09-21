@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T07:30:48.279109Z",
+  "title": "fix(middleware): prevent KeyError in budget middleware when ReplyEndEvent is swallowed",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2419",
+  "number": 2419,
+  "body": "## AgentScope Version\n\n2.0.7 (branched from main at e8c8d7b9)\n\n## Description\n\nFixes #2418.\n\n`ReplyBudgetControlMiddleware.on_reply` pops its per-reply cost counter when a\n`ReplyEndEvent` passes throu…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "Terminator666666",
+    "head_sha": "bc8023efa5fbe5729b4ff2b90fd54d21a4ed1fae",
+    "base_ref": "main",
+    "additions": 85,
+    "deletions": 32,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
