@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ZxlDragonDoctor",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T11:05:55.817963Z",
+  "title": "[Bug]:set_console_output_enabled(False) unexpectedly disables AgentScope Studio tracing/output",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1149#issuecomment-5759474180",
+  "number": 1149,
+  "body": "I'd like to take this (claim was released on 2026-09-19).\n\nAlignment with the issue's preferred direction (option 1):\n- In: decouple Studio output from console output - Studio hooks should not early-r…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "WuJiaoJue",
+    "commenter": "ZxlDragonDoctor"
+  },
+  "at_mobiles": []
+}
