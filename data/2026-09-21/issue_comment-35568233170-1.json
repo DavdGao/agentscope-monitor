@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T06:23:08.123375Z",
+  "title": "fix(formatter): reject orphaned OpenAI tool results",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2693#issuecomment-5756254469",
+  "number": 2693,
+  "body": "The reachable case in #2067 is already fixed by #2613, and the remaining shapes are not reachable from the agent loop. Also the formatter shouldn't raise here, it breaks lenient OpenAI-compatible back…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "lorenzozanee",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
