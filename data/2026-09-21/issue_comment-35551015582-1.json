@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iamsee",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T01:28:47.808109Z",
+  "title": "fix(app): resolve shared team leaders through the resource access policy",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2706#issuecomment-5754233782",
+  "number": 2706,
+  "body": "Status note for maintainers: the branch is CI-ready on my side ??`pytest tests` passes locally (2302 passed, 306 skipped on Python 3.12) and `pre-commit run --files <changed files>` is green, so the p…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "iamsee",
+    "commenter": "iamsee"
+  },
+  "at_mobiles": []
+}
