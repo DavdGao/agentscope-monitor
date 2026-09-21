@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T06:27:19.767193Z",
+  "title": "Jev Support",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2699#discussioncomment-18534832",
+  "number": 2699,
+  "body": "@windmelody We're preparing Jev-related functionalities, you can refer to the [agentscope project](https://github.com/orgs/agentscope-ai/projects/2/views/1) and related roadmap tasks in #2715",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "windmelody"
+  },
+  "at_mobiles": []
+}
