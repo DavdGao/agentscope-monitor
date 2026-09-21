@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Linxiushen",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-21T02:15:02.255258Z",
+  "title": "fix(_utils): keep nested arguments that schema-guided repair drops",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2712",
+  "number": 2712,
+  "body": "## What\n\n`_json_loads_with_repair` guards against `json_repair` deleting arguments under `additionalProperties: false`, but the guard only compared **top-level** keys. A key dropped from a **nested** …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Linxiushen",
+    "head_sha": "839ba7bf84a0835dcf2ae5825f805e8f19df2dff",
+    "base_ref": "main",
+    "additions": 69,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
