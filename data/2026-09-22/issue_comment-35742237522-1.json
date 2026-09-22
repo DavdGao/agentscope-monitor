@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "balloon72",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-22T14:43:06.602815Z",
+  "title": "[Feature]: 结构化输出支持JSON SCHEMA字符串",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1569#issuecomment-5778548067",
+  "number": 1569,
+  "body": "I'd like to work on this. The structured-output tool already validates JSON Schema dictionaries when restoring state, so I plan to reuse that path: accept a schema dict or JSON string in Agent.reply/r…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "liyunhan",
+    "commenter": "balloon72"
+  },
+  "at_mobiles": []
+}
