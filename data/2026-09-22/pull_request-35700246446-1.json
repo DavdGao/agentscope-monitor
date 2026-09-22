@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "tengjiaozhai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-22T07:34:13.618158Z",
+  "title": "fix(web-ui): reject stale HITL confirmations",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2779",
+  "number": 2779,
+  "body": "## PR Title Format\n\nPlease ensure your PR title follows the Conventional Commits format:\n- Format: `<type>(<scope>): <description>`\n- Example: `feat(memory): add redis cache support`\n- Allowed types: …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "tengjiaozhai",
+    "head_sha": "545e7a6d228bf8c34f90a87bbf2cfdec8a8614a6",
+    "base_ref": "main",
+    "additions": 324,
+    "deletions": 30,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
