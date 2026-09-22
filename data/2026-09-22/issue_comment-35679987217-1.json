@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-22T02:35:39.237831Z",
+  "title": "fix(message_bus): make try_lock and acquire_lock mutually exclusive in InMemoryMessageBus",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2711#issuecomment-5770403257",
+  "number": 2711,
+  "body": "Thanks for the PR. `try_lock` / `unlock` have no callers in the codebase, and nothing mixes the two entry points on the same key, so this inconsistency can't be hit. We shouldn't add code, and a sleep…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Linxiushen",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
