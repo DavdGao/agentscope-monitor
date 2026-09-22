@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-22T10:04:45.936695Z",
+  "title": "feat(middleware): add a new Jev-based model-router middlware",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2720",
+  "number": 2720,
+  "body": "**Background**\n\nFollowing #2717, we can now build new functionality on top of Jev models. One of the most straightforward ideas is a middleware for routing/switching between models.\n\n**Changes**\n- Add…",
+  "labels": [
+    "Roadmap"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
