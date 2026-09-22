@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-22T02:35:04.005487Z",
+  "title": "InMemoryMessageBus: try_lock and acquire_lock do not exclude each other on the same key",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2716",
+  "number": 2716,
+  "body": "## Problem\n\n`MessageBus` groups `acquire_lock` / `is_locked` / `try_lock` / `unlock` as Mode E — one distributed lock keyed by the same string — and `RedisMessageBus` implements it that way (both entr…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "Linxiushen"
+  },
+  "at_mobiles": []
+}
