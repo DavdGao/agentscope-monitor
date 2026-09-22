@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "sxh313",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-22T19:39:53.277125Z",
+  "title": "fix(tool): judge sed long options that carry an inline value",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2795#issuecomment-5782805944",
+  "number": 2795,
+  "body": "Done — the body now opens the Description with `Closes #2794`, so merging this PR closes the issue. The issue carries the runnable no-network repro; nothing else in the PR changed.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "sxh313",
+    "commenter": "sxh313"
+  },
+  "at_mobiles": []
+}
