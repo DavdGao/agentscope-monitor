@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "hahahahahayesyeseys",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-22T14:02:21.131384Z",
+  "title": "fix(mcp): follow paginated tool listings",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2784",
+  "number": 2784,
+  "body": "## What changed\n\n`MCPClient.list_raw_tools()` now follows MCP `tools/list` pagination cursors for both stateful and stateless sessions, so tools exposed after the first page are discovered and cached.…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "hahahahahayesyeseys",
+    "head_sha": "9f99fe6a85ec7d42f23ab4813644d018a9e94469",
+    "base_ref": "main",
+    "additions": 92,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
