@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-22T03:34:03.695838Z",
+  "title": "[Bug]: set_timestamp_factory is ignored by Msg, events, tasks and model responses",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2730",
+  "number": 2730,
+  "body": "## Describe the bug\n\n`agentscope.set_timestamp_factory()` is a public API (exported in `src/agentscope/__init__.py:9,20`) whose docstring says it overrides the timestamp factory \"used by all AgentScop…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "lihongyuan99"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "lihongyuan99"
+  },
+  "at_mobiles": []
+}
