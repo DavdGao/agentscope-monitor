@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "sxh313",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-22T16:00:47.771376Z",
+  "title": "[Bug]: FileEmbeddingCache deletes the whole cache when one stored batch exceeds max_cache_size",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2789",
+  "number": 2789,
+  "body": "## Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this i…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "sxh313"
+  },
+  "at_mobiles": []
+}
