@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-22T04:52:41.138212Z",
+  "title": "feat(pipeline): support leader-member delegation in a `TeamPipeline` class",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2764",
+  "number": 2764,
+  "body": "## Description\n\nCloses #2763\n\nAdds `TeamPipeline` and `TeamMember` to the `pipeline` module: a leader agent that delegates tasks to existing member agents through tool calls, without touching the `Age…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "4a4c44b64269a56dcbda673b537b03263dffee07",
+    "base_ref": "main",
+    "additions": 920,
+    "deletions": 0,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
