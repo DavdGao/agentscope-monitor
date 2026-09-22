@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-22T02:35:02.283352Z",
+  "title": "fix(message_bus): make try_lock and acquire_lock mutually exclusive in InMemoryMessageBus",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2711",
+  "number": 2711,
+  "body": "Fixes #2716\n\n## What\n\n`InMemoryMessageBus.acquire_lock()` and `InMemoryMessageBus.try_lock()` did not exclude each other on the same key. A coroutine could enter `acquire_lock`'s critical section whil…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "Linxiushen",
+    "head_sha": "b816bc68247e62282a91b4ba7279fe773868f0aa",
+    "base_ref": "main",
+    "additions": 53,
+    "deletions": 7,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
