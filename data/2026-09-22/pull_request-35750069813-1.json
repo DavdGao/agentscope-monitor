@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "balloon72",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-22T15:51:24.206593Z",
+  "title": "feat(agent): accept JSON Schema inputs for structured output",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2787",
+  "number": 2787,
+  "body": "## AgentScope Version\n\n2.0.8, based on main at `6d32be1d`.\n\n## Description\n\nFixes #1569.\n\nSchemas coming from a form builder or configuration file should not require generating a Pydantic class. `Agen…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "balloon72",
+    "head_sha": "13527039a087f914dd40ef1d430d3ea81fb70d9b",
+    "base_ref": "main",
+    "additions": 160,
+    "deletions": 15,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
