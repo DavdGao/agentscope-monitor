@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-22T03:03:37.332039Z",
+  "title": "fix(model): close xAI AsyncClient when request setup fails",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2695",
+  "number": 2695,
+  "body": "### Description\n\n`XAIChatModel._call_api()` creates a new `xai_sdk.AsyncClient` for every model invocation, but the client is only closed after `chat.sample()` in non-streaming mode or by `_parse_stre…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "iluv7"
+  },
+  "at_mobiles": []
+}
