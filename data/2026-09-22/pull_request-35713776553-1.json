@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "wangtaotaotao95",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-22T10:02:41.568885Z",
+  "title": "feat(rag): add HTTP-backed RAGFlow knowledge base",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2722",
+  "number": 2722,
+  "body": "## AgentScope Version\n\n2.0.8\n\n## Description\n\nFixes #2481.\n\nThis adds RAGFlow at the knowledge layer, where its managed parsing, chunking, indexing, and retrieval pipeline fits without pretending to b…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "wangtaotaotao95",
+    "head_sha": "f0cf37399cb636c30ec0ab8f10df1a72b5067171",
+    "base_ref": "main",
+    "additions": 1080,
+    "deletions": 17,
+    "changed_files": 8
+  },
+  "at_mobiles": []
+}
