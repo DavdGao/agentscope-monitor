@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "dafyy321-pixel",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-22T05:11:27.562904Z",
+  "title": "[Bug]: MCPClient drops tools after the first tools/list page",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2765",
+  "number": 2765,
+  "body": "### Prerequisites\n\n- [x] Existing issues and discussions have been searched for this problem.\n- [x] This is a bug report, not a usage question.\n\n### Background / Description\n\n`MCPClient` discovers onl…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "dafyy321-pixel"
+  },
+  "at_mobiles": []
+}
