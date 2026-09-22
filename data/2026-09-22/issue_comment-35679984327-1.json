@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-22T02:35:02.140508Z",
+  "title": "fix(web_ui): clear stuck running sessions in the sidebar and history",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2663#issuecomment-5770402966",
+  "number": 2663,
+  "body": "Thanks for the PR. The web UI on main doesn't have a running indicator in the sidebar, so the stuck spinner described here doesn't exist. The indicator, the polling and the stop menu item are new feat…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "lwylab",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
