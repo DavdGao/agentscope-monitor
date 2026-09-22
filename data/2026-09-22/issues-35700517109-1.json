@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "gagaducko",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-22T07:37:24.358242Z",
+  "title": "[Bug]: DeepSeek formatters discard supported image DataBlocks for deepseek-flash",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2780",
+  "number": 2780,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [
+    "Bug"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "gagaducko"
+  },
+  "at_mobiles": []
+}
