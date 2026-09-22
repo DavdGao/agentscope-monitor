@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-22T03:19:12.853519Z",
+  "title": "fix(agent): retry pristine streaming failures",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2762",
+  "number": 2762,
+  "body": "## AgentScope Version\n\n2.0.8\n\n## Description\n\nFixes #2757.\n\nStreaming iteration errors currently occur after `Agent._call_model()` has returned, so they bypass `ModelConfig.max_retries` and `fallback_…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "iluv7",
+    "head_sha": "3b00371b82128ee03e92f4e1c20bcfddc3a5609c",
+    "base_ref": "main",
+    "additions": 210,
+    "deletions": 73,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
