@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-22T03:22:18.529992Z",
+  "title": "fix(embedding): avoid blocking the event loop",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2703",
+  "number": 2703,
+  "body": "## AgentScope Version\n\n2.0.8\n\n## Description\n\nFixes #2702.\n\nGemini and DashScope embedding requests currently block the event loop and serialize batches dispatched through `asyncio.gather`. Use Gemini…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "Tsubaki-01",
+    "head_sha": "454245af24ca77208e9a28ab0637af7d21778d75",
+    "base_ref": "main",
+    "additions": 40,
+    "deletions": 5,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
