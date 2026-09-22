@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "wangtaotaotao95",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-22T05:56:39.634588Z",
+  "title": "fix(workflows): preserve first issues under quota",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2772",
+  "number": 2772,
+  "body": "## Summary\n\n- count only older issues when applying the cap to a newly opened issue\n- keep the existing all-other-open-issues behavior for reopened issues\n- report the same action-specific count in th…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "wangtaotaotao95",
+    "head_sha": "a57e8d1df68a304a6249c7da56ffb8751f3e1919",
+    "base_ref": "main",
+    "additions": 9,
+    "deletions": 2,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
