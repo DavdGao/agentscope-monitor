@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Shy7777",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-22T09:48:48.248151Z",
+  "title": "QdrantStore float metadata equality filters raise ValidationError",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2782",
+  "number": 2782,
+  "body": "### Describe the bug\n\nQdrantStore can store floating-point metadata, but filtering on the same value raises a Pydantic ValidationError before the query reaches Qdrant. This affects search, document li…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Shy7777"
+  },
+  "at_mobiles": []
+}
