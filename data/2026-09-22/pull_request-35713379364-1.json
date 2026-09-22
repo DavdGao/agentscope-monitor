@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Shy7777",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-22T09:58:33.659540Z",
+  "title": "fix(rag): support float metadata filters in Qdrant",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2783",
+  "number": 2783,
+  "body": "## AgentScope Version\n\n2.0.8, based on `00d295b9`.\n\n## Description\n\nFixes #2782.\n\nA chunk can be stored with `metadata={\"confidence\": 0.75}`, but querying that same value currently fails with a `Match…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Shy7777",
+    "head_sha": "d1a0b8378b408e01456dfb1ab2df6b29365be021",
+    "base_ref": "main",
+    "additions": 117,
+    "deletions": 7,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
