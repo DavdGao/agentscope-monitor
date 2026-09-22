@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-22T03:03:43.268645Z",
+  "title": "fix(model): close xAI client on setup failures",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2696",
+  "number": 2696,
+  "body": "## AgentScope Version\n\n2.0.8\n\n## Description\n\nCloses #2695\n\n`XAIChatModel` creates a per-request asynchronous gRPC client. If request setup or non-stream response parsing raises an exception, the clie…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "iluv7",
+    "head_sha": "becdc5d34a06a039727d092d25122f5c35ebcebd",
+    "base_ref": "main",
+    "additions": 166,
+    "deletions": 37,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
