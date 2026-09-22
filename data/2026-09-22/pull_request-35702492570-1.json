@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "tengjiaozhai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-22T08:00:47.663613Z",
+  "title": "fix(web-ui): reject stale HITL confirmations",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2779",
+  "number": 2779,
+  "body": "## AgentScope Version\n\n2.0.8\n\n## Description\n\n### Problem\n\nA session could keep displaying an old human-in-the-loop confirmation after the reply had already finished. Sending another message while a B…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "tengjiaozhai",
+    "head_sha": "bf5d28ff73f4ea8b84d67c3523e92ee4de4d5b70",
+    "base_ref": "main",
+    "additions": 416,
+    "deletions": 32,
+    "changed_files": 8
+  },
+  "at_mobiles": []
+}
