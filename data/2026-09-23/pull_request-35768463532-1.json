@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "sxh313",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-22T18:38:18.271879Z",
+  "title": "fix(middleware): stop inheriting the previous reply's routed model",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2793",
+  "number": 2793,
+  "body": "## AgentScope Version\n\n2.0.8 (`upstream/main` @ `6d32be1d`)\n\n## Description\n\nCloses #2792.\n\n`ModelRouterMiddleware.on_reply()` restores the route of a resumed reply by looking `agent.state.reply_id` u…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "sxh313",
+    "head_sha": "e6668d8d659bc915ca2bbdbc55c0032630baa5b0",
+    "base_ref": "main",
+    "additions": 64,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
