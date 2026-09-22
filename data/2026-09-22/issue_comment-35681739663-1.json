@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-22T03:03:36.021912Z",
+  "title": "fix(model): close xAI AsyncClient when request setup fails",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2695#issuecomment-5770613103",
+  "number": 2695,
+  "body": "Thanks for the clarification. I understand that the steps before sample/stream only build protos locally, that the gRPC channels are lazy, and that abandoned channels are cleaned up during garbage col…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "iluv7",
+    "commenter": "iluv7"
+  },
+  "at_mobiles": []
+}
