@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "chenhz01",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-22T06:46:00.157881Z",
+  "title": "[Bug]: TaskUpdate accepts cyclic and completed task dependencies",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2710#issuecomment-5772305869",
+  "number": 2710,
+  "body": "javacaoyu has claimed this (assign bot-confirmed, until 2026-10-05) and iluv7 independently reproduced all three cases — the graph-invariant contract below is what that fix should assert, for whoever …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "helloJamest",
+    "commenter": "chenhz01"
+  },
+  "at_mobiles": []
+}
