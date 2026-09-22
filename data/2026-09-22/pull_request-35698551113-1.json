@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Shy7777",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-22T07:13:53.377465Z",
+  "title": "fix(memory): deduplicate selected files before limiting retrieval",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2776",
+  "number": 2776,
+  "body": "## AgentScope Version\n\n2.0.8, based on `00d295b9`.\n\n## Description\n\nFixes #2775.\n\nThe filesystem memory selector can return a filename more than once. Each occurrence currently adds another copy of th…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Shy7777",
+    "head_sha": "1995e5fdd253a862d31cc98afab3f22912b2e63e",
+    "base_ref": "main",
+    "additions": 85,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
