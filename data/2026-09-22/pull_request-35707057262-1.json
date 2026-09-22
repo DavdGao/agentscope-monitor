@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-22T08:51:14.084368Z",
+  "title": "feat(classifier): add Jev support and chat model routing middleware",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2758",
+  "number": 2758,
+  "body": "## AgentScope Version\n\n2.0.8\n\n## Description\n\nIntroduce a provider-independent classifier model abstraction, add Jev support through the TypeSafe SDK, and provide middleware for routing each agent rep…",
+  "labels": [
+    "pr/awaiting-changes"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "f6e485bc6f584fbfce61715635ce96d8419d271b",
+    "base_ref": "main",
+    "additions": 1283,
+    "deletions": 0,
+    "changed_files": 15
+  },
+  "at_mobiles": []
+}
