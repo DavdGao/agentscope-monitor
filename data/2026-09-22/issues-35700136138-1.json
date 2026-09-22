@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "tengjiaozhai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-22T07:32:51.966297Z",
+  "title": "[Bug]: stale HITL confirmation can resume a resolved reply",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2778",
+  "number": 2778,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [
+    "Bug"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "tengjiaozhai"
+  },
+  "at_mobiles": []
+}
