@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "wangtaotaotao95",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-22T05:51:45.532653Z",
+  "title": "[Bug]: concurrent quota jobs can close issues within the first five",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2771#issuecomment-5771826068",
+  "number": 2771,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "wangtaotaotao95",
+    "commenter": "wangtaotaotao95"
+  },
+  "at_mobiles": []
+}
