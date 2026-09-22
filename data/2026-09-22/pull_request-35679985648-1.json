@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-22T02:35:02.453464Z",
+  "title": "fix(web_ui): clear stuck running sessions in the sidebar and history",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2663",
+  "number": 2663,
+  "body": "## Summary\n- Soft-poll `useSessions` every 4s while any session has `is_running=true`, so abandoning a hung run (e.g. unreachable local model) and starting a new chat does not leave a permanent sideba…",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "lwylab",
+    "head_sha": "d97068fd8845d9b775b2133fffa2c4dc24c5c0ee",
+    "base_ref": "main",
+    "additions": 89,
+    "deletions": 3,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
