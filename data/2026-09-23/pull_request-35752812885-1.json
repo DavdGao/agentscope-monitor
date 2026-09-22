@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "wxxlamp",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-22T16:14:54.144423Z",
+  "title": "fix(channel): secure approval card decisions",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2791",
+  "number": 2791,
+  "body": "## AgentScope Version\n\n2.0.8\n\n## Description\n\nFixes #2522\nFixes #2373\n\nThis PR fixes two related issues in channel tool approval:\n\n- Discord approval buttons are now handled by the listener-side clien…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "wxxlamp",
+    "head_sha": "a99ff6eddcbde52693a3d44d2e97042f57c0ca32",
+    "base_ref": "main",
+    "additions": 1119,
+    "deletions": 219,
+    "changed_files": 20
+  },
+  "at_mobiles": []
+}
