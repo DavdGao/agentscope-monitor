@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "dafyy321-pixel",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-22T05:12:30.535297Z",
+  "title": "fix(agent): preserve cancellation before concurrent tool execution",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2768",
+  "number": 2768,
+  "body": "## AgentScope Version\n\nBased on `main` at `00d295b9d7232edf2034f25a2bd9c94016bb3880` (version field: `2.0.8`).\n\n## Description\n\nFixes #2767.\n\nA reply can be cancelled while `on_acting` middleware is w…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "dafyy321-pixel",
+    "head_sha": "bcf40793f935f6069b696ee7024fb9c09460826a",
+    "base_ref": "main",
+    "additions": 309,
+    "deletions": 13,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
