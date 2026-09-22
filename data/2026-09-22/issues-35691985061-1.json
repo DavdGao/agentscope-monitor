@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "wangtaotaotao95",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-22T05:46:00.413760Z",
+  "title": "[Bug]: concurrent quota jobs can close issues within the first five",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2771",
+  "number": 2771,
+  "body": "### Description\n\nThe quota job added in #2761 can close issues that were within the first five when several `issues.opened` workflow runs overlap.\n\nEach run lists the author's current open issues and …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "wangtaotaotao95"
+  },
+  "at_mobiles": []
+}
