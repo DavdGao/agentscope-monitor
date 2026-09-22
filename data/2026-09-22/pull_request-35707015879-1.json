@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "javacaoyu",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-22T08:50:50.191425Z",
+  "title": "fix(tool): reject invalid task dependency edges in TaskUpdate",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2719",
+  "number": 2719,
+  "body": "## Summary\n\n`TaskUpdate` accepted dependency edges that can never be satisfied: a task could block itself, two or more tasks could form a dependency cycle, and a completed task could be introduced as …",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "javacaoyu",
+    "head_sha": "81a850ddbfc0f4c0bc37e61b20ae77603b98de71",
+    "base_ref": "main",
+    "additions": 704,
+    "deletions": 7,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
