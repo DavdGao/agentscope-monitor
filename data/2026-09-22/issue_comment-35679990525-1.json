@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-22T02:35:03.720477Z",
+  "title": "InMemoryMessageBus: try_lock and acquire_lock do not exclude each other on the same key",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2716#issuecomment-5770403635",
+  "number": 2716,
+  "body": "Closing together with #2711: `try_lock` / `unlock` have no callers, so the two entry points are never mixed on one key in practice.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Linxiushen",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
