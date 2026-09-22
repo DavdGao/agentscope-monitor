@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-22T10:04:42.649554Z",
+  "title": "feat(jev): add Jev base model in agentscope",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2717",
+  "number": 2717,
+  "body": "**Background**\n\nAs described in #2715, we need to introduce a new base model class to support Jev-like models.\n\n**Changes**\n\n- Added a new `classifier` directory under `src/agentscope`, along with a n…",
+  "labels": [
+    "Roadmap"
+  ],
+  "assignees": [
+    "qbc2016"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
