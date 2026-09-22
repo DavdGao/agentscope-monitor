@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "dafyy321-pixel",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-22T05:11:55.923839Z",
+  "title": "fix(mcp): discover tools across all pagination pages",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2766",
+  "number": 2766,
+  "body": "## AgentScope Version\n\nBased on `main` at `00d295b9d7232edf2034f25a2bd9c94016bb3880` (version field: `2.0.8`).\n\n## Description\n\nFixes #2765.\n\nWhen an MCP server paginates `tools/list`, the SDK returns…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "dafyy321-pixel",
+    "head_sha": "dfae88581a8f6af099c416c0089c9ed85f6a2ee5",
+    "base_ref": "main",
+    "additions": 228,
+    "deletions": 6,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
