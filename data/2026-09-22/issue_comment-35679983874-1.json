@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-22T02:34:56.709994Z",
+  "title": "fix(model): close xAI AsyncClient when request setup fails",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2695#issuecomment-5770402806",
+  "number": 2695,
+  "body": "Thanks for the report. I checked the steps between `AsyncClient(...)` and the `try/finally`: `formatter.format`, `_format_tools`, `chat.create` and `chat.append` only build protos locally, there is no…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "iluv7",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
