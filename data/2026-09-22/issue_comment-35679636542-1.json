@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-22T02:29:32.925374Z",
+  "title": "feat(rag): add RAGFlowKnowledge knowledge-layer backend",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2485#issuecomment-5770364098",
+  "number": 2485,
+  "body": "Thanks a lot for the contribution! This PR figured out how a RAGFlow knowledge base should look in AgentScope, and that it belongs to the knowledge layer rather than the vector store layer, which set …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "ConcaSun",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
