@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "AmirF194",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-22T19:37:05.703857Z",
+  "title": "[Bug]: MCPClient.close() can tear down a session while a call through a previously-vended MCPTool is still in flight",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2796",
+  "number": 2796,
+  "body": "### Background / Description\n\n`MCPClient.close()` (`src/agentscope/mcp/_mcp_client.py`) calls `self._stack.aclose()` immediately when invoked, with no coordination against a tool call that is already …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "AmirF194"
+  },
+  "at_mobiles": []
+}
