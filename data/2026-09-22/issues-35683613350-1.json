@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-22T03:33:58.660703Z",
+  "title": "[Bug]: Write reports one extra line whenever content ends with a newline",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2731",
+  "number": 2731,
+  "body": "## Describe the bug\n\nThe `Write` tool reports a line count that is one too high for any content ending in a newline — which is almost every file an agent writes.\n\n`src/agentscope/tool/_builtin/_write.…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "lihongyuan99"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "lihongyuan99"
+  },
+  "at_mobiles": []
+}
