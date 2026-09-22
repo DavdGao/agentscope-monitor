@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "sxh313",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-22T15:51:50.772730Z",
+  "title": "fix(credential): register the TypeSafe credential and reject chat-less providers",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2788",
+  "number": 2788,
+  "body": "## AgentScope Version\n\n2.0.8 (base commit `6d32be1d`)\n\n## Description\n\nCloses #2786.\n\n#2758 added `TypeSafeCredential`, exported it from `agentscope.credential`, and made it the credential type `JevCl…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "sxh313",
+    "head_sha": "55ab4992b9ba41b89595470852e5a8a6a9af64d8",
+    "base_ref": "main",
+    "additions": 183,
+    "deletions": 3,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
