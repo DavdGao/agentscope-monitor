@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "sanjana658",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-23T05:26:47.508542Z",
+  "title": "[Bug]: ContextConfig does not check summary_template against summary_schema, so a trimmed schema crashes compression with KeyError",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2668#issuecomment-5789578791",
+  "number": 2668,
+  "body": "I noticed that PR #2669 is already linked to this issue and addresses the reported bug.\n\nI don't want to duplicate the existing work. Please let me know if there is any remaining work I can help with …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "wangtaotaotao95",
+    "commenter": "sanjana658"
+  },
+  "at_mobiles": []
+}
