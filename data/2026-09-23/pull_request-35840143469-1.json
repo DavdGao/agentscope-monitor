@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-23T08:58:16.805776Z",
+  "title": "fix(tool): judge sed long options that carry an inline value",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2795",
+  "number": 2795,
+  "body": "## PR Title Format\n\n`fix(tool): judge sed long options that carry an inline value`\n\n## AgentScope Version\n\n2.0.8 (`main` @ `6d32be1d`)\n\n## Description\n\nCloses #2794.\n\n**Background** — `BashCommandPars…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "sxh313",
+    "head_sha": "fb07e77109917fd522405f486d04f6836ec9eaa4",
+    "base_ref": "main",
+    "additions": 77,
+    "deletions": 7,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
