@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "sanjana658",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-23T04:56:22.820936Z",
+  "title": "[Bug]: repeated memory selections consume the distinct-file retrieval budget",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2775#issuecomment-5789297440",
+  "number": 2775,
+  "body": "Hi! I'd like to work on this issue as a contribution.\n\nI can implement the filename deduplication before applying the five-file limit and add the corresponding regression test in the existing filesyst…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Shy7777",
+    "commenter": "sanjana658"
+  },
+  "at_mobiles": []
+}
