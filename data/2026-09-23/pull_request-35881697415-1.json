@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "YxinMiracle",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-23T15:27:55.161105Z",
+  "title": "fix(app): reject non-user roles at the chat boundary",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2815",
+  "number": 2815,
+  "body": "## AgentScope Version\n\n2.0.8, based on `main` at `083cbd1975c7b5ed055c69b0d19c150727e7f606`.\n\n## Description\n\nFixes #2813.\n\n### Problem\n\nThe public `POST /chat/` endpoint accepts `Msg` and `list[Msg]`…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "YxinMiracle",
+    "head_sha": "01c8ec44a436edef75d7d031f59b3104a803840e",
+    "base_ref": "main",
+    "additions": 115,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
