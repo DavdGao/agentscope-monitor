@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Lesereingrape",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-23T02:30:00.383327Z",
+  "title": "[Bug]: MCP tool results containing resource_link blocks are silently dropped",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2798",
+  "number": 2798,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Lesereingrape"
+  },
+  "at_mobiles": []
+}
