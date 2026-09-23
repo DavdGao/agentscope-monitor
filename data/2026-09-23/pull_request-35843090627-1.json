@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Lesereingrape",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-23T09:28:05.041654Z",
+  "title": "fix(message): keep a copy of the usage appended to a message",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2805",
+  "number": 2805,
+  "body": "## What this PR does\n\n`Msg.append_usage()` now accumulates a **copy** of the `Usage` it is handed, so a\nmessage never adopts the caller's object.\n\n`append_usage` is the accumulate-over-many-model-call…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Lesereingrape",
+    "head_sha": "81be210edfb96b7ecd0044cf006d2dd46e738a5b",
+    "base_ref": "main",
+    "additions": 83,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
