@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "sxh313",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-23T09:18:55.709548Z",
+  "title": "fix(workspace): skip agentscope deps when building the gateway image",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2803",
+  "number": 2803,
+  "body": "## PR Title Format\n\n(conventional commit; `fix` + `workspace` scope, lowercase subject)\n\n## AgentScope Version\n\n`2.0.8` (branch cut from `main` @ `6d32be1d`, applies cleanly to `083cbd19`), Python 3.1…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "sxh313",
+    "head_sha": "9bd113282a462866c8c4bd0082e9b6df33c9cf8a",
+    "base_ref": "main",
+    "additions": 100,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
