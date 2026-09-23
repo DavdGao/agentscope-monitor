@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "kg290",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-23T05:16:46.537917Z",
+  "title": "[Bug]: MCPClient.close() can tear down a session while a call through a previously-vended MCPTool is still in flight",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2796#issuecomment-5789495071",
+  "number": 2796,
+  "body": "I'd like to take this one. I plan to make close() wait for in-flight calls before tearing down the stack, by tracking calls made through the vended tools as well as the client's own session calls. Tes…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "AmirF194",
+    "commenter": "kg290"
+  },
+  "at_mobiles": []
+}
