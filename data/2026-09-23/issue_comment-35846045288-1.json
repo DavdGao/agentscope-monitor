@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Lesereingrape",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-23T09:58:31.394802Z",
+  "title": "[Bug]: XAIMultiAgentFormatter drops all media despite declaring image support",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2806#issuecomment-5792772142",
+  "number": 2806,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "kbkb628",
+    "commenter": "Lesereingrape"
+  },
+  "at_mobiles": []
+}
