@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "samvallad33",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-23T09:22:12.318823Z",
+  "title": "[Feature] Emit SSE event before/after compress_context() for better UX",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2144#issuecomment-5792276103",
+  "number": 2144,
+  "body": "Emitting SSE events before and after compress_context would surface silent compress gaps in the UX. Without them, clients cannot tell compress started or finished. Are before and after events on the r…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "CGeekhl",
+    "commenter": "samvallad33"
+  },
+  "at_mobiles": []
+}
