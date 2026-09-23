@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "kg290",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-23T06:13:33.034256Z",
+  "title": "Fix MCPClient.close() coordinating with in-flight session calls",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2800",
+  "number": 2800,
+  "body": "# PR: Fix MCPClient.close() tearing down session mid-in-flight call  **Issue**: [agentscope-ai/agentscope#2796](https://github.com/agentscope-ai/agentscope/issues/2796) > `MCPClient.close()` can tear …",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "kg290",
+    "head_sha": "0c31b37d055499e623d71319b0b29cdffc056001",
+    "base_ref": "main",
+    "additions": 362,
+    "deletions": 7,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
