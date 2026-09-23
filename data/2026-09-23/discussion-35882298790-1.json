@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "somnus-J-307",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-23T15:32:35.410706Z",
+  "title": "Proposal: permission-aware image analysis tools example",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2816",
+  "number": 2816,
+  "body": "## Problem\n\nUsers who want an agent to perform deterministic operations on a local image\nneed a reference for connecting image-processing functions to AgentScope tools.\nThe example should show how to …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "somnus-J-307"
+  },
+  "at_mobiles": []
+}
