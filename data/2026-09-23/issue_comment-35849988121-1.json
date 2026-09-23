@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "samvallad33",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-23T10:39:32.394035Z",
+  "title": "feat(webui): display current context length and compression threshold",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1845#issuecomment-5793339288",
+  "number": 1845,
+  "body": "Web UI showing current context length and compression threshold makes silent compaction visible before history disappears. Operators need the meter to trust the store. Are you displaying live context …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "samvallad33"
+  },
+  "at_mobiles": []
+}
