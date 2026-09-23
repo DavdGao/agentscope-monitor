@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-23T08:21:26.804577Z",
+  "title": "fix(embedding): keep the cache when a batch cannot fit its size limit",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2790",
+  "number": 2790,
+  "body": "## AgentScope Version\n\n2.0.8 (base commit `6d32be1d`)\n\n## Description\n\nCloses #2789.\n\n`FileEmbeddingCache.store()` writes the new file and then evicts oldest-first until the directory fits `max_cache_…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "sxh313",
+    "head_sha": "ecea77a202edac107b3dd84bb53603dd2a1dc191",
+    "base_ref": "main",
+    "additions": 122,
+    "deletions": 5,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
