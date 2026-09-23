@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "review_requested",
+  "action_cn": "请求审核",
+  "sender": "CCColastic",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-23T10:24:26.855211Z",
+  "title": "fix(agent): validate summary template against schema",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2807",
+  "number": 2807,
+  "body": "Fixes #2668.\n\nContextConfig currently accepts a summary_schema that omits fields referenced by summary_template, so compression later fails with KeyError. Validate named template fields when the confi…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "CCColastic",
+    "head_sha": "c74865cc3dbfd2e9058b15ea750dd604e8e5d410",
+    "base_ref": "main",
+    "additions": 45,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
