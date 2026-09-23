@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "sanjana658",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-23T05:21:20.537347Z",
+  "title": "[Bug]: ContextConfig does not check summary_template against summary_schema, so a trimmed schema crashes compression with KeyError",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2668#issuecomment-5789532113",
+  "number": 2668,
+  "body": "Hi! I'd like to work on this issue as an open-source contribution.\n\nI can add validation to ensure that all fields referenced by\nsummary_template are present in summary_schema, along with regression\nt…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "wangtaotaotao95",
+    "commenter": "sanjana658"
+  },
+  "at_mobiles": []
+}
