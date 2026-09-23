@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "samvallad33",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-23T09:21:39.808298Z",
+  "title": "[Bug]: a SKILL.md saved as UTF-8 with a BOM is silently skipped",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2732#issuecomment-5792269614",
+  "number": 2732,
+  "body": "A SKILL md saved as UTF-8 with a BOM being silently skipped hides a load failure behind an empty skill set. Operators think the skill shipped while BOM blocked parse. Can BOM-tolerant loading or a lou…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "lihongyuan99",
+    "commenter": "samvallad33"
+  },
+  "at_mobiles": []
+}
