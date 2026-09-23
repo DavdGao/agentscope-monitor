@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Lesereingrape",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-23T02:39:59.637647Z",
+  "title": "fix(mcp): keep resource_link tool results instead of dropping them",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2799",
+  "number": 2799,
+  "body": "Closes #2798\n\n## Problem\n\n`MCPTool._convert_mcp_content_to_blocks` (`src/agentscope/tool/_adapters.py:359`) converts the\n`content` list of an MCP `CallToolResult`. The SDK types that list as\n\n```pytho…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Lesereingrape",
+    "head_sha": "99a12ccc2b5ca2206330e578a9681c0ab6127bfc",
+    "base_ref": "main",
+    "additions": 65,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
