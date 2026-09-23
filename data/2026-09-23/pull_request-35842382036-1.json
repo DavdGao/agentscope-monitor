@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "kbkb628",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-23T09:20:54.555222Z",
+  "title": "fix(model): align model card media types with formatter support",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2804",
+  "number": 2804,
+  "body": "# fix(model): align model card media types with formatter support\n\n## Summary\n\nA model card's `input_types` and the formatter that serves it are two independent\nsources of truth, and they have drifted…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "kbkb628",
+    "head_sha": "c62e57109302976dca2c15955977a1ac99f0212a",
+    "base_ref": "main",
+    "additions": 79,
+    "deletions": 14,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
