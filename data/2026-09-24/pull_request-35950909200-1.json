@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "wangtaotaotao95",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-24T03:18:48.457412Z",
+  "title": "fix(formatter): respect xAI image input types",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2823",
+  "number": 2823,
+  "body": "## AgentScope Version\n\nCurrent `main` (`2c885b58`)\n\n## Description\n\nFixes #2820.\n\nThe xAI formatters declared JPEG and PNG support but forwarded every `image/*` block. This makes the common xAI image …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "wangtaotaotao95",
+    "head_sha": "4bb4c0e7874f5bc1cc4bcb73bbe2fbacc1327976",
+    "base_ref": "main",
+    "additions": 75,
+    "deletions": 37,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
