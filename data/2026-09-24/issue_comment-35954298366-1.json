@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-24T04:07:35.720906Z",
+  "title": "fix(formatter): preserve deepseek-flash image inputs",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2785#issuecomment-5807446788",
+  "number": 2785,
+  "body": "Thanks for working on this. The overall direction—preserving image inputs in the DeepSeek formatter—is correct.\n\nWe have opened #2825, which incorporates this fix and completes the remaining multimoda…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "gagaducko",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
