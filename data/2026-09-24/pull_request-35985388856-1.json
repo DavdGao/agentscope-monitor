@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-24T10:07:37.281184Z",
+  "title": "fix(workspace): deregister stateless MCPs from sandbox gateway",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2777",
+  "number": 2777,
+  "body": "## AgentScope Version\n\n2.0.8\n\n## Description\n\nEnsure stateless MCP clients are deregistered from the sandbox Gateway when removed.\n\nThe removal flow now closes every connected Gateway client before de…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "23b6016d86107f143f3b80ca5f8ec31af0aa076d",
+    "base_ref": "main",
+    "additions": 47,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
