@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "MannXo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-24T18:37:05.719002Z",
+  "title": "feat(channel): add WeCom channel support",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2266#issuecomment-5819964719",
+  "number": 2266,
+  "body": "Merged main (d2fd1bdf, no conflicts) and fixed the same `list_tools` contract break you found on #2267. `ChatService` now calls `channel.list_tools(workspace, channel_user_id)`, and the WeCom override…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "MannXo",
+    "commenter": "MannXo"
+  },
+  "at_mobiles": []
+}
