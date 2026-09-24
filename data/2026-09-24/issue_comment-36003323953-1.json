@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "nanami7777777",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-24T13:05:51.590419Z",
+  "title": "Avoid unconditional MCP gateway bootstrap for workspaces that do not use MCP",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2113#issuecomment-5814687828",
+  "number": 2113,
+  "body": "I would like to work on this issue using Codex, with a focused change that separates base Glob/Grep setup from MCP gateway setup and starts the gateway only when MCPs are configured or first added. I …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "jwx0925",
+    "commenter": "nanami7777777"
+  },
+  "at_mobiles": []
+}
