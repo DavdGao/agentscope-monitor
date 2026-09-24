@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ZxlDragonDoctor",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-24T16:15:29.589632Z",
+  "title": "fix(message-bus): make try_lock unlock ownership-safe",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2752#issuecomment-5817846479",
+  "number": 2752,
+  "body": "Closing in favor of #2729 by @wangtaotaotao95, which already addresses #2728 and is the better landing vehicle.\n\nCompared with this PR, #2729:\n- was opened first and matches the reporter's ownership-t…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "ZxlDragonDoctor",
+    "commenter": "ZxlDragonDoctor"
+  },
+  "at_mobiles": []
+}
