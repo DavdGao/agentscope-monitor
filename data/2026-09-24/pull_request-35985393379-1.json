@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-24T10:07:40.008511Z",
+  "title": "fix(rag): keep text inside nested Word tables",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2759",
+  "number": 2759,
+  "body": "Fixes #2760.\n\n## Summary\n\n- keep the text of a table nested inside another table cell instead of silently dropping it\n\n## Why\n\n`_extract_table_data` collected a cell's text with `tc.findall(qn(\"w:p\"))…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "ydflow",
+    "head_sha": "4a16631de82fce3e3d15fa6cc059422ccc6b4107",
+    "base_ref": "main",
+    "additions": 53,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
