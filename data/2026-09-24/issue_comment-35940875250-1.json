@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "kabishou11",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-24T00:59:07.029789Z",
+  "title": "fix(agent): correct getter lifecycle and teardown queue for realtime stream (#2671)",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2817#issuecomment-5805532110",
+  "number": 2817,
+  "body": "Closing as accidental duplicate of #2671.\n\n#2671 already implements @DavdGao's review direction (getter once before the loop; deque + Event; appendleft for completed-but-unyielded events) with regress…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "kabishou11",
+    "commenter": "kabishou11"
+  },
+  "at_mobiles": []
+}
