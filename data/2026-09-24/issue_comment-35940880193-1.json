@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "kabishou11",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-24T00:59:12.833653Z",
+  "title": "fix(agent): release reply_stream queue getter on cancel",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2671#issuecomment-5805532878",
+  "number": 2671,
+  "body": "Heads-up: I accidentally opened a duplicate follow-up as #2817 while iterating on review feedback. That PR is closed. Current head here (`3041ba5d`) remains the intended redesign from the earlier repl…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "kabishou11",
+    "commenter": "kabishou11"
+  },
+  "at_mobiles": []
+}
