@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-24T10:14:20.801054Z",
+  "title": "[Bug]: repeated memory selections consume the distinct-file retrieval budget",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2775",
+  "number": 2775,
+  "body": "## Prerequisites\n\n- [x] I searched existing issues, discussions and pull requests for this problem.\n- [x] This is a reproducible bug.\n\n## Background / Description\n\n`AgenticMemoryMiddleware` accepts re…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "sanjana658"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "Shy7777"
+  },
+  "at_mobiles": []
+}
