@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-24T09:39:04.817837Z",
+  "title": "[Docs]: contributing guides use full-width colons in commit examples and misdescribe the ci: type",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2812",
+  "number": 2812,
+  "body": "## Background\n\nTwo documentation defects in the contributing guides that affect anyone following them, since the PR title check workflow enforces the format they describe.\n\n## 1. `CONTRIBUTING_zh.md` …",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "yc2bgr8"
+  },
+  "at_mobiles": []
+}
