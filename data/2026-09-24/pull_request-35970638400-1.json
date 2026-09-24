@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "wuwenbo0626",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-24T07:37:51.607511Z",
+  "title": "feat(middleware): add classifier confidence fallback",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2828",
+  "number": 2828,
+  "body": "> [!IMPORTANT]\n> This PR may conflict with #2793 because both change `ModelRouterMiddleware`. If a conflict occurs, please @wuwenbo0626; I will rebase and resolve it promptly.\n\nRefs #2715.\n\n## AgentSc…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "wuwenbo0626",
+    "head_sha": "2edadd795d59772f5d950d05c8520a4c56fd2b1c",
+    "base_ref": "main",
+    "additions": 81,
+    "deletions": 7,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
