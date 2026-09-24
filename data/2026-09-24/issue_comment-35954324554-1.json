@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-24T04:07:57.334330Z",
+  "title": "fix(model): align model card media types with formatter support",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2804#issuecomment-5807450052",
+  "number": 2804,
+  "body": "Thanks for carefully identifying and tracing the mismatch between the model cards and the formatters.\n\nAfter further verification, the media types declared by the model cards reflect the actual provid…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "kbkb628",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
