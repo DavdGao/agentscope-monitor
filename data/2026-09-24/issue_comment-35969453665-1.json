@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "wuwenbo0626",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-24T07:24:48.681610Z",
+  "title": "feat(jev): support Jev model in agentscope",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2715#issuecomment-5809707186",
+  "number": 2715,
+  "body": "I am working on a focused follow-up for the Jev-based model router: an optional minimum confidence threshold for classifier-backed routing. When the returned `ChoiceAnswer.confidence` is below the thr…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "wuwenbo0626"
+  },
+  "at_mobiles": []
+}
