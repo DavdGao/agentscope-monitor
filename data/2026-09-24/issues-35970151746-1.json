@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lihongyuan99",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-24T07:32:27.152255Z",
+  "title": "[Bug]: Glob/Grep permission rules never cover the directory they are suggested for",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2826",
+  "number": 2826,
+  "body": "## Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this i…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "lihongyuan99"
+  },
+  "at_mobiles": []
+}
