@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Yongthyuan",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-24T02:44:30.660436Z",
+  "title": "[Bug]: ExcelParser changes text identifiers and drops literal NA-like values",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2818",
+  "number": 2818,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [
+    "Bug"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Yongthyuan"
+  },
+  "at_mobiles": []
+}
