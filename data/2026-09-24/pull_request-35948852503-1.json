@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-24T02:49:25.907976Z",
+  "title": "fix(formatter): forward the images of collapsed messages in xAI multi-agent history",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2808",
+  "number": 2808,
+  "body": "## AgentScope Version\n\n`2.0.8` — `import agentscope; print(agentscope.__version__)` on this PR's base\ncommit `083cbd1`.\n\n## What this PR does\n\n`XAIMultiAgentFormatter.format()` now forwards the images…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "Lesereingrape",
+    "head_sha": "8316f5f25fcb041ff99d7d6bf26ec115a68b679a",
+    "base_ref": "main",
+    "additions": 130,
+    "deletions": 71,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
