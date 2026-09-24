@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "sunrong1",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-24T08:03:57.950096Z",
+  "title": "feat(model): add MiniMax chat model (OpenAI-compatible)",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2831",
+  "number": 2831,
+  "body": "## Summary\n\nAdd support for **MiniMax** as a new chat model backend via the OpenAI-compatible `/v1/chat/completions` surface.\n\nThis PR introduces `MiniMaxChatModel` and `MiniMaxCredential`, following …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "sunrong1",
+    "head_sha": "5caa3d2bc7969407bfbc8bac03a76731afc19518",
+    "base_ref": "main",
+    "additions": 986,
+    "deletions": 0,
+    "changed_files": 7
+  },
+  "at_mobiles": []
+}
