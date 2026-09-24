@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Lesereingrape",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-24T08:26:54.474079Z",
+  "title": "[Bug]: TaskUpdate silently ignores an explicitly passed empty subject, while description and owner accept it",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2833#issuecomment-5810617673",
+  "number": 2833,
+  "body": "C:/Users/20235/.qoder/bin/git/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Lesereingrape",
+    "commenter": "Lesereingrape"
+  },
+  "at_mobiles": []
+}
