@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "yc2bgr8",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-24T09:13:05.453272Z",
+  "title": "docs: fix commit format examples in contributing guides",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2811",
+  "number": 2811,
+  "body": "## AgentScope Version\n\nmain (docs-only change, no runtime involved)\n\n## Description\n\nFixes #2812\n\nTwo related fixes to the contributing guides, both affecting the commit/PR title format that the PR ti…",
+  "labels": [
+    "pr/awaiting-changes"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "yc2bgr8",
+    "head_sha": "8e9973034b1d1536b6492b7ecb57089ee2a67a53",
+    "base_ref": "main",
+    "additions": 37,
+    "deletions": 35,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
