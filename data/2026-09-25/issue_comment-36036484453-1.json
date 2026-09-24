@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "MannXo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-24T17:45:20.890738Z",
+  "title": "feat(channel): add Slack channel support",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2267#issuecomment-5819177073",
+  "number": 2267,
+  "body": "@qbc2016 all six are addressed and pushed. I merged main in first (ee59179a, no conflicts), then made one commit per thread.\n\n## 1. [P1] list_tools contract (thread on _channel.py:1052)\n\nFixed in f201…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "MannXo",
+    "commenter": "MannXo"
+  },
+  "at_mobiles": []
+}
