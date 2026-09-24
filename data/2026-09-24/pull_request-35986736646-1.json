@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "kbkb628",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-24T10:21:44.231488Z",
+  "title": "style: correct two typos in comments",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2836",
+  "number": 2836,
+  "body": "## AgentScope Version\n\nLatest `main` (commit a388212).\n\n## Description\n\nTwo comment-only typo fixes found while reading the surrounding code, no behavior change:\n\n- `src/agentscope/agent/_agent.py`: `…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "kbkb628",
+    "head_sha": "46abb7ba8a8be743c1df20c116b404da51c1c1ef",
+    "base_ref": "main",
+    "additions": 2,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
