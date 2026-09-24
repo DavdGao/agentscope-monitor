@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lihongyuan99",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-24T08:00:18.013605Z",
+  "title": "fix(tui): count changed lines that start with a diff marker",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2830",
+  "number": 2830,
+  "body": "## AgentScope Version\n\n2.0.8 (`main` @ `2c885b5`)\n\n## Description\n\nFixes #2829\n\n`Edit` and `Write` record what they changed as a unified diff in `metadata[\"diff\"]`, and the TUI turns that diff into th…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "lihongyuan99",
+    "head_sha": "b9f63bda0c4cad6ee3a24b00e847fb4c8834bb50",
+    "base_ref": "main",
+    "additions": 59,
+    "deletions": 9,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
