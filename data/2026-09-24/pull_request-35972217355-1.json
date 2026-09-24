@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-24T07:54:58.006478Z",
+  "title": "fix(scheduler): normalize standard cron weekday numbering",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2770",
+  "number": 2770,
+  "body": "## AgentScope Version\n\nBased on `main` at `00d295b9d7232edf2034f25a2bd9c94016bb3880` (version field: `2.0.8`).\n\n## Description\n\nFixes #2769.\n\nThe schedule dialog serializes Monday at 09:00 as `0 9 * *…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "dafyy321-pixel",
+    "head_sha": "a551c68837be8e94c2dfd6cc93d724ab6143c7e9",
+    "base_ref": "main",
+    "additions": 48,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
