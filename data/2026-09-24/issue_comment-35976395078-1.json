@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "sunrong1",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-24T08:38:25.616468Z",
+  "title": "feat(model): add MiniMax chat model via OpenAI-compatible API",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2832#issuecomment-5810762894",
+  "number": 2832,
+  "body": "There is already an earlier MiniMax integration in https://github.com/agentscope-ai/agentscope/pull/1764, so I will coordinate with him to avoid duplicate work.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "sunrong1",
+    "commenter": "sunrong1"
+  },
+  "at_mobiles": []
+}
