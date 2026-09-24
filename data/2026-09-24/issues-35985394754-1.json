@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-24T10:07:41.451046Z",
+  "title": "[Bug]: WordParser drops the text inside a table nested in another cell",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2760",
+  "number": 2760,
+  "body": "### Background / Description\n\n`WordParser` silently drops the text of a table nested inside another table cell, so that content never reaches the RAG index.\n\n`_extract_table_data()` collects a cell's …",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "ydflow"
+  },
+  "at_mobiles": []
+}
