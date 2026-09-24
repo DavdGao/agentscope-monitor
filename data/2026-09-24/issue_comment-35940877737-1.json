@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "kabishou11",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-24T00:59:12.183945Z",
+  "title": "fix(agent): correct getter lifecycle and teardown queue for realtime stream (#2671)",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2817#issuecomment-5805532326",
+  "number": 2817,
+  "body": "Superseded by #2671 (already has the DavdGao redesign + tests).",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "kabishou11",
+    "commenter": "kabishou11"
+  },
+  "at_mobiles": []
+}
