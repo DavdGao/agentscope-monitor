@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-24T10:29:16.185550Z",
+  "title": "fix(credential): register the TypeSafe credential and reject chat-less providers",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2788#issuecomment-5812384248",
+  "number": 2788,
+  "body": "Thanks for the report. TypeSafe has no chat model, and the app-layer services currently only serve chat-model credentials, so registering it in `CredentialFactory` would expose a provider the app can'…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "sxh313",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
