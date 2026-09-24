@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "wangtaotaotao95",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-24T03:18:41.450096Z",
+  "title": "fix(response): honor configured timestamp factory",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2822",
+  "number": 2822,
+  "body": "## AgentScope Version\n\nCurrent `main` (`2c885b58`)\n\n## Description\n\nFixes #2819.\n\n`EmbeddingResponse.created_at` and `TTSResponse.created_at` still used the legacy wall-clock helper, unlike the other …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "wangtaotaotao95",
+    "head_sha": "53bec2bf25eb11b1214469ee44959bfa2e8dcdb1",
+    "base_ref": "main",
+    "additions": 12,
+    "deletions": 4,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
