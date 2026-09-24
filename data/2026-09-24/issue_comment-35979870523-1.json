@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "yc2bgr8",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-24T09:13:06.254999Z",
+  "title": "docs: fix commit format examples in contributing guides",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2811#issuecomment-5811286108",
+  "number": 2811,
+  "body": "Folded the optional Model card example fix into `8e99730`. All YAML key separators and the inline `maximum` mapping now use ASCII colons. I extracted the fenced block and parsed it with `yaml.safe_loa…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "yc2bgr8",
+    "commenter": "yc2bgr8"
+  },
+  "at_mobiles": []
+}
