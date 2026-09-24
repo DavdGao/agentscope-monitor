@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "sunrong1",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-24T08:38:55.288329Z",
+  "title": "feat(model): add MiniMax chat model via OpenAI-compatible API",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2832",
+  "number": 2832,
+  "body": "## Summary\n\nTrack the implementation that adds the **MiniMax** chat model to AgentScope via the OpenAI-compatible API surface (`/v1/chat/completions`), as a separate, lighter-weight alternative to the…",
+  "labels": [
+    "triage/not-a-bug"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "sunrong1"
+  },
+  "at_mobiles": []
+}
