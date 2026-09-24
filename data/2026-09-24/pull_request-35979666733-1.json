@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-24T09:11:09.344320Z",
+  "title": "feat(models): add MiniMax chat model support (M3 default)",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1764",
+  "number": 1764,
+  "body": "## Summary\nAdd support for **MiniMax** chat models via the OpenAI-compatible API, with **MiniMax-M3** as the default model. This PR introduces the full MiniMax provider integration including credentia…",
+  "labels": [
+    "pr/awaiting-changes"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "octo-patch",
+    "head_sha": "99df295442d71b70e14f8712a7dd11458b418fb7",
+    "base_ref": "main",
+    "additions": 1621,
+    "deletions": 20,
+    "changed_files": 19
+  },
+  "at_mobiles": []
+}
