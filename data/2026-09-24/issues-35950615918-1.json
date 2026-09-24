@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "wangtaotaotao95",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-24T03:14:33.289094Z",
+  "title": "[Bug]: xAI formatters forward image types excluded by input_types",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2820",
+  "number": 2820,
+  "body": "### Prerequisites\n\n- [x] I searched existing issues and discussions; this is not a duplicate.\n- [x] This is a bug, not a usage question.\n\n### Background / Description\n\n`XAIChatFormatter` declares `ima…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "wangtaotaotao95"
+  },
+  "at_mobiles": []
+}
