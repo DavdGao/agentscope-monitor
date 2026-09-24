@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Lesereingrape",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-24T08:26:25.518786Z",
+  "title": "[Bug]: TaskUpdate silently ignores an explicitly passed empty subject, while description and owner accept it",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2833",
+  "number": 2833,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Lesereingrape"
+  },
+  "at_mobiles": []
+}
