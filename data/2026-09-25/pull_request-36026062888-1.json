@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "ZxlDragonDoctor",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-24T16:15:26.391811Z",
+  "title": "fix(message-bus): make try_lock unlock ownership-safe",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2752",
+  "number": 2752,
+  "body": "### Problem\nAn expired `MessageBus.try_lock()` holder can release a successor's active lease by calling `unlock(key)` late.\n\n- `InMemoryMessageBus` after #2654 TTL expiry: late `unlock` does `_lock_ho…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "ZxlDragonDoctor",
+    "head_sha": "f5775400765f3e17821bc51fcfa2901d1f6ae35c",
+    "base_ref": "main",
+    "additions": 293,
+    "deletions": 19,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
