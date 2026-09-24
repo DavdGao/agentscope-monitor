@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "lwylab",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-24T15:06:23.474794Z",
+  "title": "fix(tool): clarify Windows asyncio subprocess error in LocalBackend",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2837",
+  "number": 2837,
+  "body": "## AgentScope Version\n\nmain (fork head)\n\n## Description\n\nFollow-up to #2444 per maintainer feedback: keep only the clearer `LocalBackend.exec_shell` error.\n\nOn Windows, `asyncio.SelectorEventLoop` rai…",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "lwylab",
+    "head_sha": "a8f2f0f15e55157cfd7767f09773d0df8490634b",
+    "base_ref": "main",
+    "additions": 32,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
