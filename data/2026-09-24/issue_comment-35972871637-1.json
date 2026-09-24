@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "wuwenbo0626",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-24T08:02:02.942526Z",
+  "title": "feat(realtime): support context management for the realtime agent",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2566#issuecomment-5810244634",
+  "number": 2566,
+  "body": "I see that this issue is currently unassigned, but two contributors previously expressed interest. Are either of those claims still active, or is the issue available for a new contributor to take? If …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "wuwenbo0626"
+  },
+  "at_mobiles": []
+}
