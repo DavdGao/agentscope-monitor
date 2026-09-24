@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ZxlDragonDoctor",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-24T16:15:33.175140Z",
+  "title": "[Bug]: Expired try_lock holder can unlock a successor lease",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2728#issuecomment-5817848288",
+  "number": 2728,
+  "body": "Withdrawing my claim: #2729 by @wangtaotaotao95 already implements the ownership-token + compare-and-delete fix and is the better landing vehicle. I closed my competing PR #2752. No action needed on t…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "wangtaotaotao95",
+    "commenter": "ZxlDragonDoctor"
+  },
+  "at_mobiles": []
+}
