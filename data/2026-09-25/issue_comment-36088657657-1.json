@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "radianceded",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-25T03:01:40.932311Z",
+  "title": "feat(realtime): support context management for the realtime agent",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2566#issuecomment-5825965663",
+  "number": 2566,
+  "body": "Draft PR is up: #2838 — the observation layer (usage estimate with provenance/staleness, presence-preserving events across the four adapters, tracker wired into the agent lifecycle) plus `RealtimeCont…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "radianceded"
+  },
+  "at_mobiles": []
+}
