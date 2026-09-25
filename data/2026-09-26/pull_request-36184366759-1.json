@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "wuwenbo0626",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-25T20:12:49.257111Z",
+  "title": "fix(tool): respect empty model input types",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2857",
+  "number": 2857,
+  "body": "Fixes #2856.\n\n## AgentScope Version\n\n2.0.8 (`main` at `a3882128`)\n\n## Description\n\n`Read(model_input_types=[])` currently falls back to the default image types because the constructor uses a truthines…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "wuwenbo0626",
+    "head_sha": "1d20d61e35f1b392dd654a151fac0bc0f7537d89",
+    "base_ref": "main",
+    "additions": 15,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
