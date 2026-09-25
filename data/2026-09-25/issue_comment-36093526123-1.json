@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "radianceded",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-25T04:12:51.449046Z",
+  "title": "feat(realtime): context-usage observation layer (1/2 — #2566)",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2838#issuecomment-5826569721",
+  "number": 2838,
+  "body": "@DavdGao — this is ready for review. It implements the context management from #2566 (assigned here by the triage bot): the observation layer (context-usage estimate with provenance/staleness) and the…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "radianceded",
+    "commenter": "radianceded"
+  },
+  "at_mobiles": []
+}
