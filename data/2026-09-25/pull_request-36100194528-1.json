@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Xscaperrr",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-25T05:49:48.265251Z",
+  "title": "fix(word): preserve inline tabs and breaks in Word paragraphs",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2840",
+  "number": 2840,
+  "body": "## AgentScope Version\n\n2.0.8\n\n## Description\nFixes #2839 \n\n`WordParser` silently drops tabs and soft line breaks inside DOCX paragraphs because `_extract_text_from_paragraph()` only collects `w:t` ele…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Xscaperrr",
+    "head_sha": "2318638207c6a88908aa38c15069e325ab857619",
+    "base_ref": "main",
+    "additions": 148,
+    "deletions": 7,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
