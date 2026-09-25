@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "radianceded",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-25T03:55:13.124821Z",
+  "title": "feat(realtime): context-usage observation layer (1/2 — #2566)",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2838",
+  "number": 2838,
+  "body": "## What\n\nFirst slice of the RealtimeAgent context management requested in #2566: an **observation layer** that maintains an estimate of the provider-side context occupancy, with explicit provenance an…",
+  "labels": [
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "radianceded",
+    "head_sha": "9fdd437a565fe7084f1e66103ca59e1558570e93",
+    "base_ref": "main",
+    "additions": 6611,
+    "deletions": 363,
+    "changed_files": 72
+  },
+  "at_mobiles": []
+}
