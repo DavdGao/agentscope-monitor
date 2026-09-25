@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "sxh313",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-25T08:50:30.361803Z",
+  "title": "[Bug]: WordParser drops the content of block-level w:sdt content controls (automatic TOC, controlled tables)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2843",
+  "number": 2843,
+  "body": "## Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this i…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "sxh313"
+  },
+  "at_mobiles": []
+}
