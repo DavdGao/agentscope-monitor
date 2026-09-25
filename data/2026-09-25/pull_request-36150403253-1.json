@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "twei43846-afk",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-25T14:52:39.527122Z",
+  "title": "fix(rag): serialize knowledge base collection initialization",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2853",
+  "number": 2853,
+  "body": "Fixes #2852.\n\n## AgentScope Version\n\n2.0.8, based on main at `a38821287f35e9e45ed193d9d864cb46f263c946`.\n\n## Description\n\nTwo concurrent first operations on the same `KnowledgeBase` can both observe a…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "twei43846-afk",
+    "head_sha": "98f9634da7200ee235a65ea0687fedb89bace0a0",
+    "base_ref": "main",
+    "additions": 111,
+    "deletions": 6,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
