@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-25T13:13:08.133621Z",
+  "title": "Proposal: optional Jev-backed tool-group selection in reset_tools",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2848",
+  "number": 2848,
+  "body": "## Problem\n\nAgentScope organizes tools into ToolGroups and uses `reset_tools` to switch the active groups. Today, `reset_tools` exposes one boolean parameter per non-`basic` group, with the group desc…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "iluv7"
+  },
+  "at_mobiles": []
+}
