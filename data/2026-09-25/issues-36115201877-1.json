@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "sxh313",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-25T08:51:37.813812Z",
+  "title": "[Bug]: WordParser drops everything inside a block-level w:sdt container (Word's automatic TOC)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2844",
+  "number": 2844,
+  "body": "## Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this i…",
+  "labels": [
+    "triage/verifying"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "sxh313"
+  },
+  "at_mobiles": []
+}
