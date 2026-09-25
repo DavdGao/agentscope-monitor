@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "sxh313",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-25T12:30:01.396311Z",
+  "title": "[Bug]: ModelRouterMiddleware makes a no-input reply inherit the previous reply's routed model",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2846",
+  "number": 2846,
+  "body": "## Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this i…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "sxh313"
+  },
+  "at_mobiles": []
+}
