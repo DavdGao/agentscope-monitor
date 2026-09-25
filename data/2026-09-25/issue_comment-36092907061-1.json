@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "radianceded",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-25T04:04:11.202603Z",
+  "title": "feat(realtime): support context management for the realtime agent",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2566#issuecomment-5826492230",
+  "number": 2566,
+  "body": "Follow-up: while exercising the reconnect side before moving out of draft, found and fixed a real bug in the fallback path (59e3d2b) — for providers without history replay, the 32k newest-first transc…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "radianceded"
+  },
+  "at_mobiles": []
+}
