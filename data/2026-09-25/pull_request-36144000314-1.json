@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "014-code",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-25T13:54:55.472271Z",
+  "title": "fix(app): guard parked inbox continuations",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2849",
+  "number": 2849,
+  "body": "## Summary\n\nWhen a chat run is parked waiting for user confirmation or external execution, a queued inbox payload could make _run_impl re-enter \u0007gent.reply_stream(inputs=None). That raised ValueError,…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "014-code",
+    "head_sha": "a46d9a326378ecb880fae15aa7b6a90a4b994459",
+    "base_ref": "main",
+    "additions": 334,
+    "deletions": 11,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
