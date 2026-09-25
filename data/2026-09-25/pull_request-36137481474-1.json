@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "sxh313",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-25T12:52:43.599000Z",
+  "title": "fix(middleware): start a no-input reply on the agent's own model",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2847",
+  "number": 2847,
+  "body": "## PR Title Format\n\n(conventional commit; `fix` + `middleware` scope, lowercase subject)\n\n## AgentScope Version\n\n`2.0.8`, branch based on `main` @ `a3882128`, Python 3.11.\n\n## Description\n\nCloses #284…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "sxh313",
+    "head_sha": "50e7648dd8367c59630925a3e4da290d8aff04bd",
+    "base_ref": "main",
+    "additions": 96,
+    "deletions": 14,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
