@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Xscaperrr",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-25T05:29:41.107233Z",
+  "title": "[Bug]: WordParser drops soft line breaks and tabs inside DOCX paragraphs",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2839#issuecomment-5827324711",
+  "number": 2839,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Xscaperrr",
+    "commenter": "Xscaperrr"
+  },
+  "at_mobiles": []
+}
