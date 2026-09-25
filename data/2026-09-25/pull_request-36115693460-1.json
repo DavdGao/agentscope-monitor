@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "sxh313",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-25T08:57:06.342297Z",
+  "title": "fix(rag): read content inside block-level Word content controls",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2845",
+  "number": 2845,
+  "body": "## PR Title Format\n\n(conventional commit; `fix` + `rag` scope, lowercase subject)\n\n## AgentScope Version\n\n`2.0.8`, branch rebased onto `main` @ `a3882128`, Python 3.11.\n\n## Description\n\nCloses #2843.\n…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "sxh313",
+    "head_sha": "2430fb10e7e78fd3e3d4f922304aec89319ea126",
+    "base_ref": "main",
+    "additions": 136,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
