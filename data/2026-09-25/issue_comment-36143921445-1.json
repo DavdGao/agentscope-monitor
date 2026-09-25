@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "aniruddhaadak80",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-25T13:54:11.615189Z",
+  "title": "[Bug] In-run inbox continuation lacks parked guard: parked agent + queued inbox => ValueError, spurious ERROR reply and misleading leader failure reminder",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2842#issuecomment-5833570765",
+  "number": 2842,
+  "body": "I’m claiming #2842. I’ll recheck the current state, implement a focused parked-agent inbox-continuation fix with regression tests on an independent branch, and open a PR without merging.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "iamsee",
+    "commenter": "aniruddhaadak80"
+  },
+  "at_mobiles": []
+}
