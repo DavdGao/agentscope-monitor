@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "sxh313",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-25T08:51:35.893893Z",
+  "title": "[Bug]: WordParser drops everything inside a block-level w:sdt container (Word's automatic TOC)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2844#issuecomment-5829637556",
+  "number": 2844,
+  "body": "Closing my own duplicate: I submitted this by mistake 29 seconds after #2843, which reports the same defect with the same reproduction. #2843 is the one the follow-up PR links with `Closes`. No conten…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "sxh313",
+    "commenter": "sxh313"
+  },
+  "at_mobiles": []
+}
