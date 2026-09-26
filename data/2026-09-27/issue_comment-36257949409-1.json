@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "kohila-priya",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-26T17:08:31.104067Z",
+  "title": "[Bug]: invalid credential payloads return 500 instead of 422 — ValidationError from CredentialFactory.from_dict is unhandled in POST/PATCH /credential",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2870#issuecomment-5848178310",
+  "number": 2870,
+  "body": "Hi! I’m releasing my claim on this issue since PR #2871 is already addressing it. Thanks!",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "ydflow",
+    "commenter": "kohila-priya"
+  },
+  "at_mobiles": []
+}
