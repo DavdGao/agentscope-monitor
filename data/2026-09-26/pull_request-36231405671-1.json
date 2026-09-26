@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "sxh313",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-26T08:59:28.550914Z",
+  "title": "fix(model): recover a tool call name that arrives after the opening delta",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2863",
+  "number": 2863,
+  "body": "## Description\n\nCloses #2861.\n\n`_AccToolCallBlock.append` (`src/agentscope/model/_utils.py:90-93`) documents\nand implements recovery for providers that leave `function.name` empty on the\nopening delta…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "sxh313",
+    "head_sha": "9eb492040d1ebddb9803fc7b934ea7f0ea5e4386",
+    "base_ref": "main",
+    "additions": 349,
+    "deletions": 10,
+    "changed_files": 10
+  },
+  "at_mobiles": []
+}
