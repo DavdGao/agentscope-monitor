@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ydflow",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-26T05:47:29.106147Z",
+  "title": "[Bug]: GoalPipeline verifier retry instruction renders the goal as a Python repr, leaking base64 payloads into the prompt",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2859#issuecomment-5843637459",
+  "number": 2859,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "ydflow",
+    "commenter": "ydflow"
+  },
+  "at_mobiles": []
+}
