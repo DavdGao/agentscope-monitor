@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "pengmoubuaixuexi",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-26T00:32:53.512671Z",
+  "title": "fix(memory): deduplicate selected files before limiting retrieval",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2776#issuecomment-5841546943",
+  "number": 2776,
+  "body": "Follow-up on the regression test: on Windows / Python 3.13.15, at current main `a38821287f35e9e45ed193d9d864cb46f263c946`, `test_agent_deduplicates_selected_memory_filenames` intermittently observes *…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Shy7777",
+    "commenter": "pengmoubuaixuexi"
+  },
+  "at_mobiles": []
+}
