@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "014-code",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-26T03:41:13.117996Z",
+  "title": "Proposal: optional Jev-backed tool-group selection in reset_tools",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2848#discussioncomment-18608223",
+  "number": 2848,
+  "body": "Thanks for proposing this. I think the tool-group schema growth problem is real, and an optional classifier-backed selector could be useful.\n\nI would suggest treating this as an opt-in experimental fe…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "014-code",
+    "discussion_author": "iluv7"
+  },
+  "at_mobiles": []
+}
