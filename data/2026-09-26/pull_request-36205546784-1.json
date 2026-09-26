@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "drakeo338",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-26T00:38:00.285084Z",
+  "title": "fix(utils): stamp timestamps as timezone-aware UTC",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2858",
+  "number": 2858,
+  "body": "Fixes #2854.\n\nMsg, content blocks, events and model responses all take created_at from one default timestamp factory, which used a naive datetime.now(). On a non-UTC host that string is local wall-clo…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "drakeo338",
+    "head_sha": "70711a218a2006b43abfe24dd33d5ec98ad33390",
+    "base_ref": "main",
+    "additions": 48,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
