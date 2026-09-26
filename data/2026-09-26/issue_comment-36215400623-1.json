@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "014-code",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-26T03:38:04.702533Z",
+  "title": "fix(app): guard parked inbox continuations",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2849#issuecomment-5842836701",
+  "number": 2849,
+  "body": "@aniruddhaadak80 has confirmed in #2842 that the claim is released and that PR #2849 already covers the issue. No duplicate PR will be opened. The assignee metadata may still need to be cleared by a m…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "014-code",
+    "commenter": "014-code"
+  },
+  "at_mobiles": []
+}
