@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ydflow",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-27T09:42:22.669556Z",
+  "title": "fix(tool): stop git subcommands from passing the read-only fast path with destructive arguments",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2883",
+  "number": 2883,
+  "body": "## AgentScope Version\n\n2.0.8, main `a388212`\n\n## Description\n\n### Background\n\nThe read-only matcher (`BashCommandParser.is_read_only_command`) prefix-matches git subcommands against the whole command.…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ydflow",
+    "head_sha": "60ea0011453d707b16341c8df45562c46c61ac34",
+    "base_ref": "main",
+    "additions": 163,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
