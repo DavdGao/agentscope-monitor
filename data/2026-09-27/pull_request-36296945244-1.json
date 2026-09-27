@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ydflow",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-27T05:21:07.234903Z",
+  "title": "fix(agent): honor react_config.stop_on_reject when a tool call is rejected",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2878",
+  "number": 2878,
+  "body": "## AgentScope Version\n\n2.0.8, main `a388212`\n\n## Description\n\n### Background\n\n`ReActConfig.stop_on_reject` documents a concrete behavior — *\"If `True`, the agent won't continue reasoning and wait for …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ydflow",
+    "head_sha": "073d1f755daf065acfcc0ebb242547098ac7390d",
+    "base_ref": "main",
+    "additions": 167,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
