@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "kyy-logs",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-27T17:19:31.779570Z",
+  "title": "[Chore]: an empty credential/_kimi.py is left over from the moonshot rename",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2885",
+  "number": 2885,
+  "body": "## Background\n\n`src/agentscope/credential/_kimi.py` is a tracked **0-byte** file left behind by #1609 (`refactor(kimi): rename kimi API to moonshot`), which renamed `_kimi.py` to `_moonshot.py`. The f…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "kyy-logs"
+  },
+  "at_mobiles": []
+}
