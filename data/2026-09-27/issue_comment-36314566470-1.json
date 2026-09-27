@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ydflow",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-27T11:04:48.042224Z",
+  "title": "fix(a2a): keep observed messages when the reply is rejected before sending",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2875#issuecomment-5855272345",
+  "number": 2875,
+  "body": "As noted in the description, this account is at the 5-open-issue cap (per #2761) — all 5 open issues already have open PRs, so a new issue would be auto-closed. The full repro and rationale are in the…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "ydflow",
+    "commenter": "ydflow"
+  },
+  "at_mobiles": []
+}
