@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-27T12:24:22.153321Z",
+  "title": "Proposal: optional Jev-backed tool-group selection in reset_tools",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2848#discussioncomment-18624495",
+  "number": 2848,
+  "body": "Thanks for the thoughtful feedback! I lean toward returning the final active set and retaining the previous active groups if classification fails. Keeping Jev behind an optional selector abstraction a…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "iluv7",
+    "discussion_author": "iluv7"
+  },
+  "at_mobiles": []
+}
