@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ydflow",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-27T03:06:07.177722Z",
+  "title": "fix(agent): close tool calls left unfinished by a failed reply",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2874",
+  "number": 2874,
+  "body": "## AgentScope Version\n\n2.0.8, main `649edca`\n\n## Description\n\n### Background\n\n`_reply_impl` only repairs the context on the interrupt path. When `asyncio.CancelledError` escapes the reply loop, the `f…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ydflow",
+    "head_sha": "3c22711f71ef905615af67c425aca3bc37c98500",
+    "base_ref": "main",
+    "additions": 275,
+    "deletions": 10,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
