@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ydflow",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-27T03:19:41.984315Z",
+  "title": "fix(agent): close tool calls left unfinished by a failed reply",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2874#issuecomment-5852246262",
+  "number": 2874,
+  "body": "The pr-guard asks for a linked issue. As noted in the PR description, this account is at the 5-open-issue cap (per #2761) — all 5 open issues already have open PRs, so a new issue would be auto-closed…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "ydflow",
+    "commenter": "ydflow"
+  },
+  "at_mobiles": []
+}
