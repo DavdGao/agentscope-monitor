@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "AmirF194",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-27T14:41:02.928698Z",
+  "title": "fix(memory): stop layout bootstrap crashing replies on an unreachable backend",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2698#issuecomment-5856815237",
+  "number": 2698,
+  "body": "A week with no review. The only check that touched this (pr-guard, \"does not close an issue\") is a false flag, the body does say Fixes #2697. Is anything else blocking a look at it?",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "AmirF194",
+    "commenter": "AmirF194"
+  },
+  "at_mobiles": []
+}
