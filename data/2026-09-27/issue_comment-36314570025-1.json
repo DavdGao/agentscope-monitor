@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ydflow",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-27T11:04:54.181308Z",
+  "title": "fix(tool): stop git subcommands from passing the read-only fast path with destructive arguments",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2883#issuecomment-5855272766",
+  "number": 2883,
+  "body": "As noted in the description, this account is at the 5-open-issue cap (per #2761) — all 5 open issues already have open PRs, so a new issue would be auto-closed. The full repro and rationale are in the…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "ydflow",
+    "commenter": "ydflow"
+  },
+  "at_mobiles": []
+}
