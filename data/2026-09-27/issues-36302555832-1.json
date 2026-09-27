@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "zaher-m",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-27T07:15:52.475439Z",
+  "title": "[Bug]: pyproject.toml's Documentation URL points to the 1.x docs site",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2880",
+  "number": 2880,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [
+    "Bug"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "zaher-m"
+  },
+  "at_mobiles": []
+}
