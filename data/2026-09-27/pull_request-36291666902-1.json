@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ydflow",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-27T03:31:54.980514Z",
+  "title": "fix(a2a): keep observed messages when the reply is rejected before sending",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2875",
+  "number": 2875,
+  "body": "## AgentScope Version\n\n2.0.8, main `a388212`\n\n## Description\n\n### Background\n\n`A2AAgent.reply()` merged `state.observed_context` into the input and cleared it immediately, before any of the pre-flight…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ydflow",
+    "head_sha": "237959b1785b1844f35786b9d6672e40acd73596",
+    "base_ref": "main",
+    "additions": 82,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
