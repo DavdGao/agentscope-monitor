@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-27T08:27:12.020345Z",
+  "title": "[Bug]: WordParser and ExcelParser raise library exceptions instead of the documented errors",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2879#issuecomment-5854197603",
+  "number": 2879,
+  "body": "/assign\n\nI reproduced this locally with the five cases in the issue. The observed exceptions match the report: `PackageNotFoundError`, `BadZipFile`, `KeyError`, `BadZipFile`, and `OptionError`.\n\nThis …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "zaher-m",
+    "commenter": "iluv7"
+  },
+  "at_mobiles": []
+}
