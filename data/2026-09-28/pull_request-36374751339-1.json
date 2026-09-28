@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T03:42:29.344479Z",
+  "title": "fix(model): enable image and video input for Kimi K2.7 Code models",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2890",
+  "number": 2890,
+  "body": "The `kimi-k2.7-code` and `kimi-k2.7-code-highspeed` cards only list text, but per the [Kimi vision guide](https://platform.kimi.com/docs/guide/use-kimi-vision-model) both models accept image and video…",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "fc5875ca65050693914b20ad311e54dfad09fbb6",
+    "base_ref": "main",
+    "additions": 18,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
