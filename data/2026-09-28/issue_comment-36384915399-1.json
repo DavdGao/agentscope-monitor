@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ramashishmaurya",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T06:07:41.695870Z",
+  "title": "chore: fix PEP-8 E731 and unused variable F841",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2873#issuecomment-5864425823",
+  "number": 2873,
+  "body": "I have run pre-commit run --all-files and pushed the formatting fixes, as well as resolved a W0707 pylint warning in _agent.py. The PR should be ready for another look",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "ramashishmaurya",
+    "commenter": "ramashishmaurya"
+  },
+  "at_mobiles": []
+}
