@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "RICARDO51167",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T08:26:07.821036Z",
+  "title": "fix(mcp): invalidate cached tools after successful reconnect",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2912",
+  "number": 2912,
+  "body": "## AgentScope Version\n\n`2.0.10dev`, based on upstream main at `6109dd05`.\n\n## Description\n\nFixes #2898.\n\nAfter reconnecting to an upgraded MCP server, a newly obtained tool could still advertise `echo…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "RICARDO51167",
+    "head_sha": "fe574fc58d4ce533db0511caa51763b373dc18d5",
+    "base_ref": "main",
+    "additions": 239,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
