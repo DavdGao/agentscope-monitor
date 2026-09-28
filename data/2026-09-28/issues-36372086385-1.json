@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T03:02:06.081775Z",
+  "title": "fix(agent): guard the isinstance check in _close_unfinished_tool_calls against ",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2876",
+  "number": 2876,
+  "body": "## AgentScope Version\n\n2.0.8, main `2c885b58`\n\n## Description\n\n`Agent._close_unfinished_tool_calls` (in `src/agentscope/agent/_agent.py`) uses an `assert isinstance(call_block, ToolCallBlock)` to guar…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "sunrong1"
+  },
+  "at_mobiles": []
+}
