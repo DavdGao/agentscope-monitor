@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T05:08:37.706107Z",
+  "title": "Proposal: proactive context compression and session rollover for RealtimeAgent",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2835#discussioncomment-18634127",
+  "number": 2835,
+  "body": "Thanks for taking a look! I’ll move forward with the implementation based on this direction and submit a PR with the corresponding tests.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "iluv7",
+    "discussion_author": "iluv7"
+  },
+  "at_mobiles": []
+}
