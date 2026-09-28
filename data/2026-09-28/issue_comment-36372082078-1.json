@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T03:02:03.447241Z",
+  "title": "fix(agent): guard isinstance in _close_unfinished_tool_calls",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2877#issuecomment-5862497684",
+  "number": 2877,
+  "body": "Thanks, but `awaiting_tool_calls` only ever stores ToolCallBlock indices (as #2876 itself notes), so the assert holds. Turning it into a silent `continue` would hide a real bug if that invariant ever …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "sunrong1",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
