@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T03:30:33.021270Z",
+  "title": "feat(models): add MiniMax chat model support (M3 default)",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1764",
+  "number": 1764,
+  "body": "## Summary\n\nAdd MiniMax chat model support via MiniMax's recommended [Anthropic-compatible API](https://platform.minimax.io/docs/api-reference/text-anthropic-api). `MiniMaxChatModel` subclasses `Anthr…",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "octo-patch",
+    "head_sha": "79b7bbe9b8e8be995e1a611ad0d0d769aecccdcd",
+    "base_ref": "main",
+    "additions": 1100,
+    "deletions": 20,
+    "changed_files": 19
+  },
+  "at_mobiles": []
+}
