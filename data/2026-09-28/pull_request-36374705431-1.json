@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lihongyuan99",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T03:41:44.225575Z",
+  "title": "fix(workspace): report a cut-off K8s exec stream as an unknown outcome",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2891",
+  "number": 2891,
+  "body": "## Summary\n\n`K8sBackend.exec_shell` reported `exit_code=0` — a success — when the exec\nstream ended before the Pod delivered its channel-3 status frame, which is\nexactly what aiohttp does with a broke…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "lihongyuan99",
+    "head_sha": "1ba012a710e58704fa7fa02c0710ab5301b665bd",
+    "base_ref": "main",
+    "additions": 319,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
