@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "aniruddhaadak80",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T18:47:50.041919Z",
+  "title": "[Bug]: RAGMiddleware's hint_template is never format-validated, so a second placeholder raises an unhandled KeyError that kills the whole reply",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2963",
+  "number": 2963,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "aniruddhaadak80"
+  },
+  "at_mobiles": []
+}
