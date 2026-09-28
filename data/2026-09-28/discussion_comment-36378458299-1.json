@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T04:36:57.173677Z",
+  "title": "feat: Support subagents in Agent class to manage context and scale complex tasks",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2491#discussioncomment-18633697",
+  "number": 2491,
+  "body": "@GSword @RICARDO51167 We've merged SDK-level subagent support through `TeamPipeline` in #2764.\n\nThe leader can delegate tasks to member agents running in their own contexts and receive their final rep…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "GSword"
+  },
+  "at_mobiles": []
+}
