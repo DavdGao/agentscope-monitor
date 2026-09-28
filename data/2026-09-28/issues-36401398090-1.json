@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "aniruddhaadak80",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T09:06:40.563099Z",
+  "title": "[Bug]: mem0 middleware persists the canned \"waiting for your permission\" message as the assistant's answer",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2922",
+  "number": 2922,
+  "body": "**<u>AgentScope is an open-source project. To involve a broader community, we recommend asking your questions in English.</u>**\n\n### Prerequisites\n\n- [x] I have searched the existing [issues](https://…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "aniruddhaadak80"
+  },
+  "at_mobiles": []
+}
