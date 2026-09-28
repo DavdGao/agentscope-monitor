@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "aniruddhaadak80",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T15:17:16.162002Z",
+  "title": "[Bug]:调用OpenAIChatModel偶尔出现卡住很长时间",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1094#issuecomment-5872957007",
+  "number": 1094,
+  "body": "Not taking this one - it is assigned to @DavdGao, and I do not want to step on a maintainer-owned claim. Adding what I can from reading the current code, because one obvious fix for this symptom turns…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "flyerswk",
+    "commenter": "aniruddhaadak80"
+  },
+  "at_mobiles": []
+}
