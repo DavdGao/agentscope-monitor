@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T02:49:10.984616Z",
+  "title": "chore(credential): remove the empty _kimi module left over from the moonshot rename",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2884",
+  "number": 2884,
+  "body": "## AgentScope Version\n\n`main` at `a388212` (2.0.8)\n\n## Description\n\nFixes #2885\n\n`src/agentscope/credential/_kimi.py` is a tracked **0-byte** module left behind by #1609 (`refactor(kimi): rename kimi …",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "kyy-logs",
+    "head_sha": "9842d3b8b5d0c6e103b9f240507dc5868960266b",
+    "base_ref": "main",
+    "additions": 0,
+    "deletions": 0,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
