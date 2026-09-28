@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T03:15:22.379129Z",
+  "title": "fix(pipeline): keep multimodal goals intact in verifier retry instructions",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2860",
+  "number": 2860,
+  "body": "## AgentScope Version\n\n2.0.8 (main @ a388212)\n\n## Description\n\nWhen the `GoalPipeline` verifier fails to produce a structured output, the retry instruction interpolated `self._goal` (a `list[TextBlock…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "ydflow",
+    "head_sha": "596dfc850fe65d2639ecc469b0398a59524e0bf4",
+    "base_ref": "main",
+    "additions": 91,
+    "deletions": 12,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
