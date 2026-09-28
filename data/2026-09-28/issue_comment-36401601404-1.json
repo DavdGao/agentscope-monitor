@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "aniruddhaadak80",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T09:08:42.658197Z",
+  "title": "fix(model): merge the configured extra_body with the per-call one",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2920#issuecomment-5866870550",
+  "number": 2920,
+  "body": "Closing this in favour of the existing contract - thanks for the review effort.\n\nWhile validating the change I found an existing test in `tests/model_openai_chat_test.py` that pins the opposite behavi…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "aniruddhaadak80",
+    "commenter": "aniruddhaadak80"
+  },
+  "at_mobiles": []
+}
