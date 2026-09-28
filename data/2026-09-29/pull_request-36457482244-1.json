@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "aniruddhaadak80",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T17:21:11.972347Z",
+  "title": "fix(formatter): skip empty thinking blocks in the moonshot formatter",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2954",
+  "number": 2954,
+  "body": "## PR Title Format\n\n- `fix(formatter): skip empty thinking blocks in the moonshot formatter`\n- Type `fix`, scope `formatter` (lowercase), subject starts with a lowercase letter.\n\n## AgentScope Version…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "aniruddhaadak80",
+    "head_sha": "4094954bfde60c38962e49307fc1b2c3674dd44a",
+    "base_ref": "main",
+    "additions": 31,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
