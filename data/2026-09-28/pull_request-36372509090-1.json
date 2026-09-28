@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T03:08:21.971414Z",
+  "title": "fix(formatter): preserve DeepSeek images and Moonshot videos",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2825",
+  "number": 2825,
+  "body": "## AgentScope Version\n\n2.0.8\n\n## Description\n\nAdd multimodal formatting support that matches the existing model cards:\n\n- Preserve supported DeepSeek images in user messages, hints, tool results, and …",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "d49787b6356455c30cb65ec8cddf21bb24c1817a",
+    "base_ref": "main",
+    "additions": 389,
+    "deletions": 56,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
