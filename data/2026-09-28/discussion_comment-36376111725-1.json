@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T04:03:42.769447Z",
+  "title": "Jev Support",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2699#discussioncomment-18633300",
+  "number": 2699,
+  "body": "Update: merged in #2715",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "windmelody"
+  },
+  "at_mobiles": []
+}
