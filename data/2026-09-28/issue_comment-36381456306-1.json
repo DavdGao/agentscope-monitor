@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Yongthyuan",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T05:20:16.250340Z",
+  "title": "[Bug]: reusing chunks across document inserts contaminates their metadata",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2896#issuecomment-5863964669",
+  "number": 2896,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Yongthyuan",
+    "commenter": "Yongthyuan"
+  },
+  "at_mobiles": []
+}
