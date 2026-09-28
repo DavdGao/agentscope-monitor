@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T03:04:12.936251Z",
+  "title": "fix(rag): preserve images in PowerPoint picture placeholders",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2851",
+  "number": 2851,
+  "body": "# fix(rag): preserve images in PowerPoint picture placeholders\n\nFixes #2850.\n\n## AgentScope Version\n\n2.0.8, based on main at `a38821287f35e9e45ed193d9d864cb46f263c946`.\n\n## Description\n\nImages inserte…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "twei43846-afk",
+    "head_sha": "6647b16f478284f5430f88020f55d4d32ba1aaca",
+    "base_ref": "main",
+    "additions": 65,
+    "deletions": 10,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
