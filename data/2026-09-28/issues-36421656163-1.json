@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "aniruddhaadak80",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T12:24:52.415575Z",
+  "title": "[Bug]: FileEmbeddingCache keys entries by dict insertion order, so a reordered identifier misses the cache and can make remove() raise FileNotFoundError",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2935",
+  "number": 2935,
+  "body": "**<u>AgentScope is an open-source project. To involve a broader community, we recommend asking your questions in English.</u>**\n\n### Prerequisites\n\n- [x] I have searched the existing [issues](https://…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "aniruddhaadak80"
+  },
+  "at_mobiles": []
+}
