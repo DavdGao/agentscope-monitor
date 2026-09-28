@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "twei43846-afk",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T17:31:45.107545Z",
+  "title": "[Bug]: FileEmbeddingCache ignores a zero max_file_number",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2960",
+  "number": 2960,
+  "body": "### Bug\n\n`FileEmbeddingCache(max_file_number=0)` retains every entry rather than enforcing the configured maximum. The eviction condition checks the truthiness of the limit. `None` already represents …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "twei43846-afk"
+  },
+  "at_mobiles": []
+}
