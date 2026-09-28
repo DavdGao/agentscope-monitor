@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "aniruddhaadak80",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T12:25:15.847356Z",
+  "title": "fix(embedding): make the file cache key independent of dict order",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2936",
+  "number": 2936,
+  "body": "## PR Title Format\n\n- `fix(embedding): make the file cache key independent of dict order`\n- Type `fix`, scope `embedding` (lowercase), subject starts with a lowercase letter.\n\n## AgentScope Version\n\n`…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "aniruddhaadak80",
+    "head_sha": "d89ff5329faf830c4fc12688f61e5bb0819bac41",
+    "base_ref": "main",
+    "additions": 44,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
