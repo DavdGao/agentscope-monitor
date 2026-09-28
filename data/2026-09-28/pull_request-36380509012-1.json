@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T05:07:22.843848Z",
+  "title": "chore(version): bump version to 2.0.10dev",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2894",
+  "number": 2894,
+  "body": "Opens the 2.0.10 development cycle after the v2.0.9 release.\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "4b5926ce95b2c9827364595275e0ef1c391911d5",
+    "base_ref": "main",
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
