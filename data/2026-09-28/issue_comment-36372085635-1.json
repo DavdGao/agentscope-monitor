@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T03:02:11.102361Z",
+  "title": "fix(agent): guard the isinstance check in _close_unfinished_tool_calls against ",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2876#issuecomment-5862498223",
+  "number": 2876,
+  "body": "The invariant holds, see #2877. Closing.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "sunrong1",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
