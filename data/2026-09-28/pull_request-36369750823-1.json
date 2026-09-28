@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "somnus-J-307",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T02:25:25.645956Z",
+  "title": "feat(examples): add permission-aware image analysis demo",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2886",
+  "number": 2886,
+  "body": "## AgentScope Version\n\n2.0.8\n\n## Description\n\nThis adds a small image-analysis example showing how an AgentScope agent can distinguish a read-only tool from a tool that writes a derived image. `inspec…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "somnus-J-307",
+    "head_sha": "1a37fc5326a08a9160091cca503ad7a983a915d0",
+    "base_ref": "main",
+    "additions": 597,
+    "deletions": 0,
+    "changed_files": 7
+  },
+  "at_mobiles": []
+}
