@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "aniruddhaadak80",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T17:25:41.053427Z",
+  "title": "fix(formatter): keep a placeholder for unsupported hint media",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2958",
+  "number": 2958,
+  "body": "## PR Title Format\n\n- `fix(formatter): keep a placeholder for unsupported hint media`\n- Type `fix`, scope `formatter` (lowercase), subject starts with a lowercase letter.\n\n## AgentScope Version\n\n```\n2…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "aniruddhaadak80",
+    "head_sha": "44c45a11ccd8fd260807a67ffbbe4310e44b1a4d",
+    "base_ref": "main",
+    "additions": 51,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
