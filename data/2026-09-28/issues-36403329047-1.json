@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "aniruddhaadak80",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T09:25:03.179809Z",
+  "title": "[Bug]: Anthropic streaming reports ChatUsage.time as time-to-first-token",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2926",
+  "number": 2926,
+  "body": "**<u>AgentScope is an open-source project. To involve a broader community, we recommend asking your questions in English.</u>**\n\n### Prerequisites\n\n- [x] I have searched the existing [issues](https://…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "aniruddhaadak80"
+  },
+  "at_mobiles": []
+}
