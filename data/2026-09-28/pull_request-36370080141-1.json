@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T02:30:36.796522Z",
+  "title": "chore(version): bump version to 2.0.9",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2887",
+  "number": 2887,
+  "body": "## AgentScope Version\n\n2.0.8\n\n## Description\n\nBump version to 2.0.9.\n\n## Checklist\n\n- [ ]  An issue has been created for this PR\n- [x]  I have read the [CONTRIBUTING.md](https://github.com/agentscope-…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "fb9f6f776d361b2974e7121c995120b21561ff67",
+    "base_ref": "main",
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
