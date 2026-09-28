@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T04:04:16.519789Z",
+  "title": "fix(rag): keep text and NA-like values intact in ExcelParser",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2893",
+  "number": 2893,
+  "body": "ExcelParser let pandas infer dtypes and apply default NA values, so text like \"00123\" became \"123.0\" and literal \"NA\"/\"NULL\"/\"N/A\" became empty cells.\nNow sheets are read with `dtype=object, keep_defa…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "35a328ebc03cbc851dbeaf3c80b732dea58eaf0b",
+    "base_ref": "main",
+    "additions": 35,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
