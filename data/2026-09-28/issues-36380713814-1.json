@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T05:10:11.238841Z",
+  "title": "feat(sop): support SOP in both sdk and service level",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2400",
+  "number": 2400,
+  "body": "**Background**\n\nBased on extensive user feedback, there is a strong demand for **highly deterministic SOP (Standard Operating Procedure) capabilities** to ensure task completeness and verifiability. T…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
