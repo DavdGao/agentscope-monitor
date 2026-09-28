@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "aniruddhaadak80",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T08:44:51.194958Z",
+  "title": "fix(tracing): record gen_ai.tool.description from tool groups",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2918",
+  "number": 2918,
+  "body": "## PR Title Format\n\n- `fix(tracing): record gen_ai.tool.description from tool groups`\n- Type `fix`, scope `tracing` (lowercase), subject starts with a lowercase letter.\n\n## AgentScope Version\n\n```\n2.0…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "aniruddhaadak80",
+    "head_sha": "396468806b9b1b991c9c028e23b16e25a431be6f",
+    "base_ref": "main",
+    "additions": 42,
+    "deletions": 8,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
