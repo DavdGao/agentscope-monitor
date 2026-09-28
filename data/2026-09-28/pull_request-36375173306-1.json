@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lihongyuan99",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T03:48:56.554307Z",
+  "title": "fix(app): report an unknown workspace skill as 404 instead of 500",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2892",
+  "number": 2892,
+  "body": "## Summary\n\n`DELETE /workspace/skill/{skill_name}` now answers **404** when the workspace\ndoes not hold that skill, instead of letting the library's `KeyError` escape as\nan unhandled 500. Fixes #2889.…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "lihongyuan99",
+    "head_sha": "19798dcf00c58af15bea774f2ac054a93a889147",
+    "base_ref": "main",
+    "additions": 153,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
