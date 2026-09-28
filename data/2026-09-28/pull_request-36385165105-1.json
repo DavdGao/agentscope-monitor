@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "sunrong1",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T06:10:50.704323Z",
+  "title": "fix(formatter): include the media type in DashScope audio data URIs",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2901",
+  "number": 2901,
+  "body": "## Summary\n\n`_format_audio_source` in `src/agentscope/formatter/_dashscope_formatter.py` builds base64 data URIs **without** the media type — `data:;base64,<payload>` — in both the `Base64Source` and …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "sunrong1",
+    "head_sha": "d22ae2ac5341182667c547af1a7eb559ed88d9c4",
+    "base_ref": "main",
+    "additions": 6,
+    "deletions": 6,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
