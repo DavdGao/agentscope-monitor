@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T12:04:51.630156Z",
+  "title": "docs: announce SOP, TeamPipeline and MiniMax support in news",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2932",
+  "number": 2932,
+  "body": "Add three news items to \\`docs/NEWS.md\\` and \\`docs/NEWS_zh.md\\` for features merged after the last news update:\n\n- SOP (#2393, #2617), marked \\`Experimental\\` in line with the docs\n- \\`TeamPipeline\\`…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "37e6c973e6a1f4336b71bd4b4a49a7f7cb13830d",
+    "base_ref": "main",
+    "additions": 6,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
