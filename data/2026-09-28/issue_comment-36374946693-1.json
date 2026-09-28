@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T03:45:24.271826Z",
+  "title": "fix(model): recover a tool call name that arrives after the opening delta",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2863#issuecomment-5862953781",
+  "number": 2863,
+  "body": "Before reviewing, see my question in the issue: https://github.com/agentscope-ai/agentscope/issues/2861#issuecomment-5862953594",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "sxh313",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
