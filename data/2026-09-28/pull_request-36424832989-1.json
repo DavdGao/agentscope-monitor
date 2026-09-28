@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "aniruddhaadak80",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T12:54:20.426069Z",
+  "title": "fix(workspace): refresh the requested workspace before the ttl sweep",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2938",
+  "number": 2938,
+  "body": "## PR Title Format\n\n- `fix(workspace): refresh the requested workspace before the ttl sweep`\n- Type `fix`, scope `workspace` (lowercase), subject starts with a lowercase letter.\n\n## AgentScope Version…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "aniruddhaadak80",
+    "head_sha": "149e43cdd20396caf3a57ab252f1851129edd42f",
+    "base_ref": "main",
+    "additions": 61,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
