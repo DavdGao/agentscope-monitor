@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ljluestc",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T15:14:21.755541Z",
+  "title": "feat(agent): select the chat model per reasoning step",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2946",
+  "number": 2946,
+  "body": "Add a `model_router` to the agent's `ModelConfig`, a sync or async callable consulted before every model call. It receives the agent and the prepared model input (`messages`, `tools`) and returns the …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "ljluestc",
+    "head_sha": "e1fd31b2a8ebea63695604796ef4e07ec628f727",
+    "base_ref": "main",
+    "additions": 360,
+    "deletions": 12,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
