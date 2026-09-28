@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "aniruddhaadak80",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T18:48:52.220202Z",
+  "title": "fix(embedding): report the slowest batch time instead of the sum",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2967",
+  "number": 2967,
+  "body": "## PR Title Format\n\n- `fix(embedding): report the slowest batch time instead of the sum`\n- Type `fix`, scope `embedding` (lowercase), subject starts with a lowercase letter.\n\n## AgentScope Version\n\n``…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "aniruddhaadak80",
+    "head_sha": "aa71c259ed9f1024470df0080e3fd2cf2d2629d1",
+    "base_ref": "main",
+    "additions": 44,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
