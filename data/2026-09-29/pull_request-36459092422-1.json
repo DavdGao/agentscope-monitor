@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "twei43846-afk",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T17:34:44.767911Z",
+  "title": "fix(rag): preserve omitted Word table columns",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2961",
+  "number": 2961,
+  "body": "## AgentScope Version\n\nCurrent main (`cb7e170`, 2.0.10dev).\n\n## Description\n\nFixes #2959. WordParser ignores omitted grid positions at the start/end of table rows. A header with an omitted first cell …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "twei43846-afk",
+    "head_sha": "5a1c0bb3e154fe836fb11d54e98eb1521e7ebafd",
+    "base_ref": "main",
+    "additions": 75,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
