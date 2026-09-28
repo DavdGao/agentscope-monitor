@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "D41910",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T14:54:50.408708Z",
+  "title": "[Bug]: OpenSandBoxBackend WriteEntry must Pass the decimal integer 644, not 0o644",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2904#issuecomment-5872501624",
+  "number": 2904,
+  "body": "我想认领这个 issue（I'd like to take this one）。\n\nPlan: OpenSandbox encodes file permissions as an integer whose decimal digits are the octal mode — the SDK's own `WriteEntry.mode` default is `755`, and execd…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "freshman-0ne",
+    "commenter": "D41910"
+  },
+  "at_mobiles": []
+}
