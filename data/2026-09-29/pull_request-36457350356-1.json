@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "aniruddhaadak80",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T17:20:02.090942Z",
+  "title": "fix(formatter): never emit a null text part for a gemini system msg",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2950",
+  "number": 2950,
+  "body": "## PR Title Format\n\n- `fix(formatter): never emit a null text part for a gemini system msg`\n- Type `fix`, scope `formatter` (lowercase), subject starts with a lowercase letter.\n\n## AgentScope Version\n…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "aniruddhaadak80",
+    "head_sha": "ca1db9435757849de7f9c150fac283d3da48c2f0",
+    "base_ref": "main",
+    "additions": 27,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
