@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T02:52:49.595972Z",
+  "title": "fix(rag): normalize Word and Excel parser errors",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2881",
+  "number": 2881,
+  "body": "## AgentScope Version\n\n`2.0.8`\n\n## Description\n\nFixes [#2879](https://github.com/agentscope-ai/agentscope/issues/2879).\n\n`WordParser.parse()` and `ExcelParser.parse()` could leak library-specific exce…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "iluv7",
+    "head_sha": "a4af33d34f3bfd7ed011ca593448e449cb4725d0",
+    "base_ref": "main",
+    "additions": 48,
+    "deletions": 4,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
