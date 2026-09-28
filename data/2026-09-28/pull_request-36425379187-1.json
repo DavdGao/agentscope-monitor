@@ -1,0 +1,34 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "review_requested",
+  "action_cn": "请求审核",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T12:59:06.756700Z",
+  "title": "fix(rag): normalise powerpoint soft line breaks in text frames",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2940",
+  "number": 2940,
+  "body": "## PR Title Format\n\n- `fix(rag): normalise powerpoint soft line breaks in text frames`\n- Type `fix`, scope `rag` (lowercase), subject starts with a lowercase letter.\n\n## AgentScope Version\n\n```\n2.0.10…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [
+    "qbc2016"
+  ],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "aniruddhaadak80",
+    "head_sha": "7271c6338b5b1faba7ab1a90686d5d06f2a42c89",
+    "base_ref": "main",
+    "additions": 98,
+    "deletions": 8,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
