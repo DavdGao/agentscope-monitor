@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "aniruddhaadak80",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T09:08:42.816884Z",
+  "title": "[Bug]: OpenAIChatModel drops the configured extra_body when a per-call extra_body is passed",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2919#issuecomment-5866871263",
+  "number": 2919,
+  "body": "Closing - on closer inspection this is not a bug.\n\n`tests/model_openai_chat_test.py::TestOpenAIChatNonStream::test_generate_kwargs_extra_body_overrides_constructor` documents and pins the behaviour de…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "aniruddhaadak80",
+    "commenter": "aniruddhaadak80"
+  },
+  "at_mobiles": []
+}
