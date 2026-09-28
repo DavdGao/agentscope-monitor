@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T02:59:48.921039Z",
+  "title": "docs: point the PyPI documentation link to the v2 docs",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2882",
+  "number": 2882,
+  "body": "## AgentScope Version\n\n2.0.8 (main at a3882128)\n\n## Description\n\nFixes #2880.\n\n`pyproject.toml` sets the `Documentation` project URL to `https://doc.agentscope.io/`, the 1.x docs site, so PyPI links 2…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "zaher-m",
+    "head_sha": "a0ecb275c02074fe8c20cc39ffc4411f7a2a336e",
+    "base_ref": "main",
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
