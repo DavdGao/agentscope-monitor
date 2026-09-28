@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "nanhe17",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T06:01:47.602607Z",
+  "title": "XAIChatFormatter downgrades tool-result media to text hints while other formatters promote them",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2899",
+  "number": 2899,
+  "body": "**What**\n\n`XAIChatFormatter` currently converts media blocks inside a `ToolResultBlock` into textual hints: a URL-sourced image becomes a `<system-reminder>...` line that merely names the URL, and a b…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "nanhe17"
+  },
+  "at_mobiles": []
+}
