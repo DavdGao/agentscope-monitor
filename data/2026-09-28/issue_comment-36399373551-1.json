@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "wuyak",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T08:46:38.751536Z",
+  "title": "fix(models): preserve streamed Responses reasoning text",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2916#issuecomment-5866553986",
+  "number": 2916,
+  "body": "So sorry, @RICARDO51167 — I missed that #2907 had already been claimed before opening this PR. Apologies for the overlap!",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "wuyak",
+    "commenter": "wuyak"
+  },
+  "at_mobiles": []
+}
