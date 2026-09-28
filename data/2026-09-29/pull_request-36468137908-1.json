@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "aniruddhaadak80",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T18:51:35.860818Z",
+  "title": "fix(realtime): release completed tool-call names in dashscope",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2969",
+  "number": 2969,
+  "body": "## PR Title Format\n\n- `fix(realtime): release completed tool-call names in dashscope`\n- Type `fix`, scope `realtime` (lowercase), subject starts with a lowercase letter.\n\n## AgentScope Version\n\n```\n2.…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "aniruddhaadak80",
+    "head_sha": "ef66df51cd1a688ec5eee2dca1bae957fd9675fa",
+    "base_ref": "main",
+    "additions": 51,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
