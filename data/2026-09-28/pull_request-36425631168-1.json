@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "aniruddhaadak80",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T13:01:15.527447Z",
+  "title": "fix(permission): make glob and grep suggestions match their own call",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2942",
+  "number": 2942,
+  "body": "## PR Title Format\n\n- `fix(permission): make glob and grep suggestions match their own call`\n- Type `fix`, scope `permission` (lowercase), subject starts with a lowercase letter.\n\n## AgentScope Versio…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "aniruddhaadak80",
+    "head_sha": "1aa4c04f1850a441e57985d229737b737e4bf1b1",
+    "base_ref": "main",
+    "additions": 52,
+    "deletions": 3,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
