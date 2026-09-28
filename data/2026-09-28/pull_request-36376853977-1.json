@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T04:14:33.587583Z",
+  "title": "fix(app): guard parked inbox continuations",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2849",
+  "number": 2849,
+  "body": "## Summary\n\nWhen a chat run is parked waiting for user confirmation or external execution, a queued inbox payload could make `ChatService._run_impl` re-enter `agent.reply_stream(inputs=None)`. That ra…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "014-code",
+    "head_sha": "ce1af0e160f3067e05953aebbe50b7cc02caa894",
+    "base_ref": "main",
+    "additions": 77,
+    "deletions": 14,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
