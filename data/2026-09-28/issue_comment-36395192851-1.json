@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "aniruddhaadak80",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T08:04:40.344055Z",
+  "title": "[Bug]: Import statements in test cases look for pip-installed packages when running pytest",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1521#issuecomment-5865920935",
+  "number": 1521,
+  "body": "I am taking this, and this is the two-line `pyproject.toml` change @weizhang25 already asked for in this thread.\n\nRoot cause confirmed on `main`: there is no `[tool.pytest.ini_options]` section anywhe…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "weizhang25",
+    "commenter": "aniruddhaadak80"
+  },
+  "at_mobiles": []
+}
