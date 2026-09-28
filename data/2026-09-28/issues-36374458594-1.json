@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T03:37:51.697357Z",
+  "title": "feat(pipeline): support leader-member delegation in a `TeamPipeline` class",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2763",
+  "number": 2763,
+  "body": "**Background**\n\nSub-agents are the most requested way to keep a main agent's context small (see #2491): the main agent delegates a task, the sub-agent works in its own context, and only the summary co…",
+  "labels": [],
+  "assignees": [
+    "DavdGao"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
