@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "Yongthyuan",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T05:47:19.309899Z",
+  "title": "fix(rag): avoid mutating chunks during document insertion",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2897",
+  "number": 2897,
+  "body": "## AgentScope Version\n\n`2.0.10dev`, based on `6109dd0561e0493b9157fb46dd6dcf07708f8986`.\n\n## Description\n\nFixes #2896.\n\nReusing the same parsed chunks for inserts with `revision=A` and then `revision=…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Yongthyuan",
+    "head_sha": "ac021a16ddd6021ef775f10568a6e77712b9189f",
+    "base_ref": "main",
+    "additions": 179,
+    "deletions": 6,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
