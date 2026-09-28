@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T03:12:11.031300Z",
+  "title": "[Bug]: PPTParser silently drops images inserted into picture placeholders",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2850",
+  "number": 2850,
+  "body": "# [Bug]: PPTParser silently drops images inserted into picture placeholders\n\n## Background / Description\n\n`PPTParser(include_image=True)` omits an image inserted into a slide layout's picture placehol…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "twei43846-afk"
+  },
+  "at_mobiles": []
+}
