@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "aniruddhaadak80",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T09:08:49.475354Z",
+  "title": "fix(model): merge the configured extra_body with the per-call one",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2920",
+  "number": 2920,
+  "body": "## PR Title Format\n\n- `fix(model): merge the configured extra_body with the per-call one`\n- Type `fix`, scope `model` (lowercase), subject starts with a lowercase letter.\n\n## AgentScope Version\n\n```\n2…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "aniruddhaadak80",
+    "head_sha": "f8b6938adda0afd5c7a2a989ee602341ad2e0c0f",
+    "base_ref": "main",
+    "additions": 88,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
