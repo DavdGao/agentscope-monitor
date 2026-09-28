@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "yeliheng-010",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T07:14:41.457306Z",
+  "title": "[Bug]: MCPTool silently drops structured-only tool results",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2906",
+  "number": 2906,
+  "body": "### Prerequisites\n\n- [x] I searched existing issues, discussions, and the current open PRs for duplicates.\n- [x] This reports reproducible loss of tool-result data, not a usage question.\n\n### Backgrou…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "yeliheng-010"
+  },
+  "at_mobiles": []
+}
