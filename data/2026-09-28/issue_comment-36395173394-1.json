@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "aniruddhaadak80",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T08:04:23.987932Z",
+  "title": "[Bug]: MCPClient.get_tool() reuses previous-connection tool schemas after reconnect",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2898#issuecomment-5865918269",
+  "number": 2898,
+  "body": "I am taking this one. Thanks for the precise root-cause write-up - it matches what I read in `_mcp_client.py`: `get_tool()` only discovers tools when `_cached_tools is None`, and neither connection se…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "yeliheng-010",
+    "commenter": "aniruddhaadak80"
+  },
+  "at_mobiles": []
+}
