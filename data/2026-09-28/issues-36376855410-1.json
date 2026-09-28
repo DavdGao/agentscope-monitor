@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T04:14:34.591334Z",
+  "title": "[Bug] In-run inbox continuation lacks parked guard: parked agent + queued inbox => ValueError, spurious ERROR reply and misleading leader failure reminder",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2842",
+  "number": 2842,
+  "body": "## Summary\n\n`ChatService._run_impl`'s in-run inbox continuation does not reuse the parked guard that the dispatcher wake entry already has. When an agent is parked on an `ASKING` (user confirmation) o…",
+  "labels": [],
+  "assignees": [
+    "aniruddhaadak80"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "iamsee"
+  },
+  "at_mobiles": []
+}
