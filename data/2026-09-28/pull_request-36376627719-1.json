@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T04:11:23.712648Z",
+  "title": "fix(agent): interpolate current time into the compression prompt",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2867",
+  "number": 2867,
+  "body": "## AgentScope Version\n\nmain @ `a388212` (this branch adds one commit on top)\n\n## Description\n\nFixes #2866.\n\nThe default `compression_prompt` contains `The current time is {current_time}.` and instruct…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "ydflow",
+    "head_sha": "cfc9753556fa48c1673427513b6ad85327c23548",
+    "base_ref": "main",
+    "additions": 85,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
