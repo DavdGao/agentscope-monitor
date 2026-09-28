@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "aniruddhaadak80",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T17:19:17.389883Z",
+  "title": "[Bug]: GeminiMultiAgentFormatter can emit a `text: None` part, which the Gemini API rejects with a 400",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2949",
+  "number": 2949,
+  "body": "**Note:** as usual for this repo, please consider posting questions in\n[Discussions](https://github.com/agentscope-ai/agentscope/discussions/new?category=general).\n\n### Prerequisites\n\n- [x] I have sea…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "aniruddhaadak80"
+  },
+  "at_mobiles": []
+}
