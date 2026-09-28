@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T03:02:15.149313Z",
+  "title": "fix(tool): match Glob/Grep rules against the searched directory",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2827#issuecomment-5862499478",
+  "number": 2827,
+  "body": "Thanks, but Glob and Grep are `is_read_only=True`, so the permission engine lets them through via the read-only fast path in every mode before allow rules are even checked. The only way they prompt is…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "lihongyuan99",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
