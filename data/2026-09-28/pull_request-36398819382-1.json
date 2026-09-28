@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "wuyak",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T08:41:09.077816Z",
+  "title": "fix(models): preserve streamed Responses reasoning text",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2916",
+  "number": 2916,
+  "body": "## AgentScope Version\n\n2.0.10dev\n\n## Description\n\nFixes #2907.\n\nHandle `response.reasoning_text.delta` in the existing Responses streaming parser. This preserves reasoning text returned by models such…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "wuyak",
+    "head_sha": "b937fa87688c4bdd650fdd3bacf29198c3413173",
+    "base_ref": "main",
+    "additions": 58,
+    "deletions": 5,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
