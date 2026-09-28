@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "aniruddhaadak80",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T08:04:50.159208Z",
+  "title": "[Bug]: tool_choice参数支持的问题",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1608#issuecomment-5865924166",
+  "number": 1608,
+  "body": "I am taking this. Confirmed on current `main`: the fallback ladder in `_base.py` is only built when the caller did not pass `tool_choice`. With an explicit `tool_choice`, `generate_structured_output` …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "shanghai-Jerry",
+    "commenter": "aniruddhaadak80"
+  },
+  "at_mobiles": []
+}
