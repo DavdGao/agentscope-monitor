@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T03:02:26.079604Z",
+  "title": "[Feature] TeamSay delivery publishes no structured session event — front-ends can't observe team messages until the recipient's next reply",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2855",
+  "number": 2855,
+  "body": "## Feature request\n\n`TeamSay.__call__` delivers team messages to each recipient session's inbox as a `HintBlock` and stops there — **no session event is published**. Front-ends listening to the sessio…",
+  "labels": [],
+  "assignees": [
+    "nanami7777777"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "iamsee"
+  },
+  "at_mobiles": []
+}
