@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "aniruddhaadak80",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T08:12:17.321383Z",
+  "title": "fix(pytest): import agentscope from the source tree during test runs",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2911",
+  "number": 2911,
+  "body": "## PR Title Format\n\n- `fix(pytest): import agentscope from the source tree during test runs`\n- Type `fix`, scope `pytest` (lowercase), subject starts with a lowercase letter.\n\n## AgentScope Version\n\n`…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "aniruddhaadak80",
+    "head_sha": "567d5191aa5795bbe7889da9e82887a1c211d411",
+    "base_ref": "main",
+    "additions": 7,
+    "deletions": 0,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
