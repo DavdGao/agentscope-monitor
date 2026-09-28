@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "ramashishmaurya",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T06:02:38.822275Z",
+  "title": "chore: fix PEP-8 E731 and unused variable F841",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2873",
+  "number": 2873,
+  "body": "## AgentScope Version\n\n(Aap terminal me ye type karke version daal dena: `python -c \"import agentscope; print(agentscope.__version__)\"`)\n\n## Description\n\nThis PR resolves a couple of minor linter warn…",
+  "labels": [
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ramashishmaurya",
+    "head_sha": "63a81d705b577d84427274a169733bf14f0c32d9",
+    "base_ref": "main",
+    "additions": 10,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
