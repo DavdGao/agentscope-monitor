@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "yeliheng-010",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T07:41:25.086344Z",
+  "title": "fix(mcp): preserve structured-only tool results",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2908",
+  "number": 2908,
+  "body": "## AgentScope Version\n\n2.0.10dev, based on `6109dd0561e0493b9157fb46dd6dcf07708f8986`.\n\n## Description\n\nFixes #2906.\n\nAn MCP server can return `content=[]` with a populated `structuredContent`, but `M…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "yeliheng-010",
+    "head_sha": "c14aebb60ce530a8edc6780d54971f5f56b057bc",
+    "base_ref": "main",
+    "additions": 132,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
