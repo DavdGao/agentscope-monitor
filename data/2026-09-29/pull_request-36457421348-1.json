@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "aniruddhaadak80",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T17:20:38.395777Z",
+  "title": "fix(formatter): validate input in the dashscope multi-agent formatter",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2952",
+  "number": 2952,
+  "body": "## PR Title Format\n\n- `fix(formatter): validate input in the dashscope multi-agent formatter`\n- Type `fix`, scope `formatter` (lowercase), subject starts with a lowercase letter.\n\n## AgentScope Versio…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "aniruddhaadak80",
+    "head_sha": "c255687cc5c71424ef79f03778cc7adb510a2fe6",
+    "base_ref": "main",
+    "additions": 20,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
