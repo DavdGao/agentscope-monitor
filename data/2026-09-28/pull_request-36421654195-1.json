@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "aniruddhaadak80",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T12:24:52.186865Z",
+  "title": "fix(rag): accept a 12-byte webp header in the media type sniffer",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2934",
+  "number": 2934,
+  "body": "## PR Title Format\n\n- `fix(rag): accept a 12-byte webp header in the media type sniffer`\n- Type `fix`, scope `rag` (lowercase), subject starts with a lowercase letter.\n\n## AgentScope Version\n\n```\n2.0.…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "aniruddhaadak80",
+    "head_sha": "d6edc559f012e9524fde17c805ee9882112a0ca8",
+    "base_ref": "main",
+    "additions": 51,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
