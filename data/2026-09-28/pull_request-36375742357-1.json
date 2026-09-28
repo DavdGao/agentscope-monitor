@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T03:57:55.510676Z",
+  "title": "feat(app): standard operating procedures at the service layer",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2617",
+  "number": 2617,
+  "body": "Standard operating procedures at the service layer: what is stored, how a stored procedure runs, and the HTTP surface for both.\n\n## 1. What is stored\n\nA `SOP` holds live agents — model clients, toolki…",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "e9f2044da81382c357de562dee700808c0ff7fe5",
+    "base_ref": "main",
+    "additions": 5270,
+    "deletions": 3,
+    "changed_files": 31
+  },
+  "at_mobiles": []
+}
