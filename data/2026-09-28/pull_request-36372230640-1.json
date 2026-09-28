@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T03:04:22.332490Z",
+  "title": "fix(tool): refresh the read cache after Edit and Write",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2865",
+  "number": 2865,
+  "body": "## AgentScope Version\n\nmain @ `a388212` (this branch adds one commit on top)\n\n## Description\n\nFixes #2862.\n\nThe `Edit` staleness gate compares the file's current backend mtime against the `ToolContext…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ydflow",
+    "head_sha": "3de912d5c723b2b26fac30866d7ae5a45c2d65a6",
+    "base_ref": "main",
+    "additions": 65,
+    "deletions": 8,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
