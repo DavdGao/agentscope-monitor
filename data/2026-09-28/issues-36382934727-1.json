@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "yeliheng-010",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T05:40:40.131598Z",
+  "title": "[Bug]: MCPClient.get_tool() reuses previous-connection tool schemas after reconnect",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2898",
+  "number": 2898,
+  "body": "### Prerequisites\n\n- [x] Existing issues, pull requests and recent discussions were searched for this problem.\n- [x] This is a reproducible bug report, not a usage question.\n\n### Background / Descript…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "yeliheng-010"
+  },
+  "at_mobiles": []
+}
