@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "wxxlamp",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-28T16:15:09.522564Z",
+  "title": "fix(channel): restore Discord tool approval buttons after direct reply delivery",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2525#issuecomment-5874005336",
+  "number": 2525,
+  "body": "Hi @kabishou11, thanks for working on this and for implementing the listener-side `custom_id` / `on_interaction` approach.\n\nI originally reported #2522 with the same root-cause analysis and proposed t…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "kabishou11",
+    "commenter": "wxxlamp"
+  },
+  "at_mobiles": []
+}
