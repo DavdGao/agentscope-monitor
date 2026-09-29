@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "aniruddhaadak80",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T18:57:32.152140Z",
+  "title": "fix(embedding): merge batch time and cache provenance correctly",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2967#issuecomment-5896659067",
+  "number": 2967,
+  "body": "Follow-up: this PR now also fixes the merged response's `source`.\n\nWhile verifying the `usage.time` half I found the same method hardcodes the\nprovenance of a merged call:\n\n```python\nreturn EmbeddingR…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "aniruddhaadak80",
+    "commenter": "aniruddhaadak80"
+  },
+  "at_mobiles": []
+}
