@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "neu-hsc",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T03:46:00.557528Z",
+  "title": "[Bug]: failed embedding cache writes destroy the previous cached vectors",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2983",
+  "number": 2983,
+  "body": "### Description\n\n`FileEmbeddingCache.store(..., overwrite=True)` writes directly to the existing `.npy` path. If serialization or writing fails, the previous cache entry is already truncated. A later …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "neu-hsc"
+  },
+  "at_mobiles": []
+}
