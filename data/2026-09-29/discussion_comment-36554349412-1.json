@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "freshman-0ne",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T10:14:50.133215Z",
+  "title": "Hope to support custom Agent classes for sub‑Agents, rather than being limited to only AgentRecord or subAgentTemplate",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3007#discussioncomment-18657051",
+  "number": 3007,
+  "body": "Similar requirements include:\n[#1947](https://github.com/agentscope-ai/agentscope/issues/1947)",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "freshman-0ne",
+    "discussion_author": "freshman-0ne"
+  },
+  "at_mobiles": []
+}
