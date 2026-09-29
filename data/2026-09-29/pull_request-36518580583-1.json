@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "neu-hsc",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T03:45:57.754032Z",
+  "title": "fix(pipeline): join sibling members after a failed round",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2982",
+  "number": 2982,
+  "body": "When one delegated member's model raises, `asyncio.gather` propagates the failure while sibling tools continue running. Keep explicit handles to the round's member tasks and cancel/join them before si…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "neu-hsc",
+    "head_sha": "02506546358f8e49caccdf48f6de9120e7b2343c",
+    "base_ref": "main",
+    "additions": 134,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
