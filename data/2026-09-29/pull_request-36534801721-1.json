@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T07:08:19.049678Z",
+  "title": "fix(rag): preserve duplicate and blank Excel headers",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2948",
+  "number": 2948,
+  "body": "## AgentScope Version\n\nCurrent main (`cb7e170`, 2.0.10dev).\n\n## Description\n\nExcelParser currently renders pandas-generated column labels as worksheet content: `[\"Name\", \"Name\", null]` becomes `[\"Name…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "little-spoon77",
+    "head_sha": "e820516272c3ad141786b3cefa84aa139a78ed10",
+    "base_ref": "main",
+    "additions": 60,
+    "deletions": 5,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
