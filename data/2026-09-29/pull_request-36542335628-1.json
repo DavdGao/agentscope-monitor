@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "cxyyy66",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T08:22:55.490557Z",
+  "title": "fix(rag): close the latest Elasticsearch PIT",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2998",
+  "number": 2998,
+  "body": "ElasticsearchStore.list_chunks updates the PIT ID only after processing a nonempty page. A rotated ID on the final empty response is therefore ignored; invalid chunk payloads also exit before the upda…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "cxyyy66",
+    "head_sha": "e32b61c6d33396a76404a590905d5b5cf010b12a",
+    "base_ref": "main",
+    "additions": 27,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
