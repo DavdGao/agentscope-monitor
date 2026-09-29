@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T04:18:30.581212Z",
+  "title": "[Bug]: DashScope streaming drops delta.audio.transcript, so an omni model's spoken text never reaches the agent",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2924",
+  "number": 2924,
+  "body": "**<u>AgentScope is an open-source project. To involve a broader community, we recommend asking your questions in English.</u>**\n\n### Prerequisites\n\n- [x] I have searched the existing [issues](https://…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "aniruddhaadak80"
+  },
+  "at_mobiles": []
+}
