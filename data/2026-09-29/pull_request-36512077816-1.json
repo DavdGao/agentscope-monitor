@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "twei43846-afk",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T02:19:57.440593Z",
+  "title": "fix(rag): normalize deferred PDF read errors",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2975",
+  "number": 2975,
+  "body": "## AgentScope Version\n\nCurrent main (`cb7e170`, 2.0.10dev).\n\n## Description\n\nFixes #2974. PDFParser only normalizes `PdfReadError` during reader construction, but pypdf also reads page objects and con…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "twei43846-afk",
+    "head_sha": "c7e48eded8031fb4c697529f9942577b0cdd41c1",
+    "base_ref": "main",
+    "additions": 68,
+    "deletions": 10,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
