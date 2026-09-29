@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "little-spoon77",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T02:55:44.806148Z",
+  "title": "[Bug]: Glob returns no matches for current-directory pattern segments",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2977",
+  "number": 2977,
+  "body": "### Bug\n\nThe bundled Glob helper treats `.` as a literal directory entry. Consequently `*.py` finds files, but the equivalent `./*.py` reports no matches. Embedded current-directory segments (`src/./*…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "little-spoon77"
+  },
+  "at_mobiles": []
+}
