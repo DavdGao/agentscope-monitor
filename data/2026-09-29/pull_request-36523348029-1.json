@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "aniruddhaadak80",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T04:49:51.204642Z",
+  "title": "fix(storage): scope the sql upsert_session read to the caller's user",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2981",
+  "number": 2981,
+  "body": "## PR Title Format\n\n- `fix(storage): scope the sql upsert_session read to the caller's user`\n- Type `fix`, scope `storage` (lowercase), subject starts with a lowercase letter.\n\n## AgentScope Version\n\n…",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "aniruddhaadak80",
+    "head_sha": "17d4fc7dad83b72bfe350db6fe375b60b47bfa8f",
+    "base_ref": "main",
+    "additions": 113,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
