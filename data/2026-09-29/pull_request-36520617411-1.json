@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T04:13:03.471729Z",
+  "title": "fix(tts): label audio with the effective response format",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2980",
+  "number": 2980,
+  "body": "## AgentScope Version\n\nCurrent main (`cb7e170`, 2.0.10dev).\n\n## Description\n\nFixes #2978. A call such as `synthesize(\"Hello\", response_format=\"wav\")` sends WAV to the API but labels the returned audio…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "little-spoon77",
+    "head_sha": "9e2ee4bbb3c72ee381579470a8079a0894def6df",
+    "base_ref": "main",
+    "additions": 59,
+    "deletions": 5,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
