@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "zhengguangzhuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T08:18:26.806829Z",
+  "title": "fix(rag): wrap deferred PDF read errors",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2996",
+  "number": 2996,
+  "body": "## Summary\n\n- Convert deferred `pypdf` read errors during page iteration and text extraction to the documented `ValueError`.\n- Preserve the source filename in the public error and the original `PdfRea…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "zhengguangzhuo",
+    "head_sha": "7a1ba6df90072baaf20ca06791d5df7aae77ad64",
+    "base_ref": "main",
+    "additions": 30,
+    "deletions": 11,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
