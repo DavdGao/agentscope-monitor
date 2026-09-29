@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "aniruddhaadak80",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T04:50:47.417094Z",
+  "title": "fix(storage): scope the sql upsert_session read to the caller's user",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2981#issuecomment-5883859371",
+  "number": 2981,
+  "body": "Follow-up: the first version of this fix was incomplete, and its own\ntest caught it.\n\nI originally scoped only the pre-update read to `user_id` and let an unowned\npreset id fall through to `_write_row…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "aniruddhaadak80",
+    "commenter": "aniruddhaadak80"
+  },
+  "at_mobiles": []
+}
