@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "cxyyy66",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T08:21:03.396035Z",
+  "title": "[Bug]: Elasticsearch chunk listing closes a stale PIT after an empty page or invalid payload",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2997",
+  "number": 2997,
+  "body": "ElasticsearchStore.list_chunks updates pit_id only after parsing the hits. The final empty page breaks before that assignment, and invalid chunk payloads can raise before it too. If the response rotat…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "cxyyy66"
+  },
+  "at_mobiles": []
+}
