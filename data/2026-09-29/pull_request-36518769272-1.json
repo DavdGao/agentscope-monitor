@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "neu-hsc",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T03:48:34.787359Z",
+  "title": "fix(embedding): publish cache files atomically",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2984",
+  "number": 2984,
+  "body": "An unsuccessful `FileEmbeddingCache.store(..., overwrite=True)` currently truncates the previous `.npy` entry before serialization finishes. For example, inconsistent vector dimensions raise `ValueErr…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "neu-hsc",
+    "head_sha": "27834e8e808f941885327122bad08e025999530b",
+    "base_ref": "main",
+    "additions": 145,
+    "deletions": 6,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
