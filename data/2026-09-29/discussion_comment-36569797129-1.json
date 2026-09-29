@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T12:41:35.913033Z",
+  "title": "Hope to support custom Agent classes for sub‑Agents, rather than being limited to only AgentRecord or subAgentTemplate",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3007#discussioncomment-18659128",
+  "number": 3007,
+  "body": "For tools, `extra_agent_tools` receives the current `agent_id` and `session_id`, so it can return different tools for different workers. Tools are shared across all agents only if the factory returns …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "iluv7",
+    "discussion_author": "freshman-0ne"
+  },
+  "at_mobiles": []
+}
