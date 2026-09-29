@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T13:45:15.099604Z",
+  "title": "fix(tool): let Bash see the paths a shell variable names",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3017",
+  "number": 3017,
+  "body": "## PR Title Format\n\n- [x] My PR title follows the Conventional Commits format.\n\n## AgentScope Version\n\n2.0.10dev (main at `78c4ec47`)\n\n## Description\n\n**Background & Purpose**: Fixes #3016.\n\n`Bash` ju…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "RerankerGuo",
+    "head_sha": "cbb18f3eba972a331f4b6f3b2a9b758041bea89b",
+    "base_ref": "main",
+    "additions": 322,
+    "deletions": 14,
+    "changed_files": 7
+  },
+  "at_mobiles": []
+}
