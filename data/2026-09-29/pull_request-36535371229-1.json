@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "twei43846-afk",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T07:13:38.597842Z",
+  "title": "fix(tool): treat dash-prefixed grep paths as operands",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2988",
+  "number": 2988,
+  "body": "Grep interprets relative paths starting with `-` as ripgrep options. Searching `-notes.txt` fails, while a file named `--help` returns the help page as successful search output. Insert the option term…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "twei43846-afk",
+    "head_sha": "40b5a8059cb77b6f8334be9dc6604386a5e1c18d",
+    "base_ref": "main",
+    "additions": 44,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
