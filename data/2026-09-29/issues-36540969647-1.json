@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T08:09:40.920379Z",
+  "title": "[Bug]: DashScope TTS silently converts API errors into successful audio responses",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2991",
+  "number": 2991,
+  "body": "Reproduced using the actual SDK MultiModalConversationResponse(status_code=401, code=\"InvalidApiKey\", message=\"Invalid API-key provided.\", request_id=\"request-test\"). DashScopeTTSModel._aggregate_sync…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "little-spoon77"
+  },
+  "at_mobiles": []
+}
