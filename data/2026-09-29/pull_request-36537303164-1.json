@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "little-spoon77",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T07:33:19.862004Z",
+  "title": "fix(tts): propagate DashScope synthesis errors",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2993",
+  "number": 2993,
+  "body": "DashScope TTS currently treats provider error chunks as success: a 401 response becomes a valid-looking empty WAV in aggregate mode, and streaming reports a normal terminal response. An error after PC…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "little-spoon77",
+    "head_sha": "f541bd2898b5c5e0247c5c9399e23d249897d828",
+    "base_ref": "main",
+    "additions": 42,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
