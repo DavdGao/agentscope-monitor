@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T08:04:35.459933Z",
+  "title": "fix(tts): respect per-call speech instructions",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2990",
+  "number": 2990,
+  "body": "When OpenAITTSModel has configured instructions, an explicit per-call `instructions` argument is silently overwritten by that default. For example, a model configured with \"Speak cheerfully\" ignores `…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "little-spoon77",
+    "head_sha": "39ac817f3fa7d7f9b4c81ac2198eac36b3af877d",
+    "base_ref": "main",
+    "additions": 52,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
