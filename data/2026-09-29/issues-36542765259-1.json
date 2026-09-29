@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "cxyyy66",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T08:26:57.440699Z",
+  "title": "[Bug]: DashScope TTS per-call voice override raises duplicate-keyword TypeError",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3001",
+  "number": 3001,
+  "body": "DashScopeTTSModel.synthesize(\"Hello\", voice=\"Serena\") raises TypeError before invoking the SDK: voice is passed explicitly and also through kwargs. This prevents temporarily selecting a voice without …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "cxyyy66"
+  },
+  "at_mobiles": []
+}
