@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "zaher-m",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T17:44:41.899605Z",
+  "title": "[Bug]: ReplyBudgetControlMiddleware blocks every tool after the budget, so a structured reply never ends",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3026",
+  "number": 3026,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [
+    "Bug"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "zaher-m"
+  },
+  "at_mobiles": []
+}
