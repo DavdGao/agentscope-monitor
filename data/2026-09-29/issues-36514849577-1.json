@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "little-spoon77",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T02:56:20.767171Z",
+  "title": "[Bug]: OpenAI TTS labels per-call format overrides with the default MIME type",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2978",
+  "number": 2978,
+  "body": "### Bug\n\n`OpenAITTSModel.synthesize(..., response_format=\"wav\")` correctly forwards the per-call override to the API, but derives the returned `DataBlock` media type from `self.parameters.response_for…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "little-spoon77"
+  },
+  "at_mobiles": []
+}
