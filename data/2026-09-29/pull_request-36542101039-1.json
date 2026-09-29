@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T08:20:41.080464Z",
+  "title": "fix(formatter): route Moonshot tool_sequence formatting through _format_tool_sequence",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2903",
+  "number": 2903,
+  "body": "## AgentScope Version\n\n`main` at `2c885b58` (2.0.8)\n\n## Description\n\nFixes #2902\n\n`MoonshotMultiAgentFormatter.format()` in `_moonshot_formatter.py` had an inline call that re-implemented `MoonshotMul…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "sunrong1",
+    "head_sha": "8a7f2a376d59cc7bcfd0412334ab92db0bed94bb",
+    "base_ref": "main",
+    "additions": 14,
+    "deletions": 14,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
