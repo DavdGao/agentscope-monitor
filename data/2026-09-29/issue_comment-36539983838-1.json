@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "zhengguangzhuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T08:00:15.426694Z",
+  "title": "[Bug]: PDFParser leaks deferred PDF read errors instead of ValueError",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2974#issuecomment-5886127729",
+  "number": 2974,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "twei43846-afk",
+    "commenter": "zhengguangzhuo"
+  },
+  "at_mobiles": []
+}
