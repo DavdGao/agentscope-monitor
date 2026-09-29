@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "little-spoon77",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T02:58:06.392697Z",
+  "title": "fix(tool): handle current-directory segments in glob patterns",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2979",
+  "number": 2979,
+  "body": "## AgentScope Version\n\nCurrent main (`cb7e170`, 2.0.10dev).\n\n## Description\n\nFixes #2977. `Glob(pattern=\"./*.py\")` currently returns no files where `*.py` succeeds, because the helper searches directo…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "little-spoon77",
+    "head_sha": "e5a76970c8cc172699a39137b7febe714d030ccf",
+    "base_ref": "main",
+    "additions": 44,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
