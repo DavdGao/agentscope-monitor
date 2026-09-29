@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "twei43846-afk",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T07:10:39.189772Z",
+  "title": "[Bug]: Grep interprets dash-prefixed paths as ripgrep options",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2987",
+  "number": 2987,
+  "body": "Grep.call(pattern=\"needle\", path=\"-notes.txt\") passes the relative path straight to rg without an option terminator. A valid dash-prefixed filename is therefore parsed as flags; a file named --help pr…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "twei43846-afk"
+  },
+  "at_mobiles": []
+}
