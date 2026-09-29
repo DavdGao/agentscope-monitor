@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "aniruddhaadak80",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T02:44:04.825196Z",
+  "title": "fix(rag): accept a 12-byte webp header in the media type sniffer",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2934#issuecomment-5882641225",
+  "number": 2934,
+  "body": "Follow-up: moved these tests to their own module.\n\n`tests/rag_parser_test.py` is also appended to by #2940, and both additions\nland at end-of-file, so merging these two in either order would conflict …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "aniruddhaadak80",
+    "commenter": "aniruddhaadak80"
+  },
+  "at_mobiles": []
+}
