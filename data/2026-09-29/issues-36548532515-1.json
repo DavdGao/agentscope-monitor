@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "little-spoon77",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T09:20:36.447279Z",
+  "title": "[Bug]: Glob helper treats dash-prefixed patterns as command-line options",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3003",
+  "number": 3003,
+  "body": "Glob invokes its argparse helper using separate --pattern and value arguments. A valid pattern such as -report*.txt or an exact filename --help is parsed as another option, causing the helper to fail …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "little-spoon77"
+  },
+  "at_mobiles": []
+}
