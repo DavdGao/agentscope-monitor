@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T08:04:44.276947Z",
+  "title": "[Bug]: OpenAI TTS ignores per-call instructions when a default is configured",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2989",
+  "number": 2989,
+  "body": "With Parameters(instructions=\"Speak cheerfully\"), synthesize(\"Hello\", instructions=\"Speak quietly\") sends the configured default instead of the explicit per-call instructions. The default is assigned …",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "little-spoon77"
+  },
+  "at_mobiles": []
+}
