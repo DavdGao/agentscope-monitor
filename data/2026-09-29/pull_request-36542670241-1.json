@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "cxyyy66",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T08:26:11.508517Z",
+  "title": "fix(schema): decode escaped definition reference names",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3000",
+  "number": 3000,
+  "body": "Tool schemas with definition names containing `/` or `~` are not flattened correctly: the helper looks up the encoded reference token literally, removes the definitions, and leaves a dangling `$ref`. …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "cxyyy66",
+    "head_sha": "6690fb53eb35ac8961539907ac34a0cd90823f6c",
+    "base_ref": "main",
+    "additions": 56,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
