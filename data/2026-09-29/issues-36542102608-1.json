@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T08:20:38.405013Z",
+  "title": "[Chore]: MoonshotMultiAgentFormatter.format() inlines what _format_tool_sequence already does",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2902",
+  "number": 2902,
+  "body": "## Background\n\n`MoonshotMultiAgentFormatter` in `src/agentscope/formatter/_moonshot_formatter.py` defines a private helper, but its own `format()` method never calls it. The helper exists on every oth…",
+  "labels": [
+    "triage/not-a-bug"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "sunrong1"
+  },
+  "at_mobiles": []
+}
