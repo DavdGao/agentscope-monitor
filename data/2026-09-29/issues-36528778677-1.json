@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T05:59:25.427539Z",
+  "title": "[Bug]: WordParser drops column alignment and data for omitted table cells",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2959",
+  "number": 2959,
+  "body": "### Bug\n\nWordParser ignores `w:gridBefore` and `w:gridAfter`, which represent omitted leading/trailing table cells. When the header starts after the first grid column, Markdown output shifts the heade…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "twei43846-afk"
+  },
+  "at_mobiles": []
+}
