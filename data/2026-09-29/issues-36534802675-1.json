@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T07:07:43.126281Z",
+  "title": "[Bug]: ExcelParser rewrites duplicate and blank header cells",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2947",
+  "number": 2947,
+  "body": "### Description\n\nOn current main (`cb7e170`), `ExcelParser` lets pandas treat the first worksheet row as DataFrame column names. pandas then disambiguates repeated headers and invents names for blank …",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "little-spoon77"
+  },
+  "at_mobiles": []
+}
