@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "aniruddhaadak80",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T06:08:48.251028Z",
+  "title": "[Bug]: a Content-Type with parameters cannot find its parser in the index worker",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2985",
+  "number": 2985,
+  "body": "`IndexWorker` routes a document to a parser by looking the media type\nup verbatim in the parser registry, but the media type it looks up is taken\nstraight from the client-supplied `content_type`:\n\n```…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "aniruddhaadak80"
+  },
+  "at_mobiles": []
+}
