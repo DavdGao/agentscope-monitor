@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "CorgiBoyG",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T12:36:13.188149Z",
+  "title": "perf(message): append streamed Base64 chunks without re-encoding",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2797#issuecomment-5890431081",
+  "number": 2797,
+  "body": "Thanks for working on this. I reproduced the behavior and found a blocking performance issue in the current fast path.\n\n`_append_base64_chunk()` calls `_is_base64_shape(existing)` on every append, and…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "ydflow",
+    "commenter": "CorgiBoyG"
+  },
+  "at_mobiles": []
+}
