@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T11:51:36.852234Z",
+  "title": "Write spawns a redundant mkdir -p, with host path semantics, before every write",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3014",
+  "number": 3014,
+  "body": "## Background / Description\n\n`Write.call` shells out to `mkdir -p` for the target's parent directory before every write:\n\n```python\n# src/agentscope/tool/_builtin/_write.py\nparent_dir = Path(file_path…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "RerankerGuo"
+  },
+  "at_mobiles": []
+}
