@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "neu-hsc",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T07:33:33.110025Z",
+  "title": "[Bug]: Edit accepts an empty replacement target and inserts text between every character",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2994",
+  "number": 2994,
+  "body": "Reproduced on main: with an existing file containing abc, Edit.call(old_string=\"\", new_string=\"X\", replace_all=True) succeeds and writes XaXbXcX. This is Python str.replace empty-substring behavior le…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "neu-hsc"
+  },
+  "at_mobiles": []
+}
