@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "william-xue",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T14:17:25.004849Z",
+  "title": "feat(app): add AI SDK UI message stream protocol middleware",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3019#issuecomment-5892121839",
+  "number": 3019,
+  "body": "Implementation for the proposal in #3018 is up as this PR. Locally: 18 new tests\nin `tests/ai_sdk_protocol_test.py`, the protocol-related suites pass (53), the\nfull suite is green (2591 passed / 147 s…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "william-xue",
+    "commenter": "william-xue"
+  },
+  "at_mobiles": []
+}
