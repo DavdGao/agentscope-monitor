@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "zhengguangzhuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T02:54:57.814162Z",
+  "title": "fix(embedding): enforce zero file cache limit",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2976",
+  "number": 2976,
+  "body": "## Summary\n\n- Treat `max_file_number=0` as a zero-capacity cache instead of an unlimited cache.\n- Compute the number of entries to evict directly, avoiding negative-zero slicing.\n- Add a regression te…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "zhengguangzhuo",
+    "head_sha": "ad2a65a481a901d8bbcd444507f7fbd797a1da14",
+    "base_ref": "main",
+    "additions": 17,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
