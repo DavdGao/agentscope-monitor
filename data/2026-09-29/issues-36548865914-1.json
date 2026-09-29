@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T09:23:41.695756Z",
+  "title": "[Bug]: Msg.append_usage() adopts the caller's Usage object, so messages given one Usage report each other's totals",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2801",
+  "number": 2801,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "Lesereingrape"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "Lesereingrape"
+  },
+  "at_mobiles": []
+}
