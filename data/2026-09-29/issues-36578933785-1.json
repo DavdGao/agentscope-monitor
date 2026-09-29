@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "william-xue",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T13:57:15.842559Z",
+  "title": "[Feature]: support the AI SDK UI message stream protocol in the app protocol middleware",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3018",
+  "number": 3018,
+  "body": "## What problem does this solve\n\nAgentScope's app layer already lets a web front-end consume an agent run as a\nprotocol-converted SSE stream — but `agentscope/app/middleware/_protocol/`\ncurrently ship…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "william-xue"
+  },
+  "at_mobiles": []
+}
