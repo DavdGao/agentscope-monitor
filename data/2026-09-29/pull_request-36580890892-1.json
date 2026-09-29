@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "william-xue",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T14:12:47.017942Z",
+  "title": "feat(app): add AI SDK UI message stream protocol middleware",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3019",
+  "number": 3019,
+  "body": "## What\n\nAdds `AISDKProtocolMiddleware` next to `AGUIProtocolMiddleware`, so a web\nfront-end that talks the Vercel AI SDK **UI message stream** protocol can consume\nan AgentScope agent run directly in…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "william-xue",
+    "head_sha": "423b8f7ec9b5913bbe57efb06220f35a294dee10",
+    "base_ref": "main",
+    "additions": 848,
+    "deletions": 0,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
