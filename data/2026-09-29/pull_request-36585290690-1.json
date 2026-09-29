@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Daomiyo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T14:47:29.618166Z",
+  "title": "fix(rag): surface Excel worksheet parsing failures",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3021",
+  "number": 3021,
+  "body": "## AgentScope Version\n\n2.0.10dev, based on main at `78c4ec47f5f76c44d762ef7b5ddac55dd89c7f33`.\n\n## Description\n\nCloses #3020.\n\nWhen an XLSX opens successfully but a worksheet fails during deferred rea…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Daomiyo",
+    "head_sha": "553a47efcef578619eb460f147ce76a023871e15",
+    "base_ref": "main",
+    "additions": 36,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
