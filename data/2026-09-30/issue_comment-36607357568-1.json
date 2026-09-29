@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "zaher-m",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T17:47:01.297111Z",
+  "title": "[Bug]: ReplyBudgetControlMiddleware blocks every tool after the budget, so a structured reply never ends",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3026#issuecomment-5895558331",
+  "number": 3026,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "zaher-m",
+    "commenter": "zaher-m"
+  },
+  "at_mobiles": []
+}
