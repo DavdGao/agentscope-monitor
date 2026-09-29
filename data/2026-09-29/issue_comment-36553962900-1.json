@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "wuyak",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T10:11:11.414693Z",
+  "title": "fix(models): preserve Responses reasoning text",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2916#issuecomment-5888108196",
+  "number": 2916,
+  "body": "Thanks @qbc2016 for the review. Fixed the non-streaming omission in the original PR's parser. Summary and raw reasoning now use separate thinking blocks, with each reasoning item replayed once in hist…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "wuyak",
+    "commenter": "wuyak"
+  },
+  "at_mobiles": []
+}
