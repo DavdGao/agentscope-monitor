@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "little-spoon77",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T09:24:28.932701Z",
+  "title": "fix(tool): preserve option-like glob argument values",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3004",
+  "number": 3004,
+  "body": "Glob passes `--pattern` and its value as separate helper arguments. A valid pattern such as `-report*.txt` or the filename `--help` is then interpreted as an option by argparse, so the helper exits wi…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "little-spoon77",
+    "head_sha": "c9fd826823a2717182c53be3e75edee0de665d53",
+    "base_ref": "main",
+    "additions": 52,
+    "deletions": 5,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
