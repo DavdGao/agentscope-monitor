@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "freshman-0ne",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T10:13:02.255351Z",
+  "title": "Hope to support custom Agent classes for sub‑Agents, rather than being limited to only AgentRecord or subAgentTemplate",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3007",
+  "number": 3007,
+  "body": "Both AgentRecord + AgentInvite  and subAgentTemplate + AgentCreate lack support for two key features:\n\n- Sub‑Agents cannot define their own exclusive tool sets. Tools added via extra_agent_tools are s…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "freshman-0ne"
+  },
+  "at_mobiles": []
+}
