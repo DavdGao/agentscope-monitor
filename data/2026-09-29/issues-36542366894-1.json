@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "cxyyy66",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T08:23:12.381968Z",
+  "title": "[Bug]: schema flattening leaves escaped definition references unresolved",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2999",
+  "number": 2999,
+  "body": "The shared _flatten_json_schema helper looks up the final $ref token without decoding JSON Pointer escapes. A definition named a/b referenced as #/$defs/a~1b, or a~b referenced as #/$defs/a~0b, is not…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "cxyyy66"
+  },
+  "at_mobiles": []
+}
