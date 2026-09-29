@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "sunrong1",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T08:39:33.440620Z",
+  "title": "[Bug]: ToolContext.update_read_file_cache drops the existing entry when the re-read is oversized",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2909#issuecomment-5886705853",
+  "number": 2909,
+  "body": "Reopening request for @DavdGao (or any maintainer) 👋\n\nThis issue was closed by the upstream `issue-triage` quota bot (which hit `MAX_OPEN_ISSUES=5` for the `sunrong1` account), not by a maintainer tri…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "sunrong1",
+    "commenter": "sunrong1"
+  },
+  "at_mobiles": []
+}
