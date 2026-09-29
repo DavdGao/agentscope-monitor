@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T11:25:48.159056Z",
+  "title": "fix(mcp): build the owned streamable-HTTP client through the SDK factory",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3010",
+  "number": 3010,
+  "body": "## PR Title Format\n\n- [x] My PR title follows the Conventional Commits format.\n\n## AgentScope Version\n\n2.0.10dev (main at `78c4ec47`)\n\n## Description\n\n**Background & Purpose**: Fixes #3009.\n\n`MCPClien…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "RerankerGuo",
+    "head_sha": "cce9a3a97370200506fd9c9f8c7394c3a8c9d901",
+    "base_ref": "main",
+    "additions": 32,
+    "deletions": 9,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
