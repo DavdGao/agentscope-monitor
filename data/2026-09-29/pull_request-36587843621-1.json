@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T15:08:09.856208Z",
+  "title": "fix(tracing): report the MiniMax provider name on chat spans",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3023",
+  "number": 3023,
+  "body": "## PR Title Format\n\n- [x] My PR title follows the Conventional Commits format.\n\n## AgentScope Version\n\n2.0.10dev (main at `78c4ec47`)\n\n## Description\n\n**Background & Purpose**: Fixes #3022.\n\n`_get_pro…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "RerankerGuo",
+    "head_sha": "08c3da92099a46a2c4c834c04b31f83fda616914",
+    "base_ref": "main",
+    "additions": 21,
+    "deletions": 1,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
