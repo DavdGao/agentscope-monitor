@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "zhengguangzhuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-29T07:27:51.877841Z",
+  "title": "[Bug]: a Content-Type with parameters cannot find its parser in the index worker",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2985#issuecomment-5885683051",
+  "number": 2985,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "aniruddhaadak80",
+    "commenter": "zhengguangzhuo"
+  },
+  "at_mobiles": []
+}
