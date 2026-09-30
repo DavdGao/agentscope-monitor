@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Vancir",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-30T19:40:02.602741Z",
+  "title": "[Bug]: `Agent.observe()` on a parked agent drops the pending confirmation; the user's approval is then rejected as stale",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3065",
+  "number": 3065,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [
+    "Bug"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Vancir"
+  },
+  "at_mobiles": []
+}
