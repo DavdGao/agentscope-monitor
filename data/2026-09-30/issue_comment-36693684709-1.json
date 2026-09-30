@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Jay0130-a",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-30T09:04:08.123364Z",
+  "title": "fix(utils): inline discriminator mapping pointers when flattening schemas",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3047#issuecomment-5907874720",
+  "number": 3047,
+  "body": "Linked issue: agentscope-ai#3046, which I claimed via `/assign` after it was labelled `triage/confirmed` (see https://github.com/agentscope-ai/agentscope/issues/3046). GitHub did not register a formal…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Jay0130-a",
+    "commenter": "Jay0130-a"
+  },
+  "at_mobiles": []
+}
