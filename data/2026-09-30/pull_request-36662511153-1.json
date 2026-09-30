@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-30T03:01:30.710238Z",
+  "title": "fix(model): give each Ollama tool call its own id",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3011",
+  "number": 3011,
+  "body": "## AgentScope Version\n\n2.0.10dev (main at 78c4ec47)\n\n## Description\n\nFixes #2971.\n\nEach Ollama tool call now gets a new id, so a second call to the same tool in one reply runs too.\n\n`OllamaChatModel` …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "zaher-m",
+    "head_sha": "411be2aea41a075f0d006f8b80de08b0a7c6cc4e",
+    "base_ref": "main",
+    "additions": 156,
+    "deletions": 9,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
