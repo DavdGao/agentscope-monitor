@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "zaher-m",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-30T16:50:51.266546Z",
+  "title": "[Bug]: A Bash timeout or a stop doesn't stop the command on the local backend",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3060#issuecomment-5915733383",
+  "number": 3060,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "zaher-m",
+    "commenter": "zaher-m"
+  },
+  "at_mobiles": []
+}
