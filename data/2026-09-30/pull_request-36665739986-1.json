@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "aniruddhaadak80",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-30T03:44:26.265785Z",
+  "title": "fix(realtime): keep the local transport sample-aligned on odd PCM",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3034",
+  "number": 3034,
+  "body": "## PR Title Format\n\n- `fix(realtime): keep the local transport sample-aligned on odd PCM`\n- Type `fix`, scope `realtime` (lowercase), subject starts with a lowercase letter.\n\n## AgentScope Version\n\n``…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "aniruddhaadak80",
+    "head_sha": "4f934bea54482fafb8b088a0792208f0c851d9c2",
+    "base_ref": "main",
+    "additions": 59,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
