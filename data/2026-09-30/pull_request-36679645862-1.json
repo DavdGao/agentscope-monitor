@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "neu-hsc",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-30T06:42:52.811895Z",
+  "title": "fix(tool): reject empty edit replacement targets",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2995",
+  "number": 2995,
+  "body": "An empty `old_string` with `replace_all=True` currently inserts the replacement before, between and after every character: editing `abc` with an empty target and `X` writes `XaXbXcX`. Without replace_…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "neu-hsc",
+    "head_sha": "b0fd96ed9390555fd26a2b5886a7b1ec57634ca0",
+    "base_ref": "main",
+    "additions": 72,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
