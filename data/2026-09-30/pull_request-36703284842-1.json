@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "zaher-m",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-30T10:35:03.194745Z",
+  "title": "fix(app): cancel the running tool when a reply is interrupted",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3048",
+  "number": 3048,
+  "body": "## AgentScope Version\n\n2.0.10dev (main at 72f3f6fa)\n\n## Description\n\nFixes #3045.\n\nWhen you stop a reply in the agent service, the tool that's running now stops too.\n\n`ToolOffloadMiddleware` runs each…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "zaher-m",
+    "head_sha": "5041077ec88b8320ab515ff49db2fea769b820b0",
+    "base_ref": "main",
+    "additions": 304,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
