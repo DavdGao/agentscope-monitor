@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "neu-hsc",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-30T12:33:57.731606Z",
+  "title": "[Bug]: Qdrant metadata filters reject explicit null values",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3054",
+  "number": 3054,
+  "body": "Passing metadata_filter={\"reviewer\": None} to QdrantStore.search, list_documents, or list_chunks raises a Pydantic ValidationError while constructing MatchValue, before the database is queried. MatchV…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "neu-hsc"
+  },
+  "at_mobiles": []
+}
