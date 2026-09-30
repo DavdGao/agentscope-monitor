@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "aniruddhaadak80",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-30T00:21:58.672689Z",
+  "title": "fix(model): wrap non-streaming chat audio in a real WAV header",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3028#issuecomment-5901578805",
+  "number": 3028,
+  "body": "Follow-up: DashScope has the same defect, and it is worse.\n\n`DashScopeChatModel` asks for audio exactly the way the Chat Completions\nmodel does, and its comment names only the streaming path:\n\n```pyth…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "aniruddhaadak80",
+    "commenter": "aniruddhaadak80"
+  },
+  "at_mobiles": []
+}
