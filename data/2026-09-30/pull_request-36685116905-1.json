@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-30T07:41:18.968218Z",
+  "title": "refactor(app): group the agent's text-mode settings under chat_config",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2570",
+  "number": 2570,
+  "body": "## Why\n\n`context_config`, `react_config` and `invite_config` all configure the text ReAct loop. The realtime voice mode needs its own, different set — a `ContextConfig` whose fields do not match the t…",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "3ade96395acccfe3e99e78d8cc694eb69da7ebf3",
+    "base_ref": "main",
+    "additions": 7816,
+    "deletions": 979,
+    "changed_files": 91
+  },
+  "at_mobiles": []
+}
