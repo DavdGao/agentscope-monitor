@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-30T08:41:14.746097Z",
+  "title": "fix(tts): allow a per-call DashScope voice",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3002",
+  "number": 3002,
+  "body": "Passing `voice` to DashScopeTTSModel.synthesize raises a duplicate-keyword TypeError before the SDK is called, because the configured voice is passed explicitly alongside kwargs. This prevents selecti…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "cxyyy66",
+    "head_sha": "e7f95c1d407d34032ce7cb89cce6052eecb6c032",
+    "base_ref": "main",
+    "additions": 134,
+    "deletions": 8,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
