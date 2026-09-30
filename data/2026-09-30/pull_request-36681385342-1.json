@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "little-spoon77",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-30T07:01:51.241439Z",
+  "title": "fix(tts): propagate CosyVoice callback errors",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3042",
+  "number": 3042,
+  "body": "CosyVoice's callback currently logs on_error but marks the stream finished, so consumers can receive partial audio or an empty final response as though synthesis succeeded.\n\nRetain the callback error …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "little-spoon77",
+    "head_sha": "4ef5aba267b2ac25fe75eb1ff7b5445d186c6842",
+    "base_ref": "main",
+    "additions": 57,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
