@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "zaher-m",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-30T16:47:15.093234Z",
+  "title": "[Bug]: A Bash timeout or a stop doesn't stop the command on the local backend",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3060",
+  "number": 3060,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [
+    "Bug"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "zaher-m"
+  },
+  "at_mobiles": []
+}
