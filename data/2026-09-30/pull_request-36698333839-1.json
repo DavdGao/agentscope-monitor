@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-30T09:47:25.792663Z",
+  "title": "fix(app): reject an MCP name the library cannot load back",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3025",
+  "number": 3025,
+  "body": "## Summary\n\n`PATCH /mcp/{mcp_id}` assigned a caller-supplied name straight onto the stored\n`MCPClient`, which lets through names that `MCPClient` itself refuses. Once\nstored, the record cannot be read…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "lihongyuan99",
+    "head_sha": "52d20189a886d51ebf18a3e78b211bdde346409e",
+    "base_ref": "main",
+    "additions": 150,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
