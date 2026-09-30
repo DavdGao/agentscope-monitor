@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "pengmoubuaixuexi",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-30T00:06:57.765370Z",
+  "title": "fix(pipeline): join sibling members after a failed round",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2982#issuecomment-5901421160",
+  "number": 2982,
+  "body": "Thanks for taking this on and crediting the reproduction. I independently checked out `02506546358f8e49caccdf48f6de9120e7b2343c` and verified the fix locally.\n\n- With the original `_team_pipeline.py` …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "neu-hsc",
+    "commenter": "pengmoubuaixuexi"
+  },
+  "at_mobiles": []
+}
