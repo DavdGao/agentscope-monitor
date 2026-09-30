@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-30T06:19:51.778702Z",
+  "title": "fix(embedding): enforce a zero cache file limit",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2962",
+  "number": 2962,
+  "body": "## AgentScope Version\n\nCurrent main (`cb7e170`, 2.0.10dev).\n\n## Description\n\nFixes #2960. `FileEmbeddingCache(max_file_number=0)` currently retains every written entry because eviction checks the trut…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "twei43846-afk",
+    "head_sha": "3faf0ad50b8b0d1eb7612468da06700bdf7f1ee0",
+    "base_ref": "main",
+    "additions": 123,
+    "deletions": 8,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
