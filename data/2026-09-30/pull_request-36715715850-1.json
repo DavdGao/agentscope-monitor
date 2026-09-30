@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "neu-hsc",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-30T12:35:25.242110Z",
+  "title": "fix(rag): support null Qdrant metadata filters",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3055",
+  "number": 3055,
+  "body": "A metadata filter such as {\"reviewer\": null} raises ValidationError because Qdrant MatchValue cannot represent null. Translate None to IsNullCondition, matching explicitly null fields without matching…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "neu-hsc",
+    "head_sha": "d02c80e8a7b37b71d127851a2054dc11d0a02c00",
+    "base_ref": "main",
+    "additions": 71,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
