@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "twei43846-afk",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-30T06:59:04.944963Z",
+  "title": "fix(tool): reject nonpositive file stream chunk sizes",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3040",
+  "number": 3040,
+  "body": "Nonpositive read_stream chunk sizes behave inconsistently: the local reader silently yields no data for zero and buffers the whole file for negative values, while the default backend silently yields n…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "twei43846-afk",
+    "head_sha": "ed0379d0b73a529f8d7e0058e243639109e5e5f2",
+    "base_ref": "main",
+    "additions": 54,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
