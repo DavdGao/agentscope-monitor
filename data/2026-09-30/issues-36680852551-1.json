@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "twei43846-afk",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-30T06:56:01.783200Z",
+  "title": "[Bug]: PDFParser leaks deferred PDF read errors instead of ValueError",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2974",
+  "number": 2974,
+  "body": "### Bug\n\n`PDFParser.parse()` documents `ValueError` for unparseable files, but only wraps `PdfReader(...)` construction. pypdf also reads objects lazily while iterating pages and extracting text, outs…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "zhengguangzhuo"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "twei43846-afk"
+  },
+  "at_mobiles": []
+}
