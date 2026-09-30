@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-30T10:02:15.028710Z",
+  "title": "fix(formatter): include the media type in DashScope audio data URIs",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2901#issuecomment-5908923424",
+  "number": 2901,
+  "body": "The current `data:;base64,...` value follows the official DashScope Qwen-Omni examples for Base64-encoded audio:\n\n- [Qwen-Omni: Input a Base64-encoded local file](https://docs.bailian.console.aliyun.c…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "sunrong1",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
