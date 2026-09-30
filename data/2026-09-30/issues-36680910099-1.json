@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "twei43846-afk",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-30T06:56:44.850952Z",
+  "title": "[Bug]: nonpositive read_stream chunk sizes silently drop file contents",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3039",
+  "number": 3039,
+  "body": "### Reproduction\nOn main c0a5762, write b\"abcdef\" to a temporary file and collect `LocalBackend.read_stream(path, chunk_size=0)`: it silently yields nothing. Passing -1 instead reads the entire file a…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "twei43846-afk"
+  },
+  "at_mobiles": []
+}
