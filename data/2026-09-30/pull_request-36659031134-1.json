@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ffffff55",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-30T02:15:59.886163Z",
+  "title": "fix(tool): treat a separated dotted sed backup suffix as a suffix",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3031",
+  "number": 3031,
+  "body": "### Description\n\nFixes #3030\n\n- **What**: consume a leading-dot token after a separated `-i` /\n  `--in-place` as the backup suffix, for both option spellings.\n- **Why**: `sed -i .bak 's/x/y/' file.txt…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ffffff55",
+    "head_sha": "01ef7c8757cb65161bd967455270841291255bac",
+    "base_ref": "main",
+    "additions": 52,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
