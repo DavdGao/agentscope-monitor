@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-30T03:45:59.998069Z",
+  "title": "Embedding batch dispatch: bounded concurrency, token-aware batching, and backoff retries",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3035",
+  "number": 3035,
+  "body": "The embedding call path (`EmbeddingModelBase.__call__`) has three problems\nthat compound on any realistically sized indexing job: batch dispatch is\n**unbounded**, batch packing is **count-only** (the …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "iluv7"
+  },
+  "at_mobiles": []
+}
