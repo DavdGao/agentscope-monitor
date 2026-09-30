@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ramashishmaurya",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-30T11:07:15.652758Z",
+  "title": "Feature Request: Expose encoding and sse_read_timeout in MCP config",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3050",
+  "number": 3050,
+  "body": "### Describe the Feature Request\n\nCurrently, the Model Context Protocol (MCP) client configuration in AgentScope does not allow users to specify `encoding` and `sse_read_timeout` settings. This limits…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "ramashishmaurya"
+  },
+  "at_mobiles": []
+}
