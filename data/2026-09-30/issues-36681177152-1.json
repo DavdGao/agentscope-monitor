@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "little-spoon77",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-30T06:59:40.632791Z",
+  "title": "[Bug]: CosyVoice callback errors turn partial audio into successful completion",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3041",
+  "number": 3041,
+  "body": "### Reproduction\nOn main c0a5762, instantiate the CosyVoice callback from `_make_cosyvoice_callback_class()`, call `on_data(b\"PCMPCM\")`, then `on_error(\"synthesis failed\")` followed by `on_close()`. C…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "little-spoon77"
+  },
+  "at_mobiles": []
+}
