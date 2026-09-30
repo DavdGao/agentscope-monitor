@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Jay0130-a",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-30T08:58:51.801247Z",
+  "title": "fix(utils): inline discriminator mapping pointers when flattening schemas",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3047",
+  "number": 3047,
+  "body": "## AgentScope Version\n\n`2.0.10` (the checked-out `main` at `5d2dd540`; `import agentscope; print(agentscope.__version__)`).\n\n## Description\n\nFixes #3046: `_flatten_json_schema` left dangling `#/$defs/…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Jay0130-a",
+    "head_sha": "ccbd9644457638ba0d1efb2f43347a3428e49a04",
+    "base_ref": "main",
+    "additions": 131,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
