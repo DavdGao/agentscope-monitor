@@ -1,0 +1,28 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-30T07:04:11.637332Z",
+  "title": "[Bug]: A streamed Anthropic tool call with no arguments gets an empty input and always fails",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2970",
+  "number": 2970,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [
+    "Bug",
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "zaher-m"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "zaher-m"
+  },
+  "at_mobiles": []
+}
