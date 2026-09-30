@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "neu-hsc",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-30T12:35:49.716394Z",
+  "title": "[Bug]: Read tool leaks errors from deferred PDF extraction and page writing",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3056",
+  "number": 3056,
+  "body": "Read._read_pdf catches failures while opening a PDF and counting pages, but text extraction and writing a selected-page PDF occur outside that error boundary.\n\nA real reproducer is a one-page PDF whos…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "neu-hsc"
+  },
+  "at_mobiles": []
+}
