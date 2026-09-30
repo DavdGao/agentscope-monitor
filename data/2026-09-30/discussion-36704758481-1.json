@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ramashishmaurya",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-30T10:49:39.118839Z",
+  "title": "Feature Request: Built-in WebSearch and Python tools, and expanded MCP config options",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3049",
+  "number": 3049,
+  "body": "### Describe the Feature Request\n\nAgentScope currently lacks built-in tools for generic web searching and Python REPL execution, which are essential capabilities for many agent workflows. Furthermore,…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "ramashishmaurya"
+  },
+  "at_mobiles": []
+}
