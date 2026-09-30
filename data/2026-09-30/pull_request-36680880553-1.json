@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "twei43846-afk",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-30T06:56:23.284325Z",
+  "title": "fix(tool): reject invalid glob helper output",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3038",
+  "number": 3038,
+  "body": "A successful helper process can still return malformed output. Glob currently reports invalid JSON as no matches, treats a JSON string as individual paths, or raises TypeError for null and non-string …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "twei43846-afk",
+    "head_sha": "b13a5c3ba6d26cdb0fb73c921ff9e17f04e3f36d",
+    "base_ref": "main",
+    "additions": 58,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
