@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "little-spoon77",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-30T07:05:40.579225Z",
+  "title": "fix(tts): close Gemini clients after synthesis",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3044",
+  "number": 3044,
+  "body": "GeminiTTSModel constructs a new SDK client for each utterance without explicitly closing either transport. Repeated synthesis therefore leaves cleanup to garbage collection, including after API errors…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "little-spoon77",
+    "head_sha": "9dde05af8c783cedc79337a78d3437262a0d41be",
+    "base_ref": "main",
+    "additions": 138,
+    "deletions": 21,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
