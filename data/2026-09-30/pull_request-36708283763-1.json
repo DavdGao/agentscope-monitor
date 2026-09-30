@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "ramashishmaurya",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-30T11:24:00.295123Z",
+  "title": "feat(tool): add WebSearch and Python builtin toolsFeat web search",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2931",
+  "number": 2931,
+  "body": "## PR Title Format\n- [x] feat(tool): add WebSearch and Python builtin tools\n\n## AgentScope Version\n2.0.8 (latest)\n\n## Description\nThis PR introduces two highly requested builtin tools to improve agent…",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ramashishmaurya",
+    "head_sha": "ef3a50f1c55519240e8fdeac8d65690a7b5be89a",
+    "base_ref": "main",
+    "additions": 513,
+    "deletions": 10,
+    "changed_files": 10
+  },
+  "at_mobiles": []
+}
