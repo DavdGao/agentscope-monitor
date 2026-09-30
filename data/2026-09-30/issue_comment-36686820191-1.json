@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "zaher-m",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-09-30T07:58:28.298427Z",
+  "title": "[Bug]: ToolOffloadMiddleware keeps the tool running after an interrupt, and parallel calls run twice",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3045#issuecomment-5906803702",
+  "number": 3045,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "zaher-m",
+    "commenter": "zaher-m"
+  },
+  "at_mobiles": []
+}
