@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "zaher-m",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-01T14:16:58.072044Z",
+  "title": "[Bug]: OpenAIResponseModel turns a failed stream into a completed reply",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3081",
+  "number": 3081,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [
+    "Bug"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "zaher-m"
+  },
+  "at_mobiles": []
+}
