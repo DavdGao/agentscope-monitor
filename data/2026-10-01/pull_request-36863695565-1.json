@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "HootRock",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-01T12:43:45.658215Z",
+  "title": "fix(model): normalize nullable Gemini cache token usage",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3079",
+  "number": 3079,
+  "body": "## AgentScope Version\n\n2.0.10dev\n\n## Description\n\nGemini's optional `cached_content_token_count` can be `None`, which leaked into `ChatUsage.cache_input_tokens` despite its integer contract. Convertin…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "HootRock",
+    "head_sha": "4f5c5ab382c708e642aa55b15952af53fb05c51e",
+    "base_ref": "main",
+    "additions": 63,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
