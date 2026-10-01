@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "abush1111",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-01T06:29:47.086945Z",
+  "title": "[Bug]: platform.agentscope.io TLS certificate expired - all HTTPS clients fail (streaming path also returns 500 instead of 401 for invalid keys)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3071#issuecomment-5926004741",
+  "number": 3071,
+  "body": "https tls was outdated ,pls return\n\n<img width=\"1229\" height=\"1419\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/f8e0c1f8-44fb-4c62-9118-e3cbf6c863f5\" />",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "chenyuan35",
+    "commenter": "abush1111"
+  },
+  "at_mobiles": []
+}
