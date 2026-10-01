@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-01T12:50:16.956727Z",
+  "title": "fix(agent): preserve parked replies across observations",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3072#issuecomment-5931828794",
+  "number": 3072,
+  "body": "The CI timeout was caused by an interaction between this fix and a recently added test on `main`, rather than slow reply lookup.\n\nCI tests the PR merged with the latest `main`. That version includes `…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "iluv7",
+    "commenter": "iluv7"
+  },
+  "at_mobiles": []
+}
