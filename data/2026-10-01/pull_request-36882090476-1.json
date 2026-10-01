@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Tsubaki-01",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-01T15:10:09.743560Z",
+  "title": "fix(model): propagate Responses API stream errors",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3086",
+  "number": 3086,
+  "body": "## AgentScope Version\n\n2.0.10dev\n\n## Description\n\nWhen a Responses API stream emits `response.failed` or `error`,\n`OpenAIResponseModel` silently ignores the event. The stream then\nfinishes normally, c…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Tsubaki-01",
+    "head_sha": "fa07b9d77058421d242e374dcd93a48df402ddbc",
+    "base_ref": "main",
+    "additions": 110,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
