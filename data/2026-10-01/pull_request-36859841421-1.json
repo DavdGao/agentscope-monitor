@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "RXQ6",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-01T12:09:06.050820Z",
+  "title": "fix(pipeline): cap the GoalPipeline structured-output retries",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3078",
+  "number": 3078,
+  "body": "## PR Title Format\n\nConventional Commits: `fix(pipeline): cap the GoalPipeline structured-output retries`\n\n## AgentScope Version\n\n`2.0.10dev` (main commit 72f3f6fa0b2fc38b8517f408ab616f0f2bd229e6)\n\n##…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "RXQ6",
+    "head_sha": "365ed985efc6811d46177220f7be39c3118cddee",
+    "base_ref": "main",
+    "additions": 88,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
