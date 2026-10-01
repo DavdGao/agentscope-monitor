@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ramashishmaurya",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-01T14:25:58.902229Z",
+  "title": "fix(tool): raise clear error for missing ripgrep and gracefully skip tests",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3082",
+  "number": 3082,
+  "body": "## Description\nThis PR addresses an issue where the `Grep` tool crashes with a cryptic `[WinError 2] The system cannot find the file specified` (or a similar exit code 127) error if the user's system …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ramashishmaurya",
+    "head_sha": "092c515f2b7461e2d34964607fe147a9efa232de",
+    "base_ref": "main",
+    "additions": 55,
+    "deletions": 12,
+    "changed_files": 7
+  },
+  "at_mobiles": []
+}
