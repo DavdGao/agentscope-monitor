@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "wangtaotaotao95",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-01T15:12:13.098656Z",
+  "title": "fix(message_bus): protect successor try-lock leases",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2729#issuecomment-5934325758",
+  "number": 2729,
+  "body": "For review coordination: the claimant on #2728 explicitly withdrew in favor of this PR and closed the competing #2752: https://github.com/agentscope-ai/agentscope/issues/2728#issuecomment-5817848288 .…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "wangtaotaotao95",
+    "commenter": "wangtaotaotao95"
+  },
+  "at_mobiles": []
+}
