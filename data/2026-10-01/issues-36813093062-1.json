@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "chenyuan35",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-01T04:00:32.323527Z",
+  "title": "[Bug]: platform.agentscope.io TLS certificate expired - all HTTPS clients fail (streaming path also returns 500 instead of 401 for invalid keys)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3071",
+  "number": 3071,
+  "body": "### Background / Description\n\n`platform.agentscope.io` (AgentScope Platform front-end + the OpenAI-compatible model proxy at `/v1`) is serving an **expired TLS certificate**. Any HTTPS client that per…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "chenyuan35"
+  },
+  "at_mobiles": []
+}
