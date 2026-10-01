@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Tsubaki-01",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-01T14:56:15.165831Z",
+  "title": "[Bug]: OpenAIResponseModel turns a failed stream into a completed reply",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3081#issuecomment-5934035728",
+  "number": 3081,
+  "body": "/assign\nI'd like to take this on. I reproduced both failure cases locally.\nMy plan is to handle response.failed and error in OpenAIResponseModel by raising openai.APIError, with regression tests to ve…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "zaher-m",
+    "commenter": "Tsubaki-01"
+  },
+  "at_mobiles": []
+}
