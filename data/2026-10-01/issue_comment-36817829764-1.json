@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "neu-hsc",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-01T05:01:38.864948Z",
+  "title": "fix(tool): report deferred PDF read failures",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3057#issuecomment-5925076139",
+  "number": 3057,
+  "body": "Fixed the CI regression in c3bb8af. The malformed content stream raised locally but was tolerated in the macOS CI environment, returning empty text. The test now injects exceptions directly at extract…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "neu-hsc",
+    "commenter": "neu-hsc"
+  },
+  "at_mobiles": []
+}
