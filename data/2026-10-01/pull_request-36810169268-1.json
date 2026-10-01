@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-01T03:22:06.255369Z",
+  "title": "fix(model): stamp Anthropic streaming usage time at message_delta",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3067",
+  "number": 3067,
+  "body": "## Summary\n\n- Fixes #2926. In the Anthropic streaming path, `ChatUsage.time` was stamped once at `message_start` — which the API emits at time-to-first-token — and never refreshed. A 20-second generat…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "RerankerGuo",
+    "head_sha": "ccc7309619b853811b993498d95285bbeda7b410",
+    "base_ref": "main",
+    "additions": 63,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
