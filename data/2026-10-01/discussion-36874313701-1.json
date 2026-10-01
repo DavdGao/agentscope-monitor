@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "zaher-m",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-01T14:11:03.313646Z",
+  "title": "Stopping a tool call should also stop the work it started",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3080",
+  "number": 3080,
+  "body": "When a reply is stopped, or a tool call times out, AgentScope reports the call as interrupted or timed out. The work underneath often keeps running. I'm fixing this one layer at a time, each with its …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "zaher-m"
+  },
+  "at_mobiles": []
+}
