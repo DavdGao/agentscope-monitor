@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-01T03:30:14.229940Z",
+  "title": "[Bug]: nonpositive read_stream chunk sizes silently drop file contents",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3039#issuecomment-5924150077",
+  "number": 3039,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "twei43846-afk",
+    "commenter": "RerankerGuo"
+  },
+  "at_mobiles": []
+}
