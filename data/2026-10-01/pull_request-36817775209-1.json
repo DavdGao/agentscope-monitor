@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-01T05:01:02.425364Z",
+  "title": "fix(agent): preserve parked replies across observations",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3072",
+  "number": 3072,
+  "body": "## AgentScope Version\n\n2.0.8\n\n## Description\n\nFixes #3065.\n\nWhen an agent is waiting for tool confirmation or an external execution result, `observe()` appends messages after the parked assistant repl…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "iluv7",
+    "head_sha": "1f3937908f99b41678079d9d2c1902c732bb92b6",
+    "base_ref": "main",
+    "additions": 342,
+    "deletions": 37,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
