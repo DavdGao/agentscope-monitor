@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "RXQ6",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-01T09:20:19.446414Z",
+  "title": "fix(tests): skip the S3 blob store tests without moto and boto3",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3073",
+  "number": 3073,
+  "body": "## PR Title Format\n\n`fix(tests): skip the S3 blob store tests without moto and boto3`\n\n## AgentScope Version\n\n`main` at `72f3f6f` (2.0.10dev)\n\n## Description\n\n### Problem\n\nRunning `pytest` in an envir…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "RXQ6",
+    "head_sha": "31776bf12d5f4bc873651160efca74ff6ab309c0",
+    "base_ref": "main",
+    "additions": 14,
+    "deletions": 2,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
