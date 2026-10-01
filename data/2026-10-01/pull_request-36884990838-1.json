@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ramashishmaurya",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-01T15:32:07.380001Z",
+  "title": "feat(rag): add HtmlParser and MemoryVectorStore for zero-dependency local RAG",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3088",
+  "number": 3088,
+  "body": "feat(rag): add MemoryVectorStore for zero-dependency local testing\n\n## AgentScope Version\n\n2.0.8\n\n## Description\n\n**Background & Purpose:**\nAgentScope's RAG pipeline supports multiple excellent vector…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ramashishmaurya",
+    "head_sha": "82235a4df5ce65128baa82ff8ee88f4aa2b48a41",
+    "base_ref": "main",
+    "additions": 328,
+    "deletions": 0,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
