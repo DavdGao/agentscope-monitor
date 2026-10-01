@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-01T03:28:37.350413Z",
+  "title": "fix(model): copy extra_body before defaulting thinking.type",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3069",
+  "number": 3069,
+  "body": "## Summary\n\n- Fixes #2914. `DeepSeekChatModel`, `MoonshotChatModel` and `VolcengineChatModel` default `extra_body[\"thinking\"][\"type\"]` by `setdefault` on the dict the caller passed through `generate_k…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "RerankerGuo",
+    "head_sha": "a1931ad2421a6f293142fe2b132216cc29d26c49",
+    "base_ref": "main",
+    "additions": 132,
+    "deletions": 9,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
