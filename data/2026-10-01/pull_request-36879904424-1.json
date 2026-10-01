@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ramashishmaurya",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-01T14:53:30.433010Z",
+  "title": "feat(rag): add MemoryBlobStore for testing and fast local execution",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3085",
+  "number": 3085,
+  "body": "## AgentScope Version\n\n2.0.8\n\n## Description\n\n**Background & Purpose:**\nAgentScope currently provides `LocalBlobStore` and `S3BlobStore` for RAG document storage. However, during unit testing or light…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ramashishmaurya",
+    "head_sha": "a32781965d4352007ab262f3e73162bd77f6aa26",
+    "base_ref": "main",
+    "additions": 174,
+    "deletions": 0,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
