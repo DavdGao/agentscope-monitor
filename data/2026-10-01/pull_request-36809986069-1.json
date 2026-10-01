@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-01T03:19:44.028416Z",
+  "title": "fix(tool): de-quote find predicate tokens before the mutating-find guard",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3066",
+  "number": 3066,
+  "body": "## Summary\n\n- Fixes #3058. `BashCommandParser._is_mutating_find_command()` only inspected child nodes of type `word`, but tree-sitter-bash parses quoted arguments as `string` / `raw_string` / `concate…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "RerankerGuo",
+    "head_sha": "4e68b76dafa16c32d7d82abd0cf6c0e40ae721db",
+    "base_ref": "main",
+    "additions": 154,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
