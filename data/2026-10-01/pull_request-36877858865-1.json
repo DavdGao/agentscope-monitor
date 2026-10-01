@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ramashishmaurya",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-01T14:38:15.218440Z",
+  "title": "fix: correct ToolResultState to SUCCESS for completed Edit tool execution",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3083",
+  "number": 3083,
+  "body": "fix(tool): set correct ToolResultState to SUCCESS for completed Edit tool execution\n\n## AgentScope Version\n\n2.0.8\n\n## Description\n\n**Background & Purpose:**\nThe `Edit` tool was completing its executio…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ramashishmaurya",
+    "head_sha": "24a66e01f62b52f38e4132915a55a80f0a622ca5",
+    "base_ref": "main",
+    "additions": 58,
+    "deletions": 15,
+    "changed_files": 9
+  },
+  "at_mobiles": []
+}
