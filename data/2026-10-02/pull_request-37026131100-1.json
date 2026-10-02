@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ramashishmaurya",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-02T15:19:27.576605Z",
+  "title": "feat: implement Escalation Protocol in TeamMemberLoopMiddleware",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3091",
+  "number": 3091,
+  "body": "## What does this PR do?\nThis PR introduces a robust **Escalation Protocol** for the team pipeline to handle unresponsive or failing member agents gracefully. \n\nPreviously, if a worker agent failed to…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ramashishmaurya",
+    "head_sha": "f3801c4c2c95b8021ccaa720e66eade0b0e77793",
+    "base_ref": "main",
+    "additions": 534,
+    "deletions": 55,
+    "changed_files": 15
+  },
+  "at_mobiles": []
+}
