@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "ramashishmaurya",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-02T10:02:18.989923Z",
+  "title": "feat(rag): add HtmlParser for web content indexing",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3087",
+  "number": 3087,
+  "body": "## AgentScope Version\n\n2.0.8\n\n## Description\n\n**Background & Purpose:**\nAgentScope's RAG pipeline supports multiple standard document formats (PDF, Word, PPTX, etc.) but lacks native support for parsi…",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ramashishmaurya",
+    "head_sha": "768d4050dcb1094a277909f4ad6c83540976f1ee",
+    "base_ref": "main",
+    "additions": 382,
+    "deletions": 13,
+    "changed_files": 10
+  },
+  "at_mobiles": []
+}
