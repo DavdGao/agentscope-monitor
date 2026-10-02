@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ramashishmaurya",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-02T15:38:23.528751Z",
+  "title": "fix(deps): pin google-genai to >=2.27.0 to fix corrupted Client module",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3092",
+  "number": 3092,
+  "body": "**Problem:**\nCurrently, any attempt to use the Gemini Chat or Embedding models (or running `pytest tests/model_gemini_test.py`) results in a total crash with `AttributeError: module 'google.genai' has…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ramashishmaurya",
+    "head_sha": "1f20491832da0fa8858b14d6c93b7387bd785b1e",
+    "base_ref": "main",
+    "additions": 535,
+    "deletions": 56,
+    "changed_files": 16
+  },
+  "at_mobiles": []
+}
