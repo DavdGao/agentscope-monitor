@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "YuhaoLin2005",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-02T00:35:37.676147Z",
+  "title": "fix(app): interrupt assembling chat run via local registry check (#2320)",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2325#issuecomment-5943352734",
+  "number": 2325,
+  "body": "Closing as superseded — the window this PR fixes no longer exists on `main`, and the approach regresses behaviour that matters.\n\n### 1. The premise was overtaken upstream, four days after this PR open…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "YuhaoLin2005",
+    "commenter": "YuhaoLin2005"
+  },
+  "at_mobiles": []
+}
