@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "RXQ6",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-02T19:32:41.976543Z",
+  "title": "fix(sop): honor a step that marks its own run failed",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3096",
+  "number": 3096,
+  "body": "## PR Title Format\n\nPlease ensure your PR title follows the Conventional Commits format:\n- Format: `<type>(<scope>): <description>`\n- Example: `feat(memory): add redis cache support`\n- Allowed types: …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "RXQ6",
+    "head_sha": "f6ecc47f391077a361f9343a9cc6af3904664564",
+    "base_ref": "main",
+    "additions": 68,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
