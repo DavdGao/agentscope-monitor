@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-02T02:03:59.812508Z",
+  "title": "fix(model): propagate Responses API stream errors",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3086#issuecomment-5944234571",
+  "number": 3086,
+  "body": "Reviewed the code and the exception propagation path; the fix looks good to me.\n\nI also ran a local verification script against commit d68aef2 using simulated HTTP SSE responses decoded by the real Op…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Tsubaki-01",
+    "commenter": "iluv7"
+  },
+  "at_mobiles": []
+}
