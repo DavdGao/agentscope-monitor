@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "review_requested",
+  "action_cn": "请求审核",
+  "sender": "Shy7777",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-02T17:17:53.421931Z",
+  "title": "test(memory): synchronize retrieval in the deduplication regression",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3094",
+  "number": 3094,
+  "body": "## AgentScope Version\n\n2.0.10dev (current main)\n\n## Description\n\nThe memory deduplication regression can reach its next reasoning step before background retrieval finishes. It then fails on a missing …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Shy7777",
+    "head_sha": "89f7fcec58ce13567116a5c75076baeba76746d1",
+    "base_ref": "main",
+    "additions": 23,
+    "deletions": 1,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
