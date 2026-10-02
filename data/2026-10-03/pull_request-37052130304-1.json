@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "RXQ6",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-02T19:08:33.269463Z",
+  "title": "fix(tool): run a no-argument tool call on an empty argument payload",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3095",
+  "number": 3095,
+  "body": "## PR Title Format\n\nPlease ensure your PR title follows the Conventional Commits format:\n- Format: `<type>(<scope>): <description>`\n- Example: `feat(memory): add redis cache support`\n- Allowed types: …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "RXQ6",
+    "head_sha": "65b06c666fe0d2c07b4da21676af38c3e2d6c6b1",
+    "base_ref": "main",
+    "additions": 117,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
