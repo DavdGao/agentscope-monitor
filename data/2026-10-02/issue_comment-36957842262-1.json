@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ramashishmaurya",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-02T02:55:31.013923Z",
+  "title": "feat(rag): add HtmlParser for web content indexing",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3087#issuecomment-5944759430",
+  "number": 3087,
+  "body": "Thanks for the detailed review and for catching these issues! I've pushed the updates to address all your points:\n\nPublic API Export: I've added the top-level import for HtmlParser in agentscope/rag/_…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "ramashishmaurya",
+    "commenter": "ramashishmaurya"
+  },
+  "at_mobiles": []
+}
