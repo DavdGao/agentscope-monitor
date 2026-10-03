@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "yetuge",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-03T20:49:05.410490Z",
+  "title": "[Bug]: DeepSeek formatters silently drop unsupported media outside the hint branch",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3110",
+  "number": 3110,
+  "body": "### Describe the bug\n\n`DeepSeekChatFormatter` is text-only by default (`input_types=[\"text/plain\"]`), so every `DataBlock` degrades. The HintBlock branch already keeps a placeholder (`[<media_type> at…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "yetuge"
+  },
+  "at_mobiles": []
+}
