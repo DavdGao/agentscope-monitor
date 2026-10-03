@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "yetuge",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-03T19:19:13.333448Z",
+  "title": "fix(formatter): keep unsupported media visible as a placeholder in the Ollama formatters",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3109",
+  "number": 3109,
+  "body": "## Why\n\nFixes #3108.\n\n`_format_ollama_data_block` returns `None` for any media type Ollama cannot ingest (it only carries images), and three branches dropped that `None` silently: the plain-message br…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "yetuge",
+    "head_sha": "165b5bd12caf68d2c428440c17f1d224b8315e8b",
+    "base_ref": "main",
+    "additions": 129,
+    "deletions": 16,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
