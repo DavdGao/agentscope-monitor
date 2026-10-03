@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "yetuge",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-03T19:18:49.039540Z",
+  "title": "[Bug]: Ollama formatters silently drop unsupported media, so a media-only message disappears",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3108",
+  "number": 3108,
+  "body": "### Describe the bug\n\nIn `src/agentscope/formatter/_ollama_formatter.py`, `_format_ollama_data_block` returns `None` for any media type Ollama cannot ingest (it only carries images). The plain-message…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "yetuge"
+  },
+  "at_mobiles": []
+}
