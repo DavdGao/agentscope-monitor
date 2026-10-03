@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-03T12:37:53.394701Z",
+  "title": "feat(tool): support cache-friendly on-demand tool loading",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2310#discussioncomment-18730679",
+  "number": 2310,
+  "body": "One additional distinction: the example above uses hosted Tool Search, where Anthropic or OpenAI performs the retrieval on the provider side.\n\nIf AgentScope uses OpenAI's client-executed Tool Search i…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "iluv7",
+    "discussion_author": "iluv7"
+  },
+  "at_mobiles": []
+}
