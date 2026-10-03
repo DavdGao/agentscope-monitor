@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "sxh313",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-03T18:52:53.531412Z",
+  "title": "fix(tool): judge dangerous names only where bash runs a program",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2810",
+  "number": 2810,
+  "body": "## PR Title Format\n\n(conventional commit; `fix` + `tool` scope, lowercase subject)\n\n## AgentScope Version\n\n`2.0.8`, branch rebased onto `main` @ `083cbd19`, Python 3.11.\n\n## Description\n\nCloses #2809.…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "sxh313",
+    "head_sha": "620ab3bce858711cba7dfd6bcf019b2e9d832bab",
+    "base_ref": "main",
+    "additions": 251,
+    "deletions": 11,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
