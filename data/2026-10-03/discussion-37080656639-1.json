@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "domondi1",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-03T00:07:02.084534Z",
+  "title": "Putting a dollar cap on one AgentScope run",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3097",
+  "number": 3097,
+  "body": "Multi-agent AgentScope runs can make a lot of model calls for one task, and there's no per-run dollar limit built in. Here's one way to add one without changing your agents.\n\n`OpenAIChatModel` passes …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Show and tell",
+    "author": "domondi1"
+  },
+  "at_mobiles": []
+}
