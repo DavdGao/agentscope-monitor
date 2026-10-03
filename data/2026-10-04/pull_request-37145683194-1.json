@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "GoldArowana",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-03T18:50:11.041632Z",
+  "title": "fix(formatter): decode local file URI paths in Ollama formatters",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3107",
+  "number": 3107,
+  "body": "## AgentScope Version\n\n2.0.10dev\n\n## Description\n\nA local image such as `diagram draft.png` fails to format for Ollama because its file URI contains `%20`, which was passed directly to the filesystem.…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "GoldArowana",
+    "head_sha": "a452102c9b17962bb99e0ccb5df9d4504d61ea08",
+    "base_ref": "main",
+    "additions": 43,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
