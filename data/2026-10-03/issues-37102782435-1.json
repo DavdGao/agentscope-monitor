@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "quifox",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-03T06:21:36.971121Z",
+  "title": "[Bug]: ScheduleDelete does not notify the timer owner",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3102",
+  "number": 3102,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing issues and discussions and have not found a report of this missing deletion notification.\n- [x] This is a bug, not a usage question.\n\n### Backgrou…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "quifox"
+  },
+  "at_mobiles": []
+}
