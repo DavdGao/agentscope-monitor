@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "yetuge",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-03T18:00:06.006166Z",
+  "title": "[Bug]: Anthropic formatters silently drop unsupported media, so a media-only message disappears",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3105",
+  "number": 3105,
+  "body": "### Describe the bug\n\nIn `src/agentscope/formatter/_anthropic_formatter.py`, `_format_anthropic_data_block` returns `None` when the media type is not supported by the endpoint (e.g. `audio/wav` on Ant…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "yetuge"
+  },
+  "at_mobiles": []
+}
