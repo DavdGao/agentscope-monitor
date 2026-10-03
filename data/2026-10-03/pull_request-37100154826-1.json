@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "kabishou11",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-03T05:32:43.298900Z",
+  "title": "fix(app): anchor a schedule's default start time to an absolute instant",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3101",
+  "number": 3101,
+  "body": "## AgentScope Version\n\n2.0.10dev (main at `72f3f6fa`)\n\n## Description\n\n**Problem.** When a schedule is created without an explicit start time, `started_at` is filled with `datetime.now()`, a *naive* s…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "kabishou11",
+    "head_sha": "6de7e238d3354e661804811faee464b52e6902e2",
+    "base_ref": "main",
+    "additions": 67,
+    "deletions": 4,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
