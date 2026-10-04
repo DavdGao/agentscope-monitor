@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "behrnt-slatgng",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-04T17:03:35.017211Z",
+  "title": "Proposal: explicit message retention across context compression",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3126#discussioncomment-18746382",
+  "number": 3126,
+  "body": "+1 for making it an explicit app choice. i build a coding agent on open models (grunz) and the thing that kept breaking wasnt lost details, it was the task statement itself getting summarized into som…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "behrnt-slatgng",
+    "discussion_author": "Wrestle7"
+  },
+  "at_mobiles": []
+}
