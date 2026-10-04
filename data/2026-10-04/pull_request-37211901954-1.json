@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Wrestle7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-04T15:08:55.357027Z",
+  "title": "feat(agent): preserve pinned context across compression",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3121",
+  "number": 3121,
+  "body": "## Problem\n\nRecency-based compression can move an explicit constraint or important evidence into a lossy summary. Applications need a way to retain selected original messages while preserving tool-cal…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Wrestle7",
+    "head_sha": "caf73a34387542e2fb12b0a96f77bf7ed09b2963",
+    "base_ref": "main",
+    "additions": 1353,
+    "deletions": 24,
+    "changed_files": 7
+  },
+  "at_mobiles": []
+}
