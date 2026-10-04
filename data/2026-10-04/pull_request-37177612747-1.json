@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "GoldArowana",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-04T04:39:09.111178Z",
+  "title": "fix(tool): preserve complete grep glob patterns",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3116",
+  "number": 3116,
+  "body": "## AgentScope Version\n\n2.0.10dev\n\n## Description\n\n`Grep` splits `glob` on whitespace and commas before passing it to ripgrep. As a result, `glob=\"my notes.txt\"` misses an existing matching file, `glob…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "GoldArowana",
+    "head_sha": "02b5727a9e24d65ccaea02a2fd7ad9aeaf3f5eee",
+    "base_ref": "main",
+    "additions": 71,
+    "deletions": 13,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
