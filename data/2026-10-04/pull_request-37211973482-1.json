@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Wrestle7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-04T15:10:05.177973Z",
+  "title": "feat(evaluation): add event-based trajectory evaluation",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3122",
+  "number": 3122,
+  "body": "## Problem\n\nAgent streams expose execution events, but applications lack a small reusable path from task fixtures to comparable trajectory metrics. A successful tool result alone does not establish th…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Wrestle7",
+    "head_sha": "169786aa235b0c1df7c7fa3a3661c906270215d3",
+    "base_ref": "main",
+    "additions": 1692,
+    "deletions": 0,
+    "changed_files": 8
+  },
+  "at_mobiles": []
+}
