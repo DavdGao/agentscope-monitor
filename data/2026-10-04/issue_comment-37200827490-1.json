@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-04T12:04:04.452987Z",
+  "title": "[Bug]: Human-in-the-loop: the docs example accepts suggested_rules, whose default is a tool-wide ALLOW, so other pending calls of the tool run unseen",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3115#issuecomment-5979726050",
+  "number": 3115,
+  "body": "The first “Yes” in the Web UI only approves that call. The second “Yes, and allow…” option also saves the suggested permission rule.\n<img width=\"1602\" height=\"528\" alt=\"Image\" src=\"https://github.com/…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "FurkhanShaikh",
+    "commenter": "iluv7"
+  },
+  "at_mobiles": []
+}
