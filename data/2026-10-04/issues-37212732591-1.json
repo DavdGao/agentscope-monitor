@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Wrestle7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-04T15:22:20.719780Z",
+  "title": "[Feature]: evaluate Agent event trajectories against task references",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3125",
+  "number": 3125,
+  "body": "## Background / Description\n\nAgentScope exposes [execution events](https://github.com/agentscope-ai/agentscope/blob/72f3f6fa0b2fc38b8517f408ab616f0f2bd229e6/src/agentscope/event/_event.py) and [tracin…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Wrestle7"
+  },
+  "at_mobiles": []
+}
