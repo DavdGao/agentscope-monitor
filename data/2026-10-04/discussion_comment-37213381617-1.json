@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Wrestle7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-04T15:32:30.682929Z",
+  "title": "feat(tool): support cache-friendly on-demand tool loading",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2310#discussioncomment-18745467",
+  "number": 2310,
+  "body": "After reading this thread and #2492, I would like to ask where a budgeted, tool-level selector could fit into the ongoing design.\n\nI opened an initial implementation in #3120 and a problem statement i…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "Wrestle7",
+    "discussion_author": "iluv7"
+  },
+  "at_mobiles": []
+}
