@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Wrestle7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-04T15:32:47.360940Z",
+  "title": "Proposal: explicit message retention across context compression",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3126",
+  "number": 3126,
+  "body": "I would like to discuss an opt-in way for applications to preserve selected messages verbatim across standard Agent context compression.\n\nAn initial implementation is in #3121, with the problem statem…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "Wrestle7"
+  },
+  "at_mobiles": []
+}
