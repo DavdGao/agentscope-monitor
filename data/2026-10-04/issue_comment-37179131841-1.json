@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "wxxlamp",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-04T05:10:57.958955Z",
+  "title": "fix(channel): secure approval card decisions",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2791#issuecomment-5976827157",
+  "number": 2791,
+  "body": "Thanks for the review. All requested changes are now addressed in `500e2617` and `cfe2fc95`:\n\n- Coordinated with @kabishou11 in #2525; they agreed that #2791 can supersede it, and the requested Discor…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "wxxlamp",
+    "commenter": "wxxlamp"
+  },
+  "at_mobiles": []
+}
