@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "GoldArowana",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-04T05:41:48.682061Z",
+  "title": "[Bug]: ClawSkillHub keeps BOM-prefixed SKILL.md frontmatter in the body",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3118#issuecomment-5977013506",
+  "number": 3118,
+  "body": "The fix and regression tests are ready in #3119. The new regression test fails both BOM-prefixed cases before the fix and passes afterward; the relevant Hub and skill-loader suite passes with 93 tests…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "GoldArowana",
+    "commenter": "GoldArowana"
+  },
+  "at_mobiles": []
+}
