@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Wrestle7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-04T15:33:00.630759Z",
+  "title": "Proposal: a small event-to-trajectory evaluation interface",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3127",
+  "number": 3127,
+  "body": "Would a small, optional event-to-trajectory evaluation interface belong in AgentScope, or would an external integration be the better home?\n\nI have an initial implementation in #3122 and a problem sta…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "Wrestle7"
+  },
+  "at_mobiles": []
+}
