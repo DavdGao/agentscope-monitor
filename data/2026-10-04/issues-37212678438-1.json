@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Wrestle7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-04T15:21:28.774817Z",
+  "title": "[Feature]: preserve explicitly pinned messages across context compression",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3124",
+  "number": 3124,
+  "body": "## Background / Description\n\nAgentScope already provides structured summaries, a recent-context window, and protection for tool-call/result relationships. At main `72f3f6f`, [Agent._split_context_for_…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Wrestle7"
+  },
+  "at_mobiles": []
+}
