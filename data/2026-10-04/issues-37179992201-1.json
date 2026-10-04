@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "GoldArowana",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-04T05:28:41.635929Z",
+  "title": "[Bug]: ClawSkillHub keeps BOM-prefixed SKILL.md frontmatter in the body",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3118",
+  "number": 3118,
+  "body": "### Prerequisites\n\n- [x] I have searched existing issues and pull requests and have not found an open report or fix for this ClawHub parsing path.\n- [x] This is a reproducible bug, not a usage questio…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "GoldArowana"
+  },
+  "at_mobiles": []
+}
