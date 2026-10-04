@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "akshatshahh",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-04T05:03:48.999577Z",
+  "title": "[Bug]: Human-in-the-loop: the docs example accepts suggested_rules, whose default is a tool-wide ALLOW, so other pending calls of the tool run unseen",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3115#issuecomment-5976782797",
+  "number": 3115,
+  "body": "Taking this one — will put up a PR shortly.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "FurkhanShaikh",
+    "commenter": "akshatshahh"
+  },
+  "at_mobiles": []
+}
