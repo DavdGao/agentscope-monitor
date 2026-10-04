@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "GoldArowana",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-04T04:15:22.755721Z",
+  "title": "[Bug]: Grep splits spaces and commas in a single glob, causing missed or incorrect matches",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3114#issuecomment-5976490755",
+  "number": 3114,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "GoldArowana",
+    "commenter": "GoldArowana"
+  },
+  "at_mobiles": []
+}
