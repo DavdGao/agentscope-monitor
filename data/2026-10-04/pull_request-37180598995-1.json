@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "GoldArowana",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-04T05:41:13.145108Z",
+  "title": "fix(hub): parse BOM-prefixed skill frontmatter",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3119",
+  "number": 3119,
+  "body": "## AgentScope Version\n\n`2.0.10dev`\n\n## Description\n\nA leading UTF-8 BOM in a ClawHub `SKILL.md` response prevents `python-frontmatter` from recognizing the YAML header. `get_skill()` then includes the…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "GoldArowana",
+    "head_sha": "6d16e925e9489a6b694cffee2e17ef5aedc399ac",
+    "base_ref": "main",
+    "additions": 80,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
