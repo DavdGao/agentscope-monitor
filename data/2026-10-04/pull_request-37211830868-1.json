@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Wrestle7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-04T15:07:39.107359Z",
+  "title": "feat(tool): add budgeted embedding tool selection",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3120",
+  "number": 3120,
+  "body": "## Problem\n\nAgents pass every currently eligible tool schema to the model, consuming context even when a task needs only a small subset. Filtering only in model-call middleware happens after compressi…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Wrestle7",
+    "head_sha": "ca85de1b0883fca1aab990cb4da029dfa71c94c5",
+    "base_ref": "main",
+    "additions": 1565,
+    "deletions": 25,
+    "changed_files": 8
+  },
+  "at_mobiles": []
+}
