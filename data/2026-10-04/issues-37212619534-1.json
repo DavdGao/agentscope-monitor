@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Wrestle7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-04T15:20:35.628619Z",
+  "title": "[Feature]: task-aware tool selection with schema budgets",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3123",
+  "number": 3123,
+  "body": "## Background / Description\n\nAgentScope already supports ToolGroup activation and MCP tools. On main at `72f3f6f`, [Toolkit.get_tool_schemas()](https://github.com/agentscope-ai/agentscope/blob/72f3f6f…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Wrestle7"
+  },
+  "at_mobiles": []
+}
