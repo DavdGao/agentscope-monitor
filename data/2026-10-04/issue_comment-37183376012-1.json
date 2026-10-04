@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "GoldArowana",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-04T06:38:15.309460Z",
+  "title": "fix(formatter): decode local file URI paths in Ollama formatters",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3107#issuecomment-5977376496",
+  "number": 3107,
+  "body": "Thanks for flagging this. [HsbcJone/agentscope#1](https://github.com/HsbcJone/agentscope/pull/1) and [#2](https://github.com/HsbcJone/agentscope/pull/2) address the same issue, but both target `HsbcJo…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "GoldArowana",
+    "commenter": "GoldArowana"
+  },
+  "at_mobiles": []
+}
