@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "sxh313",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-05T06:05:10.466128Z",
+  "title": "fix(rag): resolve LOG_LEVEL before configuring the worker",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3131",
+  "number": 3131,
+  "body": "Closes #3130\n\n## What\n\n`python -m agentscope.app.rag.index_worker` passed `LOG_LEVEL` straight into `logging.basicConfig`. That call accepts an `int` or one of the exact upper-case level names, so the…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "sxh313",
+    "head_sha": "32446c581334895bd34b12b73b6eb389368e4268",
+    "base_ref": "main",
+    "additions": 168,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
