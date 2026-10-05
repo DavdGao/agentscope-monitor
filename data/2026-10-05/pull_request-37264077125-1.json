@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ljluestc",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-05T04:34:05.134394Z",
+  "title": "fix(model): retry Ollama calls without tools when the model rejects them",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3129",
+  "number": 3129,
+  "body": "Some Ollama models (e.g. deepseek-r1:1.5b) do not support tool calling and the server answers any request carrying a `tools` field with `400 ... does not support tools`, which crashed ReActAgent.\n\nOll…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "ljluestc",
+    "head_sha": "194ea4ce0601559b2006bf6683ef4d06d7352b9c",
+    "base_ref": "main",
+    "additions": 198,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
