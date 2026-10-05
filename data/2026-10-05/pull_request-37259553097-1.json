@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ljluestc",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-05T03:28:13.290052Z",
+  "title": "feat(tool): add SQLQuery and SQLSchema database tools",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3128",
+  "number": 3128,
+  "body": "# feat(tool): add `SQLQuery` and `SQLSchema` database tools\n\nCloses #1110 (database-access part)\n\n## Background\n\nIssue #1110 asks for commonly used tools such as **Elasticsearch**, **Milvus** and **da…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "ljluestc",
+    "head_sha": "470ebd04e51273e8b7ee05c4f1286a04d3ad69e9",
+    "base_ref": "main",
+    "additions": 679,
+    "deletions": 0,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
