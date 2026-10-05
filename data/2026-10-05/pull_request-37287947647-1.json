@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "fhgffy",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-05T09:07:28.786223Z",
+  "title": "fix(tool): await deferred function results",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3135",
+  "number": 3135,
+  "body": "## AgentScope Version\n\n2.0.10.dev0\n\n## Description\n\nFixes #3134.\n\nA regular function returning a coroutine or Future is accepted by `FunctionTool`, but its result is currently converted to text withou…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "fhgffy",
+    "head_sha": "8f08e8190f59cfb9210f00b4fa452d63811a6dbc",
+    "base_ref": "main",
+    "additions": 195,
+    "deletions": 5,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
