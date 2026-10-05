@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qingshungLI",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-05T16:01:40.317112Z",
+  "title": "[Bug]: Ollama formatter cannot read percent-encoded local file URLs",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3104#issuecomment-5998182613",
+  "number": 3104,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "GoldArowana",
+    "commenter": "qingshungLI"
+  },
+  "at_mobiles": []
+}
