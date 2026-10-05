@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "HootRock",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-05T14:12:59.712284Z",
+  "title": "Example proposal: observable retry boundaries for read-only tools",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3138",
+  "number": 3138,
+  "body": "The tool middleware documentation already demonstrates retries. A runnable example could make their boundaries observable: which failures are eligible, how many attempts occur, and why partial output …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "HootRock"
+  },
+  "at_mobiles": []
+}
