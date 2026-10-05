@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "GoldArowana",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-05T10:58:58.428475Z",
+  "title": "fix(memory): write completed ReMe exchanges after resume",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3137",
+  "number": 3137,
+  "body": "## AgentScope Version\n\n`2.0.10.dev0`, Python 3.11.16, based on `72f3f6fa0b2fc38b8517f408ab616f0f2bd229e6`.\n\n## Description\n\nFixes #3133.\n\nReMe skips writeback after confirmation or external-execution …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "GoldArowana",
+    "head_sha": "0e20ad504210ae43631f3d8de963f71123ccae36",
+    "base_ref": "main",
+    "additions": 1538,
+    "deletions": 60,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
