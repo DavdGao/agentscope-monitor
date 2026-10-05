@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-05T09:31:25.248704Z",
+  "title": "fix(tracing): resolve gen_ai.tool.description through tool_groups",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3068#issuecomment-5991790956",
+  "number": 3068,
+  "body": "Acknowledging the pr-guard note about #2918. Same defect, different lookup strategy — worth a maintainer's pick between the two.\n\n- **#2918** replaces the `instance.tools` dict lookup with a `next(...…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "RerankerGuo",
+    "commenter": "RerankerGuo"
+  },
+  "at_mobiles": []
+}
