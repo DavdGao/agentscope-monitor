@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "RXQ6",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-05T02:21:34.950905Z",
+  "title": "fix(tests): skip the S3 blob store tests without moto and boto3",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3073#issuecomment-5987011435",
+  "number": 3073,
+  "body": "Thanks for the pointer — I checked #3053 before commenting here.\n\nBoth PRs fix the same collection failure in `tests/blob_store_s3_test.py`, but they differ in scope and mechanism, so I'll leave the c…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "RXQ6",
+    "commenter": "RXQ6"
+  },
+  "at_mobiles": []
+}
