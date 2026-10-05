@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "GoldArowana",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-05T08:51:03.257525Z",
+  "title": "[Bug]: OpenAIResponseModel drops standard refusal explanations",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3132#issuecomment-5991195227",
+  "number": 3132,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "GoldArowana",
+    "commenter": "GoldArowana"
+  },
+  "at_mobiles": []
+}
