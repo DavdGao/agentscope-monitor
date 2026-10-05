@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-05T09:31:34.826462Z",
+  "title": "fix(model): stamp Anthropic streaming usage time at message_delta",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3067#issuecomment-5991793378",
+  "number": 3067,
+  "body": "Acknowledging the pr-guard note about #2927. These two land the same one-line change in `_anthropic/_model.py`; the difference is only in how the tests make time observable.\n\n- **#2927** adds a fake `…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "RerankerGuo",
+    "commenter": "RerankerGuo"
+  },
+  "at_mobiles": []
+}
