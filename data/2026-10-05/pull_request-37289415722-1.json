@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "GoldArowana",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-05T09:20:58.290164Z",
+  "title": "fix(model): preserve OpenAI Responses refusal text",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3136",
+  "number": 3136,
+  "body": "## AgentScope Version\n\n`2.0.10.dev0`, based on `72f3f6fa0b2fc38b8517f408ab616f0f2bd229e6`.\n\n## Description\n\nFixes #3132.\n\nWhen the Responses API returns standard refusal content, `OpenAIResponseModel`…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "GoldArowana",
+    "head_sha": "3aa6f6672131db6762f88c6e53b6169f2c27b761",
+    "base_ref": "main",
+    "additions": 316,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
