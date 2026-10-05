@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-05T09:32:20.168440Z",
+  "title": "fix(tool): de-quote find predicate tokens before the mutating-find guard",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3066#issuecomment-5991796316",
+  "number": 3066,
+  "body": "Acknowledging the pr-guard note about #3063. Same issue, different mechanism — a maintainer should choose, so here is the trade-off precisely.\n\n- **#3063** switches the check from the tree-sitter walk…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "RerankerGuo",
+    "commenter": "RerankerGuo"
+  },
+  "at_mobiles": []
+}
