@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "HootRock",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-05T14:32:01.678959Z",
+  "title": "docs(examples): show bounded retries for read-only tools",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3139",
+  "number": 3139,
+  "body": "Add an offline tool-middleware example that makes retry boundaries observable: one-attempt failure, recovery on the third attempt, and exhaustion after three total attempts. The policy retries only an…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "HootRock",
+    "head_sha": "7a9bb501545f4e8728a82b1440ef8e1e180366a2",
+    "base_ref": "main",
+    "additions": 387,
+    "deletions": 0,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
