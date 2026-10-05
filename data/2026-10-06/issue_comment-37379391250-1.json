@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "acedatacloud-dev",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-05T21:58:22.470442Z",
+  "title": "feat(tts): support API-based voice cloning",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2191#issuecomment-6003885492",
+  "number": 2191,
+  "body": "I maintain AceDataCloud's Fish Audio integration. The split between voice enrollment and synthesis in this proposal is important. An API can support one-shot use of a reference audio without creating …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "qbc2016",
+    "commenter": "acedatacloud-dev"
+  },
+  "at_mobiles": []
+}
