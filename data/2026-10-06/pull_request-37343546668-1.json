@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "fhgffy",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-05T16:47:49.404466Z",
+  "title": "fix(embedding): isolate OpenAI caches by API endpoint",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3142",
+  "number": 3142,
+  "body": "## AgentScope Version\n\n`2.0.10.dev0`, based on `72f3f6fa0b2fc38b8517f408ab616f0f2bd229e6`.\n\n## Description\n\nTwo OpenAI-compatible endpoints can serve different vectors under the same model name. Curre…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "fhgffy",
+    "head_sha": "b53c45729ecc89c6794f8f8cdc6d8518fe20dfcf",
+    "base_ref": "main",
+    "additions": 84,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
