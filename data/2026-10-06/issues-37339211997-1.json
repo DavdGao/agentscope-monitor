@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "fhgffy",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-05T16:14:45.077254Z",
+  "title": "OpenAI embedding cache reuses vectors across different API endpoints",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3140",
+  "number": 3140,
+  "body": "### What happened\n\n`OpenAIEmbeddingModel` keys its embedding cache only by the API request parameters. The endpoint is missing from that identifier. Two OpenAI-compatible endpoints using the same mode…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "fhgffy"
+  },
+  "at_mobiles": []
+}
