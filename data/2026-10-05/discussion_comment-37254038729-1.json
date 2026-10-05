@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Wrestle7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-05T02:06:23.142394Z",
+  "title": "Proposal: explicit message retention across context compression",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3126#discussioncomment-18751951",
+  "number": 3126,
+  "body": "> Appreciate the context—the task statement is a killer example of why pinning belongs in explicit userland control.\n> I actually planned around that exact budget gotcha in the current implementation.…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "Wrestle7",
+    "discussion_author": "Wrestle7"
+  },
+  "at_mobiles": []
+}
