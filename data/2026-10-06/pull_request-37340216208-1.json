@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qingshungLI",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-05T16:21:45.093827Z",
+  "title": "fix(formatter): decode ollama file URLs",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3141",
+  "number": 3141,
+  "body": "## AgentScope Version\n\n2.0.10dev\n\n## Description\n\nFixes #3104.\n\nOllama formatters now percent-decode local `file://` paths before opening them. This lets images whose filenames contain spaces or reser…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qingshungLI",
+    "head_sha": "a5f8cdd202dd0d19324f44cf8133aaca3c97ad19",
+    "base_ref": "main",
+    "additions": 55,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
