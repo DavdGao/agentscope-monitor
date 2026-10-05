@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "sxh313",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-05T06:01:33.853836Z",
+  "title": "[Bug]: a tool-call name that arrives after the opening delta is lost as \"unknown\"",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2861#issuecomment-5988988187",
+  "number": 2861,
+  "body": "Closing this as not planned, and I want the reason on record rather than a silent click.\n\n@DavdGao's question on 2026-09-28 — which provider actually sends an empty `function.name` on the opening delt…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "sxh313",
+    "commenter": "sxh313"
+  },
+  "at_mobiles": []
+}
