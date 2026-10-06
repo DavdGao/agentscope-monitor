@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-06T18:47:40.272247Z",
+  "title": "fix(tool): reject nonpositive read_stream chunk sizes with ValueError",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3070#issuecomment-6023139953",
+  "number": 3070,
+  "body": "Fixed the mypy failure in `fbbfe5d5`: the nested `_SlicingBackend`'s `exec_shell`, `read_file` and `write_file` had no annotations (`no-untyped-def`). The overrides now match the `BackendBase` signatu…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "RerankerGuo",
+    "commenter": "RerankerGuo"
+  },
+  "at_mobiles": []
+}
