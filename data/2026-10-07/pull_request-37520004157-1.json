@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "sxh313",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-06T19:34:48.446527Z",
+  "title": "fix(workspace): point the bubblewrap offload test at the workspace:// reference",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3151",
+  "number": 3151,
+  "body": "## The problem\n\n`tests/workspace_bubblewrap_test.py:923` asserts that the offloaded\n`context.jsonl` contains `file:///workspace/data/`. The producer it is checking\n— `WorkspaceBase.offload_data_block`…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "sxh313",
+    "head_sha": "d27d25e9368f1022373177368dcc436798e0a350",
+    "base_ref": "main",
+    "additions": 3,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
