@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "sxh313",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-06T09:54:36.362415Z",
+  "title": "[Bug]: Embedding batch tasks continue running after a sibling batch fails",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3146#issuecomment-6013774085",
+  "number": 3146,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "97Three",
+    "commenter": "sxh313"
+  },
+  "at_mobiles": []
+}
