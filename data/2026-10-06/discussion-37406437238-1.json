@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-06T02:54:51.978862Z",
+  "title": "Protect active workspaces from TTL eviction and renew sandbox lifetimes",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3143",
+  "number": 3143,
+  "body": "# Protect active workspaces from TTL eviction and renew sandbox lifetimes\n\n## Problem\n\nWorkspaceManager evicts workspaces based on the time since the last `get_workspace()` call. Tool calls within a r…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "iluv7"
+  },
+  "at_mobiles": []
+}
