@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "sxh313",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-06T19:01:37.822315Z",
+  "title": "[Bug]: WordParser drops the content of block-level w:sdt content controls (automatic TOC, controlled tables)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2843#issuecomment-6023388667",
+  "number": 2843,
+  "body": "Closing this myself, and the reason is administrative rather than technical.\n\n`MAX_OPEN_ISSUES` in `.github/workflows/issue-triage.yml` caps a contributor at five open issues, and all five of mine are…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "sxh313",
+    "commenter": "sxh313"
+  },
+  "at_mobiles": []
+}
