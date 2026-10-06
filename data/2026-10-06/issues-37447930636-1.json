@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "97Three",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-06T10:09:59.671620Z",
+  "title": "[Feature]: opt-in bounded concurrency middleware for tool execution",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3147",
+  "number": 3147,
+  "body": "<!-- reposteward-proposal:v1 repository=agentscope-ai/agentscope draft_id=5580ea4aab2644d3af967d74becbf6ba -->\n## Summary\n\nProvide a reusable ToolMiddlewareBase implementation that bounds simultaneous…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "97Three"
+  },
+  "at_mobiles": []
+}
