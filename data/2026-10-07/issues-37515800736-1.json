@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "sxh313",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-06T19:01:32.605864Z",
+  "title": "[Bug]: index worker dies on LOG_LEVEL=info / empty / numeric before it can report a missing bootstrap",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3130",
+  "number": 3130,
+  "body": "### Prerequisites\n\n- [x] I searched existing issues, discussions, PRs, and relevant history. This is not a duplicate.\n- [x] This is a defect report with a deterministic reproduction, not a usage quest…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "sxh313"
+  },
+  "at_mobiles": []
+}
