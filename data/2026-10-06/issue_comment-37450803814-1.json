@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "97Three",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-06T10:35:46.939599Z",
+  "title": "[Bug]: Embedding batch tasks continue running after a sibling batch fails",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3146#issuecomment-6014436908",
+  "number": 3146,
+  "body": "Thanks @sxh313 for the handoff and for sharing that detail. The fix joins the owned coroutine tasks and preserves the original exception; it does not claim to stop an already-running thread or remote …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "97Three",
+    "commenter": "97Three"
+  },
+  "at_mobiles": []
+}
