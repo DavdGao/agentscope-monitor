@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-06T18:49:15.304844Z",
+  "title": "fix(tracing): resolve gen_ai.tool.description through tool_groups",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3068#issuecomment-6023168090",
+  "number": 3068,
+  "body": "Fixed the pylint failure in `de43cc92`: the new tool-description test pushed `TracingTest` past pylint's 20-public-method limit (R0904, 21 methods). Each span attribute gets its own test, so the class…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "RerankerGuo",
+    "commenter": "RerankerGuo"
+  },
+  "at_mobiles": []
+}
