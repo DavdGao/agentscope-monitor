@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-06T02:56:14.926182Z",
+  "title": "Protect active workspaces from TTL eviction and renew sandbox lifetimes",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3143#discussioncomment-18769443",
+  "number": 3143,
+  "body": "Feedback and discussion are welcome! If this approach looks suitable, I would be happy to submit a PR to implement it.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "iluv7",
+    "discussion_author": "iluv7"
+  },
+  "at_mobiles": []
+}
