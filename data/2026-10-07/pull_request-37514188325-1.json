@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-06T18:49:06.713528Z",
+  "title": "fix(tracing): resolve gen_ai.tool.description through tool_groups",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3068",
+  "number": 3068,
+  "body": "## Summary\n\n- Fixes #2917. `_get_tool_request_attributes()` looked the tool up on a `tools` attribute that `Toolkit` does not have — `Toolkit` registrations live in `self.tool_groups` (each group expo…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "RerankerGuo",
+    "head_sha": "de43cc92a6a1722114dabd8699c8601fc97aea1a",
+    "base_ref": "main",
+    "additions": 62,
+    "deletions": 8,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
