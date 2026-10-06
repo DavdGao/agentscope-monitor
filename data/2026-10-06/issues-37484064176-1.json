@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "MZCannon",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-06T15:03:00.910235Z",
+  "title": "[Bug]: Credential page shows the static catalog of the credential type, not the models of the configured base_url — misleading for self-hosted OpenAI-compatible endpoints",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3149",
+  "number": 3149,
+  "body": "When adding a credential in the Agent Service web UI, the \"available models\" list is rendered from the static per-provider YAML model cards shipped with the package (`src/agentscope/model/<provider>/_…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "MZCannon"
+  },
+  "at_mobiles": []
+}
