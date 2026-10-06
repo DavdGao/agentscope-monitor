@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "97Three",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-06T08:54:12.990350Z",
+  "title": "[Feature]: native MLflow integration for experiment tracking & logging",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1458#issuecomment-6012816748",
+  "number": 1458,
+  "body": "Hi maintainers, I would like to contribute to this feature if it is still wanted and open to community contributions.\n\nI checked the current `TracingMiddleware`, which already instruments the agent re…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Jasonsey",
+    "commenter": "97Three"
+  },
+  "at_mobiles": []
+}
