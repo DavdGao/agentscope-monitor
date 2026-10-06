@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "sxh313",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-06T19:23:58.698817Z",
+  "title": "[Bug]: Embedding batch tasks continue running after a sibling batch fails",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3146#issuecomment-6023804493",
+  "number": 3146,
+  "body": "@DavdGao @qbc2016 — could one of you clear the assignee on this issue? It is the only thing standing between @97Three and a mergeable fix, and I have no permitted route to change that metadata myself.…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "97Three",
+    "commenter": "sxh313"
+  },
+  "at_mobiles": []
+}
