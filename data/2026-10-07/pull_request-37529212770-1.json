@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "sxh313",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-06T20:48:29.319046Z",
+  "title": "fix(hub): honor an HTTP-date Retry-After",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3153",
+  "number": 3153,
+  "body": "Fixes #3152\n\n## AgentScope Version\n\n2.0.10dev (main `72f3f6fa0b2f`)\n\n## Description\n\n`ClawSkillHub._retry_delay` documents that it \"Honors `Retry-After` first\", but it parses the header with `float()`…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "sxh313",
+    "head_sha": "32365290e56271e1f9e73941a589b09bbb811d12",
+    "base_ref": "main",
+    "additions": 106,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
