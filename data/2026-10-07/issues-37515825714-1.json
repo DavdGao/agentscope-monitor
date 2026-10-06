@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "sxh313",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-06T19:01:44.174963Z",
+  "title": "[Bug]: Audio the provider cannot encode raises TypeError out of format() instead of being skipped",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2736",
+  "number": 2736,
+  "body": "## Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/issues), and this is not…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "sxh313"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "sxh313"
+  },
+  "at_mobiles": []
+}
