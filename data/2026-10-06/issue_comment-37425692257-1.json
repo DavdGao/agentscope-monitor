@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "97Three",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-06T06:47:09.395441Z",
+  "title": "[Bug]: LocalWorkspace.add_skill exposes a partial skill after copy failure",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3144#issuecomment-6010949233",
+  "number": 3144,
+  "body": "Thanks for the suggestion, @iluv7. I am working on this using the temporary-directory approach: copy outside the skill scan path on the same filesystem, then rename into the final location only after …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "97Three",
+    "commenter": "97Three"
+  },
+  "at_mobiles": []
+}
