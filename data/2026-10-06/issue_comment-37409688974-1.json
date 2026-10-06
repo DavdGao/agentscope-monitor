@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "28Hus",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-06T03:35:34.123787Z",
+  "title": "[Security]: Public JWT Fallback Secret Is Trusted When the Deployment Secret Is Missing",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2688#issuecomment-6008802009",
+  "number": 2688,
+  "body": "Thanks for the clarification. I see that I submitted this to the Python agentscope repository by mistake. The affected DataAgent code is in [agentscope-java](https://github.com/agentscope-ai/agentscop…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "28Hus",
+    "commenter": "28Hus"
+  },
+  "at_mobiles": []
+}
