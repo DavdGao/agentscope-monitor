@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "sxh313",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-06T20:49:35.563111Z",
+  "title": "fix(hub): honor an HTTP-date Retry-After",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3153#issuecomment-6025184406",
+  "number": 3153,
+  "body": "Interim-commit note, so the two-commit history is not a puzzle in review.\n\n5115e977 built its tree with `POST /git/trees` and `encoding: base64` on `tree[].content` — that endpoint stores the string l…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "sxh313",
+    "commenter": "sxh313"
+  },
+  "at_mobiles": []
+}
