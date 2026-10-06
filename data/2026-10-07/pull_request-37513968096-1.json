@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-06T18:47:20.959147Z",
+  "title": "fix(tool): reject nonpositive read_stream chunk sizes with ValueError",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3070",
+  "number": 3070,
+  "body": "## Summary\n\n- Fixes #3039. A nonpositive `chunk_size` to `read_stream` was a silent misconfiguration:\n  - `LocalBackend.read_stream`: `chunk_size=0` ended the read loop immediately, so a nonempty file…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "RerankerGuo",
+    "head_sha": "fbbfe5d51e32247a7b6c1a4cc32766a4b3303cb7",
+    "base_ref": "main",
+    "additions": 58,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
