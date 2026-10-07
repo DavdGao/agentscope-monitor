@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-07T07:09:32.392852Z",
+  "title": "fix(app): protect Redis subscription cleanup from cancellation",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3158",
+  "number": 3158,
+  "body": "## AgentScope Version\n\n2.0.10dev\n\n## Description\n\nFixes #3157.\n\nEnsure Pub/Sub cleanup calls `aclose()` even if `unsubscribe()` fails, and shield closing against cancellation so the Redis connection c…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "iluv7",
+    "head_sha": "5467f0ea56ef3b3da224a1e3ab588435d88c85ef",
+    "base_ref": "main",
+    "additions": 82,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
