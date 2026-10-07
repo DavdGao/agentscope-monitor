@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Lsy1533133",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-07T02:26:10.211940Z",
+  "title": "A deterministic implementation of the #1509 pre-execution validation checklist — AgentDojo ASR=0 / FP=0 with real LLM in the loop (open artifacts)",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3154",
+  "number": 3154,
+  "body": "#1509 proposes pre-execution validation for agent actions with a concrete checklist. We built exactly that layer, ran it through the AgentDojo official benchmark with a real LLM in the loop, and are p…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "Lsy1533133"
+  },
+  "at_mobiles": []
+}
