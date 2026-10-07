@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "MZCannon",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-07T01:56:01.920100Z",
+  "title": "[Bug]: Credential page shows the static catalog of the credential type, not the models of the configured base_url — misleading for self-hosted OpenAI-compatible endpoints",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3149#issuecomment-6029227503",
+  "number": 3149,
+  "body": "Thanks for the quick triage and for confirming!\n\nI have full working context for this issue: a local reproduction, a validated workaround (the script mentioned in the issue), and first-hand knowledge …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "MZCannon",
+    "commenter": "MZCannon"
+  },
+  "at_mobiles": []
+}
