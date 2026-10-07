@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "MZCannon",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-07T09:30:53.227157Z",
+  "title": "feat(app): load extra model-card directories via create_app",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3156#issuecomment-6035094082",
+  "number": 3156,
+  "body": "Closing this in favor of a per-credential approach.\n\nAfter testing against a second relay credential, the per-credential-type directory model causes cross-credential catalog pollution: a directory reg…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "MZCannon",
+    "commenter": "MZCannon"
+  },
+  "at_mobiles": []
+}
