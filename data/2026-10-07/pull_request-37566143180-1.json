@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "MZCannon",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-07T03:18:44.896025Z",
+  "title": "feat(app): load extra model-card directories via create_app",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3156",
+  "number": 3156,
+  "body": "## Summary\n\nFollow-up to #3149 / #3155: together they close the loop on \"the catalog shows models my endpoint doesn't serve, and the endpoint serves models the catalog doesn't show\". #3155 added the e…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "MZCannon",
+    "head_sha": "963f57910c27dc5a5489d3fab4e3ef9bdc2c9be4",
+    "base_ref": "main",
+    "additions": 514,
+    "deletions": 89,
+    "changed_files": 15
+  },
+  "at_mobiles": []
+}
