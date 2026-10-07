@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "MZCannon",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-07T02:31:57.179341Z",
+  "title": "feat(app): surface the endpoint's live model list next to the static catalog",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3155",
+  "number": 3155,
+  "body": "## Summary\n\nFixes #3149 (together with the diagnosis and screenshots there).\n\nThe credential detail page renders model candidates from the static\nper-provider YAML model cards shipped with the package…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "MZCannon",
+    "head_sha": "e369a86ac25702ddb45b46942e5d772d73d5bb8f",
+    "base_ref": "main",
+    "additions": 624,
+    "deletions": 4,
+    "changed_files": 17
+  },
+  "at_mobiles": []
+}
