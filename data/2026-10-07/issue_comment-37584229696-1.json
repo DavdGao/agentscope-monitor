@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-07T06:55:40.626367Z",
+  "title": "[Bug]: Repeated SSE disconnects permanently exhaust RedisMessageBus connection pool",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3157#issuecomment-6032681355",
+  "number": 3157,
+  "body": "/assign\nAlso, we should also add cleanup protection on the AgentScope side: ensure `aclose()` runs even if `unsubscribe()` fails, and protect the close operation against cancellation so the connection…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "laygithub",
+    "commenter": "iluv7"
+  },
+  "at_mobiles": []
+}
