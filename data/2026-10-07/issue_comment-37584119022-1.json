@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-07T06:54:29.065618Z",
+  "title": "[Bug]: Repeated SSE disconnects permanently exhaust RedisMessageBus connection pool",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3157#issuecomment-6032666269",
+  "number": 3157,
+  "body": "I took a quick look: in redis-py 6.4.0, cleanup waits for the socket to close before returning the connection to the pool. An SSE disconnect can cancel that wait, so the connection never gets returned…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "laygithub",
+    "commenter": "iluv7"
+  },
+  "at_mobiles": []
+}
