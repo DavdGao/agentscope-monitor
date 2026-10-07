@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "laygithub",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-07T08:34:22.564051Z",
+  "title": "[Bug]: Repeated SSE disconnects permanently exhaust RedisMessageBus connection pool",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3157#issuecomment-6034160847",
+  "number": 3157,
+  "body": "@iluv7 \nConfirmed with the same reproduction and the same FastAPI/Starlette/Uvicorn versions as the original test:\n\n- redis-py 6.4.0: after repeated SSE disconnects, the pool reached `in_use=5, availa…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "laygithub",
+    "commenter": "laygithub"
+  },
+  "at_mobiles": []
+}
