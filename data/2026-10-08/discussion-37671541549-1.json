@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "josuecuguy1307",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-07T19:03:19.848217Z",
+  "title": "Aleph: an open-source macOS workspace for shaping agent harnesses",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3159",
+  "number": 3159,
+  "body": "I’m building Aleph, a separate open-source macOS AI workspace. Its Workshop lets you compose agents, tools, and reusable workflows so you can inspect and shape the harness around your chosen models; p…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Show and tell",
+    "author": "josuecuguy1307"
+  },
+  "at_mobiles": []
+}
