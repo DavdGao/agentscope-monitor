@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "MZCannon",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-07T09:30:53.059696Z",
+  "title": "feat(app): load extra model-card directories via create_app",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3156",
+  "number": 3156,
+  "body": "Fixes #3149 — this PR implements the second half of what that issue describes (making endpoint-only models selectable); the first half, the endpoint probe and catalog comparison, is #3155. Both PRs st…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "MZCannon",
+    "head_sha": "963f57910c27dc5a5489d3fab4e3ef9bdc2c9be4",
+    "base_ref": "main",
+    "additions": 514,
+    "deletions": 89,
+    "changed_files": 15
+  },
+  "at_mobiles": []
+}
