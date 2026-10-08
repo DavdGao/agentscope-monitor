@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T03:21:01.853345Z",
+  "title": "[Bug]: TeamPipeline leaves sibling member tools running after a model exception",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2972",
+  "number": 2972,
+  "body": "### Prerequisites\n- [x] Searched existing issues/PRs and discussions; no matching exception-path report found. Reviewed #2764, including its earlier generator-close cleanup discussion.\n- [x] This repo…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "pengmoubuaixuexi"
+  },
+  "at_mobiles": []
+}
