@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T09:44:58.839124Z",
+  "title": "fix(rag): extract images embedded in Word table cells",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3064",
+  "number": 3064,
+  "body": "## AgentScope Version\n\n`main` @ `72f3f6fa` (2026-10-01)\n\n## Description\n\nFixes #3059.\n\n**Background.** `WordParser.parse()` extracts embedded images from body-level paragraphs via `_extract_image_bloc…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "liwenjie200543",
+    "head_sha": "4a73c64e49cfbcc8ae0c9d0503194e4bc6c58563",
+    "base_ref": "main",
+    "additions": 193,
+    "deletions": 14,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
