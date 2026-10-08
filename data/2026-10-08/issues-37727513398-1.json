@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T04:26:59.834899Z",
+  "title": "[Bug]: FunctionTool returns coroutine text instead of awaiting deferred tools",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3134",
+  "number": 3134,
+  "body": "### Description\n\n`FunctionTool` turns a coroutine returned by a regular function into a text tool result instead of awaiting it. The async work never runs, and `Toolkit.call_tool()` reports success wi…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "fhgffy"
+  },
+  "at_mobiles": []
+}
