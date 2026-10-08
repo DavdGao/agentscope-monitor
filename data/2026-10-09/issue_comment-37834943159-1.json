@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Madin-H23",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T19:50:34.704468Z",
+  "title": "fix(formatter): keep unsupported media visible as a text placeholder in Gemini, Volcengine and DashScope formatters",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3182#issuecomment-6067829110",
+  "number": 3182,
+  "body": "Opened #3183 describing the problem. The PR now tracks it: Fixes #3183.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Madin-H23",
+    "commenter": "Madin-H23"
+  },
+  "at_mobiles": []
+}
