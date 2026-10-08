@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T05:24:44.537212Z",
+  "title": "fix(rag): resolve LOG_LEVEL before configuring the worker",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3131",
+  "number": 3131,
+  "body": "Closes #3130\n\n## AgentScope Version\n\n`2.0.10dev` (`import agentscope; print(agentscope.__version__)`) — an editable install of `main` at `72f3f6fa0b2fc38b8517f408ab616f0f2bd229e6`, run on Python 3.11.…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "sxh313",
+    "head_sha": "db827decbd21439076d76041f345b5d831ed6042",
+    "base_ref": "main",
+    "additions": 34,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
