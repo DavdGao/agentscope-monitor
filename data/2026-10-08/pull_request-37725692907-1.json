@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T04:13:37.630885Z",
+  "title": "chore(tool): let the backend create Write's parent directories",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3015",
+  "number": 3015,
+  "body": "## PR Title Format\n\n- [x] My PR title follows the Conventional Commits format.\n\n## AgentScope Version\n\n2.0.10dev (main at `78c4ec47`)\n\n## Description\n\n**Background & Purpose**: Fixes #3014.\n\n`Write.ca…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "RerankerGuo",
+    "head_sha": "4e8770e677a7dd5fdfa4821f0fcaa1aba0d4272c",
+    "base_ref": "main",
+    "additions": 0,
+    "deletions": 7,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
