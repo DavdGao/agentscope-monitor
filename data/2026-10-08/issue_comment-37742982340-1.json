@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "YingchaoX",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T07:22:12.199688Z",
+  "title": "feat: support OpenAI Decisions API through the classifier interface",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3167#issuecomment-6054801537",
+  "number": 3167,
+  "body": "I'd be happy to take this on. Please assign this issue to me.\n\nI propose the following scope:\n\n**Adapter**\n\nAdd `OpenAIClassifierModel` under `agentscope.classifier`, extending `ClassifierModelBase` a…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "YingchaoX"
+  },
+  "at_mobiles": []
+}
