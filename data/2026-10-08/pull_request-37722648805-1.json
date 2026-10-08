@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T03:25:37.866744Z",
+  "title": "fix(workspace): resolve case-insensitive skill directory collisions",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3075",
+  "number": 3075,
+  "body": "## AgentScope Version\n\n2.0.10dev, based on main 72f3f6fa0b2fc38b8517f408ab616f0f2bd229e6.\n\n## Description\n\nFixes #3074.\n\nOn case-insensitive filesystems, skills named `Example` and `example` resolve t…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "HootRock",
+    "head_sha": "633f6b366e775e30d983fe5e763e645e2c596655",
+    "base_ref": "main",
+    "additions": 47,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
