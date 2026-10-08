@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T04:39:59.448636Z",
+  "title": "[Bug]: MCPClient's owned streamable-HTTP client replaces the transport timeout defaults",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3009",
+  "number": 3009,
+  "body": "## Prerequisites\n\n- [x] I have searched the existing issues, pull requests, and discussions, and this is not a duplicate.\n- [x] This is a bug, not a usage question.\n\n## Background / Description\n\n`MCPC…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "RerankerGuo"
+  },
+  "at_mobiles": []
+}
