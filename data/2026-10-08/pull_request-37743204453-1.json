@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "dafyy321-pixel",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T07:24:23.463051Z",
+  "title": "fix(schedule): apply current permissions to stateful scheduled runs",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3169",
+  "number": 3169,
+  "body": "## AgentScope Version\n\n`2.0.10dev`, based on upstream main commit `48c4b9ce0f9a3f86e5c3385d43cd2220245eef10`.\n\n## Description\n\nFixes #3168.\n\nA stateful schedule keeps the same execution session across…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "dafyy321-pixel",
+    "head_sha": "b9504afa9fb5088a547efb423abbf340cdd93972",
+    "base_ref": "main",
+    "additions": 251,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
