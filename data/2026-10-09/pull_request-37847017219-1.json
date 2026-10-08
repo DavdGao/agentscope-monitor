@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Akaliup",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T21:28:33.502549Z",
+  "title": "fix(app): validate session ownership before returning run status",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3187",
+  "number": 3187,
+  "body": "## AgentScope Version\n\n2.0.10.dev0, based on main at c3c1d7fa.\n\n## Description\n\nA held session-run lock caused the status endpoint to return HTTP 200 with `running` before checking whether the session…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Akaliup",
+    "head_sha": "77ee98a26d086965ad4b108c68f8ae078811df7b",
+    "base_ref": "main",
+    "additions": 208,
+    "deletions": 13,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
