@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "review_requested",
+  "action_cn": "请求审核",
+  "sender": "aniruddhaadak80",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T03:22:50.473409Z",
+  "title": "fix(model): stop mutating the caller extra_body in thinking models",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2915",
+  "number": 2915,
+  "body": "## PR Title Format\n\n- `fix(model): stop mutating the caller extra_body in thinking models`\n- Type `fix`, scope `model` (lowercase), subject starts with a lowercase letter.\n\n## AgentScope Version\n\n```\n…",
+  "labels": [
+    "pr/awaiting-changes"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "aniruddhaadak80",
+    "head_sha": "22e49c413a0675007087284377b202441c56a662",
+    "base_ref": "main",
+    "additions": 199,
+    "deletions": 3,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
