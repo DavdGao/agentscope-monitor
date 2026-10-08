@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "97Three",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T05:27:07.034330Z",
+  "title": "Proposal: explicit expiry for automatically recalled file memories",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3164",
+  "number": 3164,
+  "body": "## Motivation\n\n`AgenticMemoryMiddleware` already tells the agent to verify remembered facts against current sources. That is appropriate for semantic correctness: a timestamp cannot prove that a memor…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "97Three"
+  },
+  "at_mobiles": []
+}
