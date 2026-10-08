@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Madin-H23",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T19:01:55.685338Z",
+  "title": "fix(formatter): keep unsupported media visible as a text placeholder in Gemini, Volcengine and DashScope formatters",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3182",
+  "number": 3182,
+  "body": "## Why\n\nFollow-up to the #3105-#3112 series (Anthropic / Ollama / DeepSeek / OpenAI formatters). The **Gemini, Volcengine and DashScope** formatters share the same silently-dropping behaviour, on the …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Madin-H23",
+    "head_sha": "0d3193d89432409e5d5d4fb65fe7a113a8fe0da7",
+    "base_ref": "main",
+    "additions": 193,
+    "deletions": 14,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
