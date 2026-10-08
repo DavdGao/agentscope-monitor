@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "HootRock",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T10:11:22.982810Z",
+  "title": "fix(hub): honor HTTP-date Retry-After headers",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3175",
+  "number": 3175,
+  "body": "## AgentScope Version\n\n2.0.10dev, based on main 48c4b9ce0f9a3f86e5c3385d43cd2220245eef10.\n\n## Description\n\nFixes #3152.\n\nClawHub retry handling accepts numeric Retry-After values but ignores HTTP date…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "HootRock",
+    "head_sha": "bf2b6c80870ce30e80a9cb2597d830f161152417",
+    "base_ref": "main",
+    "additions": 205,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
