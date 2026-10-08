@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T04:36:16.574718Z",
+  "title": "fix(tool): omit injected state from inferred function schemas",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3090",
+  "number": 3090,
+  "body": "## AgentScope Version\n\n2.0.10dev (base commit `72f3f6fa0b2fc38b8517f408ab616f0f2bd229e6`).\n\n## Description\n\nFixes #3089.\n\nCreating a `FunctionTool` with `is_state_injected=True` currently raises `Name…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "quifox",
+    "head_sha": "488b615e1dad1e07cadb8e278ebf997872dade99",
+    "base_ref": "main",
+    "additions": 61,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
