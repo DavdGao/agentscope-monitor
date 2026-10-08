@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T05:21:06.633706Z",
+  "title": "fix(app): normalize document content types before parser lookup",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2992",
+  "number": 2992,
+  "body": "## Summary\n\n- normalize explicit document Content-Type values before parser lookup\n- ignore media-type parameters and case differences so uploads such as text/markdown; charset=utf-8 use the existing …",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "zhengguangzhuo",
+    "head_sha": "57df349e0c0a203bf66870a3b5e0d5ce002fd404",
+    "base_ref": "main",
+    "additions": 159,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
