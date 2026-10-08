@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T06:48:39.310350Z",
+  "title": "feat: support OpenAI Decisions API through the classifier interface",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3167#issuecomment-6054189981",
+  "number": 3167,
+  "body": "@YingchaoX Plz leave a message here so that we can assign this issue.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "DavdGao"
+  },
+  "at_mobiles": []
+}
