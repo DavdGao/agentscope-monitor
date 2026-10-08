@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T03:15:38.841168Z",
+  "title": "fix(model): refresh anthropic streaming usage time",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2927",
+  "number": 2927,
+  "body": "## PR Title Format\n\n- `fix(model): refresh anthropic streaming usage time`\n- Type `fix`, scope `model` (lowercase), subject starts with a lowercase letter.\n\n## AgentScope Version\n\n```\n2.0.10dev (main …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "aniruddhaadak80",
+    "head_sha": "5688a29a9c661674cbafbae83cc6c1901f1f406e",
+    "base_ref": "main",
+    "additions": 8,
+    "deletions": 0,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
