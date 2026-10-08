@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T03:08:51.599224Z",
+  "title": "[Bug]: the Bubblewrap offload test still asserts the pre-migration file:// reference",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3150",
+  "number": 3150,
+  "body": "**Describe the bug**\n\n`tests/workspace_bubblewrap_test.py:923` asserts that the offloaded context\nfile contains `file:///workspace/data/`, but the only implementation the\nBubblewrap workspace uses — `…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "sxh313"
+  },
+  "at_mobiles": []
+}
