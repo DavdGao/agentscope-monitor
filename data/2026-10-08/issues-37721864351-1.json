@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T03:15:43.161568Z",
+  "title": "[Bug]: Anthropic streaming reports ChatUsage.time as time-to-first-token",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2926",
+  "number": 2926,
+  "body": "**<u>AgentScope is an open-source project. To involve a broader community, we recommend asking your questions in English.</u>**\n\n### Prerequisites\n\n- [x] I have searched the existing [issues](https://…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "RerankerGuo"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "aniruddhaadak80"
+  },
+  "at_mobiles": []
+}
