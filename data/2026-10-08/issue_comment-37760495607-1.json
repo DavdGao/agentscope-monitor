@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "HootRock",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T10:00:02.390937Z",
+  "title": "[Bug]: ClawSkillHub ignores an HTTP-date Retry-After and retries at its 1-second floor",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3152#issuecomment-6057394238",
+  "number": 3152,
+  "body": "I'd like to work on HTTP-date Retry-After handling. Proposed scope: preserve numeric delays and fallback headers, normalize HTTP dates to UTC, and cover both request and download retries. Is this scop…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "sxh313",
+    "commenter": "HootRock"
+  },
+  "at_mobiles": []
+}
