@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T09:47:28.050597Z",
+  "title": "[Bug]: OpenAI Responses adapter drops response.reasoning_text.delta events",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2907",
+  "number": 2907,
+  "body": "### Prerequisites\n\n- [x] I searched the existing issues, PRs, and discussions for this behavior.\n- [x] This is a bug report, not a usage question.\n\n### Background / Description\n\n`OpenAIResponseModel` …",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "RICARDO51167"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "wuyak"
+  },
+  "at_mobiles": []
+}
