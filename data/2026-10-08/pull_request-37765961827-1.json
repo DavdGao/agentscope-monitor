@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T10:49:14.969212Z",
+  "title": "fix(app): make workspace skill deletion idempotent",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2892",
+  "number": 2892,
+  "body": "## Summary\n\n`DELETE /workspace/skill/{skill_name}` now returns `204 No Content`\nwhen the skill is already absent, consistently across workspace\nimplementations.\n\nSandboxed workspaces inherit `Workspac…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "lihongyuan99",
+    "head_sha": "56c1a5df62c4e127884cdb5905a58e41dee47555",
+    "base_ref": "main",
+    "additions": 6,
+    "deletions": 1,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
