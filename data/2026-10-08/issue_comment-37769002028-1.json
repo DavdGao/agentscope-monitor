@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "wxxlamp",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T11:16:57.571143Z",
+  "title": "fix(channel): secure approval card decisions",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2791#issuecomment-6058671887",
+  "number": 2791,
+  "body": "@DavdGao  I've addressed the previous review comments. Could you please take another look when you have a chance?",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "wxxlamp",
+    "commenter": "wxxlamp"
+  },
+  "at_mobiles": []
+}
