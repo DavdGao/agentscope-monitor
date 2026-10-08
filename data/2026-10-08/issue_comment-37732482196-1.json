@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "jiangjiang248",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T05:27:48.849505Z",
+  "title": "[Bug]: Gemini TTS creates a client per utterance without closing it",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3043#issuecomment-6053009821",
+  "number": 3043,
+  "body": "Please disregard my earlier implementation claim: my initial duplicate check missed the full issue URL in the description of #3044. I will not open a competing PR, and I am withdrawing my claim.\n\nI in…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "little-spoon77",
+    "commenter": "jiangjiang248"
+  },
+  "at_mobiles": []
+}
