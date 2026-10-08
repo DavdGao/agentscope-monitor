@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "dafyy321-pixel",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T07:24:56.037771Z",
+  "title": "[Bug]: index worker shutdown leaves processing documents outside recovery scans",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3170",
+  "number": 3170,
+  "body": "## Prerequisites\n\n- [x] I have searched existing issues and discussions, and found no report covering this defect.\n- [x] This is a bug in an existing supported flow, rather than a usage question.\n\n## …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "dafyy321-pixel"
+  },
+  "at_mobiles": []
+}
