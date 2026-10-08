@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T05:23:28.812944Z",
+  "title": "[Bug]: DeepSeek/Moonshot/Volcengine chat models mutate the caller's extra_body dict",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2914",
+  "number": 2914,
+  "body": "**<u>AgentScope is an open-source project. To involve a broader community, we recommend asking your questions in English.</u>**\n\n### Prerequisites\n\n- [x] I have searched the existing [issues](https://…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "RerankerGuo"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "aniruddhaadak80"
+  },
+  "at_mobiles": []
+}
