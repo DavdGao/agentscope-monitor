@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "97Three",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T04:55:45.519333Z",
+  "title": "Proposal: opt-in bounded concurrency for tool execution",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3163",
+  "number": 3163,
+  "body": "Related issue: https://github.com/agentscope-ai/agentscope/issues/3147\n\nWhen several agents share a capacity-limited async tool, AgentScope currently lets applications wrap calls with `ToolMiddlewareB…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "97Three"
+  },
+  "at_mobiles": []
+}
