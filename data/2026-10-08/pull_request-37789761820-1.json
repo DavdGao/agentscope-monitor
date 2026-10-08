@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "MincongZhou",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T14:06:42.680983Z",
+  "title": "fix(tool): normalize file paths before matching permission rules",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3178",
+  "number": 3178,
+  "body": "Fixes #3179\n\n## Problem\n\n`Write`, `Edit` and `Read` decide whether an `allow` rule covers a call by matching the **raw** `file_path` string with `fnmatch.fnmatch`, which performs no path resolution:\n\n…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "MincongZhou",
+    "head_sha": "2e92dc24e9c8db49e79ebe0a58aec7bedcf7a8dc",
+    "base_ref": "main",
+    "additions": 198,
+    "deletions": 0,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
