@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T04:36:18.542413Z",
+  "title": "[Bug]: FunctionTool cannot infer schemas for state-injected functions",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3089",
+  "number": 3089,
+  "body": "### Prerequisites\n\n- [x] I searched existing issues, pull requests, and discussions for this symptom and root cause.\n- [x] This is a reproducible bug rather than a usage question.\n\n### Background / De…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "quifox"
+  },
+  "at_mobiles": []
+}
