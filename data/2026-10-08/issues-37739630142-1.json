@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T06:48:15.524646Z",
+  "title": "feat: support OpenAI Decisions API through the classifier interface",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3167",
+  "number": 3167,
+  "body": "### Discussed in https://github.com/agentscope-ai/agentscope/discussions/3166\n\n<div type='discussions-op-text'>\n\n<sup>Originally posted by **YingchaoX** October  8, 2026</sup>\nOpenAI released the [Dec…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
