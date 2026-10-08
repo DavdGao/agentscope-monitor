@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "97Three",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T04:56:10.787639Z",
+  "title": "[Feature]: opt-in bounded concurrency middleware for tool execution",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3147#issuecomment-6052591011",
+  "number": 3147,
+  "body": "Related Discussion: #3163\n\nThe automated triage noted that this is a feature proposal, so I posted a shorter version in the Ideas category for design feedback: https://github.com/agentscope-ai/agentsc…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "97Three",
+    "commenter": "97Three"
+  },
+  "at_mobiles": []
+}
