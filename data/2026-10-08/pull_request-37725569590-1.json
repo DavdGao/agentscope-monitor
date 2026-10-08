@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T04:02:42.362507Z",
+  "title": "fix(tests): silence too-many-public-methods in the glob test",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3162",
+  "number": 3162,
+  "body": "#3004 and #2979 each added a test to `GlobToolTest`, pushing it to 21 public methods and failing pylint on main. Disable the check for the class, same as the other large test files.\n\n🤖 Generated with …",
+  "labels": [
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "DavdGao",
+    "head_sha": "e1c9f651b91df249276f60d4bb7d7a81ac5fd1df",
+    "base_ref": "main",
+    "additions": 1,
+    "deletions": 0,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
