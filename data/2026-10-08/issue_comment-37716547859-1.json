@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "tengjiaozhai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T02:10:26.757158Z",
+  "title": "fix(web-ui): reject stale HITL confirmations",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2779#issuecomment-6050737404",
+  "number": 2779,
+  "body": "Hi @DavdGao, gentle ping on this one when you have a moment. It fixes #2778 (stale HITL confirmation cards and the input getting stuck on Stop after a missed terminal SSE event). The issue link was ad…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "tengjiaozhai",
+    "commenter": "tengjiaozhai"
+  },
+  "at_mobiles": []
+}
