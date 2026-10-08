@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T03:27:25.432549Z",
+  "title": "Memory deduplication regression test races background retrieval",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3093",
+  "number": 3093,
+  "body": "The regression test `test_agent_deduplicates_selected_memory_filenames` can finish its second reasoning step before the background filesystem retrieval completes. It then observes no hint, rather than…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "Shy7777"
+  },
+  "at_mobiles": []
+}
