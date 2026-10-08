@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T09:47:30.217441Z",
+  "title": "fix(models): preserve Responses reasoning text",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2916",
+  "number": 2916,
+  "body": "## AgentScope Version\n\n2.0.10dev\n\n## Description\n\nFixes #2907.\n\nPreserve `response.reasoning_text.delta` and non-streaming `reasoning.content`. Captured Bailian DeepSeek samples contain raw reasoning …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "wuyak",
+    "head_sha": "a6165ff699923361a1c01286719137e16b1c43ba",
+    "base_ref": "main",
+    "additions": 347,
+    "deletions": 26,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
