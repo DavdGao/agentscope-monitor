@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "YingchaoX",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T08:55:50.971987Z",
+  "title": "feat(classifier): add OpenAI Decisions API support",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3174",
+  "number": 3174,
+  "body": "## AgentScope Version\n\n`2.0.10dev`\n\n## Description\n\nRefs #3167\n\nAdd `OpenAIClassifierModel` to the existing classifier interface. It maps binary, choice, and score questions to OpenAI Decisions questi…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "YingchaoX",
+    "head_sha": "1eaa4fb94d4e0b7492180219f482405b39bee9b6",
+    "base_ref": "main",
+    "additions": 563,
+    "deletions": 1,
+    "changed_files": 7
+  },
+  "at_mobiles": []
+}
