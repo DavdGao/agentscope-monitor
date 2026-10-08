@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T04:49:15.201589Z",
+  "title": "fix(scheduler): notify owner after deleting schedules",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3103",
+  "number": 3103,
+  "body": "## AgentScope Version\n\n`2.0.10dev`, based on `main` at `72f3f6fa0b2fc38b8517f408ab616f0f2bd229e6`.\n\n## Description\n\nDeleting a schedule through `ScheduleDelete` on a node with scheduling disabled remo…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "quifox",
+    "head_sha": "49062d4b6ec4ddd7f65a42d363ed08fdf5d4c8f0",
+    "base_ref": "main",
+    "additions": 64,
+    "deletions": 0,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
