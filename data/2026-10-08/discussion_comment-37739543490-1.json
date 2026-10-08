@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T06:47:14.995325Z",
+  "title": "Support OpenAI Decisions API through the classifier interface",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3166#discussioncomment-18807339",
+  "number": 3166,
+  "body": "@YingchaoX That's a good point!",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "DavdGao",
+    "discussion_author": "YingchaoX"
+  },
+  "at_mobiles": []
+}
