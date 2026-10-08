@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Tong-bit-art",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T11:01:04.761533Z",
+  "title": "fix(workspace): read SKILL.md as utf-8-sig in every skill path",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3177",
+  "number": 3177,
+  "body": "## PR Title Format\n\n- `fix(workspace): read SKILL.md as utf-8-sig in every skill path`\n- Type `fix`, scope lowercase, subject starts with a lowercase letter.\n\n## AgentScope Version\n\n`2.0.10dev` (`main…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Tong-bit-art",
+    "head_sha": "f40db4ddf5dc86ecf036cf5f959b178e70c24a68",
+    "base_ref": "main",
+    "additions": 121,
+    "deletions": 3,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
