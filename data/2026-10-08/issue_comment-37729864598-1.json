@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "97Three",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T04:56:17.145398Z",
+  "title": "fix(embedding): join sibling batches after failure",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3148#issuecomment-6052592232",
+  "number": 3148,
+  "body": "Handoff and workflow check for #3148: this PR is now open for review, and I updated the description to remove its stale draft wording. @sxh313 explicitly agreed to hand off #3146 and asked maintainers…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "97Three",
+    "commenter": "97Three"
+  },
+  "at_mobiles": []
+}
