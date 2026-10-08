@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T03:08:45.679550Z",
+  "title": "[Bug]: LocalBackend.delete_path cannot remove directory or dangling symlinks",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3005",
+  "number": 3005,
+  "body": "Reproduced with the production LocalBackend on Linux: deleting a directory symlink calls shutil.rmtree and raises OSError (Cannot call rmtree on a symbolic link); deleting a dangling symlink returns e…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "little-spoon77"
+  },
+  "at_mobiles": []
+}
