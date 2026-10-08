@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "97Three",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T05:27:18.801585Z",
+  "title": "Proposal: explicit update of an installed workspace skill",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3165",
+  "number": 3165,
+  "body": "## Motivation and observed behavior\n\n`LocalWorkspace.add_skill()` intentionally deduplicates by the SHA-256 of `SKILL.md`. A skill can also contain scripts, reference files, or data. If one of those f…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "97Three"
+  },
+  "at_mobiles": []
+}
