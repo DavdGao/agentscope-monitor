@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T12:37:16.178434Z",
+  "title": "feat(app): refine realtime voice UX and response lifecycle",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3180",
+  "number": 3180,
+  "body": "## AgentScope Version\n\n2.0.10dev\n\n## Description\n\n- Align and sort realtime models consistently with the LLM selector.\n- Prevent voice sessions from hanging when stopped immediately after speaking.\n- …",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "262a6956db7c39e537273f335755938c25b8d8d9",
+    "base_ref": "main",
+    "additions": 235,
+    "deletions": 116,
+    "changed_files": 17
+  },
+  "at_mobiles": []
+}
