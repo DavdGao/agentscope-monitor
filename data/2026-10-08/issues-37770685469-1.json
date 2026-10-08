@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "MincongZhou",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T11:32:18.052600Z",
+  "title": "Permission allow-rules match an un-normalized path, so '..' escapes the approved directory",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3179",
+  "number": 3179,
+  "body": "## Problem\n\nPermission `allow` rules are matched against the **raw** `file_path` string, so a path that is textually inside an approved directory but resolves outside it is admitted.\n\n`Write`, `Edit` …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "MincongZhou"
+  },
+  "at_mobiles": []
+}
