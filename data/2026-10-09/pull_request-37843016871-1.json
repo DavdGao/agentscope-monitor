@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Madin-H23",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T20:55:23.260757Z",
+  "title": "fix(formatter): keep unsupported media visible as a text placeholder in the OpenAI Responses formatters",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3185",
+  "number": 3185,
+  "body": "## Why\n\nFixes #3184.\n\nSame family as #3105-#3112 and #3183. `_format_response_data_block` returns `None` for media the Responses API cannot ingest — the explicit audio interception and unsupported typ…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Madin-H23",
+    "head_sha": "7311f78fbc61d5e8b581e6df52730daf941033cb",
+    "base_ref": "main",
+    "additions": 130,
+    "deletions": 6,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
