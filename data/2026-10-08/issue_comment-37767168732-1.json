@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Tong-bit-art",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T11:00:16.495624Z",
+  "title": "[Bug]: a BOM-prefixed SKILL.md is rejected or skipped by the workspace skill paths",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3176#issuecomment-6058396371",
+  "number": 3176,
+  "body": "/assign me",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Tong-bit-art",
+    "commenter": "Tong-bit-art"
+  },
+  "at_mobiles": []
+}
