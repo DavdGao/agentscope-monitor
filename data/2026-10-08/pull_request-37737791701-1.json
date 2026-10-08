@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T06:28:36.679146Z",
+  "title": "fix(formatter): validate input in the dashscope multi-agent formatter",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2952",
+  "number": 2952,
+  "body": "## PR Title Format\n\n- `fix(formatter): validate input in the dashscope multi-agent formatter`\n- Type `fix`, scope `formatter` (lowercase), subject starts with a lowercase letter.\n\n## AgentScope Versio…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "aniruddhaadak80",
+    "head_sha": "ec75707a69bcf53cdd269f656da9c92f0607d2d9",
+    "base_ref": "main",
+    "additions": 2,
+    "deletions": 0,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
