@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "HootRock",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T14:42:53.805822Z",
+  "title": "fix(hub): honor HTTP-date Retry-After headers",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3175#issuecomment-6062367732",
+  "number": 3175,
+  "body": "I overlooked #3153 when claiming #3152. Both PRs implement HTTP-date Retry-After parsing, UTC handling and past-date clamping. #3175 also tests the request and download loops and malformed-date fallba…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "HootRock",
+    "commenter": "HootRock"
+  },
+  "at_mobiles": []
+}
