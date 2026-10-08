@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T03:08:48.316145Z",
+  "title": "fix(tool): unlink local symbolic links without following targets",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3006",
+  "number": 3006,
+  "body": "LocalBackend.delete_path follows a symlink when deciding how to remove it: directory links reach shutil.rmtree and raise OSError, while dangling links fail os.path.exists and remain in place. This can…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "little-spoon77",
+    "head_sha": "2e396faef3b864fe0a5562163b9d3397d915a062",
+    "base_ref": "main",
+    "additions": 40,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
