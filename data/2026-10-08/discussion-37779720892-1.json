@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "SongShuai100",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-08T12:50:13.929323Z",
+  "title": "Let a scheduled task run a SOP, instead of a free-form prompt",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3181",
+  "number": 3181,
+  "body": "## Summary\n\nSOPs (shipped in 2.0.x) and schedules (the APScheduler-backed cron feature) are both\navailable in the agent service, but there is no way to connect them: a schedule can only\ndeliver a free…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "SongShuai100"
+  },
+  "at_mobiles": []
+}
