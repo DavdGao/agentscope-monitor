@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-09T01:57:27.460353Z",
+  "title": "fix(model): preserve OpenAI Responses refusal text",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3136",
+  "number": 3136,
+  "body": "## AgentScope Version\n\n`2.0.10.dev0`. Validation below is for head `0a2a01e6778fd2a0b5c4ee9284f0b4310417818d`, against current main `c3c1d7fad423fe20d16482df965d05266c03c33b`.\n\n## Description\n\nFixes #…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "GoldArowana",
+    "head_sha": "0a2a01e6778fd2a0b5c4ee9284f0b4310417818d",
+    "base_ref": "main",
+    "additions": 172,
+    "deletions": 6,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
