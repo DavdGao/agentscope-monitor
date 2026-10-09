@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "kassdinzheng123",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-09T02:49:05.056509Z",
+  "title": "[Bug]: WebRTC session close hangs during startup",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3189",
+  "number": 3189,
+  "body": "## Prerequisites\n\n- [x] Existing issues, PRs, and discussions were searched for duplicate WebRTC/startup shutdown reports.\n- [x] This is a lifecycle bug, not a usage question.\n\n## Background / Descrip…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "kassdinzheng123"
+  },
+  "at_mobiles": []
+}
