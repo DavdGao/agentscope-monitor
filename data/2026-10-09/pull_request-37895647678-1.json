@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "wuyak",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-09T06:50:39.108972Z",
+  "title": "fix(agent): propagate length stops and guard incomplete tool calls",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3195",
+  "number": 3195,
+  "body": "## AgentScope Version\n\n`2.0.10dev`\n\n## Description\n\nCloses #3194.\n\nModel providers report why generation stopped, but AgentScope currently drops that information and leaves `ChatResponse.finished_reas…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "wuyak",
+    "head_sha": "4939d50fa52164d50f497b8e75479f877ff68897",
+    "base_ref": "main",
+    "additions": 713,
+    "deletions": 30,
+    "changed_files": 24
+  },
+  "at_mobiles": []
+}
