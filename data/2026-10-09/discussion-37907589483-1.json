@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "lux-liang",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-09T08:51:57.847069Z",
+  "title": "Contributor path to deeper participation and GitHub organization membership",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3198",
+  "number": 3198,
+  "body": "Hi AgentScope team,\n\nMy PR [#3161](https://github.com/agentscope-ai/agentscope/pull/3161), which isolates the default Read input media types, has received maintainer approval and is still open.\n\nI saw…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "General",
+    "author": "lux-liang"
+  },
+  "at_mobiles": []
+}
