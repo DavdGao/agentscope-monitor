@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "jimy-r",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-09T13:24:44.576600Z",
+  "title": "Proposal: explicit message retention across context compression",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3126#discussioncomment-18835874",
+  "number": 3126,
+  "body": "I run long agent sessions on a harness that compacts, with a standing note listing what must survive and a state dump written to disk before each compaction.\n\nOn question 2, I would keep the retained …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "jimy-r",
+    "discussion_author": "Wrestle7"
+  },
+  "at_mobiles": []
+}
