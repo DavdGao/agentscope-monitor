@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "konlue",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-09T03:29:51.134238Z",
+  "title": "fix(model): make DashScope thinking_enable tri-state so unset no longer force-disables thinking",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3192",
+  "number": 3192,
+  "body": "### What\n\n`DashScopeChatModel.Parameters.thinking_enable` is declared as a non-optional\n`bool` with `default=False` (`src/agentscope/model/_dashscope/_model.py:53`),\nwhile the injection guard in `_cal…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "konlue",
+    "head_sha": "4270ec9ef6af1064efb36f4eb509f22b7a4e6f4c",
+    "base_ref": "main",
+    "additions": 95,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
