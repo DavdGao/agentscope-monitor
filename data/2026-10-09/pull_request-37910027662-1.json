@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "wuyak",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-09T09:15:00.854768Z",
+  "title": "fix(workspace): offload nested media from context archives",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3201",
+  "number": 3201,
+  "body": "## AgentScope Version\n\n`2.0.10dev`\n\n## Description\n\nCloses #3200.\n\nWhen context compression archives older messages through `WorkspaceBase.offload_context()`, AgentScope already extracts Base64 media …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "wuyak",
+    "head_sha": "fc2036af1b6e86ca5ee488b2888bade3887c65c4",
+    "base_ref": "main",
+    "additions": 91,
+    "deletions": 12,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
