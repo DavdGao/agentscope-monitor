@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lorenzozanee",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-09T21:36:03.143059Z",
+  "title": "fix(app): preserve concurrent subagent confirmations",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3209",
+  "number": 3209,
+  "body": "## AgentScope Version\n\n`2.0.10dev`\n\n## Description\n\nWhen a team worker requests approval for multiple tools in one reply, the leader projection overwrites earlier requests because it identifies them o…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "lorenzozanee",
+    "head_sha": "ea2d3554dcbddbf21d212d7522f17d980794830b",
+    "base_ref": "main",
+    "additions": 279,
+    "deletions": 43,
+    "changed_files": 7
+  },
+  "at_mobiles": []
+}
