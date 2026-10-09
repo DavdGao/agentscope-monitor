@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "lux-liang",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-09T05:57:57.328229Z",
+  "title": "fix(tool): isolate default Read input media types",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3161#issuecomment-6075238018",
+  "number": 3161,
+  "body": "Thanks for the review. The Ubuntu, Windows, and macOS Python 3.11 test jobs all passed.\n\nI checked the remaining [Pre-commit failure](https://github.com/agentscope-ai/agentscope/actions/runs/377226039…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "lux-liang",
+    "commenter": "lux-liang"
+  },
+  "at_mobiles": []
+}
