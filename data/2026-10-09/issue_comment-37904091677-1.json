@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "jipeng6036-del",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-09T08:18:02.192199Z",
+  "title": "[Bug]: OpenAI embedding crashes when a compatible endpoint omits usage",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3197#issuecomment-6077173211",
+  "number": 3197,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "jipeng6036-del",
+    "commenter": "jipeng6036-del"
+  },
+  "at_mobiles": []
+}
