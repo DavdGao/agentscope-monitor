@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "jwx0925",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-09T03:08:25.246287Z",
+  "title": "feat(workspace): integrate OpenSandbox with FastSandbox templates (WIP)",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3188",
+  "number": 3188,
+  "body": "## AgentScope Version\n\n2.0.10.dev0\n\n## Description\n\nOpenSandbox workspaces currently create image-backed sandboxes and bootstrap their tools and MCP gateway after creation. This WIP adds FastSandbox t…",
+  "labels": [
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "jwx0925",
+    "head_sha": "4d428da4199254faa81d335c8162d7cd7d88355f",
+    "base_ref": "main",
+    "additions": 3344,
+    "deletions": 40,
+    "changed_files": 22
+  },
+  "at_mobiles": []
+}
