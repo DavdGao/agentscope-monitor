@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "jipeng6036-del",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-09T08:14:53.915384Z",
+  "title": "[Bug]: OpenAI embedding crashes when a compatible endpoint omits usage",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3197",
+  "number": 3197,
+  "body": "## Background / Description\n\n`OpenAIEmbeddingModel` fails after an otherwise successful embedding request when an OpenAI-compatible endpoint omits `usage`, or returns `\"usage\": null`. The OpenAI SDK r…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "jipeng6036-del"
+  },
+  "at_mobiles": []
+}
