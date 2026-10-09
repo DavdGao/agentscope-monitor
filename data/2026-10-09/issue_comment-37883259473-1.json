@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "HsbcJone",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-09T04:18:41.880125Z",
+  "title": "Avoid unconditional MCP gateway bootstrap for workspaces that do not use MCP",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2113#issuecomment-6074168614",
+  "number": 2113,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "jwx0925",
+    "commenter": "HsbcJone"
+  },
+  "at_mobiles": []
+}
