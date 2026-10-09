@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "shuxiachai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-09T11:41:11.050260Z",
+  "title": "[Bug]: ExcelParser silently replaces native Excel error cells with empty strings",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3202",
+  "number": 3202,
+  "body": "## Prerequisites\n\n- [x] I searched existing issues, pull requests, and public discussions and did not find a duplicate of this native error-cell behavior.\n- [x] This report describes reproducible data…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "shuxiachai"
+  },
+  "at_mobiles": []
+}
