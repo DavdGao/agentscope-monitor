@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "shuxiachai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-09T12:08:01.490254Z",
+  "title": "[Bug]: RAG example setup omits the required Qdrant extra",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3203#issuecomment-6080561473",
+  "number": 3203,
+  "body": "/assign\n\nI would like to take this documentation fix. I have reproduced the missing Qdrant dependency in a fresh source-install environment and verified that the combined extras allow the local client…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "shuxiachai",
+    "commenter": "shuxiachai"
+  },
+  "at_mobiles": []
+}
