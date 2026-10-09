@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Koawa265Richard31",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-09T18:27:32.986551Z",
+  "title": "[Feature]: keep the sandbox lease alive during long-running agent turns",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3208",
+  "number": 3208,
+  "body": "<!-- Draft issue for agentscope-ai/agentscope — follows the #3147 proposal format. NOT SENT. -->\n\n# [Feature]: keep the sandbox lease alive during long-running agent turns\n\n## Summary\n\nA single agent …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Koawa265Richard31"
+  },
+  "at_mobiles": []
+}
