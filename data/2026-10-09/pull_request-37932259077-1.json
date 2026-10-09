@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "shuxiachai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-09T12:46:43.484290Z",
+  "title": "docs(rag): include qdrant dependency in example setup",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3205",
+  "number": 3205,
+  "body": "## AgentScope Version\n\n`2.0.10dev`, based on `a833ab9fc13e99c80f893ddefe1898d8d61335bd`.\n\n## Description\n\nFixes #3203.\n\nFollowing the RAG example's source-install instructions installed document parse…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "shuxiachai",
+    "head_sha": "6e7128c018617ce7ee20d97a03f287ce823f4965",
+    "base_ref": "main",
+    "additions": 4,
+    "deletions": 4,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
