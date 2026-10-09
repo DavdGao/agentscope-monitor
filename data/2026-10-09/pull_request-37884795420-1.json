@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "HsbcJone",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-09T04:38:15.423443Z",
+  "title": "fix(workspace): skip MCP gateway bootstrap when unused",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3193",
+  "number": 3193,
+  "body": "## Summary\n\nFixes #2113.\n\n`SandboxedWorkspaceBase.initialize()` treated the in-sandbox MCP gateway as part of every sandbox, so workspaces that only need Bash, file tools, and Skills still installed a…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "HsbcJone",
+    "head_sha": "e337eb2e2e7f15f4cb8f9ece59199e5fd7a9b289",
+    "base_ref": "main",
+    "additions": 639,
+    "deletions": 169,
+    "changed_files": 10
+  },
+  "at_mobiles": []
+}
