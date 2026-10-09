@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Jay0130-a",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-09T15:21:24.329745Z",
+  "title": "fix(permission): normalize paths before matching allow rules to block '..' traversal",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3207",
+  "number": 3207,
+  "body": "## Summary\nFixes #3179.\n\nPermission `allow` rules are matched against the **raw** `file_path` / search `path` string via `fnmatch`, so a path that only *textually* sits inside an approved directory bu…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Jay0130-a",
+    "head_sha": "59df60a5bfc4e6dfa6e3ebceba5203bb84c4742c",
+    "base_ref": "main",
+    "additions": 41,
+    "deletions": 5,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
