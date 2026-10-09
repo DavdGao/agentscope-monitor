@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lumman0",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-09T14:53:10.375153Z",
+  "title": "[Bug]: Concurrent HITL requests from one team worker overwrite each other in the leader projection",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3206",
+  "number": 3206,
+  "body": "## Prerequisites\n\n- [x] I searched existing issues, pull requests, and discussions; related reports and differences are listed below.\n- [x] This is a reproducible bug, not a usage question.\n\n## Backgr…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "lumman0"
+  },
+  "at_mobiles": []
+}
