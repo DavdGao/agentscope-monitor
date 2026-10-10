@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-10T03:47:12.423603Z",
+  "title": "fix(rag): preserve native Excel error cells in ExcelParser",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3204",
+  "number": 3204,
+  "body": "## Summary\n\nFixes #3202.\n\npandas' openpyxl reader turns stored Excel type-`e` cells (`#DIV/0!`, `#N/A`, and other native errors) into NaN before `dtype=object` / `keep_default_na=False` can keep them.…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "HsbcJone",
+    "head_sha": "d86edf80876737490c3758fee9955d74c54dde87",
+    "base_ref": "main",
+    "additions": 211,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
