@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "HsbcJone",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-10T04:11:51.028606Z",
+  "title": "fix(model): await provider stream cleanup on public aclose",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3216",
+  "number": 3216,
+  "body": "## Summary\n\nFixes #3210.\n\nClosing the async generator from `await model(messages)` returned before the provider response was closed. `ChatModelBase._stream()` iterated the delegated generator and neve…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "HsbcJone",
+    "head_sha": "abe2ede363e079d5336799b238ebf89f54c2538e",
+    "base_ref": "main",
+    "additions": 171,
+    "deletions": 2,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
