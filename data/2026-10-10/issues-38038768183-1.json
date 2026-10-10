@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "shuxiachai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-10T08:41:54.005549Z",
+  "title": "[Bug]: Qdrant metadata filters interpret literal dotted keys as nested paths",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3224",
+  "number": 3224,
+  "body": "### Prerequisites\n\n- [x] I have searched existing issues, pull requests, and discussions and found no matching report.\n- [x] This report includes an offline reproduction of unexpected filtering behavi…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "shuxiachai"
+  },
+  "at_mobiles": []
+}
