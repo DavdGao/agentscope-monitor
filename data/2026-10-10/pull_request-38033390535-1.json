@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-10T07:08:39.827371Z",
+  "title": "feat(realtime): add Qwen3.8 Omni Realtime support",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3196",
+  "number": 3196,
+  "body": "## AgentScope Version\n\n2.0.10dev\n\n## Description\n\nAdds Qwen3.8 Omni Realtime support with workspace-specific endpoints, the updated audio/session protocol, input transcription, and voice options. Incl…",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "cab2f436caf25bd070a0fb1e00d6013f0c834658",
+    "base_ref": "main",
+    "additions": 226,
+    "deletions": 28,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
