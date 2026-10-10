@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-10T06:26:59.208491Z",
+  "title": "[Bug]: Read instances share the default media input types list",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3160",
+  "number": 3160,
+  "body": "## Prerequisites\n\n- [x] I searched the existing issues, pull requests, and discussions for `model_input_types`, shared defaults, and mutable `Read` configuration; I did not find this problem. #2856 / …",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "lux-liang"
+  },
+  "at_mobiles": []
+}
