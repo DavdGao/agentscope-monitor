@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-10T06:58:14.277366Z",
+  "title": "fix(rag): normalize deferred PPTX XML errors",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3217",
+  "number": 3217,
+  "body": "## AgentScope Version\n\n`2.0.10dev`, based on `faf54fdd463b933cb29f46a80ae9f2a758d06bff`.\n\n## Description\n\nFixes #3215.\n\nA PPTX can open successfully but fail when a slide's required XML structure is a…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "shuxiachai",
+    "head_sha": "084f1ebc71594a837e1e28b66004f95e9d7c37b6",
+    "base_ref": "main",
+    "additions": 66,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
