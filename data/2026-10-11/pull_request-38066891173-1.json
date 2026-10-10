@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ffffff55",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-10T16:15:13.986423Z",
+  "title": "fix(model): stream an OpenAI Responses tool call without arguments as {}",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3229",
+  "number": 3229,
+  "body": "### Description\n\nFixes #3228\n\n- **What**: handle `response.function_call_arguments.done` in the OpenAI Responses streaming path and close a function call that received no argument deltas with `input=\"…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ffffff55",
+    "head_sha": "d6abcf8bbaeea54fa7aa717226124bae3c18ba1e",
+    "base_ref": "main",
+    "additions": 92,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
