@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "shuxiachai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-10T09:32:58.762224Z",
+  "title": "fix(rag): match Qdrant filters on literal dotted metadata keys",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3226#issuecomment-6096158619",
+  "number": 3226,
+  "body": "Thanks for picking this up. I independently checked PR head `53145e6ffa4383ea8b9fafeedf39628b0067433d` against the reproduction in #3224 using Python 3.11.9 and qdrant-client 1.19.1 on Windows.\n\n- Bot…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "HsbcJone",
+    "commenter": "shuxiachai"
+  },
+  "at_mobiles": []
+}
