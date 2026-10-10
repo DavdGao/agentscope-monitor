@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Jinzhengxu",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-10T01:17:58.993349Z",
+  "title": "[Bug]: Read numbers lines with str.splitlines(), so a form feed or U+2028 shifts its line numbers away from Grep",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3212",
+  "number": 3212,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Jinzhengxu"
+  },
+  "at_mobiles": []
+}
