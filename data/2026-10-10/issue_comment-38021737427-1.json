@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "HsbcJone",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-10T03:46:32.368026Z",
+  "title": "[Bug]: Provider length-limit stop reasons are lost, so incomplete tool calls may run",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3194#issuecomment-6093441704",
+  "number": 3194,
+  "body": "Releasing claim — #3195 already addresses this. Leaving the issue free.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "wuyak",
+    "commenter": "HsbcJone"
+  },
+  "at_mobiles": []
+}
