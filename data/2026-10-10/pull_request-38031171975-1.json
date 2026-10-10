@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "dafyy321-pixel",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-10T06:30:34.193093Z",
+  "title": "fix(gemini): preserve numeric and boolean tool enum constraints",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3223",
+  "number": 3223,
+  "body": "## AgentScope Version\n\n`2.0.10dev`, based on upstream main `faf54fdd463b933cb29f46a80ae9f2a758d06bff`.\n\n## Description\n\nFixes #3220.\n\nGemini tool declarations with numeric or boolean enum values now u…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "dafyy321-pixel",
+    "head_sha": "e791199722b21855dd3abad71a5bdc2a65fb53dd",
+    "base_ref": "main",
+    "additions": 197,
+    "deletions": 3,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
