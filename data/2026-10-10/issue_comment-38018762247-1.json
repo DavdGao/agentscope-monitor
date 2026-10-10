@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "wuyak",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-10T02:56:11.235884Z",
+  "title": "fix(agent): propagate length stops and guard incomplete tool calls",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3195#issuecomment-6093048567",
+  "number": 3195,
+  "body": "You’re so warm and enthusiastic ^_^\n\n1. OpenAI Responses is indeed missing here. I’ll add `response.incomplete` handling for both streaming and non-streaming responses, read `incomplete_details.reason…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "wuyak",
+    "commenter": "wuyak"
+  },
+  "at_mobiles": []
+}
