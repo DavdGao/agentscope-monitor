@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Jinzhengxu",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-10T02:44:47.260339Z",
+  "title": "fix(tool): split file lines only at newlines in Read, Write and Edit",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3214",
+  "number": 3214,
+  "body": "## AgentScope Version\n\n`main` at `a833ab9` (2.0.10dev)\n\n## Description\n\nCloses #3212.\n\n**What**: a new helper `_split_lines(text)` next to `_normalize_newlines` in `tool/_builtin/_backend.py`. It spli…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Jinzhengxu",
+    "head_sha": "b019e52d1a040ed47cec8753281ea49a239f459b",
+    "base_ref": "main",
+    "additions": 120,
+    "deletions": 10,
+    "changed_files": 7
+  },
+  "at_mobiles": []
+}
