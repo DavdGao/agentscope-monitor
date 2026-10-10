@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "wuyak",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-10T03:54:03.704996Z",
+  "title": "fix(agent): propagate length stops and guard incomplete tool calls",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3195#issuecomment-6093495775",
+  "number": 3195,
+  "body": "The PR has been updated, and all three points are now addressed:\n\n1. OpenAI Responses now handles `response.incomplete` for both streaming and non-streaming responses, mapping `max_output_tokens` to `…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "wuyak",
+    "commenter": "wuyak"
+  },
+  "at_mobiles": []
+}
