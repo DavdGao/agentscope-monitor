@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "liqi600",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-10T09:22:07.660784Z",
+  "title": "[Feature Missing]: Generated Word and PowerPoint files cannot be previewed in the official WebUI",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3227",
+  "number": 3227,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [
+    "Bug"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "liqi600"
+  },
+  "at_mobiles": []
+}
