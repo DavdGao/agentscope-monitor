@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "helloJamest",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-10T01:19:31.387157Z",
+  "title": "fix(app): close rejected chat run coroutine",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3213",
+  "number": 3213,
+  "body": "## AgentScope Version\n\n`2.0.10.dev0` (`main` at `a833ab9fc13e99c80f893ddefe1898d8d61335bd`)\n\n## Description\n\n`ChatRunRegistry.spawn()` receives an already-created `ChatService.run()` coroutine. When a…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "helloJamest",
+    "head_sha": "5cd4c48dc52e98fc6a7eb1b8958bc908faba8347",
+    "base_ref": "main",
+    "additions": 43,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
