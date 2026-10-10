@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "pengmoubuaixuexi",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-10T00:09:16.396429Z",
+  "title": "[Bug]: Closing the public model stream does not await provider response cleanup",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3210",
+  "number": 3210,
+  "body": "### Prerequisites\n\n- [x] I searched existing issues and discussions; the related fixes and remaining difference are described below.\n- [x] This is a reproducible lifecycle bug, not a usage question.\n\n…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "pengmoubuaixuexi"
+  },
+  "at_mobiles": []
+}
