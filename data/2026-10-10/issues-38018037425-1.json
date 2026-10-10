@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-10T02:44:18.877144Z",
+  "title": "[Bug]: RAG example setup omits the required Qdrant extra",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3203",
+  "number": 3203,
+  "body": "## Prerequisites\n\n- [x] I searched existing issues, pull requests, and publicly indexed discussions and did not find a matching report for these setup instructions.\n- [x] This is a reproducible exampl…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "shuxiachai"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "shuxiachai"
+  },
+  "at_mobiles": []
+}
