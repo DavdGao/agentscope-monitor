@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "dafyy321-pixel",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-10T06:30:00.059851Z",
+  "title": "fix(agent): await tool cleanup when closing reply streams",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3221",
+  "number": 3221,
+  "body": "## AgentScope Version\n\n`2.0.10dev`, based on upstream main `faf54fdd463b933cb29f46a80ae9f2a758d06bff`.\n\n## Description\n\nFixes #3218.\n\nClosing the public agent event stream currently leaves a concurren…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "dafyy321-pixel",
+    "head_sha": "136a64f981347438095c924df69c4ff01cfcab85",
+    "base_ref": "main",
+    "additions": 283,
+    "deletions": 39,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
