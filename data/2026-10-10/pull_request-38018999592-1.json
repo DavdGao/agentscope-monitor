@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-10T03:00:16.784424Z",
+  "title": "fix(embedding): tolerate missing OpenAI usage",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3199",
+  "number": 3199,
+  "body": "## PR Title Format\n\n`fix(embedding): tolerate missing OpenAI usage`\n\n## AgentScope Version\n\n2.0.10dev\n\n## Description\n\nFixes #3197.\n\nOpenAI-compatible embedding endpoints can omit `usage` or return it…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "jipeng6036-del",
+    "head_sha": "b9b03e0199ddfd66dc84a228147c26a43ecf6ae2",
+    "base_ref": "main",
+    "additions": 90,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
