@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ffffff55",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-10T16:15:41.717673Z",
+  "title": "fix(model): honor a caller-provided Gemini thinking_config",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3231",
+  "number": 3231,
+  "body": "### Description\n\nFixes #3230\n\n- **What**: skip the parameter-derived `thinking_config` injection when the caller already provided one via `config_kwargs`, so a caller-provided `thinking_config` is sen…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ffffff55",
+    "head_sha": "76c4a4bbe32bcea8e034b1fd7292c4fcf6deecaf",
+    "base_ref": "main",
+    "additions": 52,
+    "deletions": 10,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
