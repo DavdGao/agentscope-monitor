@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Jinzhengxu",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-10T01:21:12.313696Z",
+  "title": "[Bug]: Read numbers lines with str.splitlines(), so a form feed or U+2028 shifts its line numbers away from Grep",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3212#issuecomment-6092115123",
+  "number": 3212,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Jinzhengxu",
+    "commenter": "Jinzhengxu"
+  },
+  "at_mobiles": []
+}
