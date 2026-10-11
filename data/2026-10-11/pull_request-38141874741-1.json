@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "BlueX888",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-11T13:06:53.932171Z",
+  "title": "fix(realtime): keep attached blocks when merging a split user turn",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3241",
+  "number": 3241,
+  "body": "Fixes #3237\n\n## PR Title Format\n\n`fix(realtime): keep attached blocks when merging a split user turn` — conventional commit, `fix` type, lowercase description.\n\n## AgentScope Version\n\n2.0.10.dev0 (mai…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "BlueX888",
+    "head_sha": "f42fcb8a0e1b82f981f82bddb407660823acef50",
+    "base_ref": "main",
+    "additions": 123,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
