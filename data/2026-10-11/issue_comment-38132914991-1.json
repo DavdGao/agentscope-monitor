@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ffffff55",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-11T10:42:44.995912Z",
+  "title": "[Bug]: reply_stream merges all text blocks of a non-streaming response into one block and moves tool calls after the text",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3236#issuecomment-6108184559",
+  "number": 3236,
+  "body": "I would like to work on this — I will follow up with a fix and a regression test shortly.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "BlueX888",
+    "commenter": "ffffff55"
+  },
+  "at_mobiles": []
+}
