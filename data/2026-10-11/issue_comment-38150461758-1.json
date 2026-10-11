@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "xiajiahang",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-11T15:14:54.195110Z",
+  "title": "[Bug]: Structured-output fallbacks discard usage from failed validation attempts",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3246#issuecomment-6110470774",
+  "number": 3246,
+  "body": "I would like to claim this issue and work on a focused fix. The investigation and implementation will be assisted by Codex; I will review the changes before submitting a PR.\n\nBefore changing the accou…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "lumman0",
+    "commenter": "xiajiahang"
+  },
+  "at_mobiles": []
+}
