@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Akaliup",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-11T12:59:04.836100Z",
+  "title": "fix(tool): preserve missing final newlines in file diffs",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3244",
+  "number": 3244,
+  "body": "## AgentScope Version\n\n`2.0.10dev`, main at `e4c1e074dee3f0f6cca28ca29e934c4ec0605354`.\n\n## Description\n\nEdit and Write can return malformed diff metadata when a file lacks a final newline: replacing …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "Akaliup",
+    "head_sha": "c88473953bc4c6bae4a81cca2b42c628e066fbe8",
+    "base_ref": "main",
+    "additions": 129,
+    "deletions": 21,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
