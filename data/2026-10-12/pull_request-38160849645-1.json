@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ffffff55",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-11T17:43:53.876742Z",
+  "title": "fix(skill): locate SKILL.md case-insensitively in every scan path",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3253",
+  "number": 3253,
+  "body": "### Description\n\nFixes #3251\n\n- **What**: resolve the skill manifest through a case-insensitive lookup (`_find_skill_md`) in all three paths -- scan root, subdirectory walk, and `_load_single_skill` -…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ffffff55",
+    "head_sha": "8c3cb36796b1658b01b49db1c53081572fe59240",
+    "base_ref": "main",
+    "additions": 59,
+    "deletions": 8,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
