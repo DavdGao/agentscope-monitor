@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lumman0",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-11T14:30:18.726730Z",
+  "title": "[Bug]: Structured-output fallbacks discard usage from failed validation attempts",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3246",
+  "number": 3246,
+  "body": "### Prerequisites\n\n- [x] I searched existing issues and pull requests, including #2561 / #2562 and the structured-output fallback changes.\n- [x] This report includes an offline reproduction against th…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "lumman0"
+  },
+  "at_mobiles": []
+}
