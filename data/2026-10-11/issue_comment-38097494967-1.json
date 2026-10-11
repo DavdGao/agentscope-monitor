@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "pengmoubuaixuexi",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-11T00:10:08.052417Z",
+  "title": "fix(model): await provider stream cleanup on public aclose",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3216#issuecomment-6103616500",
+  "number": 3216,
+  "body": "Thanks for addressing my report in #3210. I independently checked out abe2ede and reran the report's offline OpenAI/HTTPX reproduction: it now prints `HTTP body closed after awaited aclose: True`.\n\nTh…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "HsbcJone",
+    "commenter": "pengmoubuaixuexi"
+  },
+  "at_mobiles": []
+}
