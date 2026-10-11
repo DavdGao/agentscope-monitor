@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Akaliup",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-11T12:55:44.064617Z",
+  "title": "[Bug]: Edit and Write merge diff records when files lack a final newline",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3243",
+  "number": 3243,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [
+    "Bug"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Akaliup"
+  },
+  "at_mobiles": []
+}
