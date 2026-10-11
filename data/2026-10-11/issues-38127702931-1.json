@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "BlueX888",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-11T09:15:20.131943Z",
+  "title": "[Bug]: reply_stream merges all text blocks of a non-streaming response into one block and moves tool calls after the text",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3236",
+  "number": 3236,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "BlueX888"
+  },
+  "at_mobiles": []
+}
