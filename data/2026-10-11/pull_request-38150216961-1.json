@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "lumman0",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-11T15:11:16.616847Z",
+  "title": "fix(model): expose usage from structured-output fallback attempts",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3247",
+  "number": 3247,
+  "body": "Superseded by #3248 solely to rename the source branch to `fix/structured-output-usage`. The commit and implementation are unchanged.\n\n## AgentScope Version\n\n2.0.10dev, based on upstream main at e4c1e…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": true,
+    "author": "lumman0",
+    "head_sha": "cdafd8528e0dd62119af67e791fd00facf4ace03",
+    "base_ref": "main",
+    "additions": 467,
+    "deletions": 22,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
