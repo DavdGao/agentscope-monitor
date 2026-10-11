@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "BlueX888",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-11T13:06:49.913945Z",
+  "title": "fix(realtime): keep attached blocks when merging a split user turn",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3241#issuecomment-6109337470",
+  "number": 3241,
+  "body": "We filed this before noticing @ffffff55's claim on #3237 — apologies for stepping on it. Their fix in #3239 covers the same behavior (append to the turn's text, keep the attached blocks), so we're wit…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "BlueX888",
+    "commenter": "BlueX888"
+  },
+  "at_mobiles": []
+}
