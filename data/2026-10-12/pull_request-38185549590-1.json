@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "kabishou11",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-11T23:46:48.130843Z",
+  "title": "fix(formatter): decode percent-encoded local file URLs before opening",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3250",
+  "number": 3250,
+  "body": "## AgentScope Version\n\n2.0.10dev (main at `e4c1e074`)\n\n## Description\n\n**Problem.** `URLSource` stores its URL as a pydantic `AnyUrl`, which percent-encodes characters such as spaces and `#`. A local …",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "kabishou11",
+    "head_sha": "b567f917b265eab5fab5f39534df41eb8249a5ea",
+    "base_ref": "main",
+    "additions": 352,
+    "deletions": 11,
+    "changed_files": 12
+  },
+  "at_mobiles": []
+}
