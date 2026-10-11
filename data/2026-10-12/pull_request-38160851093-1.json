@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ffffff55",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-11T17:43:50.890920Z",
+  "title": "fix(workspace): append nothing when offloading an empty context batch",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3254",
+  "number": 3254,
+  "body": "### Description\n\nFixes #3252\n\n- **What**: return early from `offload_context` when the batch is empty, so no bytes are appended.\n- **Why**: the empty join was written unconditionally as a standalone b…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ffffff55",
+    "head_sha": "37c6ac04791a3c7cf06e0f91e160507748cfc3e6",
+    "base_ref": "main",
+    "additions": 28,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
