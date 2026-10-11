@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ffffff55",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-11T04:39:41.245518Z",
+  "title": "fix(rag): keep the extra cells of rows wider than the table header",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3233",
+  "number": 3233,
+  "body": "### Description\n\nFixes #3232\n\n- **What**: let the widest row define the markdown table's column count and pad the header row to match, instead of truncating every row to the header's width.\n- **Why**:…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ffffff55",
+    "head_sha": "63328a9346abd3935b46d9e5943bd522a50a1165",
+    "base_ref": "main",
+    "additions": 42,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
