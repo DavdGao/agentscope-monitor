@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ffffff55",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-11T13:02:04.339970Z",
+  "title": "fix(agent): rebuild a non-streaming response in its original block order",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3240#issuecomment-6109297240",
+  "number": 3240,
+  "body": "Hi! Context for the guard and reviewers: I claimed #3236 before #3238 was filed ([my comment](https://github.com/agentscope-ai/agentscope/issues/3236#issuecomment-6108184559), 6 minutes earlier), and …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "ffffff55",
+    "commenter": "ffffff55"
+  },
+  "at_mobiles": []
+}
