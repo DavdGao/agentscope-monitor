@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "JoeyTan21",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-11T16:01:55.633580Z",
+  "title": "[Bug]: rg --pre and tree -o are classified read-only, so the Bash tool auto-allows running a program and writing a file",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3249",
+  "number": 3249,
+  "body": "### Background\n\n`BashCommandParser._is_single_command_read_only` treats any command that starts with an entry of `READ_ONLY_COMMANDS` plus a space as read-only. `rg` and `tree` are in that list, but t…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "JoeyTan21"
+  },
+  "at_mobiles": []
+}
