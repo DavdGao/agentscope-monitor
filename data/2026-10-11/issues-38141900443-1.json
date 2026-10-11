@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "BlueX888",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-11T13:07:14.904227Z",
+  "title": "Streaming audio: final audio block keeps the streaming WAV header's 0xFFFFFFFF placeholder sizes",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3245",
+  "number": 3245,
+  "body": "**Describe the bug**\n\nIn streaming mode, the final `is_last` audio `DataBlock` of a response keeps the streaming WAV header's placeholder sizes — RIFF and `data` chunk sizes of `0xFFFFFFFF` — instead …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "BlueX888"
+  },
+  "at_mobiles": []
+}
