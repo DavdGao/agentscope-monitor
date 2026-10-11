@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "BlueX888",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-11T10:48:43.734149Z",
+  "title": "fix(agent): preserve block order of non-streaming responses in events",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3238",
+  "number": 3238,
+  "body": "Fixes #3236\n\n## PR Title Format\n\n`fix(agent): preserve block order of non-streaming responses in events` — conventional commit, lowercase scope, lowercase description.\n\n## AgentScope Version\n\n2.0.10de…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "BlueX888",
+    "head_sha": "c21787caf108b2480788826966aa0bc63b7ef9b6",
+    "base_ref": "main",
+    "additions": 256,
+    "deletions": 28,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
