@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "yang0228",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-12T17:35:58.733622Z",
+  "title": "[Bug]: Chat get_model ignores model-card parameter_overrides.default (Realtime applies them)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3280#issuecomment-6129375197",
+  "number": 3280,
+  "body": "Submitted https://github.com/agentscope-ai/agentscope/pull/3284, with companion English/Chinese documentation at https://github.com/agentscope-ai/docs/pull/82.\n\nThe chat factory now merges matching mo…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Li-john1021",
+    "commenter": "yang0228"
+  },
+  "at_mobiles": []
+}
