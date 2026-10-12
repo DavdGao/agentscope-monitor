@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-12T06:41:43.830248Z",
+  "title": "[Bug]: GeminiChatModel overwrites a caller-provided thinking_config with the opposite values",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3230",
+  "number": 3230,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "ffffff55"
+  },
+  "at_mobiles": []
+}
