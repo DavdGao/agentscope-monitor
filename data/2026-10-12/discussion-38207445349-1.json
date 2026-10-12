@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "YingchaoX",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-12T05:19:43.785460Z",
+  "title": "Support Alibaba Cloud Model Studio System One through the classifier interface",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3259",
+  "number": 3259,
+  "body": "Alibaba Cloud Model Studio provides a [System One API](https://help.aliyun.com/zh/model-studio/decision-model-api) through `decision-model-preview`, supporting choice, yes/no, and scoring questions wi…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "YingchaoX"
+  },
+  "at_mobiles": []
+}
