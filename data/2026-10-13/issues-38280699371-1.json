@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "wuwenbo0626",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-12T16:55:09.504089Z",
+  "title": "[Bug]: TUI hides tool interactions when IDs repeat across replies",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3281",
+  "number": 3281,
+  "body": "### Prerequisites\n\n- [x] I searched existing issues, discussions, and pull requests and did not find a duplicate.\n- [x] This is a bug, not a usage question.\n\n### Background / Description\n\nThe TUI trac…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "wuwenbo0626"
+  },
+  "at_mobiles": []
+}
