@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "maahumada",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-12T09:28:29.995488Z",
+  "title": "fix(embedding): isolate Ollama embedding caches by host",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3265#issuecomment-6121492750",
+  "number": 3265,
+  "body": "Thanks for the review and for the endpoint fix, @qbc2016! The Pre-commit job failed on mypy because the new `cache_identifier` was inferred as `dict[str, Collection[str]]`, which isn't accepted as `JS…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "maahumada",
+    "commenter": "maahumada"
+  },
+  "at_mobiles": []
+}
