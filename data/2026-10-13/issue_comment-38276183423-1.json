@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Li-john1021",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-12T16:16:13.300622Z",
+  "title": "[Bug]: MoonshotChatModel sends thinking.type=disabled to kimi-k2.7-code, which the API rejects",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3271#issuecomment-6128144726",
+  "number": 3271,
+  "body": "Thanks @dxqlovestudy — no worries on the timing. #3273 already has a complete fix and tests, so please keep it as the single PR for this issue. I’ll leave the claim with you and am happy to review #32…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Li-john1021",
+    "commenter": "Li-john1021"
+  },
+  "at_mobiles": []
+}
