@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-12T07:36:52.594774Z",
+  "title": "fix(model): read Moonshot cached prompt tokens from prompt_tokens_details",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3269",
+  "number": 3269,
+  "body": "## Problem\n\n`MoonshotChatModel` reads Kimi's cached prompt tokens from a flat `usage.cached_tokens` (`src/agentscope/model/_moonshot/_model.py:287-291` stream, `:393` non-stream), a field the OpenAI S…",
+  "labels": [
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "bfs2021",
+    "head_sha": "c22b590f05ccc4e96d459b037b6dbbec515d87fd",
+    "base_ref": "main",
+    "additions": 98,
+    "deletions": 5,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
