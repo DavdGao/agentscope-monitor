@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "review_requested",
+  "action_cn": "请求审核",
+  "sender": "aniruddhaadak80",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-12T03:00:22.096064Z",
+  "title": "fix(tts): make TTSModelBase a real abstract base class",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2956",
+  "number": 2956,
+  "body": "## PR Title Format\n\n- `fix(tts): make TTSModelBase a real abstract base class`\n- Type `fix`, scope `tts` (lowercase), subject starts with a lowercase letter.\n\n## AgentScope Version\n\n```\n2.0.10dev (mai…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "aniruddhaadak80",
+    "head_sha": "ed378881d1c40ff5ff2beeec4e21b29fd96f8b74",
+    "base_ref": "main",
+    "additions": 2,
+    "deletions": 2,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
