@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "yang0228",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-12T17:08:09.791627Z",
+  "title": "[Bug]: DaytonaWorkspace never configures the SDK idle-stop lease — long agent turns lose their sandbox after 15 minutes",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3277#issuecomment-6128949971",
+  "number": 3277,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Koawa265Richard31",
+    "commenter": "yang0228"
+  },
+  "at_mobiles": []
+}
