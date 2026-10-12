@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lihongyuan99",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-12T06:41:46.095489Z",
+  "title": "fix(model): read Kimi cached tokens from prompt_tokens_details",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3268",
+  "number": 3268,
+  "body": "## AgentScope Version\n\n`2.0.10dev` (branch off `main` @ `e4c1e074`)\n\n## Description\n\nFixes #3267.\n\n`MoonshotChatModel` read Kimi's cached prompt tokens from a flat `usage.cached_tokens`\nattribute that…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "lihongyuan99",
+    "head_sha": "df0b47bbbe4c1b7387b1a8f0382494dae59ecbab",
+    "base_ref": "main",
+    "additions": 191,
+    "deletions": 5,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
