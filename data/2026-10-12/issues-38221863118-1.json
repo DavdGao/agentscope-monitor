@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Li-john1021",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-12T08:09:34.930186Z",
+  "title": "[Bug]: MoonshotChatModel sends thinking.type=disabled to kimi-k2.7-code, which the API rejects",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3271",
+  "number": 3271,
+  "body": "### Prerequisites\n- [x] I have searched existing issues/discussions; this does not appear to be a duplicate.\n- [x] This is a bug, not a usage question.\n\n### Background / Description\nWhen using Moonsho…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Li-john1021"
+  },
+  "at_mobiles": []
+}
