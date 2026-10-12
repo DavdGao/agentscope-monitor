@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Koawa265Richard31",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-12T20:40:10.559918Z",
+  "title": "fix(workspace): renew OpenSandbox leases during long turns",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3274#issuecomment-6132230677",
+  "number": 3274,
+  "body": "Thanks @HsbcJone — just to confirm the mapping for anyone following: this PR closes the OpenSandbox cell of #3208 (the lifecycle audit in #3276 mapped the same lease-expiry gap across all seven backen…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "HsbcJone",
+    "commenter": "Koawa265Richard31"
+  },
+  "at_mobiles": []
+}
