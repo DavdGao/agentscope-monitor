@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-12T06:41:44.026964Z",
+  "title": "fix(model): honor caller-provided Gemini config",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3231",
+  "number": 3231,
+  "body": "### Description\n\nFixes #3230\n\n- **What**: treat `GeminiChatModel` parameters as defaults and apply per-call `config_kwargs` afterward, so caller-provided `max_output_tokens`, `temperature`, `top_p`, a…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "ffffff55",
+    "head_sha": "9d8cfc4b9541a059af6ea14cf1b6d84dc78f88a4",
+    "base_ref": "main",
+    "additions": 45,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
