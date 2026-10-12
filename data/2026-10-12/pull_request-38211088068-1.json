@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "yetuge",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-12T06:08:26.253457Z",
+  "title": "fix(formatter): keep unsupported media visible as a placeholder in the DeepSeek formatters",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3111",
+  "number": 3111,
+  "body": "## Why\n\nFixes #3110.\n\n`DeepSeekChatFormatter` is text-only by default (`input_types=[\"text/plain\"]`), so every `DataBlock` degrades. The HintBlock branch already keeps a placeholder (`[<media_type> at…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "yetuge",
+    "head_sha": "475e2545103f410a598f87b0994fcbad02880724",
+    "base_ref": "main",
+    "additions": 127,
+    "deletions": 16,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
