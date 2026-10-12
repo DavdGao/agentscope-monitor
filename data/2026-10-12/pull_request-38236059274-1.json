@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "HsbcJone",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-12T10:24:01.271226Z",
+  "title": "fix(workspace): renew OpenSandbox leases during long turns",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3274",
+  "number": 3274,
+  "body": "## Summary\nKeeps an OpenSandbox lease alive across long agent turns by piggybacking `sandbox.renew()` onto workspace cache reuse and each OpenSandbox backend round-trip (`exec_shell` / `read_file` / `…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "HsbcJone",
+    "head_sha": "0012144e7173282f79fcda1bce48f380586ad72e",
+    "base_ref": "main",
+    "additions": 847,
+    "deletions": 42,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
