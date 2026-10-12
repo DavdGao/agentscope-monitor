@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "yetuge",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-12T05:53:21.963001Z",
+  "title": "fix(tool): split background and newline-separated commands before the read-only check",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3260#issuecomment-6118587540",
+  "number": 3260,
+  "body": "It belongs here, with one caveat stated up front: #2471 covers this issue and more (it also reworked `split_compound_command()` and the env-assignment prefix case after DavdGao's review), and I'm not …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "yetuge",
+    "commenter": "yetuge"
+  },
+  "at_mobiles": []
+}
