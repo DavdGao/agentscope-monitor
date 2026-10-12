@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "wuwenbo0626",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-12T17:15:18.450171Z",
+  "title": "fix(tui): scope tool interactions by reply",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3282",
+  "number": 3282,
+  "body": "Fixes #3281.\n\n## AgentScope Version\n\n2.0.10 (`main` at `34457377`)\n\n## Description\n\nThe TUI used a tool-call ID alone to track locally dismissed interactions and to decide whether HITL or AskUser stat…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "wuwenbo0626",
+    "head_sha": "d43d3339faef7a74bdcabf4a061ba01338b90a30",
+    "base_ref": "main",
+    "additions": 131,
+    "deletions": 12,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
