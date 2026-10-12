@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "yetuge",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-12T05:52:44.828145Z",
+  "title": "fix(formatter): decode percent-escapes in local file:// source paths",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3261#issuecomment-6118581880",
+  "number": 3261,
+  "body": "Closing in favor of #3250, which is active and covers the same six formatters — I missed it when scoping this (the repo has 268 open PRs and my collision check only paged 120, which is on me). No hard…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "yetuge",
+    "commenter": "yetuge"
+  },
+  "at_mobiles": []
+}
