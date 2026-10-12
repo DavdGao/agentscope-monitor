@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "yetuge",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-12T05:52:49.613215Z",
+  "title": "fix(formatter): decode percent-escapes in local file:// source paths",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3261",
+  "number": 3261,
+  "body": "Fixes #3258\n\n## AgentScope Version\n\n`main` @ `654738c3`\n\n## Description\n\n`URLSource` stores its URL as a pydantic `AnyUrl`, which percent-encodes characters such as spaces, `#` and `%` — a local image…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "yetuge",
+    "head_sha": "dc2dd21c47cbba5f99578a6575119133ae966361",
+    "base_ref": "main",
+    "additions": 189,
+    "deletions": 26,
+    "changed_files": 9
+  },
+  "at_mobiles": []
+}
