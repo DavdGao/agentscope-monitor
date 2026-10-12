@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "dxqlovestudy",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-12T08:42:58.679653Z",
+  "title": "fix(model): omit thinking for Moonshot models that cannot disable it",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3273",
+  "number": 3273,
+  "body": "Fixes #3271.\n\n`MoonshotChatModel` injects `extra_body.thinking.type` for every non-`kimi-k3` model, defaulting to `\"disabled\"` when `thinking_enable` is unset. For the Code models (`kimi-k2.7-code`, `…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "dxqlovestudy",
+    "head_sha": "7eabaac6c2419dbcd8467bd4e249746de8fd54d3",
+    "base_ref": "main",
+    "additions": 89,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
