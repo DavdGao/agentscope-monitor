@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "lihongyuan99",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-12T06:23:20.461625Z",
+  "title": "[Bug]: MoonshotChatModel reads usage.cached_tokens at the wrong level, so cache_input_tokens is always 0",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3267#issuecomment-6118927357",
+  "number": 3267,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "lihongyuan99",
+    "commenter": "lihongyuan99"
+  },
+  "at_mobiles": []
+}
