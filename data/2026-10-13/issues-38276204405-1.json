@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Li-john1021",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-12T16:16:21.860578Z",
+  "title": "[Bug]: Chat get_model ignores model-card parameter_overrides.default (Realtime applies them)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3280",
+  "number": 3280,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Li-john1021"
+  },
+  "at_mobiles": []
+}
