@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "lihongyuan99",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-12T06:23:19.122294Z",
+  "title": "[Bug]: DashScope realtime TTS drops the provider's error frame, so a refusal becomes \"no audio after 3 attempts\"",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3266#issuecomment-6118926620",
+  "number": 3266,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "lihongyuan99",
+    "commenter": "lihongyuan99"
+  },
+  "at_mobiles": []
+}
