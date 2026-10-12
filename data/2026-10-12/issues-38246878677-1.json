@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Koawa265Richard31",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-12T12:06:00.211355Z",
+  "title": "[Feature]: unify sandbox lifecycle semantics across backends — lease wiring, death detection, and failure cleanup are inconsistent between the seven providers",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3276",
+  "number": 3276,
+  "body": "# [Feature]: unify sandbox lifecycle semantics across backends — lease wiring, death detection, and failure cleanup are inconsistent between the seven providers\n\n## Summary\n\nAgentScope ships seven rem…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Koawa265Richard31"
+  },
+  "at_mobiles": []
+}
