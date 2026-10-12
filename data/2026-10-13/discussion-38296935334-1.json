@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Koawa265Richard31",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-12T19:20:06.784002Z",
+  "title": "Audit: sandbox lifecycle semantics are inconsistent across the seven backends — toward a shared lifecycle contract",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3287",
+  "number": 3287,
+  "body": "@draft-discussion-lifecycle.md",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "Koawa265Richard31"
+  },
+  "at_mobiles": []
+}
