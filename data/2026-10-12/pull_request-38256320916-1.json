@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "foreverjix",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-12T13:32:08.788975Z",
+  "title": "feat(pipeline): member concurrency cap and structured verifier feedback",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3278",
+  "number": 3278,
+  "body": "## Summary\n\nThis PR makes two backward-compatible enhancements to the pipeline module, each\ntargeting a real pain point:\n\n### 1. TeamPipeline: optional member concurrency cap (`max_concurrency`)\n\n**Pr…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "foreverjix",
+    "head_sha": "c6308964cc50ec6fa644554ca203a06a75e007cb",
+    "base_ref": "main",
+    "additions": 235,
+    "deletions": 13,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
