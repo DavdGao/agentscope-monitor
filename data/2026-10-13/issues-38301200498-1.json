@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "BlueX888",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-12T19:58:55.468846Z",
+  "title": "[Bug]: AnthropicChatModel builds thinking.budget_tokens from parameters-level max_tokens only, so a per-call max_tokens is sent with budget_tokens (4096) > max_tokens (1000) — an API-rejected request",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3288",
+  "number": 3288,
+  "body": "### Prerequisites\n\n- [X] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "BlueX888"
+  },
+  "at_mobiles": []
+}
