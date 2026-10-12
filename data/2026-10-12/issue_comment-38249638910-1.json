@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Koawa265Richard31",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-12T12:32:21.467420Z",
+  "title": "[Feature]: unify sandbox lifecycle semantics across backends — lease wiring, death detection, and failure cleanup are inconsistent between the seven providers",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3276#issuecomment-6124322202",
+  "number": 3276,
+  "body": "Closing as out-of-scope for the issue tracker per the triage guidance — the audit portion belongs in a discussion, and the defect-shaped subset (Daytona idle-stop lease) deserved the bug template it d…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Koawa265Richard31",
+    "commenter": "Koawa265Richard31"
+  },
+  "at_mobiles": []
+}
