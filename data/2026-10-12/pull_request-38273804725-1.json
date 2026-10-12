@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lorenzozanee",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-12T15:56:15.382868Z",
+  "title": "feat(webui): preview generated Office files",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3279",
+  "number": 3279,
+  "body": "## AgentScope Version\n\n`2.0.10` (`main` at `34457377b2919f69cd2cc3391552a333bc1791af`)\n\n## Description\n\nGenerated DOCX/PPTX files were shown as generic attachments or tool-result placeholders, and the…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "lorenzozanee",
+    "head_sha": "a1b5ea30c671a087210c2ab1e4d9b48158347759",
+    "base_ref": "main",
+    "additions": 1318,
+    "deletions": 63,
+    "changed_files": 16
+  },
+  "at_mobiles": []
+}
