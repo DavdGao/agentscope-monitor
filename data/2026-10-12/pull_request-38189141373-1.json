@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Jay0130-a",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-12T00:44:16.258092Z",
+  "title": "fix(tool): stop treating rg --pre and tree -o as read-only",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3255",
+  "number": 3255,
+  "body": "Fixes #3249.\n\n### Problem\n\n`READ_ONLY_COMMANDS` contains `rg` and `tree`, and the read-only check accepts\nany command starting with such an entry plus a space. Two of their options\nescape the read-onl…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Jay0130-a",
+    "head_sha": "00be2e4aa480758b47241eb0827311f5bfb96ce2",
+    "base_ref": "main",
+    "additions": 37,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
