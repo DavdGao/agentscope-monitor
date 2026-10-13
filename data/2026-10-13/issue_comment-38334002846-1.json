@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "helloJamest",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-13T01:50:08.440148Z",
+  "title": "fix(task): reject unsatisfiable dependencies",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2714#issuecomment-6136315117",
+  "number": 2714,
+  "body": "Following up on the review: `a9ee25a` addresses the four inline points (completed-task traversal, explicit invalid-edge errors, unrelated diff cleanup, and full task-dump assertions). I see #2719 also…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "helloJamest",
+    "commenter": "helloJamest"
+  },
+  "at_mobiles": []
+}
