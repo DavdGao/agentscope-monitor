@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "PHM-Audit",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-13T12:34:51.535643Z",
+  "title": "[Feature]: Add pre-execution validation for agent actions",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1509#issuecomment-6145654866",
+  "number": 1509,
+  "body": "Title:\nBody:\n\n#1509 proposes pre-execution validation for agent actions with a concrete checklist. We built exactly that layer, ran it through the AgentDojo official benchmark with a real LLM in the l…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "devincapriola",
+    "commenter": "PHM-Audit"
+  },
+  "at_mobiles": []
+}
