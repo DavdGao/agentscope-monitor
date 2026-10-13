@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Li-john1021",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-13T01:41:25.980157Z",
+  "title": "fix(model): size Anthropic thinking budget from effective max_tokens",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3290",
+  "number": 3290,
+  "body": "## Summary\n\nFixes #3288.\n\n`AnthropicChatModel._call_api` derived `thinking.budget_tokens` from the parameters-level `max_tokens` (or the 8192 default) *before* merging per-call `generate_kwargs`. A ca…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Li-john1021",
+    "head_sha": "d6c8a238d71a474ebfbfe12e031576b35d18a9f8",
+    "base_ref": "main",
+    "additions": 42,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
