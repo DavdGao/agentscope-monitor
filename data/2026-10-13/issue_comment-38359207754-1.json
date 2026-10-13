@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "wuyak",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-13T06:52:41.936745Z",
+  "title": "fix(agent): await tool cleanup when closing reply streams",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3221#issuecomment-6140029332",
+  "number": 3221,
+  "body": "Reviewed the changes in `cdaa6350`. They address the state-cleanup issues I raised, and the added regression tests cover the reported scenarios. No further concerns on these points from me.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "dafyy321-pixel",
+    "commenter": "wuyak"
+  },
+  "at_mobiles": []
+}
