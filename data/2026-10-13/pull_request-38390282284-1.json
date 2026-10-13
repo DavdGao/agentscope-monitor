@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Aurora491",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-13T11:27:09.792440Z",
+  "title": "fix(formatter): avoid blocking remote media downloads",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3301",
+  "number": 3301,
+  "body": "## Summary\n\n- move remote media processing off the async event-loop thread\n- replace undeclared `requests` usage with the existing `httpx` dependency\n- cover OpenAI Chat, OpenAI Responses, Anthropic, …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Aurora491",
+    "head_sha": "acccd21c1a6126d7c290c6c6eac13a4a90f00d56",
+    "base_ref": "main",
+    "additions": 272,
+    "deletions": 39,
+    "changed_files": 10
+  },
+  "at_mobiles": []
+}
