@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "foreverjix",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-13T03:52:42.521265Z",
+  "title": "feat(pipeline): member concurrency cap and structured verifier feedback",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3278#issuecomment-6137839663",
+  "number": 3278,
+  "body": "Fixes #3296",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "foreverjix",
+    "commenter": "foreverjix"
+  },
+  "at_mobiles": []
+}
