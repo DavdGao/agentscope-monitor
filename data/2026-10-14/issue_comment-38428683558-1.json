@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qiyuhuating",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-13T16:13:23.314660Z",
+  "title": "[Bug]: less logging and file --compile bypass the Bash read-only permission boundary",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3302#issuecomment-6149942358",
+  "number": 3302,
+  "body": "```markdown\nSmall formatting correction to the report above. The technical content and reproduction remain unchanged; the original issue only has a Markdown rendering mistake in the “Steps to Reproduc…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "qiyuhuating",
+    "commenter": "qiyuhuating"
+  },
+  "at_mobiles": []
+}
