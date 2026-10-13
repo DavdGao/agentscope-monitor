@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-13T02:32:15.440972Z",
+  "title": "feat(tui): add right arrow key to switch questions in ask user ui",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3275",
+  "number": 3275,
+  "body": "add support for right arrow key to navigate to next question in the ask user interface, complementing existing up/down and left key navigation\n\n## AgentScope Version\n\n2.0.10\n## Prev\n<img width=\"533\" h…",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "allenli178",
+    "head_sha": "43490b6bd673488c86772746415582f2030b7426",
+    "base_ref": "main",
+    "additions": 21,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
