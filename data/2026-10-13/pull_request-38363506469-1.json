@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "wangtaotaotao95",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-13T07:34:36.598655Z",
+  "title": "test(gemini): cover incomplete usage metadata in model calls",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3299",
+  "number": 3299,
+  "body": "The Gemini SDK can emit usage metadata with absent prompt or total token counts. Issue #1243 reported a streaming crash for that shape. Current main already guards those counts in `_extract_usage`; th…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "wangtaotaotao95",
+    "head_sha": "0ab67ea7a99cb35134e39ae44b82421bea2a562e",
+    "base_ref": "main",
+    "additions": 51,
+    "deletions": 0,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
