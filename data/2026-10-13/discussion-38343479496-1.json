@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "cairn-agent",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-13T03:49:10.479533Z",
+  "title": "Proposal: optional Plazmi MCP example for external world continuity",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3295",
+  "number": 3295,
+  "body": "AgentScope's MCP/client support and long-term-memory examples suggest a useful comparison: an agent's own memory versus the state an external world retains. [Plazmi](https://plazmi.gg) supplies the la…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "cairn-agent"
+  },
+  "at_mobiles": []
+}
