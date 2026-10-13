@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "zhengguangzhuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-13T01:15:49.243899Z",
+  "title": "[Bug]: All 11 multi-agent formatters drop HintBlock content, so memory hints never reach the LLM request",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3289#issuecomment-6135943022",
+  "number": 3289,
+  "body": "Hi maintainers — I’d like to contribute a fix for #3289, but I haven’t started coding. The report says its author is willing to prepare a PR if assigned; is this issue still available for me to take, …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "BlueX888",
+    "commenter": "zhengguangzhuo"
+  },
+  "at_mobiles": []
+}
