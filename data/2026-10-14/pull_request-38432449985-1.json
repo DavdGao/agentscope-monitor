@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "BlueX888",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-13T16:40:46.210407Z",
+  "title": "fix(tool): reject out-of-range Read offset and limit",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3303",
+  "number": 3303,
+  "body": "## AgentScope Version\n\n2.0.10\n\n## Description\n\nFixes #3291.\n\n### What Problem This Solves\n\nThis PR fixes a pagination validation gap in the builtin `Read` tool.\n\nThe `Read` schema already declares `of…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "BlueX888",
+    "head_sha": "27d9796e9511dc895637c9e3a7bc96c27160dd9b",
+    "base_ref": "main",
+    "additions": 53,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
