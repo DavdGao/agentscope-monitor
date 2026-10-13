@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-13T09:48:10.921014Z",
+  "title": "fix(mcp): support mcp 2.x Python SDK, unpin mcp<2.0.0",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2216",
+  "number": 2216,
+  "body": "## Summary\n\n`mcp` 2.0.0 is out and renames every camelCase field on `mcp.types` to snake_case, renames `McpError`→`MCPError`, changes `ClientSession.call_tool`'s `read_timeout_seconds` from `timedelta…",
+  "labels": [
+    "state/stale-pr",
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "a-yeyang",
+    "head_sha": "f8ce609ca60138c3b5a260da4d970554c20d4951",
+    "base_ref": "main",
+    "additions": 91,
+    "deletions": 70,
+    "changed_files": 16
+  },
+  "at_mobiles": []
+}
