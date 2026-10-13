@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "HootRock",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-13T11:23:36.105117Z",
+  "title": "fix(tool): split file lines only at newlines in Read, Write and Edit",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3214#issuecomment-6144443187",
+  "number": 3214,
+  "body": "AI-assisted supplemental Windows verification of `b019e52d1a040ed47cec8753281ea49a239f459b` through public `Write` -> cached/fresh `Read` -> `Grep` line number -> `Read(offset=...)` -> copy-from-Read …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Jinzhengxu",
+    "commenter": "HootRock"
+  },
+  "at_mobiles": []
+}
