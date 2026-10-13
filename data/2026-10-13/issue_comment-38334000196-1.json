@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "helloJamest",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-13T01:50:06.972166Z",
+  "title": "fix(pipeline): honor structured output retry limit",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2498#issuecomment-6136314605",
+  "number": 2498,
+  "body": "Gentle follow-up for review: `GoalPipeline` on current `main` stores `max_retries` but does not apply it when executor/verifier structured output is invalid. This PR adds bounded retries and regressio…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "helloJamest",
+    "commenter": "helloJamest"
+  },
+  "at_mobiles": []
+}
