@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "SSK988I",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-13T04:06:24.863369Z",
+  "title": "fix(tool): validate read offset and limit at runtime",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3297",
+  "number": 3297,
+  "body": "## AgentScope Version\n\n2.0.10 (`main` at `812eaecd7816223a7de176951eac9fc9e03555c7`)\n\n## Description\n\nFixes #3291.\n\n`Read` accepted non-positive text offsets and limits despite its parameter\nschema. A…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "SSK988I",
+    "head_sha": "8636842d94a3c630e18e1be890e030e524f43d67",
+    "base_ref": "main",
+    "additions": 130,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
