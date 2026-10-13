@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "BlueX888",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-13T02:48:32.132481Z",
+  "title": "fix(model): derive anthropic thinking budget from per-call max_tokens",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3292",
+  "number": 3292,
+  "body": "## AgentScope Version\n\n2.0.10\n\n## Description\n\nFixes #3288.\n\n### Problem\n\n`AnthropicChatModel._call_api` sized `thinking.budget_tokens` from the parameters-level `max_tokens` (or the 8192 default) **b…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "BlueX888",
+    "head_sha": "b7cc3fb0b214f271fb54bb70ff488a8d2fed3862",
+    "base_ref": "main",
+    "additions": 104,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
