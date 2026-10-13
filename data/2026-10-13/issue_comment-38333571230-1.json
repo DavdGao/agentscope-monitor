@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Li-john1021",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-13T01:44:46.093676Z",
+  "title": "fix(service): apply chat model-card parameter defaults",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3284#issuecomment-6136257081",
+  "number": 3284,
+  "body": "I've compared this against what I reported in #3280. The chat-factory merge (`card defaults`, then `config.parameters`) matches the gap: selecting a carded model with an empty/partial session config n…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "yang0228",
+    "commenter": "Li-john1021"
+  },
+  "at_mobiles": []
+}
