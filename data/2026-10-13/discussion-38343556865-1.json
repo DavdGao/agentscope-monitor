@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "foreverjix",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-13T03:50:11.240327Z",
+  "title": "TeamPipeline: unbounded member concurrency; GoalPipeline: verifier feedback is free-form text",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3296",
+  "number": 3296,
+  "body": "Problem\n\nWhile working on the pipeline module I hit two robustness gaps that make multi-agent runs fragile in practice:\n\n1. TeamPipeline: member execution is unbounded\n\nWhen the leader dispatches Team…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "foreverjix"
+  },
+  "at_mobiles": []
+}
