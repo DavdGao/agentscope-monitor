@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "DavdGao",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-13T03:57:08.382013Z",
+  "title": "feat(asr): add batch transcription abstraction and OpenAI model",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2667",
+  "number": 2667,
+  "body": "## Summary\n\nCloses #2564.\n\n- Add the shared `agentscope.asr` interface for batch and realtime implementations, typed ASR responses, model cards, and credential-based model discovery.\n- Provide an Open…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "wangtaotaotao95",
+    "head_sha": "eddfa03d9cdf362c88dc96c3a761e1c27afce0ff",
+    "base_ref": "main",
+    "additions": 975,
+    "deletions": 0,
+    "changed_files": 11
+  },
+  "at_mobiles": []
+}
