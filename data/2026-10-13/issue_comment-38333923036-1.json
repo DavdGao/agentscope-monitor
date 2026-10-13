@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "helloJamest",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-13T01:49:07.680063Z",
+  "title": "fix(memory): isolate agentic memory retrieval tasks",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2275#issuecomment-6136303635",
+  "number": 2275,
+  "body": "Following up on the same-session/two-agent review: `78a2794` now keys in-flight retrieval by `(session_id, id(agent))`, and `test_concurrent_replies_isolate_same_session_agents` covers the cancellatio…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "helloJamest",
+    "commenter": "helloJamest"
+  },
+  "at_mobiles": []
+}
