@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Li-john1021",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-13T01:42:28.416871Z",
+  "title": "fix(model): size Anthropic thinking budget from effective max_tokens",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3290#issuecomment-6136233957",
+  "number": 3290,
+  "body": "Thanks for the heads-up from the claim bot — I missed that #3288 is already claimed by @BlueX888.\n\nI'll close this PR so @BlueX888 can keep the single fix path. Sorry for the noise, and thanks @BlueX8…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Li-john1021",
+    "commenter": "Li-john1021"
+  },
+  "at_mobiles": []
+}
