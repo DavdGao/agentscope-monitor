@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "WenzheWang",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-13T03:19:17.556221Z",
+  "title": "[RFC] Opt-in bounded output buffering for RealtimeAgent",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3293",
+  "number": 3293,
+  "body": "# [RFC] Opt-in bounded output buffering for RealtimeAgent\n\nI'd like to discuss a focused contribution to RealtimeAgent's outward event buffering before implementing it.\n\n## Current behavior and motiva…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "WenzheWang"
+  },
+  "at_mobiles": []
+}
