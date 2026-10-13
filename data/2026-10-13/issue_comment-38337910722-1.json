@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "SSK988I",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-13T02:39:33.054209Z",
+  "title": "[Bug]: Read tool accepts offset <= 0, negative-slicing the file and returning its tail labeled with line numbers 0 or negative",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3291#issuecomment-6136997068",
+  "number": 3291,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "BlueX888",
+    "commenter": "SSK988I"
+  },
+  "at_mobiles": []
+}
