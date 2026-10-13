@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "wangtaotaotao95",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-13T07:36:37.019802Z",
+  "title": "test(gemini): cover incomplete usage metadata in model calls",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3299#issuecomment-6140685547",
+  "number": 3299,
+  "body": "Updated the description to use `Fixes #1243`, as requested by the preliminary check. The original missing-token-count guard already exists on current main; this PR adds public streaming/non-streaming …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "wangtaotaotao95",
+    "commenter": "wangtaotaotao95"
+  },
+  "at_mobiles": []
+}
