@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Li-john1021",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-13T00:50:45.439511Z",
+  "title": "fix(model): omit thinking for Moonshot models that cannot disable it",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3273#issuecomment-6135592845",
+  "number": 3273,
+  "body": "I've reviewed the diff against what I reported in #3271. Approach looks right: `_THINKING_ALWAYS_ON_MODELS` plus skip in `_call_api`, and empty `_get_disable_thinking_kwargs` so the structured-output …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "dxqlovestudy",
+    "commenter": "Li-john1021"
+  },
+  "at_mobiles": []
+}
