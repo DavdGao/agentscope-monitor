@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-14T07:04:27.876374Z",
+  "title": "fix(tool): preserve annotations and docstrings for partial functions",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3257",
+  "number": 3257,
+  "body": "## AgentScope Version\n\n`2.0.10dev`, based on `e4c1e074dee3f0f6cca28ca29e934c4ec0605354`.\n\n## Description\n\nFixes #3256.\n\nAn explicitly named `FunctionTool(partial(search_catalog, \"catalog-a\"), ...)` fa…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "shuxiachai",
+    "head_sha": "3c71d36ff18b4562b5464e726c7ce87021e7ffc8",
+    "base_ref": "main",
+    "additions": 378,
+    "deletions": 9,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
