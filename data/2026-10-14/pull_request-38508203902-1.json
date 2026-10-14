@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Madin-H23",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-14T03:49:18.900814Z",
+  "title": "fix(message): accept a single content block in the message constructors",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3308",
+  "number": 3308,
+  "body": "## Why\n\nFixes #3305.\n\n`UserMsg`, `AssistantMsg` and `SystemMsg` route `content` through `_to_blocks()`, which only wrapped a plain string into a single-element `TextBlock` list. A **lone block** (`Use…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Madin-H23",
+    "head_sha": "6f70e1e003cf2f7bb8ff509d4257b62c66625b81",
+    "base_ref": "main",
+    "additions": 56,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
