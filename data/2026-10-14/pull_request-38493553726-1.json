@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Li-john1021",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-14T01:03:00.604366Z",
+  "title": "fix(tool): stop treating less logging and file --compile as read-only",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3304",
+  "number": 3304,
+  "body": "## PR Title Format\n\n`fix(tool): stop treating less logging and file --compile as read-only`\n\n## AgentScope Version\n\n`2.0.11dev` (`main` @ `bcf908f6`)\n\n## Description\n\nFixes #3302.\n\n### Background\n\n`le…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Li-john1021",
+    "head_sha": "585f987c4c14dfe9d53deb6c11843963785d37dd",
+    "base_ref": "main",
+    "additions": 131,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
