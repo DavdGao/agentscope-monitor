@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "BlueX888",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-14T04:15:50.474283Z",
+  "title": "fix(tool): reject out-of-range Read offset and limit",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3303#issuecomment-6160754066",
+  "number": 3303,
+  "body": "Closing this in favor of #3297 — @SSK988I claimed #3291 first, and their PR covers the same gap (rejecting out-of-range `Read` `offset`/`limit` with an error chunk, with regression coverage through di…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "BlueX888",
+    "commenter": "BlueX888"
+  },
+  "at_mobiles": []
+}
