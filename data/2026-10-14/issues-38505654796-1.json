@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-14T03:19:41.387043Z",
+  "title": "fix(tool): Bash accepts timeout=0/-1 and reports successful commands as errors",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3307",
+  "number": 3307,
+  "body": "## Prerequisites\n\n- [x] I have searched the existing issues and pull requests; this is not a duplicate.\n- [x] This is a reproducible tool-input validation bug, not a usage question.\n\n## Background / D…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "RerankerGuo"
+  },
+  "at_mobiles": []
+}
