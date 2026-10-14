@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "wuyak",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-14T03:33:41.146917Z",
+  "title": "[Bug]: AnthropicChatModel builds thinking.budget_tokens from parameters-level max_tokens only, so a per-call max_tokens is sent with budget_tokens (4096) > max_tokens (1000) — an API-rejected request",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3288#issuecomment-6160279019",
+  "number": 3288,
+  "body": "After reviewing the implementation and the sequence of related PRs, I believe #3288 currently defines only the parameter-calculation error that directly triggers the 400 response. It does not yet addr…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "BlueX888",
+    "commenter": "wuyak"
+  },
+  "at_mobiles": []
+}
