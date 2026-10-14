@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "shuxiachai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-14T07:03:55.127248Z",
+  "title": "fix(rag): keep the extra cells of rows wider than the table header",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3233#issuecomment-6162847983",
+  "number": 3233,
+  "body": "I independently checked this change at `270d8e9d05c7b6023b075b30d474c2fa415582ce` against base `e4c1e074dee3f0f6cca28ca29e934c4ec0605354` on Windows with Python 3.11.9 and python-docx 1.2.0.\n\nUsing th…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "ffffff55",
+    "commenter": "shuxiachai"
+  },
+  "at_mobiles": []
+}
