@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-14T07:18:06.836953Z",
+  "title": "[Bug]: FunctionTool fails to infer schemas for partials with postponed custom annotations",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3256",
+  "number": 3256,
+  "body": "### Prerequisites\n\n- [x] I searched existing issues, pull requests, and discussions and found no matching report.\n- [x] This report includes an offline reproduction of a schema-construction failure.\n\n…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "shuxiachai"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "shuxiachai"
+  },
+  "at_mobiles": []
+}
