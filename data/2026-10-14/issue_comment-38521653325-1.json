@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Xscaperrr",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-14T06:20:51.198276Z",
+  "title": "fix(word): preserve inline tabs and breaks in Word paragraphs",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2840#issuecomment-6162246490",
+  "number": 2840,
+  "body": "Hi @qbc2016, could you take a look at this WordParser fix when you get a chance? It preserves inline tabs and line breaks, with regression tests included. The CI workflows also appear to be waiting fo…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Xscaperrr",
+    "commenter": "Xscaperrr"
+  },
+  "at_mobiles": []
+}
