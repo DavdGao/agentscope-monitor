@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "shuxiachai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-14T10:54:41.035799Z",
+  "title": "[Bug]: MongoDBStore generates out-of-range numCandidates for top_k=501",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3315#issuecomment-6166735827",
+  "number": 3315,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "shuxiachai",
+    "commenter": "shuxiachai"
+  },
+  "at_mobiles": []
+}
