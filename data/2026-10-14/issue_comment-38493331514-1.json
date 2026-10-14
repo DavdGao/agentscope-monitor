@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Li-john1021",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-14T01:00:36.580469Z",
+  "title": "[Bug]: less logging and file --compile bypass the Bash read-only permission boundary",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3302#issuecomment-6158499454",
+  "number": 3302,
+  "body": "Thanks for the clear report and reproduction — I'll take this one.\n\n/assign\n\nPlan: keep `less` / `file` on the read-only allowlist for normal inspection, and add a narrow argument-level guard (same sh…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "qiyuhuating",
+    "commenter": "Li-john1021"
+  },
+  "at_mobiles": []
+}
