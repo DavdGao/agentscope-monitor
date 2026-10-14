@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ybyu-ieu",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-14T10:41:41.006402Z",
+  "title": "[Bug]: AgentScope Bash tool misclassifies \"tee\" as a read-only command, allowing arbitrary file write without user confirmation (CWE-863, CVSS 8.1)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3313#issuecomment-6166506789",
+  "number": 3313,
+  "body": "Thanks for taking a look, and thanks for flagging the line reference — the numbers come from the version the report was verified against, v2.0.4, which is the version named in the report and was the l…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "ybyu-ieu",
+    "commenter": "ybyu-ieu"
+  },
+  "at_mobiles": []
+}
