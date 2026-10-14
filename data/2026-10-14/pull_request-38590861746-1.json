@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "D41910",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-14T15:36:57.518971Z",
+  "title": "fix(model): stop force-disabling DashScope thinking when unset",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3318",
+  "number": 3318,
+  "body": "## Description\n\n`DashScopeChatModel` force-injected `enable_thinking=False` into **every** request's `extra_body`, even when the caller never configured thinking, which silently disabled thinking for …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "D41910",
+    "head_sha": "5894f178165b1ea2bd7555b50571c64eb63a42b6",
+    "base_ref": "main",
+    "additions": 50,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
