@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "xuchaoguo1983",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-14T04:57:08.410778Z",
+  "title": "ResourceAccessPolicyBase has no by-ID read check; resolve_agent / resolve_credential list every shared resource on each call",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3311",
+  "number": 3311,
+  "body": "**Version:** agentscope 2.0.9 (`agentscope.app`)\n\n## Problem\n\nWhen an agent or credential is owned by one account and used by many viewers (a \"preset agent shared by all users\" deployment), `ResourceA…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "xuchaoguo1983"
+  },
+  "at_mobiles": []
+}
