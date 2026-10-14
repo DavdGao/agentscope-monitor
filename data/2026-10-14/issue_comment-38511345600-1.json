@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Madin-H23",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-14T04:26:05.749816Z",
+  "title": "fix(message): accept a single content block in the message constructors",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3308#issuecomment-6160869917",
+  "number": 3308,
+  "body": "Apologies for the duplicate — I hadn't seen #3306 when preparing this, and it opened 47 minutes earlier for the same issue (#3305) with tests included. Closing this one in its favor; wishing it a smoo…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Madin-H23",
+    "commenter": "Madin-H23"
+  },
+  "at_mobiles": []
+}
