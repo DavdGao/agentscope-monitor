@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "shuxiachai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-14T11:33:08.450687Z",
+  "title": "fix(rag): bound MongoDB search candidates",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3316",
+  "number": 3316,
+  "body": "## AgentScope Version\n\n`2.0.11dev`, based on `9b94a63407ec59881fde19300b61e469a0a7d8b2`.\n\n## Description\n\nFixes #3315.\n\n`MongoDBStore.search(top_k=501)` builds a `$vectorSearch` stage with `numCandida…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "shuxiachai",
+    "head_sha": "a5e3cac4f536f1bcc20ae8219cd73a91f3bfc248",
+    "base_ref": "main",
+    "additions": 109,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
