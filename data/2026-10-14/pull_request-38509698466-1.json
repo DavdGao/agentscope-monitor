@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Li-john1021",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-14T04:06:46.740293Z",
+  "title": "fix(tool): reject Bash/PowerShell timeout below 1ms",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3309",
+  "number": 3309,
+  "body": "## Summary\n`Bash` / `PowerShell` accepted `timeout: 0` (schema minimum) and any negative value at runtime. Those values reached `asyncio.wait_for`, which treats them as already expired, so a successfu…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Li-john1021",
+    "head_sha": "701b9d3b2c85e6e503fe9250fb9c229cb8542a5f",
+    "base_ref": "main",
+    "additions": 114,
+    "deletions": 2,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
