@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Li-john1021",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-14T04:05:40.105812Z",
+  "title": "fix(tool): Bash accepts timeout=0/-1 and reports successful commands as errors",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3307#issuecomment-6160638622",
+  "number": 3307,
+  "body": "看到 @RerankerGuo 的 /assign；目前尚未正式指派。我想按 issue 建议做两层修复（schema `minimum: 1` + 运行时对 `timeout < 1` 返回清晰错误），并覆盖 Bash / Powershell。若你已在推进，请说一声，我立刻停下避免撞车。",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "RerankerGuo",
+    "commenter": "Li-john1021"
+  },
+  "at_mobiles": []
+}
