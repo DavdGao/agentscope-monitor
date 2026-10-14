@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "FengZhiheng666",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-14T15:43:13.168839Z",
+  "title": "[Bug]: ConsoleRenderer loses pending tool results when team replies interleave",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3319",
+  "number": 3319,
+  "body": "## Background / Description\n\nWhen `launch_console` renders a `TeamPipeline` event stream, a member reply replaces the leader's accumulated console message. When the member finishes and the leader rece…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "FengZhiheng666"
+  },
+  "at_mobiles": []
+}
