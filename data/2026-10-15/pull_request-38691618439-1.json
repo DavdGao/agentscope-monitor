@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-15T06:18:38.669502Z",
+  "title": "fix(tracing): serialize pydantic tool results as JSON instead of repr",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3263",
+  "number": 3263,
+  "body": "## AgentScope Version\n\n2.0.10.dev0 (main @ 654738c)\n\n## Description\n\nFixes #3262.\n\n`_to_serializable` (`src/agentscope/middleware/_tracing/_utils.py`) returned `repr(obj)` for any Pydantic object. As …",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "maahumada",
+    "head_sha": "e1aff52cbd545b7da6c6f365e591cea9ffbb9b1a",
+    "base_ref": "main",
+    "additions": 10,
+    "deletions": 1,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
