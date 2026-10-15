@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-15T10:50:04.098786Z",
+  "title": "fix(console): preserve pending replies across agent switches",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3317",
+  "number": 3317,
+  "body": "Fixes #3319\n\nWhen a TeamPipeline leader starts a TeamAssign result and a member emits reply events, ConsoleRenderer replaces its single accumulated message. Returning leader result deltas/end events t…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "FengZhiheng666",
+    "head_sha": "585eeb34a35eaa8e01daf324ba9a49e1c1a454a8",
+    "base_ref": "main",
+    "additions": 357,
+    "deletions": 25,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
