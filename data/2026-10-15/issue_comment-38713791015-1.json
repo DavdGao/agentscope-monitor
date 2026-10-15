@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Jay0130-a",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-15T09:33:25.461720Z",
+  "title": "fix(permission): normalize paths before matching allow rules to block '..' traversal",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3207#issuecomment-6188992142",
+  "number": 3207,
+  "body": "Acknowledged — and #3178 is a real overlap, so here is the delta rather than a re-argument, and a maintainer can pick either.\n\nBoth PRs fix #3179 by resolving the path before matching the `allow` rule…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Jay0130-a",
+    "commenter": "Jay0130-a"
+  },
+  "at_mobiles": []
+}
