@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Koawa265Richard31",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-15T01:33:02.651374Z",
+  "title": "[Bug]: AgentScope v2.0.4 has no authentication mechanism — X-User-ID header accepted as identity without verification (CWE-306, CVSS 9.8)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3314#issuecomment-6182331473",
+  "number": 3314,
+  "body": "Status update: the opt-in shared-key auth middleware is implemented locally — 7 unit tests passing. PR in preparation.\n\nScope stays as claimed in my earlier comment: this is a gateway gate against una…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "ybyu-ieu",
+    "commenter": "Koawa265Richard31"
+  },
+  "at_mobiles": []
+}
