@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "freshman-0ne",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-15T03:28:09.841577Z",
+  "title": "关于trace_id和user_chat统一的问题",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3323",
+  "number": 3323,
+  "body": "AgentScope2.0里，每次user_input触发的Agent执行中，HITL交互，AgentTeam的invoke都会创建新的Trace ID。现在想每个user input保持有一个统一的trace id， 有哪些好的实现方案？\n\n背景：很多观测系统，比如lang fuse，都是根据trace_id关联span的，如果不统一，就无法把同一次user chat的span关联起来。",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "General",
+    "author": "freshman-0ne"
+  },
+  "at_mobiles": []
+}
