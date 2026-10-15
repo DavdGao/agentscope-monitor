@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Koawa265Richard31",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-15T10:23:51.692072Z",
+  "title": "feat(app): add opt-in API-key authentication middleware",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3329",
+  "number": 3329,
+  "body": "Fixes #3314: the service accepts a caller-supplied `X-User-ID` header as identity without any verification (CWE-306). This PR adds an opt-in, shared-key authentication gate at the service boundary.\n\n*…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Koawa265Richard31",
+    "head_sha": "48bf4b8118bccb67bb8669cd0a67f0c171bc16ec",
+    "base_ref": "main",
+    "additions": 291,
+    "deletions": 0,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
