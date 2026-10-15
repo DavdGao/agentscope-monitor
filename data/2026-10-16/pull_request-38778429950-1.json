@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lihongyuan99",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-15T17:34:19.065377Z",
+  "title": "fix(asr): let per-call options override the transcribe defaults",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3333",
+  "number": 3333,
+  "body": "## AgentScope Version\n\n`2.0.11dev` (branch base `976e2ffc`)\n\n## Description\n\nFixes #3332\n\n`OpenAIASRModel.transcribe()` wrote `file=`, `model=` and `response_format=` out\nliterally at its call site **…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "lihongyuan99",
+    "head_sha": "2361c2d5dc6f9b0cb2c515151732ea914343d88b",
+    "base_ref": "main",
+    "additions": 112,
+    "deletions": 8,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
