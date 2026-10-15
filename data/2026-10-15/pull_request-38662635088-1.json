@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "review_requested",
+  "action_cn": "请求审核",
+  "sender": "helloJamest",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-15T00:54:13.650974Z",
+  "title": "fix(channel): fail open Discord chat helpers",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2269",
+  "number": 2269,
+  "body": "## Summary\n\n- Make Discord channel best-effort helpers fail open when the gateway client is not ready.\n- Treat failed Discord channel lookup as an unresolved chat id instead of propagating the excepti…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [
+    "iamroylim"
+  ],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "helloJamest",
+    "head_sha": "bc1d7d02a0549b569b4c31962763bcd0ba91c610",
+    "base_ref": "main",
+    "additions": 228,
+    "deletions": 13,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
