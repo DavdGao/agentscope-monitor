@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qiyuhuating",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-15T06:24:55.495831Z",
+  "title": "[Bug]: less logging and file --compile bypass the Bash read-only permission boundary",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3302#issuecomment-6185916786",
+  "number": 3302,
+  "body": "Thanks for taking this on, @Li-john1021. The focused guard and regression tests you outlined match the issue. I appreciate the help.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "qiyuhuating",
+    "commenter": "qiyuhuating"
+  },
+  "at_mobiles": []
+}
