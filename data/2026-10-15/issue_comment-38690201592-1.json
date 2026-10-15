@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-15T06:03:48.536705Z",
+  "title": "fix(model): read Kimi cached tokens from prompt_tokens_details",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3268#issuecomment-6185632118",
+  "number": 3268,
+  "body": "Thanks for the fix and the regression tests! You submitted this PR before #3269, and I’m sorry we overlooked it and merged the overlapping fix there first.\n\nI’ve confirmed that #3269 covers the same b…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "lihongyuan99",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
