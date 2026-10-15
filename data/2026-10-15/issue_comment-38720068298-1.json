@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Koawa265Richard31",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-15T10:24:54.837920Z",
+  "title": "[Bug]: AgentScope v2.0.4 has no authentication mechanism — X-User-ID header accepted as identity without verification (CWE-306, CVSS 9.8)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3314#issuecomment-6189888912",
+  "number": 3314,
+  "body": "PR is up: #3329 — opt-in shared-key gate wired into `create_app`, 10 unit tests (incl. wiring anti-regression) plus the existing app-suite all green. Scope unchanged from my claim comment: stopgap gat…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "ybyu-ieu",
+    "commenter": "Koawa265Richard31"
+  },
+  "at_mobiles": []
+}
