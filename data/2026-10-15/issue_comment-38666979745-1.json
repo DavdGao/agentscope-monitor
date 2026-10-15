@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "fancyboi999",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-15T01:41:17.851396Z",
+  "title": "[Bug]: Edit silently corrupts non-UTF-8 bytes outside the replacement target",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3320#issuecomment-6182428006",
+  "number": 3320,
+  "body": "Opened #3322.\n\n- `Read` now decodes strictly. Non-UTF-8 files still get a replacement-character preview with a note, but the lossy text is no longer cached, so `Edit`/`Write` refuse the file instead o…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "ch-z-hc",
+    "commenter": "fancyboi999"
+  },
+  "at_mobiles": []
+}
