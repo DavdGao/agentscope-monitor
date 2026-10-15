@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Koawa265Richard31",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-15T00:09:43.694025Z",
+  "title": "[Bug]: AgentScope unauthenticated arbitrary process execution via MCP stdio workspace configuration (CWE-78, CVSS 9.8)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3312#issuecomment-6181289258",
+  "number": 3312,
+  "body": "**Independently reproduced #3312 against a live `main` deployment (agent_service on `0.0.0.0:8000`, local workspace mode) — confirming this is actively exploitable and not theoretical.**\n\n## Repro sum…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "ybyu-ieu",
+    "commenter": "Koawa265Richard31"
+  },
+  "at_mobiles": []
+}
