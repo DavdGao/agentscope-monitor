@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "xuchaoguo1983",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-15T14:02:38.875277Z",
+  "title": "[Feature]: make ToolOffloadMiddleware's timeout configurable (or disableable) via create_app",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3330",
+  "number": 3330,
+  "body": "**Is your feature request related to a problem? Please describe.**\n\n`ChatService` (`agentscope/app/_service/_chat.py`) always adds `ToolOffloadMiddleware(...)` to every agent with the default `timeout…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "xuchaoguo1983"
+  },
+  "at_mobiles": []
+}
