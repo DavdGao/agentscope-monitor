@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "fancyboi999",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-15T01:41:11.961183Z",
+  "title": "fix(tool): keep Edit from rewriting non-UTF-8 files lossily",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3322",
+  "number": 3322,
+  "body": "## AgentScope Version\n\n2.0.11.dev0 (main `9b94a634`)\n\n## Description\n\nCloses #3320.\n\n`Read` decoded text files with `errors=\"replace\"` and cached the result. `Edit` rebuilds the whole file from that c…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "fancyboi999",
+    "head_sha": "82b92d845f449b0ba4b6777d65ee9ed6113f2d62",
+    "base_ref": "main",
+    "additions": 60,
+    "deletions": 6,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
