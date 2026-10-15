@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "cavion",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-15T09:38:39.898348Z",
+  "title": "希望SOP能力的基础定义层更通用化，可以对executor和verifier进行自定义扩展不同的执行类型",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3326",
+  "number": 3326,
+  "body": "希望SOP能力的基础定义层更通用化，可以对executor和verifier进行自定义扩展不同的执行类型，比如调接口，比如直接执行动态函数等等",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "cavion"
+  },
+  "at_mobiles": []
+}
