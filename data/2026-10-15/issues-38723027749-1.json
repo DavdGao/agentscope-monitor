@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-15T10:50:05.261222Z",
+  "title": "[Bug]: ConsoleRenderer loses pending tool results when team replies interleave",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3319",
+  "number": 3319,
+  "body": "## Prerequisites\n\n- [x] I have searched existing issues and pull requests and did not find a matching report or fix other than the draft PR #3317 linked to this report.\n- [x] This reports a reproducib…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "FengZhiheng666"
+  },
+  "at_mobiles": []
+}
