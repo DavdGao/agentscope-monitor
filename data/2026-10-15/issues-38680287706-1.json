@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-15T04:13:02.261243Z",
+  "title": "[Bug]: MongoDBStore generates out-of-range numCandidates for top_k=501",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3315",
+  "number": 3315,
+  "body": "### Prerequisites\n\n- [x] I searched existing issues, discussions, and pull requests and did not find a matching report or fix.\n- [x] This reports a request-construction defect, not a question about AN…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "shuxiachai"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "shuxiachai"
+  },
+  "at_mobiles": []
+}
