@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "fancyboi999",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-15T01:17:50.599899Z",
+  "title": "[Bug]: Edit silently corrupts non-UTF-8 bytes outside the replacement target",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3320#issuecomment-6182140259",
+  "number": 3320,
+  "body": "/claim",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "ch-z-hc",
+    "commenter": "fancyboi999"
+  },
+  "at_mobiles": []
+}
