@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "lihongyuan99",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-15T17:27:17.455940Z",
+  "title": "[Bug]: OpenAIASRModel.transcribe() double-binds file/model/response_format, so a documented provider option raises TypeError before the request",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3332#issuecomment-6198157241",
+  "number": 3332,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "lihongyuan99",
+    "commenter": "lihongyuan99"
+  },
+  "at_mobiles": []
+}
