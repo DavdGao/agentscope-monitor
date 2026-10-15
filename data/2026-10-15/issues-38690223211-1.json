@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-15T06:04:05.694968Z",
+  "title": "[Bug]: MoonshotChatModel reads usage.cached_tokens at the wrong level, so cache_input_tokens is always 0",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3267",
+  "number": 3267,
+  "body": "## Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this i…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "lihongyuan99"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "lihongyuan99"
+  },
+  "at_mobiles": []
+}
