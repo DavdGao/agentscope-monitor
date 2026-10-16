@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "LingYi-Liang",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-16T15:33:43.042228Z",
+  "title": "[Bug]: concurrent scheduler reconciliation can restore stale jobs",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3344",
+  "number": 3344,
+  "body": "### Prerequisites\n- [x] I searched existing issues, PRs and discussions for this problem.\n- [x] This is a bug, not a usage question.\n\n### Background / Description\nConcurrent `SchedulerManager.reconcil…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "LingYi-Liang"
+  },
+  "at_mobiles": []
+}
