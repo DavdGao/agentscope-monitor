@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lsSuperman",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-16T01:42:33.356737Z",
+  "title": "fix(agent): drop the max-iters hint when a new reply starts",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3334",
+  "number": 3334,
+  "body": "## PR Title Format\n\n`fix(agent): drop the max-iters hint when a new reply starts`\n\n## AgentScope Version\n\n2.0.9\n\n## Description\n\nFixes #3327\n\n`max_iters` counts reasoning-acting iterations inside one …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "lsSuperman",
+    "head_sha": "8a4c605c88c62f7cb2f6984bd82a704111681c15",
+    "base_ref": "main",
+    "additions": 201,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
