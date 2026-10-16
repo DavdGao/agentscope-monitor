@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "IlyaKhalafi",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-16T21:17:57.035972Z",
+  "title": "Proposal: explicit expiry for automatically recalled file memories",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3164#discussioncomment-18983218",
+  "number": 3164,
+  "body": "I would put eligibility in the middleware, with the time boundary specified explicitly. A prompt instruction alone cannot enforce which files automatic retrieval supplies.\n\nTwo details in the current …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "IlyaKhalafi",
+    "discussion_author": "97Three"
+  },
+  "at_mobiles": []
+}
