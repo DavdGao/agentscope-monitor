@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "shuxiachai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-16T03:57:46.358334Z",
+  "title": "[Bug]: MilvusLiteStore silently skips nonempty inserts for negative batch_size",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3341",
+  "number": 3341,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing issues, pull requests, and discussions and found no matching report.\n- [x] This report concerns missing parameter validation and silent omission o…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "shuxiachai"
+  },
+  "at_mobiles": []
+}
