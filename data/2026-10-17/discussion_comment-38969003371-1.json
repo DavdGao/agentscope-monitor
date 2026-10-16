@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "IlyaKhalafi",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-16T21:23:22.482391Z",
+  "title": "Proposal: opt-in bounded concurrency for tool execution",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3163#discussioncomment-18983350",
+  "number": 3163,
+  "body": "I agree with holding a permit for the stream's lifetime, but I would verify cleanup propagation before promising that contract.\n\n[`ToolBase.__call__`](https://github.com/agentscope-ai/agentscope/blob/…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "IlyaKhalafi",
+    "discussion_author": "97Three"
+  },
+  "at_mobiles": []
+}
