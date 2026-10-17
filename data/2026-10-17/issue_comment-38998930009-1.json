@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Jay0130-a",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-17T03:28:56.239271Z",
+  "title": "fix(app): serialize scheduler reconcile so a stale read cannot undo it",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3346#issuecomment-6229045332",
+  "number": 3346,
+  "body": "The problem this change addresses was already filed as #3344, so the body now closes it (`Fixes #3344`) rather than only referencing it. No code change — the diff is unchanged.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Jay0130-a",
+    "commenter": "Jay0130-a"
+  },
+  "at_mobiles": []
+}
