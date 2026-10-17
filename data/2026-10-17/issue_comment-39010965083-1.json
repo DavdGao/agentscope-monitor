@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "huong8373tt-beep",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-17T06:43:39.785171Z",
+  "title": "[Bug]: mem0 middleware persists the canned \"waiting for your permission\" message as the assistant's answer",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2922#issuecomment-6230816876",
+  "number": 2922,
+  "body": "Taking this as a focused fix. I will ensure Mem0Middleware does not persist the nonterminal permission/external-execution placeholder as an assistant answer, retain persistence for genuinely completed…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "aniruddhaadak80",
+    "commenter": "huong8373tt-beep"
+  },
+  "at_mobiles": []
+}
