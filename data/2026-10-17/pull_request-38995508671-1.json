@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "kabishou11",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-17T02:35:24.646435Z",
+  "title": "fix(memory): keep frontmatter when the closing fence ends the text",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3345",
+  "number": 3345,
+  "body": "## PR Title Format\n\nfix(memory): keep frontmatter when the closing fence ends the text\n\n## AgentScope Version\n\n2.0.11dev (main)\n\n## Description\n\nAgentic memory discovery (`AgenticMemoryMiddleware._lis…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "kabishou11",
+    "head_sha": "0f344d804203b0529c67ce827a221dbadb2df8ba",
+    "base_ref": "main",
+    "additions": 38,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
