@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "fzfzzfzzzfzzzz",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-17T18:48:40.499667Z",
+  "title": "fix(webui): allow attachment-only messages",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3352",
+  "number": 3352,
+  "body": "## Problem and behavior\n\nA completed image/file attachment with no accompanying text cannot be sent: the send handler rejects empty text, and current main selects the realtime voice action instead of …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": true,
+    "author": "fzfzzfzzzfzzzz",
+    "head_sha": "858d157469f60638c43ab394e0a27179d2a46f33",
+    "base_ref": "main",
+    "additions": 41,
+    "deletions": 2,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
