@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "HootRock",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-17T11:18:34.332910Z",
+  "title": "[Bug]: DashScope multimodal embeddings ignore configured dimensions and share cache entries",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3348#issuecomment-6233265917",
+  "number": 3348,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "HootRock",
+    "commenter": "HootRock"
+  },
+  "at_mobiles": []
+}
