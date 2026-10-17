@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "NUAAwqy",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-17T11:31:56.393586Z",
+  "title": "fix(embedding): forward multimodal dimensions",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3349",
+  "number": 3349,
+  "body": "Fixes #3348.\n\n`DashScopeEmbeddingModel` did not forward configured dimensions for configurable multimodal models, and those dimensions were absent from the file-cache identifier. A 512-dimensional and…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "NUAAwqy",
+    "head_sha": "ca691283de511a4a22465abebb80430c4f5136e4",
+    "base_ref": "main",
+    "additions": 55,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
