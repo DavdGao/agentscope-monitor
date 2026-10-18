@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Carrot-Ve",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-18T06:59:08.803738Z",
+  "title": "[Bug]: Grep inherits RIPGREP_CONFIG_PATH and can silently change regex search results",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3355",
+  "number": 3355,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [
+    "Bug"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Carrot-Ve"
+  },
+  "at_mobiles": []
+}
