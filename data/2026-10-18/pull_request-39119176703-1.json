@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ydflow",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-18T10:25:23.714975Z",
+  "title": "fix(tool): ignore user ripgrep config in Grep",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3358",
+  "number": 3358,
+  "body": "## Summary\n\n`Grep` shells out to `ripgrep` through the backend, and that subprocess inherits the process environment. When `RIPGREP_CONFIG_PATH` (or the per-user config) applies a flag such as `--fixe…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ydflow",
+    "head_sha": "3e892fb948b068fef30a04912b44d6ac85fb661d",
+    "base_ref": "main",
+    "additions": 49,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
