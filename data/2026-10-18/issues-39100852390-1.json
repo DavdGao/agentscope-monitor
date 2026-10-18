@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "kun654",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-18T05:31:42.816707Z",
+  "title": "[Docs]: contributing guides point workspace-backend authors at a non-existent module path",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3353",
+  "number": 3353,
+  "body": "## Background\n\nThe \"Adding a workspace backend\" section of both contribution guides sends readers to a module that does not exist.\n\n`CONTRIBUTING.md:380-384`:\n\n> 2. **Workspace manager class** — along…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "kun654"
+  },
+  "at_mobiles": []
+}
