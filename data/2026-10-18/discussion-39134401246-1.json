@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "xyf2020",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-18T14:05:18.962488Z",
+  "title": "Agent reports empty or length-truncated OpenAI responses as completed",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3359",
+  "number": 3359,
+  "body": "## Environment\n\n- AgentScope: 2.0.9 and 2.0.10 (Python); reproduced on both releases\n- Reproduced on Python 3.13, macOS\n- OpenAI Chat Completions, non-streaming\n- No custom Agent middleware or project…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "xyf2020"
+  },
+  "at_mobiles": []
+}
