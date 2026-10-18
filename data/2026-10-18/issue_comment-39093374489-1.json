@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "legeZZZ",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-18T03:22:21.304176Z",
+  "title": "[Bug]: max_iters hint persists into the next reply",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3335#issuecomment-6245143320",
+  "number": 3335,
+  "body": "onfirmed on current main: after a reply hits ReActConfig.max_iters, the Max Iterations HintBlock stays in state.context and the next user turn still receives a “do not call tools” style hint even thou…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "lsSuperman",
+    "commenter": "legeZZZ"
+  },
+  "at_mobiles": []
+}
