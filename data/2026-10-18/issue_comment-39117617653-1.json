@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ZxlDragonDoctor",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-18T10:01:34.478262Z",
+  "title": "[Bug]: an agent saved with trigger_ratio ≤ reserve_ratio or ≤ context_buffer_ratio is accepted, then fails every chat",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3356#issuecomment-6248527396",
+  "number": 3356,
+  "body": "I'd like to work on this. I plan to validate the context-ratio invariants at the app configuration boundary so create/update requests reject configurations that the default Agent runtime would reject,…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "MertensMing",
+    "commenter": "ZxlDragonDoctor"
+  },
+  "at_mobiles": []
+}
