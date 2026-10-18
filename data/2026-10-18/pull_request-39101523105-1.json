@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "kun654",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-18T05:43:32.398914Z",
+  "title": "docs(contributing): correct the workspace manager module path",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3354",
+  "number": 3354,
+  "body": "## AgentScope Version\n\nmain (docs-only change, no runtime involved)\n\n## Description\n\nFixes #3353\n\nThe \"Adding a workspace backend\" section of both contributing guides sends readers to\n`agentscope/app/…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "kun654",
+    "head_sha": "f38fd66944649abb5ee640bbd8b1075b8f13006f",
+    "base_ref": "main",
+    "additions": 6,
+    "deletions": 5,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
