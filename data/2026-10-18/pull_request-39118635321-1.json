@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ZxlDragonDoctor",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-18T10:17:16.079058Z",
+  "title": "fix(app): reject unusable saved context ratios",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3357",
+  "number": 3357,
+  "body": "### Problem\nAgents can be saved with context ratios that the default runtime rejects, leaving every chat with that agent failing. Create and update requests should reject these unusable configurations…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ZxlDragonDoctor",
+    "head_sha": "d2b7e6f960a5ba58cd51e64e82decbcb1702cc2e",
+    "base_ref": "main",
+    "additions": 5001,
+    "deletions": 4918,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
