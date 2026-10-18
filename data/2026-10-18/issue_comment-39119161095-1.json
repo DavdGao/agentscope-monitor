@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ydflow",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-18T10:25:11.820779Z",
+  "title": "[Bug]: Grep inherits RIPGREP_CONFIG_PATH and can silently change regex search results",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3355#issuecomment-6248728660",
+  "number": 3355,
+  "body": "I'll take this one. The fix is limited to the tool-owned rg invocation: pass `--no-config` so a user-level ripgrep config cannot change Grep's documented regex semantics, plus a regression test that p…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Carrot-Ve",
+    "commenter": "ydflow"
+  },
+  "at_mobiles": []
+}
