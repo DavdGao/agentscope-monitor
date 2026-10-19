@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ydflow",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-19T12:22:49.059969Z",
+  "title": "[Bug]: an MCP tool name longer than 64 characters fails every model request",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3371#issuecomment-6267102422",
+  "number": 3371,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "ydflow",
+    "commenter": "ydflow"
+  },
+  "at_mobiles": []
+}
