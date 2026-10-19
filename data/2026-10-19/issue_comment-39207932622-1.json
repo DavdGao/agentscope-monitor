@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "HsbcJone",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-19T06:05:49.214848Z",
+  "title": "fix(workspace): skip MCP gateway bootstrap when unused",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3193#issuecomment-6260813040",
+  "number": 3193,
+  "body": "Friendly ping for review when you have a moment — rebased onto latest `main`, CI should re-run green. This skips MCP gateway bootstrap for sandboxes that only need Bash/file tools/Skills (#2113). Happ…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "HsbcJone",
+    "commenter": "HsbcJone"
+  },
+  "at_mobiles": []
+}
