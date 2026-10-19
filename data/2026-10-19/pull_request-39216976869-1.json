@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "HootRock",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-19T07:35:40.111361Z",
+  "title": "fix(embedding): honor configured DashScope text parameters",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3367",
+  "number": 3367,
+  "body": "## AgentScope Version\n\n2.0.11dev, based on main `3aaea735af5b4a1afdd5403d4717d0f3da67b85c`.\n\n## Description\n\nCloses #3366.\n\nConfigured DashScope text parameters such as `text_type=\"query\"` were omitte…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "HootRock",
+    "head_sha": "218af130acc797a0a16dbdc0d4129eba3053883e",
+    "base_ref": "main",
+    "additions": 82,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
