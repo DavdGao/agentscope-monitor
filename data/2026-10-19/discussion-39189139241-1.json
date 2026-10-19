@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-19T02:15:59.797676Z",
+  "title": "Support DeepSeek Search and Fetch APIs as optional tools",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3362",
+  "number": 3362,
+  "body": "DeepSeek recently released [Search and Fetch APIs](https://api-docs.deepseek.com/guides/search/):\n\n- **Search** searches the web and returns structured results, including titles, URLs, and summaries, …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "iluv7"
+  },
+  "at_mobiles": []
+}
