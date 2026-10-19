@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "wuwenbo0626",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-19T15:49:28.668468Z",
+  "title": "[Bug]: In-memory queue treats zero TTL as no expiry",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3375",
+  "number": 3375,
+  "body": "### Prerequisites\n\n- [x] I searched existing issues and discussions and found no duplicate.\n- [x] This is a bug rather than a usage question.\n\n### Background / Description\n\n`MessageBus.queue_push()` d…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "wuwenbo0626"
+  },
+  "at_mobiles": []
+}
