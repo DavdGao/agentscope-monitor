@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ydflow",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-19T12:22:42.004545Z",
+  "title": "fix(mcp): keep composed tool names within the provider limit",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3372",
+  "number": 3372,
+  "body": "## PR Title Format\n\n- [x] My PR title follows the Conventional Commits format.\n\n## AgentScope Version\n\n2.0.11dev (main at `402c366`)\n\n## Description\n\n**Background & Purpose**: Fixes #3371.\n\n`MCPTool` …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ydflow",
+    "head_sha": "eb9d67693cf7d0115805c73b244c5d46b92c8dc0",
+    "base_ref": "main",
+    "additions": 151,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
