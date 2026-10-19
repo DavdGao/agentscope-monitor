@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "wuwenbo0626",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-19T16:00:22.277189Z",
+  "title": "fix(message-bus): honor zero queue TTL in memory",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3376",
+  "number": 3376,
+  "body": "Fixes #3375.\n\n## AgentScope Version\n\n2.0.11dev (`main` at `402c3664`)\n\n## Description\n\n`InMemoryMessageBus.queue_push()` treated `ttl_secs=0` as if expiry were disabled, while the Redis backend expire…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "wuwenbo0626",
+    "head_sha": "1aff704aab51cdfb181b8e92b9fb1a09791aa50b",
+    "base_ref": "main",
+    "additions": 7,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
