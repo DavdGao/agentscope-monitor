@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ydflow",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-19T04:52:15.696423Z",
+  "title": "fix(webui): send a message that carries only an attachment",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3365",
+  "number": 3365,
+  "body": "## PR Title Format\n\n`fix(webui): send a message that carries only an attachment`\n\n## AgentScope Version\n\n2.0.11dev (`main` at `a3a06fd`)\n\n## Description\n\nFixes #3351.\n\nThe Web UI composer cannot send …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ydflow",
+    "head_sha": "dd1f4698b1ac724bbc3417cfb1b80e6893006e1a",
+    "base_ref": "main",
+    "additions": 9,
+    "deletions": 2,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
