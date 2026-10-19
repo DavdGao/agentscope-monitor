@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-19T07:09:54.333350Z",
+  "title": "[Bug]: WebUI cannot send attachment-only messages",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3351",
+  "number": 3351,
+  "body": "### Description\n\nThe WebUI cannot send a message containing only a completed attachment. A user must add unrelated text before sending an image or file.\n\nCurrent main (976e2ffc9c28869282bbcdde9a2661c4…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "ydflow"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "fzfzzfzzzfzzzz"
+  },
+  "at_mobiles": []
+}
