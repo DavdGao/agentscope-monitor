@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-19T07:51:21.004796Z",
+  "title": "fix(embedding): preserve configured qwen3 multimodal dimensions",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3350",
+  "number": 3350,
+  "body": "## AgentScope Version\n\n2.0.11dev; based on main `976e2ffc9c28869282bbcdde9a2661c48147ff3b`.\n\n## Description\n\nFixes #3348, assigned to @HootRock.\n\n`DashScopeEmbeddingModel(model=\"qwen3-vl-embedding\", d…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "HootRock",
+    "head_sha": "8ffdaff5d9e55b17dd85d0279469ced6dffb4b08",
+    "base_ref": "main",
+    "additions": 184,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
