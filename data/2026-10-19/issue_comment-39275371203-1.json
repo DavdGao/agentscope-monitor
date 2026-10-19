@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "CorgiBoyG",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-19T15:09:07.941552Z",
+  "title": "perf(message): append streamed Base64 chunks without re-encoding",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2797#issuecomment-6270501613",
+  "number": 2797,
+  "body": "I re-reviewed the rewritten head (`04400813`) independently rather than relying on my earlier read, and it resolves the performance problem cleanly. Sharing the verification for the record.\n\n**Perform…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "ydflow",
+    "commenter": "CorgiBoyG"
+  },
+  "at_mobiles": []
+}
