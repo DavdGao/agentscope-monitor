@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "HootRock",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-19T01:57:59.187106Z",
+  "title": "fix(embedding): honor configured Gemini text parameters",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3361",
+  "number": 3361,
+  "body": "## AgentScope Version\n\n2.0.11dev, based on main `976e2ffc9c28869282bbcdde9a2661c48147ff3b`.\n\n## Description\n\nFixes #3360.\n\nConfiguring `GeminiEmbeddingModel.Parameters(task_type=\"RETRIEVAL_QUERY\")` cu…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "HootRock",
+    "head_sha": "b69bc2516ead88a1d5d5b7bf1c9ec53f5a148247",
+    "base_ref": "main",
+    "additions": 73,
+    "deletions": 5,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
