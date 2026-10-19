@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "wuwenbo0626",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-19T15:43:51.599940Z",
+  "title": "fix(channel): propagate reply stream subscription failures",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3374",
+  "number": 3374,
+  "body": "Fixes #3373.\n\n## AgentScope Version\n\n2.0.11dev (`main` at `402c3664`)\n\n## Description\n\nWhen a message-bus subscription failed, its feeder task exited without notifying the reply-stream reader, which c…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "wuwenbo0626",
+    "head_sha": "5a3e117af8768f55c78f55f6ba186e5215e8bbef",
+    "base_ref": "main",
+    "additions": 85,
+    "deletions": 6,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
