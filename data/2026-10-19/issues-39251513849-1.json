@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ydflow",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-19T12:22:22.709590Z",
+  "title": "[Bug]: an MCP tool name longer than 64 characters fails every model request",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3371",
+  "number": 3371,
+  "body": "### Reproduction\n\nOffline, no MCP server or credentials needed:\n\n```python\nfrom mcp.types import Tool\nfrom agentscope.tool import MCPTool\n\ntool = MCPTool(\n    mcp_name=\"knowledge\",\n    tool=Tool(\n    …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "ydflow"
+  },
+  "at_mobiles": []
+}
