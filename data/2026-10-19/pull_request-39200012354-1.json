@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "ydflow",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-19T04:32:57.440649Z",
+  "title": "perf(message): append streamed Base64 chunks without re-encoding",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2797",
+  "number": 2797,
+  "body": "## Summary\n\nStreamed Base64 accumulation re-decoded and re-encoded the whole payload on every delta. Each `DATA_BLOCK_DELTA` and each `ToolChunk` data block carries an *independently* encoded chunk, s…",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ydflow",
+    "head_sha": "e071d2e404fb0eafebf75980eb3f2bd67c193a37",
+    "base_ref": "main",
+    "additions": 436,
+    "deletions": 25,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
