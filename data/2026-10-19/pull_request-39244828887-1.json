@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-19T11:28:09.888001Z",
+  "title": "feat(model): add content-block normalization and fallback recovery",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3324",
+  "number": 3324,
+  "body": "## AgentScope Version\n\n2.0.11dev\n\n## Description\n\nNormalize provider content-block signals as `ContentBlockedError` and add configurable recovery middleware.\n\n- Add `ReverseMaskStrategy` to progressiv…",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "8a6c4854e157b111376eef7aa228f156c771811a",
+    "base_ref": "main",
+    "additions": 2667,
+    "deletions": 16,
+    "changed_files": 18
+  },
+  "at_mobiles": []
+}
