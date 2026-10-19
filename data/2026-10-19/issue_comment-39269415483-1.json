@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Cordis798",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-19T14:29:38.829809Z",
+  "title": "fix(mem0): do not write back a reply parked on permission",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2923#issuecomment-6269661449",
+  "number": 2923,
+  "body": "**Pause/resume follow-up: the final answer is not submitted to mem0**\n\nOffline validation of this PR at `ad1238a7e4ec7d777112e159570a8f45aebb2402` and current `main` at `402c3664f70cb339f397c5ee40e662…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "aniruddhaadak80",
+    "commenter": "Cordis798"
+  },
+  "at_mobiles": []
+}
