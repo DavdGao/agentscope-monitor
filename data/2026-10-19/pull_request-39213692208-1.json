@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-19T07:05:03.968277Z",
+  "title": "fix(rag): clean up static hints when streams close",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3363",
+  "number": 3363,
+  "body": "fix(rag): clean up static hints when streams close\n\n## AgentScope Version\n\n2.0.10\n\n## Description\n\nFixes #3364\n\nStatic RAG appends a temporary hint to the agent context and yields a HintBlockEvent bef…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "kaijin-code",
+    "head_sha": "705038b336ff6c8a2b67f95425a4f97b962f345a",
+    "base_ref": "main",
+    "additions": 126,
+    "deletions": 39,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
