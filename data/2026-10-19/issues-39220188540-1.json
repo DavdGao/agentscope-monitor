@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-19T08:04:44.230965Z",
+  "title": "[Bug]: PPTParser labels embedded TIFF images as JPEG",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3336",
+  "number": 3336,
+  "body": "### Prerequisites\n\n- [x] I searched existing issues, pull requests, and discussions for this problem.\n- [x] This report concerns reproducible behavior in the Python AgentScope repository.\n\n### Backgro…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "shuxiachai"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "shuxiachai"
+  },
+  "at_mobiles": []
+}
