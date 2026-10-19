@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-19T08:12:26.116184Z",
+  "title": "fix(workspace): read the persisted .mcp file as utf-8-sig",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3338",
+  "number": 3338,
+  "body": "## PR Title Format\n\n- `fix(workspace): read the persisted .mcp file as utf-8-sig`\n- Type `fix`, scope lowercase, subject starts with a lowercase letter.\n\n## AgentScope Version\n\n`2.0.11dev` (`main` at …",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Tong-bit-art",
+    "head_sha": "75517952d8e44b7fd391044370d2db223ac28766",
+    "base_ref": "main",
+    "additions": 34,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
