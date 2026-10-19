@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "kaijin-code",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-19T03:06:36.436702Z",
+  "title": "[Bug]: Static RAG hints remain in context when the stream is closed after HintBlockEvent",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3364",
+  "number": 3364,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [
+    "Bug"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "kaijin-code"
+  },
+  "at_mobiles": []
+}
