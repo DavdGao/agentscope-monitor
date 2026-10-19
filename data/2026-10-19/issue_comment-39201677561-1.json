@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ydflow",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-19T04:52:55.773647Z",
+  "title": "[Bug]: WebUI cannot send attachment-only messages",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3351#issuecomment-6259943959",
+  "number": 3351,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "fzfzzfzzzfzzzz",
+    "commenter": "ydflow"
+  },
+  "at_mobiles": []
+}
