@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-19T08:06:37.136328Z",
+  "title": "fix(embedding): preserve configured dashscope multimodal dimensions",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3350",
+  "number": 3350,
+  "body": "## AgentScope Version\n\n2.0.11dev; based on main `976e2ffc9c28869282bbcdde9a2661c48147ff3b`.\n\n## Description\n\nFixes #3348, assigned to @HootRock.\n\n`DashScopeEmbeddingModel(model=\"qwen3-vl-embedding\", d…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "HootRock",
+    "head_sha": "b467ca08ce6152c83a053f37088b8e6ea362ec96",
+    "base_ref": "main",
+    "additions": 142,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
