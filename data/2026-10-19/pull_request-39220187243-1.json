@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-19T08:04:41.681840Z",
+  "title": "fix(rag): preserve embedded PowerPoint image media types",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3339",
+  "number": 3339,
+  "body": "## AgentScope Version\n\n`2.0.11dev`, based on `976e2ffc9c28869282bbcdde9a2661c48147ff3b`.\n\n## Description\n\nFixes #3336.\n\nWhen a PPTX contains an embedded TIFF, `PPTParser` currently emits its original …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "shuxiachai",
+    "head_sha": "8191affd535d58ad4242f92627833c59cbd7cd3f",
+    "base_ref": "main",
+    "additions": 187,
+    "deletions": 9,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
