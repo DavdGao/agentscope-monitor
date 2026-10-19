@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lihongyuan99",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-19T17:15:26.425673Z",
+  "title": "fix(tool): escape glob metacharacters in Write/Edit permission suggestions",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3378",
+  "number": 3378,
+  "body": "Fixes #3377\n\n## Summary\n\n`Write.generate_suggestions` / `Edit.generate_suggestions` build the rule the\nuser is asked to approve by appending `/**` to the *literal* parent directory of\nthe invoked path…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "lihongyuan99",
+    "head_sha": "94e471fe39f2edda3a37ea2b4f4f78e15faee07a",
+    "base_ref": "main",
+    "additions": 189,
+    "deletions": 2,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
