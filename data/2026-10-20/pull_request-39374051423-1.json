@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Starchaser1024",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-20T05:17:09.805409Z",
+  "title": "fix(storage): refuse a second channel for one platform bot id",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3382",
+  "number": 3382,
+  "body": "Fixes #3381\n\n## AgentScope Version\n\n`2.0.11dev` (`import agentscope; print(agentscope.__version__)`)\n\n## Description\n\n`StorageBase.upsert_channel` calls `platform_bot_id` the value that \"drives the\nun…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Starchaser1024",
+    "head_sha": "1137a7c3e21eb7bed3570495f5bd704a989b8c88",
+    "base_ref": "main",
+    "additions": 166,
+    "deletions": 6,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
