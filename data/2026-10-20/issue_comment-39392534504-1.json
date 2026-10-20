@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Cordis798",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-20T08:19:21.887483Z",
+  "title": "[Bug]: background task registration errors skip completion cleanup",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3384#issuecomment-6286642336",
+  "number": 3384,
+  "body": "/assign me",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Cordis798",
+    "commenter": "Cordis798"
+  },
+  "at_mobiles": []
+}
