@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "octo-patch",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-20T05:54:38.088241Z",
+  "title": "feat(models): add MiniMax M3.1 Flash default and adaptive thinking",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3383",
+  "number": 3383,
+  "body": "Reason: MiniMax-M3.1-Flash is missing from AgentScope's native model catalog, and the inherited structured-output fallback can disable thinking even though Flash requires adaptive thinking. This adds …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "octo-patch",
+    "head_sha": "7ab9d74a5d5fef08a4858afca10d8e58403860b7",
+    "base_ref": "main",
+    "additions": 460,
+    "deletions": 20,
+    "changed_files": 10
+  },
+  "at_mobiles": []
+}
