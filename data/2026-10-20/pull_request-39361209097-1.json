@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-20T02:52:02.646909Z",
+  "title": "fix(embedding): merge batch time and cache provenance correctly",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2967",
+  "number": 2967,
+  "body": "## PR Title Format\n\n- `fix(embedding): report the slowest batch time instead of the sum`\n- Type `fix`, scope `embedding` (lowercase), subject starts with a lowercase letter.\n\n## AgentScope Version\n\n``…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "aniruddhaadak80",
+    "head_sha": "af16323a0cc705a51b694343f6d31096b79e5f88",
+    "base_ref": "main",
+    "additions": 20,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
