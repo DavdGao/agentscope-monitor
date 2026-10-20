@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Akaliup",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-20T08:36:50.128571Z",
+  "title": "[Bug]: Glob misses or overmatches POSIX filenames containing newlines",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3385#issuecomment-6286936615",
+  "number": 3385,
+  "body": "/assign\n\nI would like to work on this issue. I have reproduced the matching failures with real POSIX filenames and prepared a focused local fix with regression tests. I will review the AI-assisted dif…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Akaliup",
+    "commenter": "Akaliup"
+  },
+  "at_mobiles": []
+}
