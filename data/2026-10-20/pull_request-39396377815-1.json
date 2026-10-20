@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Cordis798",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-20T08:51:13.399450Z",
+  "title": "fix(app): clean up background tasks after registration faults",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3387",
+  "number": 3387,
+  "body": "## AgentScope Version\n\n2.0.11.dev0, based on `1a60e2d977c34e8b3a6de6461e04ab3554ce6b65`.\n\n## Description\n\nFixes #3384.\n\nWhen `registry_set` raises or the registration caller is cancelled, `register_ta…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "Cordis798",
+    "head_sha": "6753866823d72c11065e3406bb16d7156979f1b7",
+    "base_ref": "main",
+    "additions": 392,
+    "deletions": 21,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
