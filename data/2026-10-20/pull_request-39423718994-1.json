@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ydflow",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-20T12:37:46.112580Z",
+  "title": "fix(tool): keep an MCP structured tool result",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3389",
+  "number": 3389,
+  "body": "Fixes #3388\n\n## PR Title Format\n\n`fix(tool): keep an MCP structured tool result`\n\n## AgentScope Version\n\n2.0.11dev (base: `main` @ 58da57a)\n\n## Description\n\nAn MCP tool that declares an `outputSchema`…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ydflow",
+    "head_sha": "9392d3f17ec40eb4e44abb94e4eb73a07c09065b",
+    "base_ref": "main",
+    "additions": 167,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
