@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "HootRock",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-20T03:15:44.756247Z",
+  "title": "fix(embedding): preserve unknown usage when merging batches",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3380",
+  "number": 3380,
+  "body": "## AgentScope Version\n\n2.0.11dev.\n\n## Description\n\nFixes #3379.\n\nWhen an embedding endpoint omits usage, a single batch returns `tokens=None`, but crossing OpenAI's native 2048-input boundary previous…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "HootRock",
+    "head_sha": "25cd967ea6dc61ef586f2015014e4e99dd920da3",
+    "base_ref": "main",
+    "additions": 97,
+    "deletions": 12,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
