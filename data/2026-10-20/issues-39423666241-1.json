@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ydflow",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-20T12:37:20.595114Z",
+  "title": "[Bug]: an MCP tool that returns only structuredContent reaches the model as an empty result",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3388",
+  "number": 3388,
+  "body": "### Background / Description\n\nMCP tools can declare an `outputSchema` and return their payload in\n`CallToolResult.structuredContent`. `MCPTool.call()` only converts\n`CallToolResult.content` and never …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "ydflow"
+  },
+  "at_mobiles": []
+}
