@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-20T04:11:57.282820Z",
+  "title": "Support Alibaba Cloud Model Studio System One through the classifier interface",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3259#discussioncomment-19058136",
+  "number": 3259,
+  "body": "In my opinion, adding a `DashScopeClassifierModel` that reuses `DashScopeCredential` and shares the System One implementation with Jev sounds good. A PR would be very welcome!",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "qbc2016",
+    "discussion_author": "YingchaoX"
+  },
+  "at_mobiles": []
+}
