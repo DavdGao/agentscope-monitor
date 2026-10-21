@@ -1,0 +1,26 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "xiaoyaoyouyue",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-21T04:42:04.909593Z",
+  "title": "[Bug]:  请求升级 MCP SDK 依赖至 v2.x 以支持 MCP 协议 2025-06-18 规范",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3395",
+  "number": 3395,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [
+    "Bug",
+    "triage/suggest-close"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "xiaoyaoyouyue"
+  },
+  "at_mobiles": []
+}
