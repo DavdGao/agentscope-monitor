@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Cordis798",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-21T04:35:17.143358Z",
+  "title": "fix(rag): preserve document state after index lease loss",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3397",
+  "number": 3397,
+  "body": "## AgentScope Version\n\n`2.0.11.dev0`\n\n## Description\n\nFixes #3394.\n\nAfter a failed lease renewal, an old `IndexWorker` cancels its pipeline but currently raises a `RuntimeError` into `_mark_error`. Th…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "Cordis798",
+    "head_sha": "2126817ee77259cf5320fa3323b1c43628946009",
+    "base_ref": "main",
+    "additions": 608,
+    "deletions": 34,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
