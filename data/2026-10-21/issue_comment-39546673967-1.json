@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "konlue",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-21T04:55:36.038447Z",
+  "title": "fix(model): make DashScope thinking_enable tri-state so unset no longer force-disables thinking",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3192#issuecomment-6308383794",
+  "number": 3192,
+  "body": "> Thanks for the pull request. One thing worth sorting out before it is reviewed:\n> \n> * [[Bug]: DashScopeChatModel force-injects enable_thinking=False into every request even when the caller never co…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "konlue",
+    "commenter": "konlue"
+  },
+  "at_mobiles": []
+}
