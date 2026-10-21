@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-21T09:16:58.227707Z",
+  "title": "怎么根据用户输入或者根据模型返回的数据内容，执行下一步计划时，根据参数动态选择不同的模型",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1261",
+  "number": 1261,
+  "body": "怎么根据用户输入或者根据模型返回的数据内容，执行下一步计划时，根据参数动态选择不同的模型",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "caiiansheng"
+  },
+  "at_mobiles": []
+}
