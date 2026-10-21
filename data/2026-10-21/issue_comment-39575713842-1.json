@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-21T09:17:00.651221Z",
+  "title": "怎么根据用户输入或者根据模型返回的数据内容，执行下一步计划时，根据参数动态选择不同的模型",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1261#issuecomment-6312442432",
+  "number": 1261,
+  "body": "Both scenarios can be addressed through the middleware layer:\n\n- **Select a model based on user input:** use `ModelRouterMiddleware`, which selects a model once per reply.\n- **Select a model based on …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "caiiansheng",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
