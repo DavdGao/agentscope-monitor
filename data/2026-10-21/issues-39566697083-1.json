@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-21T08:05:54.168181Z",
+  "title": "[Bug]: KnowledgeBase.delete_document ignores metadata_filter in shared collections",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3219",
+  "number": 3219,
+  "body": "### Prerequisites\n\n- [x] I searched the existing issues, pull requests, and discussions. Related RAG deletion and metadata fixes are distinguished below.\n- [x] This is a reproducible SDK behavior bug,…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "dafyy321-pixel"
+  },
+  "at_mobiles": []
+}
