@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "Koawa265Richard31",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-21T08:29:28.687831Z",
+  "title": "fix(workspace): renew E2B sandbox lease during long turns",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3285",
+  "number": 3285,
+  "body": "Fixes the E2B half of the lifecycle-semantics gap mapped in #3276, and closes #3286: the E2B SDK provides `set_timeout()` to extend the server-side lease, but AgentScope never called it — a turn whose…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Koawa265Richard31",
+    "head_sha": "71aa4a791d5602f14a2b57dd96e76f711254ad98",
+    "base_ref": "main",
+    "additions": 323,
+    "deletions": 3,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
