@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-21T03:32:41.528852Z",
+  "title": "[Bug]: concurrent KnowledgeBase initialization can create the same collection twice",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2852",
+  "number": 2852,
+  "body": "## Background / Description\n\nConcurrent first operations on the same `KnowledgeBase` handle can both enter `ensure_collection()` before `_collection_ready` is set. Both can observe a missing collectio…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "twei43846-afk"
+  },
+  "at_mobiles": []
+}
