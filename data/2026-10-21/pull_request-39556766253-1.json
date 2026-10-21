@@ -1,0 +1,34 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-21T06:39:32.501555Z",
+  "title": "fix(rag): read a Word text box once, and as its own block",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2662",
+  "number": 2662,
+  "body": "Fixes #2661.\n\n## AgentScope Version\n\n`2.0.8` (branched from `main` @ `0b157a31`)\n\n## Description\n\n`_extract_text_from_paragraph` opens with a descendant sweep:\n\n```python\nfor t_elem in para._element.f…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [
+    "qbc2016"
+  ],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "L4XB",
+    "head_sha": "2d55db0b481de2c9aba73959010791f1620cd9b3",
+    "base_ref": "main",
+    "additions": 456,
+    "deletions": 31,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
