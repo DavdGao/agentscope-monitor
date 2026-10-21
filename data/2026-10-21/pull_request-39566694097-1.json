@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-21T08:05:52.597356Z",
+  "title": "fix(rag): enforce knowledge base scope during document deletion",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3222",
+  "number": 3222,
+  "body": "## AgentScope Version\n\n`2.0.10dev`, based on upstream main `faf54fdd463b933cb29f46a80ae9f2a758d06bff`.\n\n## Description\n\nFixes #3219.\n\n`KnowledgeBase.delete_document()` now applies the knowledge base's…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "dafyy321-pixel",
+    "head_sha": "ae987f02cd7737ce1d7c251612d9b440b112dfd3",
+    "base_ref": "main",
+    "additions": 326,
+    "deletions": 21,
+    "changed_files": 10
+  },
+  "at_mobiles": []
+}
