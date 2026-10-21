@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-21T07:20:54.030643Z",
+  "title": "fix(formatter): put parallel Gemini function responses in one user turn",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2631",
+  "number": 2631,
+  "body": "## AgentScope Version\n\n2.0.8 (`main`, base commit `0727cbf`)\n\n## Description\n\nFixes #2628. That issue was split out of the review on #2613, and this change covers the Gemini side.\n\n`GeminiChatFormatte…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "MaxFreedomPollard",
+    "head_sha": "7d44025f22b6f0f28bd8ecb21dd79a8f9dec3a23",
+    "base_ref": "main",
+    "additions": 261,
+    "deletions": 24,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
