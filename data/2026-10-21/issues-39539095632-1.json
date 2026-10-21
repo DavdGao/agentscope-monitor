@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Cordis798",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-21T03:32:10.004084Z",
+  "title": "[Bug]: index lease loss overwrites the replacement worker document status",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3394",
+  "number": 3394,
+  "body": "### Prerequisites\n\n- [x] I searched existing issues, open PRs, and relevant closed/merged PRs.\n- [x] This is a reproducible defect on current main, not a feature request.\n\n### Description\n\nAn old `Ind…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Cordis798"
+  },
+  "at_mobiles": []
+}
