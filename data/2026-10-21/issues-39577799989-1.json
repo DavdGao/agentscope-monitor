@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-21T09:33:00.131508Z",
+  "title": "[Bug]: Gemini 3 tool calls fail with 400 — `function_call` loses `thought_signature` on history round-trip",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2462",
+  "number": 2462,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "wordcount"
+  },
+  "at_mobiles": []
+}
