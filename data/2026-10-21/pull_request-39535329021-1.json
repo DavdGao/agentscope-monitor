@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "HootRock",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-21T02:51:33.531365Z",
+  "title": "fix(embedding): preserve Ollama input token usage",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3393",
+  "number": 3393,
+  "body": "## AgentScope Version\n\n2.0.11dev.\n\n## Description\n\nFixes #3392.\n\nOllama reports input tokens in `prompt_eval_count`, but the embedding adapter previously returned `usage.tokens=None` even for a report…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "HootRock",
+    "head_sha": "030c38c369b582368e6b5e25e043a2b975b98822",
+    "base_ref": "main",
+    "additions": 106,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
