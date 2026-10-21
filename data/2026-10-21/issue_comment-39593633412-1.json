@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-21T11:40:11.684721Z",
+  "title": "fix(mcp): preserve structured-only tool results",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2908#issuecomment-6315001863",
+  "number": 2908,
+  "body": "Thank you for the focused fix and regression tests!\n\nThis change has been superseded by #3389, which is now merged into `main`. It covers the structured-only results reported in #2906 and additionally…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "yeliheng-010",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
