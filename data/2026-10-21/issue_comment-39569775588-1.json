@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Koawa265Richard31",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-21T08:30:34.717406Z",
+  "title": "fix(workspace): renew E2B sandbox lease during long turns",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3285#issuecomment-6311599398",
+  "number": 3285,
+  "body": "CI is still blocked at `action_required` on the current head `71aa4a79`: the four code workflows (Pre-commit, PR Title Check, Python Unittest Coverage, K8s Workspace Integration Tests) are waiting for…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Koawa265Richard31",
+    "commenter": "Koawa265Richard31"
+  },
+  "at_mobiles": []
+}
