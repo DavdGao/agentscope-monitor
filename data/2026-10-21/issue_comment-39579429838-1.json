@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-21T09:45:41.713609Z",
+  "title": "fix(tests): skip the S3 blob store tests without moto and boto3",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3073#issuecomment-6312965123",
+  "number": 3073,
+  "body": "Thanks for the contribution.\n\nWe've decided to close #3052 as a development environment setup issue. Running the test suite requires installing the full development dependencies with:\n\n```bash\npip ins…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "RXQ6",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
