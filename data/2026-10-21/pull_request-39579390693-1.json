@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-21T09:45:23.594916Z",
+  "title": "Fix ImportError in S3 tests when moto is not installed",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3053",
+  "number": 3053,
+  "body": "## PR Title Format\n- [x] fix(test): skip S3 tests gracefully when moto is not installed\n\n## AgentScope Version\n2.0.8\n\n## Description\nThis PR fixes a bug where running `pytest` crashes immediately duri…",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "ramashishmaurya",
+    "head_sha": "edd3d23c1dafa660a2c613c8fb7e21e378db15d0",
+    "base_ref": "main",
+    "additions": 45,
+    "deletions": 12,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
