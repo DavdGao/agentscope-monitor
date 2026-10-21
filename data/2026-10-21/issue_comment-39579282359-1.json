@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-21T09:44:34.732422Z",
+  "title": "[Bug]: Fix ImportError in S3 tests when moto is not installed",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3052#issuecomment-6312944318",
+  "number": 3052,
+  "body": "Thanks for reporting this.\n\nRunning the test suite requires installing the full development dependencies from the repository root:\n\n```bash\npip install -e \".[dev]\"\n```\n\nThe `dev` extra includes both `…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "ramashishmaurya",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
