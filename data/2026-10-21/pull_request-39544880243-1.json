@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "konlue",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-21T04:35:40.977919Z",
+  "title": "fix(model): make DeepSeek thinking_enable tri-state so unset no longer force-sends thinking.type=disabled",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3398",
+  "number": 3398,
+  "body": "### Background / Description\n\n`DashScopeChatModel.Parameters.thinking_enable` is declared as a non-optional `bool` with `default=False` (`src/agentscope/model/_dashscope/_model.py:53-57`):\n\n```python\n…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "konlue",
+    "head_sha": "9e3f1c0b9f61e535691795f43d04f0cf1c8e9ebc",
+    "base_ref": "main",
+    "additions": 87,
+    "deletions": 18,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
