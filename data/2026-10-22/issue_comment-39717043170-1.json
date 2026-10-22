@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ydflow",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-22T03:28:52.637918Z",
+  "title": "[Bug]: OpenAI Responses formatter drops audio input, though the API accepts input_audio",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3405#issuecomment-6331957616",
+  "number": 3405,
+  "body": "/assign\n\nI opened #3406 with the fix and four unit tests (no network): WAV and MP3 are forwarded as `input_audio`, and the formats the API rejects are still skipped with a warning.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "ydflow",
+    "commenter": "ydflow"
+  },
+  "at_mobiles": []
+}
