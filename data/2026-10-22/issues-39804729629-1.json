@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "fzfzzfzzzfzzzz",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-22T15:25:52.509568Z",
+  "title": "[Feature]: Support retrying indexing jobs after transient SQLite lock errors",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3421",
+  "number": 3421,
+  "body": "## Background / Description\n\nIn the reproduction below, a knowledge-document status update encounters a transient SQLite lock. `IndexWorker.process` catches the exception and succeeds in persisting a …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "fzfzzfzzzfzzzz"
+  },
+  "at_mobiles": []
+}
