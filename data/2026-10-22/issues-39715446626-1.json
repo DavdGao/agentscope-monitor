@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ydflow",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-22T03:11:19.652374Z",
+  "title": "[Bug]: OpenAI Responses formatter drops audio input, though the API accepts input_audio",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3405",
+  "number": 3405,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions) and this i…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "ydflow"
+  },
+  "at_mobiles": []
+}
