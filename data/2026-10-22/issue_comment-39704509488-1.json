@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "helloJamest",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-22T01:14:28.316545Z",
+  "title": "fix(memory): isolate agentic memory retrieval tasks",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2275#issuecomment-6330268216",
+  "number": 2275,
+  "body": "Updated in `83c2471`: merged upstream `main` (`26ec620`), resolved the test-file conflict while retaining the upstream memory-selection/frontmatter tests and both concurrency regressions, and adapted …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "helloJamest",
+    "commenter": "helloJamest"
+  },
+  "at_mobiles": []
+}
