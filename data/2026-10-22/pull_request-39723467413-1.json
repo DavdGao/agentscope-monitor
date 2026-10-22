@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ZhenHaoFu810",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-22T04:38:22.478903Z",
+  "title": "fix(message-bus): trim the redis replay log exactly when a cursor is given",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3409",
+  "number": 3409,
+  "body": "Fixes #3408\n\n## AgentScope Version\n\n`2.0.11dev`, based on `8a2aef4f1787f6aeb4b07a56bbc1d061c5aa7ef5`.\n\n## Summary\n\n`RedisMessageBus.log_trim(key, before_id=...)` handed `minid` to `redis-py`'s `xtrim`…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ZhenHaoFu810",
+    "head_sha": "b4eb196c3a69c274f3dbda38f9a73b851c7e0f35",
+    "base_ref": "main",
+    "additions": 21,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
