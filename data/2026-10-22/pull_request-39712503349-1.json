@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-22T02:38:47.307727Z",
+  "title": "fix(rag): keep blank Word paragraphs that still carry a run",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3401",
+  "number": 3401,
+  "body": "Fixes #3400\n\n`WordParser` keeps blank paragraphs whose `<w:p>` has no runs, but skipped the ones that still have a run: a paragraph with a single space, or with a run holding just `<w:br/>` from Shift…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "Starchaser1024",
+    "head_sha": "744be95495deeddc73c27a815977b20c22ffa073",
+    "base_ref": "main",
+    "additions": 97,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
