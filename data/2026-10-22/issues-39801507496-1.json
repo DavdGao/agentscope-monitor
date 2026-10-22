@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "fzfzzfzzzfzzzz",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-22T15:05:36.911440Z",
+  "title": "[Bug]: Knowledge base switch shows documents from the previous knowledge base",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3418",
+  "number": 3418,
+  "body": "## Background / Description\n\nSwitching from knowledge base A to B can leave A's filenames and document count under B's heading. If B's document-list request fails, the old rows remain after loading fi…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "fzfzzfzzzfzzzz"
+  },
+  "at_mobiles": []
+}
