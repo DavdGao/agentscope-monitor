@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "pcbeingused333",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-22T23:42:13.047126Z",
+  "title": "fix(model): mark the retiring Claude Sonnet 4.5 model card deprecated",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3429",
+  "number": 3429,
+  "body": "## AgentScope Version\n\n2.0.11dev (from `src/agentscope/_version.py` on `main`)\n\n## Description\n\nMarks the Claude Sonnet 4.5 model card deprecated (`deprecated_at` 2026-11-30, the retirement date Anthr…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "pcbeingused333",
+    "head_sha": "dbebb34a2cecb94958064d6c77956f36b9b2774e",
+    "base_ref": "main",
+    "additions": 2,
+    "deletions": 1,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
