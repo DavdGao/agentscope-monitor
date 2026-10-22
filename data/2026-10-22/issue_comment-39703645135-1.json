@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "helloJamest",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-22T01:05:39.847540Z",
+  "title": "[Bug]: Discord channel helpers crash before the client is ready",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2268#issuecomment-6330150239",
+  "number": 2268,
+  "body": "Status update: the fix is still tracked in #2269. Its current head has no reported merge conflicts and passing checks; it distinguishes expected Discord lookup failures from unexpected exceptions and …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "helloJamest",
+    "commenter": "helloJamest"
+  },
+  "at_mobiles": []
+}
