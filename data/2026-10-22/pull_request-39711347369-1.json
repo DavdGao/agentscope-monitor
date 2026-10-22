@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-22T02:26:15.613138Z",
+  "title": "fix(embedding): let a per-call output_dimensionality reach the gemini config",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3404",
+  "number": 3404,
+  "body": "Fixes #3403\n\n## Summary\n\n`GeminiEmbeddingModel.__call__` / `_call_api` document `**kwargs` as \"merged\ninto the Gemini `EmbedContentConfig`\" and the `parameters` docstring states\n\"**Per-call options ta…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "lihongyuan99",
+    "head_sha": "c1a55cf912a4312831df44a261aad77d4eace671",
+    "base_ref": "main",
+    "additions": 159,
+    "deletions": 10,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
