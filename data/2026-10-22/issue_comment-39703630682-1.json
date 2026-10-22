@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "helloJamest",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-22T01:05:32.493172Z",
+  "title": "fix(app): reconnect cancel subscriptions after Pub/Sub errors",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2652#issuecomment-6330148336",
+  "number": 2652,
+  "body": "Ready for maintainer review at `1dbf54f`. The branch includes the upstream cancellation-lifecycle changes, has no reported merge conflicts, and its reported checks pass.\n\nThe fix reconnects all three …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "helloJamest",
+    "commenter": "helloJamest"
+  },
+  "at_mobiles": []
+}
