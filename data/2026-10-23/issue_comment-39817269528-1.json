@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "yang0228",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-22T16:49:44.018335Z",
+  "title": "[Bug]: Knowledge base switch shows documents from the previous knowledge base",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3418#issuecomment-6346218410",
+  "number": 3418,
+  "body": "Submitted the focused fix in https://github.com/agentscope-ai/agentscope/pull/3422, with companion English/Chinese documentation in https://github.com/agentscope-ai/docs/pull/90.\n\nThe document panel i…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "fzfzzfzzzfzzzz",
+    "commenter": "yang0228"
+  },
+  "at_mobiles": []
+}
