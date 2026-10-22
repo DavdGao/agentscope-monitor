@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "pcbeingused333",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-22T22:31:29.643750Z",
+  "title": "[Bug]: Claude Sonnet 4.5 model card is still marked active although Anthropic retires it on 2026-11-30",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3427",
+  "number": 3427,
+  "body": "### Prerequisites\n- [x] Searched existing issues and discussions; not a duplicate.\n- [x] This is a bug, not a usage question (stale model metadata).\n\n### Background / Description\n`src/agentscope/model…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "pcbeingused333"
+  },
+  "at_mobiles": []
+}
