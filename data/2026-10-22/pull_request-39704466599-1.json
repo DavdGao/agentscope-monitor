@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "helloJamest",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-22T01:14:00.283929Z",
+  "title": "fix(memory): isolate agentic memory retrieval tasks",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2275",
+  "number": 2275,
+  "body": "## Summary\n\n- isolate `AgenticMemoryMiddleware` async retrieval tasks by session/agent identity instead of one shared instance slot\n- make `on_reasoning` consume only the matching retrieval task and m…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [
+    "iamroylim"
+  ],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "helloJamest",
+    "head_sha": "83c24716745abade26fb76b1e65a6b5a01ee6cb6",
+    "base_ref": "main",
+    "additions": 156,
+    "deletions": 23,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
