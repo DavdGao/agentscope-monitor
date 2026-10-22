@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "PRINCE2-AI",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-22T13:32:17.353885Z",
+  "title": "[Bug]: distinct MCP tool names collapse during sanitization and overwrite toolkit registration",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3412",
+  "number": 3412,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [
+    "Bug"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "PRINCE2-AI"
+  },
+  "at_mobiles": []
+}
