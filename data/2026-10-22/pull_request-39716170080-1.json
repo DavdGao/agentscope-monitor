@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "ydflow",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-22T03:19:19.526244Z",
+  "title": "fix(formatter): send audio input to the OpenAI Responses API",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3406",
+  "number": 3406,
+  "body": "## What changed\n\n`OpenAIResponseChatFormatter` now forwards WAV and MP3 audio as `input_audio` instead of dropping every audio `DataBlock`.\n\n```python\nmedia_type = getattr(block.source, \"media_type\", …",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ydflow",
+    "head_sha": "dfa06ab0cdf00ba73824ecc47b73a138c6165c47",
+    "base_ref": "main",
+    "additions": 164,
+    "deletions": 19,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
