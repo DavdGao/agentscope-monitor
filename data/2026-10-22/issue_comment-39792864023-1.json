@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "12kkqq",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-22T14:06:43.451586Z",
+  "title": "[Bug]: TextParser does not register the standard application/yaml media type",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3414#issuecomment-6342760436",
+  "number": 3414,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "12kkqq",
+    "commenter": "12kkqq"
+  },
+  "at_mobiles": []
+}
