@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "arthursantosmedia-stack",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-22T19:00:37.142138Z",
+  "title": "[Show and Tell] Mestre Prático & NutriPreço: Sovereign Brazilian Macro & Retail MCP/A2A Server for AgentScope 2.0",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3425",
+  "number": 3425,
+  "body": "## 🇧🇷 Mestre Prático & NutriPreço: Sovereign Real-Economy MCP & A2A Server\n\nHello AgentScope Community & Alibaba Research Team! 👋\n\nWith the release of **AgentScope 2.0.10** introducing native **A2A Pr…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Show and tell",
+    "author": "arthursantosmedia-stack"
+  },
+  "at_mobiles": []
+}
