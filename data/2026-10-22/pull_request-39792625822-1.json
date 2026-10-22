@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "12kkqq",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-22T14:05:07.547676Z",
+  "title": "fix(rag): preserve paragraph boundaries inside Word text boxes",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3415",
+  "number": 3415,
+  "body": "## AgentScope Version\n\n2.0.11.dev0, based on `ed357feb78a45ff02df155bb5610eab9bf543832`.\n\n## Description\n\nFixes #3413.\n\nA DOCX text box with separate paragraphs is currently extracted as `First paragr…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "12kkqq",
+    "head_sha": "74e68bd77ead15e96fe21fee3f0c8fee06f9f686",
+    "base_ref": "main",
+    "additions": 54,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
