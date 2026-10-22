@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "helloJamest",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-22T01:06:32.006620Z",
+  "title": "[Bug]: TaskUpdate accepts cyclic and completed task dependencies",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2710#issuecomment-6330162185",
+  "number": 2710,
+  "body": "Implementation status: both #2714 and #2719 remain open. My #2714 incorporates the inline review feedback, including ignoring completed-task stale edges during cycle checks and reporting rejected depe…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "helloJamest",
+    "commenter": "helloJamest"
+  },
+  "at_mobiles": []
+}
