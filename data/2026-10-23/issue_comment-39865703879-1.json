@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "pcbeingused333",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-22T22:32:40.245806Z",
+  "title": "[Bug]: Claude Sonnet 4.5 model card is still marked active although Anthropic retires it on 2026-11-30",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3427#issuecomment-6352760812",
+  "number": 3427,
+  "body": "I'd like to take this one. It is a two-line card change (`status: deprecated`, `deprecated_at: \"2026-11-30T00:00:00\"`) and I have it ready. (Prepared with Claude Code.)",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "pcbeingused333",
+    "commenter": "pcbeingused333"
+  },
+  "at_mobiles": []
+}
