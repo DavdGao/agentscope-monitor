@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "ouob-tw",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-22T13:24:36.892497Z",
+  "title": "[Bug] TypeError in Gemini streaming: NoneType subtraction in _parse_gemini_stream_generation_response",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1243",
+  "number": 1243,
+  "body": "## Bug Description\n\nWhen using `GeminiChatModel` with streaming enabled (default), a `TypeError` occurs because `usage_metadata.prompt_token_count` and `usage_metadata.total_token_count` can be `None`…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "ouob-tw"
+  },
+  "at_mobiles": []
+}
