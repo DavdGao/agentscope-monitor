@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "xu-song",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-22T09:35:46.266109Z",
+  "title": "fix(console): delete whole CJK characters on backspace in launch_console",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3411",
+  "number": 3411,
+  "body": "`launch_console` reads input with the builtin `input`. Without `readline` loaded, it falls back to the kernel tty line editor, which erases one **byte** per backspace — so a multi-byte character (CJK,…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "xu-song",
+    "head_sha": "70a6af28916ae0fe81a15936db368bf1c2856b13",
+    "base_ref": "main",
+    "additions": 40,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
