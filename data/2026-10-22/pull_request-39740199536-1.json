@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-22T07:24:01.358980Z",
+  "title": "fix(workspace): update TLS dependencies and reject distrusted CA certificates",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3410",
+  "number": 3410,
+  "body": "## AgentScope Version\n\n2.0.11dev\n\n## Description\n\n[Please describe the background, purpose, changes made, and how to test this PR]\n\n## Checklist\n\nPlease check the following items before code is ready …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "d6e579d6d204a2dd067e033fa2e374141b4d902d",
+    "base_ref": "main",
+    "additions": 112,
+    "deletions": 25,
+    "changed_files": 20
+  },
+  "at_mobiles": []
+}
