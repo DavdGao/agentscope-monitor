@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "12kkqq",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-22T14:05:08.420347Z",
+  "title": "fix(rag): accept the standard YAML media type",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3416",
+  "number": 3416,
+  "body": "## AgentScope Version\n\n2.0.11.dev0, based on `ed357feb78a45ff02df155bb5610eab9bf543832`.\n\n## Description\n\nFixes #3414.\n\nYAML knowledge documents with `Content-Type: application/yaml` fail with `No par…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "12kkqq",
+    "head_sha": "ac394fcb7bba39db72ef6769795bf82fd3d0f140",
+    "base_ref": "main",
+    "additions": 71,
+    "deletions": 12,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
