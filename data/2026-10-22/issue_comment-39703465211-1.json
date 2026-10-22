@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "helloJamest",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-22T01:03:56.642552Z",
+  "title": "fix(pipeline): honor structured output retry limit",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2498#issuecomment-6330127154",
+  "number": 2498,
+  "body": "The core bug reported in #2497 is now fixed on `main` by #3078, merged on October 20. That change bounds the executor and verifier structured-output retries and preserves their budgets across HITL res…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "helloJamest",
+    "commenter": "helloJamest"
+  },
+  "at_mobiles": []
+}
