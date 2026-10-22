@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "helloJamest",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-22T01:05:33.653959Z",
+  "title": "[Bug]: CancelDispatcher stops listening after a Pub/Sub disconnect",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2651#issuecomment-6330149005",
+  "number": 2651,
+  "body": "Fix status: #2652 remains open, has been synchronized with the upstream cancellation-lifecycle changes, and has passing reported checks with no merge conflicts. It includes fault-injection coverage fo…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "helloJamest",
+    "commenter": "helloJamest"
+  },
+  "at_mobiles": []
+}
