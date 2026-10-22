@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-22T02:05:17.225319Z",
+  "title": "docs(agent-service): quote extras in editable install command",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3399",
+  "number": 3399,
+  "body": "## What does this PR do?\n\nFixes an incorrect editable-install command in `examples/agent_service/README.md`.\n\n\n```diff\n-# uv pip install -e [full]\n+# uv pip install -e \".[full]\"\n```",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "xu-song",
+    "head_sha": "599f32edc14941735bce1272530cc805656416b7",
+    "base_ref": "main",
+    "additions": 2,
+    "deletions": 2,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
