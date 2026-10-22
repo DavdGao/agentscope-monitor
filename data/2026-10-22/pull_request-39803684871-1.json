@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "haotianqi666",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-22T15:19:17.211631Z",
+  "title": "fix(message-bus): refresh in-memory queue ttl on push",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3420",
+  "number": 3420,
+  "body": "## AgentScope Version\n\n`2.0.11dev` (base `ed357feb78a45ff02df155bb5610eab9bf543832`)\n\n## Description\n\nFixes #3419\n\n`MessageBus.queue_push` specifies a sliding TTL for the queue key, and the Redis back…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "haotianqi666",
+    "head_sha": "f57930bd1249460ca26ce66312e27457a787c8a9",
+    "base_ref": "main",
+    "additions": 102,
+    "deletions": 24,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
