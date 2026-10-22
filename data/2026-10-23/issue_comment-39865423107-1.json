@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "pcbeingused333",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-22T22:30:20.521308Z",
+  "title": "[Bug]: AnthropicChatModel under-reports input and cache token usage when streaming with server tools",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3426#issuecomment-6352725403",
+  "number": 3426,
+  "body": "I'd like to take this one. I have a fix with a test that fails on `main`; I'll open the PR once this is confirmed as a bug. (Prepared with Claude Code.)",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "pcbeingused333",
+    "commenter": "pcbeingused333"
+  },
+  "at_mobiles": []
+}
