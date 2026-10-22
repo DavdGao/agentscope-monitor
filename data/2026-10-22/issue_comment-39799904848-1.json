@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "HsbcJone",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-22T14:55:04.815557Z",
+  "title": "[Bug]: distinct MCP tool names collapse during sanitization and overwrite toolkit registration",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3412#issuecomment-6343802123",
+  "number": 3412,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "PRINCE2-AI",
+    "commenter": "HsbcJone"
+  },
+  "at_mobiles": []
+}
