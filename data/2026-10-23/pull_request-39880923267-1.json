@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "WuDYouOu",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-23T00:54:52.977339Z",
+  "title": "fix(message): ignore custom events without reply_id",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3435",
+  "number": 3435,
+  "body": "## AgentScope Version\n\n2.0.10 (patch prepared against `main`)\n\n## Description\n\nFixes #3432.\n\n`CustomEvent` had no `reply_id`, while `Msg.append_event` read `event.reply_id`\nunconditionally to drop eve…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "WuDYouOu",
+    "head_sha": "2cb9b2dad1f49275993647c25b63553b2092c945",
+    "base_ref": "main",
+    "additions": 43,
+    "deletions": 4,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
