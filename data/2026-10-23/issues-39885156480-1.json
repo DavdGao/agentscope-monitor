@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ChaoDiDiaoAA",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-23T01:38:46.860706Z",
+  "title": "[Bug]: MCPTool drops structuredContent when content contains a text summary",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3436",
+  "number": 3436,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing issues, discussions, and open pull requests for this scope.\n- [x] This is a reproducible bug, not a usage question.\n\n### Background / Description\n…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "ChaoDiDiaoAA"
+  },
+  "at_mobiles": []
+}
