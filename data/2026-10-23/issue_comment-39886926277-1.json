@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-23T01:57:55.854133Z",
+  "title": "fix(mcp): clean up failed connections in the owning task",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3402#issuecomment-6355545867",
+  "number": 3402,
+  "body": "useless, see #3325",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "qbc2016",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
