@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Deepak-Khimavath",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-23T15:38:03.783962Z",
+  "title": "[Bug]: AgentScope unauthenticated arbitrary process execution via MCP stdio workspace configuration (CWE-78, CVSS 9.8)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3312#issuecomment-6368644255",
+  "number": 3312,
+  "body": "I've opened #3448, a partial opt-in mitigation for the stdio command-execution path. It does not cover authentication. I'd welcome maintainer feedback on whether the allowlist should default to on.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "ybyu-ieu",
+    "commenter": "Deepak-Khimavath"
+  },
+  "at_mobiles": []
+}
