@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-23T07:34:58.699844Z",
+  "title": "feat(acp): expose AgentScope agents over stdio",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3440",
+  "number": 3440,
+  "body": "## AgentScope Version\n\n2.0.11dev\n\n## Description\n\nAdd Agent Client Protocol support for running AgentScope agents over stdio, with independent sessions, streaming updates, tool permissions, cancellati…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "58c2b1f224964f7f7d4dbf3ac8ff6db83577af41",
+    "base_ref": "main",
+    "additions": 2218,
+    "deletions": 0,
+    "changed_files": 13
+  },
+  "at_mobiles": []
+}
