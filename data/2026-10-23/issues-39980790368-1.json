@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "PointerL",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-23T15:44:12.877260Z",
+  "title": "[Bug]: negative batch_size silently drops inputs in EmbeddingModelBase",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3449",
+  "number": 3449,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [
+    "Bug"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "PointerL"
+  },
+  "at_mobiles": []
+}
