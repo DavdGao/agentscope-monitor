@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ydflow",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-23T10:53:59.232157Z",
+  "title": "[Bug]: failed LocalBlobStore writes publish partial files and destroy existing blobs",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3442",
+  "number": 3442,
+  "body": "### Background / Description\n\nOn current main `bdad647d2fee7d66597681ecd89e086b7800dd2a`, `LocalBlobStore.write_stream` opens the final blob path with `\"wb\"` before the upload is complete. If the sour…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "ydflow"
+  },
+  "at_mobiles": []
+}
