@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-23T03:03:44.781365Z",
+  "title": "feat(classifier): let a per-call model override reach the Jev system_one call",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3424",
+  "number": 3424,
+  "body": "## Summary\n\n`JevClassifierModel.__call__` passed `model=self.model` next to `**kwargs`, so a\ncaller following the documented per-call options — `**kwargs` is described as\n\"Per-call TypeSafe options\" a…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "lihongyuan99",
+    "head_sha": "0f1e4e27a5bdc73a2f991d2258eec71cc94438de",
+    "base_ref": "main",
+    "additions": 91,
+    "deletions": 7,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
