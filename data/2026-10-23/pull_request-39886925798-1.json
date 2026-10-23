@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-23T01:57:53.447187Z",
+  "title": "fix(mcp): clean up failed connections in the owning task",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3402",
+  "number": 3402,
+  "body": "## AgentScope Version\n\n2.0.11dev\n\n## Description\n\nReplace `asyncio.shield()` with an AnyIO cancel scope entered before MCP resources, keeping failed-connection cleanup in the original task and preserv…",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "03caaa8ba7bb087434c6ac8a8568290f7721d542",
+    "base_ref": "main",
+    "additions": 138,
+    "deletions": 8,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
