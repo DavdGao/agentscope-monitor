@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "PointerL",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-23T15:46:44.823032Z",
+  "title": "[Bug]: negative batch_size silently drops inputs in EmbeddingModelBase",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3449#issuecomment-6368817274",
+  "number": 3449,
+  "body": "/assign\n\nI'd like to take this focused validation fix: reject nonpositive batch sizes in EmbeddingModelBase, add offline regression tests, and document the constructor requirement. I'll use Codex assi…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "PointerL",
+    "commenter": "PointerL"
+  },
+  "at_mobiles": []
+}
