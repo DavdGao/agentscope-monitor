@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lihongyuan99",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-23T17:14:47.059269Z",
+  "title": "fix(app): deny the mutating team tools in explore mode",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3452",
+  "number": 3452,
+  "body": "## Summary\n\n`_TeamToolBase` declared `is_read_only = True`, so the four team tools that write storage — `TeamCreate`, `TeamDelete`, `AgentCreate`, `AgentInvite` — were treated as read-only by the perm…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "lihongyuan99",
+    "head_sha": "ebc53d511da94912b93d8fe8ef482dd57a431d6c",
+    "base_ref": "main",
+    "additions": 121,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
