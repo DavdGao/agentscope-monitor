@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "WuDYouOu",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-23T00:54:08.118726Z",
+  "title": "[Bug]: TaskUpdate reports a no-op update as a successful tool result",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3431",
+  "number": 3431,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing issues and discussions and did not find a duplicate.\n- [x] This is a bug, not a usage question.\n\n### Background / Description\n\n`TaskUpdate` return…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "WuDYouOu"
+  },
+  "at_mobiles": []
+}
