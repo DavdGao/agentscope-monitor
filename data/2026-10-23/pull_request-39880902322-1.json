@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "WuDYouOu",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-23T00:54:40.652168Z",
+  "title": "fix(tool): report no-op task updates as errors",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3434",
+  "number": 3434,
+  "body": "## AgentScope Version\n\n2.0.10 (patch prepared against `main`)\n\n## Description\n\nFixes #3431.\n\n`TaskUpdate` returned its `ToolChunk` without an explicit `state`, so the\ndefault `ToolResultState.RUNNING`…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "WuDYouOu",
+    "head_sha": "7fa58ca885ed47a6ef3eeaa16d7086ebdf850b05",
+    "base_ref": "main",
+    "additions": 29,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
