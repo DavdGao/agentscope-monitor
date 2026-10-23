@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "xiong-wei1",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-23T18:48:54.886316Z",
+  "title": "fix(agent): normalize nullable usage counters to zero",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3453",
+  "number": 3453,
+  "body": "## AgentScope Version\n\n2.0.11dev (main @ bdad647)\n\n## Description\n\nFixes #3444.\n\n**Background.** Some Anthropic-compatible endpoints (proxies/gateways)\nreturn `null` or omitted `input_tokens` / `outpu…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "xiong-wei1",
+    "head_sha": "fea8c2dafa5a2a587d9f5ab9191179e7db32d49c",
+    "base_ref": "main",
+    "additions": 182,
+    "deletions": 6,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
