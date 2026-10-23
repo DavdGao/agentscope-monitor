@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "huyengiang101086-spec",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-23T15:09:20.310976Z",
+  "title": "fix(agent): keep tool results within token limit",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3447",
+  "number": 3447,
+  "body": "## PR Title Format\n\nPlease ensure your PR title follows the Conventional Commits format:\n- Format: `<type>(<scope>): <description>`\n- Example: `feat(memory): add redis cache support`\n- Allowed types: …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "huyengiang101086-spec",
+    "head_sha": "037a310b3c0f65b72afcd68dd288b016ae9357ff",
+    "base_ref": "main",
+    "additions": 57,
+    "deletions": 24,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
