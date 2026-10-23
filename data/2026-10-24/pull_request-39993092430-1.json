@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "PointerL",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-23T17:12:08.489272Z",
+  "title": "fix(embedding): reject nonpositive batch sizes",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3451",
+  "number": 3451,
+  "body": "## AgentScope Version\n\n2.0.11dev, based on `bdad647d2fee7d66597681ecd89e086b7800dd2a`.\n\n## Description\n\nFixes #3449.\n\n`EmbeddingModelBase` currently accepts a negative `batch_size`. A custom embedding…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "PointerL",
+    "head_sha": "cb28bc6f54fc657282e4bdfdf000b8be6a74a23a",
+    "base_ref": "main",
+    "additions": 83,
+    "deletions": 5,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
