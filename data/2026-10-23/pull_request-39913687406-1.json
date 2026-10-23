@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-23T06:47:57.386052Z",
+  "title": "fix(deps): upgrade certifi, pip, uv and node to drop distrusted CAs",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3410",
+  "number": 3410,
+  "body": "## AgentScope Version\n\n2.0.11dev\n\n## Description\n\nUpdate certificate dependencies after the emSign CA incident: require certifi >=2026.10.19 for AgentScope and standalone gateways, share the uv 0.13.4…",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "33f961e98be6d69783d8ea283e01cc6a32d3da84",
+    "base_ref": "main",
+    "additions": 238,
+    "deletions": 46,
+    "changed_files": 24
+  },
+  "at_mobiles": []
+}
