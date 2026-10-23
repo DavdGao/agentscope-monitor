@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-23T08:00:01.517085Z",
+  "title": "feat(acp): add client support and Codex/Qoder web integration",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3439",
+  "number": 3439,
+  "body": "## AgentScope Version\n\n2.0.11dev\n\n## Description\n\nAdd a Python ACP client with streaming, session management, permissions, and cancellation.\n\nIntegrate Codex and Qoder into the Web UI through native r…",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "032de98182e3a3551ec83eba8485620c4d340820",
+    "base_ref": "main",
+    "additions": 6790,
+    "deletions": 185,
+    "changed_files": 49
+  },
+  "at_mobiles": []
+}
