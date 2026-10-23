@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Deepak-Khimavath",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-23T15:37:39.994120Z",
+  "title": "feat(app): add opt-in allowlist for stdio MCP commands",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3448#issuecomment-6368635871",
+  "number": 3448,
+  "body": "This PR addresses part of #3312 and uses `Refs` rather than `Fixes` on purpose. It's an opt-in allowlist for stdio MCP commands on `POST /workspace/mcp`. It does not add authentication (#3314/#3329) o…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Deepak-Khimavath",
+    "commenter": "Deepak-Khimavath"
+  },
+  "at_mobiles": []
+}
