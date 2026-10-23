@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ChaoDiDiaoAA",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-23T02:18:23.973527Z",
+  "title": "fix(mcp): preserve structured results alongside text summaries",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3437",
+  "number": 3437,
+  "body": "## AgentScope Version\n\n2.0.11dev (local editable checkout, Python 3.13.12, MCP 2.3.0).\n\n## Description\n\nFixes #3436\n\nMCP results containing both a summary (including empty text) and structuredContent …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ChaoDiDiaoAA",
+    "head_sha": "44aa9422acb11c14667b673403992a9d145e298c",
+    "base_ref": "main",
+    "additions": 163,
+    "deletions": 17,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
