@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "fzfzzfzzzfzzzz",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-23T14:03:51.198283Z",
+  "title": "[Bug]: Agent reply fails when an Anthropic-compatible endpoint returns nullable token counters",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3444",
+  "number": 3444,
+  "body": "### Prerequisites\n\n- [x] Searched existing issues, PRs, and indexed discussions; no exact duplicate found as of 2026-10-23.\n- [x] This is a reproducible compatibility/robustness bug, not a usage quest…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "fzfzzfzzzfzzzz"
+  },
+  "at_mobiles": []
+}
