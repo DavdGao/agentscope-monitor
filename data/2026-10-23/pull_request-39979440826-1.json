@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Deepak-Khimavath",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-23T15:34:42.121476Z",
+  "title": "feat(app): add opt-in allowlist for stdio MCP commands",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3448",
+  "number": 3448,
+  "body": "## What\n\n`POST /workspace/mcp` accepts a caller-supplied stdio MCP config, and the server then spawns `command` as a local process. On a network-reachable deployment that is arbitrary process executio…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Deepak-Khimavath",
+    "head_sha": "3a32032539884778f6c5b212bdca0092fed151a9",
+    "base_ref": "main",
+    "additions": 211,
+    "deletions": 0,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
