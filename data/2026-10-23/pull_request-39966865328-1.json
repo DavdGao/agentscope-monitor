@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "fzfzzfzzzfzzzz",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-23T14:06:59.570388Z",
+  "title": "fix(agent): normalize nullable token counters at reply boundaries",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3445",
+  "number": 3445,
+  "body": "## AgentScope Version\n\n2.0.11dev, based on main at bdad647d2fee7d66597681ecd89e086b7800dd2a.\n\n## Description\n\nFixes #3444.\n\nWhen a compatible model supplies a null input or output token counter, the a…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "fzfzzfzzzfzzzz",
+    "head_sha": "fb75e33fe3829ec8e307966c7566887c75b51068",
+    "base_ref": "main",
+    "additions": 132,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
