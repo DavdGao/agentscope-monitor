@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Wilson0511",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-24T05:05:15.492472Z",
+  "title": "GoalPipeline retry budget leaks across goal-loop iterations: long goals die with a misleading \"after N retries\" error",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3462",
+  "number": 3462,
+  "body": "## Description\n\nThe executor/verifier retry counters introduced in #3078 are instance state (so a HITL resume keeps its budget) but are **only reset on a fresh run** — they also accumulate across the …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Wilson0511"
+  },
+  "at_mobiles": []
+}
