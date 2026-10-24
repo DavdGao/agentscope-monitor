@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "wcy12378",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-24T08:48:55.731209Z",
+  "title": "fix(embedding): let a per-call api_key override on the DashScope text path",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3470#issuecomment-6382180306",
+  "number": 3470,
+  "body": "Closing in favor of #3465, which fixes the same two defects from #3464 (per-call `api_key` collision on the text path and the `api_key` leaking into the cache identifier) and was opened before my clai…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "wcy12378",
+    "commenter": "wcy12378"
+  },
+  "at_mobiles": []
+}
