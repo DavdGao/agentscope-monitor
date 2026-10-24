@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Wilson0511",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-24T04:06:44.869578Z",
+  "title": "fix(tool): group streamed data blocks by id and type in append_chunk",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3457",
+  "number": 3457,
+  "body": "## What does this PR do?\n\nFixes #3456\n\n`ToolChunk.content` documents that the blocks of one multimodal data share a block id so the agent can group them. `ToolResponse.append_chunk` keyed its accumula…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Wilson0511",
+    "head_sha": "ce44b4dae0003b817eb1182507bdba741ed0688f",
+    "base_ref": "main",
+    "additions": 94,
+    "deletions": 6,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
