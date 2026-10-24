@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "radianceded",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-24T02:07:17.443605Z",
+  "title": "feat(realtime): support context management for the realtime agent",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2566#issuecomment-6378555465",
+  "number": 2566,
+  "body": "Still working on this — PR #2838 has been open and out of draft since September 25, and I posted a progress update here on October 9. The expiry workflow appears to have missed the PR because it had n…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "radianceded"
+  },
+  "at_mobiles": []
+}
