@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "sun04222",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-24T04:19:23.937788Z",
+  "title": "[Bug]: Background tool completion is silently lost when inbox delivery fails (unanchored fire-and-forget delivery task)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3458",
+  "number": 3458,
+  "body": "## Bug Description\n\nWhen a tool call exceeds its timeout, `ToolOffloadMiddleware` offloads it and spawns a watcher to deliver the completion notification (`src/agentscope/app/middleware/_tool_offload_…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "sun04222"
+  },
+  "at_mobiles": []
+}
