@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Wilson0511",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-24T04:03:46.206747Z",
+  "title": "Agent.reply() crashes with RuntimeError when a UserInterruptEvent arrives at an idle agent",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3454",
+  "number": 3454,
+  "body": "## Description\n\nDelivering a `UserInterruptEvent` to an agent with **no parked reply** (nothing awaiting a HITL result) crashes the buffered API:\n\n```\nRuntimeError: Agent did not produce a final messa…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Wilson0511"
+  },
+  "at_mobiles": []
+}
