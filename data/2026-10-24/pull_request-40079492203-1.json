@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "wcy12378",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-24T08:48:57.389971Z",
+  "title": "fix(embedding): let a per-call api_key override on the DashScope text path",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3470",
+  "number": 3470,
+  "body": "## PR Title Format\n\n`fix(embedding): let a per-call api_key override on the DashScope text path`\n\n## AgentScope Version\n\nmain @ `bdad647` (`src/agentscope/embedding/_dashscope/_model.py`)\n\n## Descript…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "wcy12378",
+    "head_sha": "df467df3e640078e5675ec2667555dd5b5251b22",
+    "base_ref": "main",
+    "additions": 65,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
