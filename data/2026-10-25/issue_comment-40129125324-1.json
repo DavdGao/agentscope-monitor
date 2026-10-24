@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Pushkar-Shahi",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-24T20:17:53.745906Z",
+  "title": "[Bug]: mixed text tool results can exceed the configured token limit",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3469#issuecomment-6389050047",
+  "number": 3469,
+  "body": "Hi maintainers, I would love to solve this issue!",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "huyengiang101086-spec",
+    "commenter": "Pushkar-Shahi"
+  },
+  "at_mobiles": []
+}
