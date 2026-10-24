@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Wilson0511",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-24T04:06:42.497252Z",
+  "title": "ToolResponse.append_chunk splits same-id DataBlocks when a TextBlock already used that id (streamed multimodal payload corrupted)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3456",
+  "number": 3456,
+  "body": "## Description\n\n`ToolChunk.content` documents the grouping contract:\n\n> note for one multimodal data, the DataBlock instance should have the same block id, so that the agent can group them together.\n\n…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Wilson0511"
+  },
+  "at_mobiles": []
+}
