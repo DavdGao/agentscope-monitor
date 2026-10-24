@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Wilson0511",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-24T05:08:53.006189Z",
+  "title": "DashScopeEmbeddingModel text path: per-call api_key raises TypeError (\"got multiple values\") and leaks into the embedding cache key",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3464",
+  "number": 3464,
+  "body": "## Description\n\n`DashScopeEmbeddingModel._call_text` passes the instance key as an explicit keyword **next to** `**api_kwargs`:\n\n```python\nresponse = await asyncio.to_thread(\n    dashscope.embeddings.…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Wilson0511"
+  },
+  "at_mobiles": []
+}
