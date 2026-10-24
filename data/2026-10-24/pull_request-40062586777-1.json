@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "sun04222",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-24T04:30:21.356593Z",
+  "title": "fix(scripts): decode captured example output as UTF-8 in run_tests.py",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3461",
+  "number": 3461,
+  "body": "Fixes #3460\n\n## AgentScope Version\n\nmain @ bdad647\n\n## Description\n\n### Problem\n\n`scripts/model_examples/run_tests.py` captures example output with `capture_output=True, text=True` and no `encoding`, …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "sun04222",
+    "head_sha": "2d3ff32ed1f2c0728b61872beefff97e792d0695",
+    "base_ref": "main",
+    "additions": 61,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
