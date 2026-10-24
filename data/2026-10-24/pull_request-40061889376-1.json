@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "sun04222",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-24T04:19:44.336538Z",
+  "title": "fix(middleware): log and anchor the tool-offload delivery task",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3459",
+  "number": 3459,
+  "body": "Fixes #3458\n\n## AgentScope Version\n\nmain @ bdad647\n\n## Description\n\n### Problem\n\nWhen `ToolOffloadMiddleware` offloads a timed-out tool call, the completion watcher is spawned with a bare `asyncio.cre…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "sun04222",
+    "head_sha": "358720f24f4c758666dcef3141a6a8c3f49d90d9",
+    "base_ref": "main",
+    "additions": 63,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
