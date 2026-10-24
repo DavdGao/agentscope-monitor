@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Wilson0511",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-24T05:05:23.249105Z",
+  "title": "fix(pipeline): scope the goal pipeline retry budget to one output generation",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3463",
+  "number": 3463,
+  "body": "## What does this PR do?\n\nFixes #3462\n\nThe executor/verifier retry counters introduced in #3078 are instance state (so a HITL resume keeps its budget) but are only reset on a fresh run — so they also …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Wilson0511",
+    "head_sha": "264dd4dfcca68b145c2505ca83b2d99d2e010fdd",
+    "base_ref": "main",
+    "additions": 124,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
