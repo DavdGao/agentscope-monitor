@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Wilson0511",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-24T06:54:13.279927Z",
+  "title": "OpenAI embedding: a per-call dimensions is silently overwritten by the instance default",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3467",
+  "number": 3467,
+  "body": "### Description\n\n`OpenAIEmbeddingModel._call_api` silently discards a per-call `dimensions`.\n\nThe base class documents `**kwargs` on `__call__` as options forwarded to the provider call, and `client.e…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Wilson0511"
+  },
+  "at_mobiles": []
+}
