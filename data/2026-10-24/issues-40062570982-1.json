@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "sun04222",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-24T04:30:13.524664Z",
+  "title": "[Bug]: run_tests.py silently loses or crashes on model-example output under a non-UTF-8 host locale",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3460",
+  "number": 3460,
+  "body": "## Bug Description\n\n`scripts/model_examples/run_tests.py` captures each example's output in quiet mode with:\n\n```python\nresult = subprocess.run(\n    [sys.executable, str(script_path)],\n    timeout=tim…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "sun04222"
+  },
+  "at_mobiles": []
+}
