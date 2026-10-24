@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Wilson0511",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-24T05:08:54.638165Z",
+  "title": "fix(embedding): honor per-call api_key on the DashScope text path",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3465",
+  "number": 3465,
+  "body": "## What does this PR do?\n\nFixes #3464\n\nTwo defects on `DashScopeEmbeddingModel._call_text`:\n\n1. **Per-call `api_key` collision**: the instance key was passed as an explicit keyword next to `**api_kwar…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Wilson0511",
+    "head_sha": "ea5f8bdefa95060b540cd6a7db01bc17e7154f2f",
+    "base_ref": "main",
+    "additions": 114,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
