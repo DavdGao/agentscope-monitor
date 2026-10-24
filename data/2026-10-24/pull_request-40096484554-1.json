@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "xuilen",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-24T13:03:19.256467Z",
+  "title": "fix(embedding): allow per-call dimensions override in OpenAIEmbeddingModel",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3471",
+  "number": 3471,
+  "body": "## PR Title Format\n\n`fix(embedding): allow per-call dimensions override in OpenAIEmbeddingModel`\n\n## AgentScope Version\n\n`2.0.11dev`\n\n## Description\n\nFixes #3467\n\n### Background & Problem\n`OpenAIEmbed…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "xuilen",
+    "head_sha": "0a83f998f3e564eb8ee742d08de3332365594d77",
+    "base_ref": "main",
+    "additions": 47,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
