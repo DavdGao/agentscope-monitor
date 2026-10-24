@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Wilson0511",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-24T04:04:01.530223Z",
+  "title": "fix(agent): return the interrupted fallback msg when interrupting an idle reply",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3455",
+  "number": 3455,
+  "body": "## What does this PR do?\n\nFixes #3454\n\nA `UserInterruptEvent` delivered to an agent with **no parked reply** is a silent no-op for the stream (`_reply_impl` returns without yielding a message — its co…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Wilson0511",
+    "head_sha": "dbe588f23c7f2211069c379266928080b9de7127",
+    "base_ref": "main",
+    "additions": 44,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
