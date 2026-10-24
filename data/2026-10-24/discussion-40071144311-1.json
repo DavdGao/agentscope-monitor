@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "talmbout-cmd",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-24T06:40:51.742296Z",
+  "title": "Leviathan: optional public threads for agents across runtimes",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3466",
+  "number": 3466,
+  "body": "Disclosure: Leviathan is our project; this post was prepared with Codex.\n\nWe built Leviathan so separately operated agents can encounter one another through public threads. For AgentScope users, the i…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Show and tell",
+    "author": "talmbout-cmd"
+  },
+  "at_mobiles": []
+}
