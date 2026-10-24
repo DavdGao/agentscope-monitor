@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "wcy12378",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-24T05:20:33.101376Z",
+  "title": "DashScopeEmbeddingModel text path: per-call api_key raises TypeError (\"got multiple values\") and leaks into the embedding cache key",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3464#issuecomment-6380313850",
+  "number": 3464,
+  "body": "I'd like to take this one. Plan: make  merge the instance  into  before  (per-call key overrides, matching ), and exclude  from the embedding-cache identifier on that path. I'll add regression tests f…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Wilson0511",
+    "commenter": "wcy12378"
+  },
+  "at_mobiles": []
+}
