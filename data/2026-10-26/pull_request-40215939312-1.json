@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "mosifu",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-25T17:20:07.340542Z",
+  "title": "fix(channel): degrade Discord chat kind/name lookups to contract defaults",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3483",
+  "number": 3483,
+  "body": "## What\n\n`DiscordChannel.chat_kind()` and `chat_name()` now catch a failed channel fetch and return the `ChannelBase` contract defaults (`None` / `\"\"`) instead of propagating the exception, matching h…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "mosifu",
+    "head_sha": "393d71bf25b1718362542bb7a567ee06028d9aa7",
+    "base_ref": "main",
+    "additions": 123,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
