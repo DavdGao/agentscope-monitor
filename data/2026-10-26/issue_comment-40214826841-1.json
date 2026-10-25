@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "mosifu",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-25T17:06:19.468874Z",
+  "title": "perf(channel): implement `list_tools` method for `DiscordChannel`",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2248#issuecomment-6400574323",
+  "number": 2248,
+  "body": "Correction to my earlier comment: a PR for this issue **does** exist — #2453 by @steven-ji, opened back in August and last rebased Sep 11. I claimed the issue after misreading the thread as inactive, …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "mosifu"
+  },
+  "at_mobiles": []
+}
