@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ljluestc",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-25T22:17:19.657524Z",
+  "title": "docs(examples): add FastAPI human-in-the-loop tool confirmation example",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3485",
+  "number": 3485,
+  "body": "## Summary\n\nCloses #1294.\n\n#1294 asks how to pause an agent before a specific tool call, let the user confirm or cancel it, and resume the agent from a FastAPI server with a chat endpoint and a confir…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "ljluestc",
+    "head_sha": "ed384f4f70ed4cbdd9887e1eadcc21e4c5281e61",
+    "base_ref": "main",
+    "additions": 334,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
