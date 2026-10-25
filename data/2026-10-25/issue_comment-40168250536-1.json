@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "indexGin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-25T06:12:12.684982Z",
+  "title": "[Bug]: Bash read-only fast path auto-allows hidden commands separated by newline or \"&\"",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3473#issuecomment-6394261557",
+  "number": 3473,
+  "body": "The issue is confirmed now — I'd like to take it. The fix (extend the compound-separator detection in `is_read_only_command` with newline and `&`, reusing the existing AST-based split so quoted `&` an…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "indexGin",
+    "commenter": "indexGin"
+  },
+  "at_mobiles": []
+}
