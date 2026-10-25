@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "mengchen-atx",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-25T19:29:00.649391Z",
+  "title": "fix(tool): keep resolvable annotations when one hint fails",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3484#issuecomment-6402138863",
+  "number": 3484,
+  "body": "I'm the author of #3446. I reported it together with a ready fix and regression test, and this PR is that fix. It reuses the existing `_resolve_partial_type_hints` helper to resolve annotations one by…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "mengchen-atx",
+    "commenter": "mengchen-atx"
+  },
+  "at_mobiles": []
+}
