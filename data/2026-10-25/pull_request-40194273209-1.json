@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "shi-felix",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-25T12:42:15.052252Z",
+  "title": "Use HTTP_422_UNPROCESSABLE_CONTENT in app routers",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3479",
+  "number": 3479,
+  "body": "## Summary\n\nStarlette 0.48 renamed the 422 constant and keeps `HTTP_422_UNPROCESSABLE_ENTITY` only through a module-level `__getattr__` that emits `StarletteDeprecationWarning` on every access. Since …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "shi-felix",
+    "head_sha": "604695c9ddfc8fc70e8cdf0978524014e66f8710",
+    "base_ref": "main",
+    "additions": 7,
+    "deletions": 7,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
