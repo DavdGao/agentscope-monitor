@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "shuxiachai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-25T06:35:02.394497Z",
+  "title": "[Bug]: Scoped KnowledgeBase inserts overwrite another scope's records in a shared collection when document IDs overlap",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3475",
+  "number": 3475,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing issues and discussions, and this is not a duplicate.\n- [x] This is a bug, not a usage question.\n\nRelated: #3219 and #3222 fixed scoped deletion an…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "shuxiachai"
+  },
+  "at_mobiles": []
+}
