@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "mosifu",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-25T16:57:54.719091Z",
+  "title": "perf(channel): implement `list_tools` method for `DiscordChannel`",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2248#issuecomment-6400483724",
+  "number": 2248,
+  "body": "PR opened: #3481 — implements the plan above (ListChats / ListChatMembers / SendMessage / SendFile + channel-side ops, 9 unit tests, no live token needed). Happy to adjust scope or naming based on rev…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "mosifu"
+  },
+  "at_mobiles": []
+}
