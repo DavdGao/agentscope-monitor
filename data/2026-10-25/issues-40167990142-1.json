@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "indexGin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-25T06:07:38.625527Z",
+  "title": "[Bug]: Bash read-only fast path auto-allows hidden commands separated by newline or \"&\"",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3473",
+  "number": 3473,
+  "body": "",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "indexGin"
+  },
+  "at_mobiles": []
+}
