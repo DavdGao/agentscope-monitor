@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "mosifu",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-25T16:34:18.372161Z",
+  "title": "perf(channel): implement `list_tools` method for `DiscordChannel`",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2248#issuecomment-6400232934",
+  "number": 2248,
+  "body": "Hi @DavdGao, I'd like to pick this up. Both earlier volunteers (Aug 8 and Aug 27) seem inactive — no PR has been opened in ~3 months — so I hope it's fine to take it over. If either of you is still wo…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "mosifu"
+  },
+  "at_mobiles": []
+}
