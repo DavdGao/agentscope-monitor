@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "mosifu",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-25T16:57:48.704959Z",
+  "title": "feat(channel): add discovery and send tools for the Discord channel",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3481",
+  "number": 3481,
+  "body": "## What\n\nImplements `DiscordChannel.list_tools` so a Discord session's agent gets the same discovery → send tool chain the Feishu and DingTalk channels already expose (design sketch in my [claim comme…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "mosifu",
+    "head_sha": "213d8e4072d248bec770cabb9221ef035bce7390",
+    "base_ref": "main",
+    "additions": 977,
+    "deletions": 0,
+    "changed_files": 8
+  },
+  "at_mobiles": []
+}
