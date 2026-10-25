@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "mosifu",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-25T17:06:14.192499Z",
+  "title": "feat(channel): add discovery and send tools for the Discord channel",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3481#issuecomment-6400574011",
+  "number": 3481,
+  "body": "Thanks for the pointer, and apologies for the duplicate — I missed #2453 when I claimed the issue (its author never linked it in the issue thread, and I wrongly read \"no PR\" as \"no work in progress\"; …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "mosifu",
+    "commenter": "mosifu"
+  },
+  "at_mobiles": []
+}
