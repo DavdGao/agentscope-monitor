@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "mengchen-atx",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-25T17:25:37.263601Z",
+  "title": "[Bug]: FunctionTool schema inference fails when one annotation is a TYPE_CHECKING-only import",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3446#issuecomment-6400786164",
+  "number": 3446,
+  "body": "Heads-up for the maintainers: I filed this issue and already have a fix with a regression test ready (when get_type_hints() fails, fall back to resolving each annotation individually with the function…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "mengchen-atx",
+    "commenter": "mengchen-atx"
+  },
+  "at_mobiles": []
+}
