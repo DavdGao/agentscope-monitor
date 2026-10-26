@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ChaoDiDiaoAA",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-26T01:34:25.378025Z",
+  "title": "[Bug]: closing FunctionTool and tool middleware streams does not await owned generator cleanup",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3486",
+  "number": 3486,
+  "body": "# [Bug]: closing FunctionTool and tool middleware streams does not await owned generator cleanup\n\n### Prerequisites\n\n- [x] I searched the existing issues, pull requests and related discussions. The re…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "ChaoDiDiaoAA"
+  },
+  "at_mobiles": []
+}
