@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "yaxiaodang",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-26T12:25:13.917564Z",
+  "title": "test(message): cover serialization and content selection contracts",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3494",
+  "number": 3494,
+  "body": "## AgentScope Version\n\n2.0.11dev (base: 44b5d52)\n\n## Description\n\nRefs #1444.\n\nAdd offline tests for message persistence and content selection, complementing the existing constructor and event-accumul…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "yaxiaodang",
+    "head_sha": "9a029e179490c3a91bb8d08a5bbc1d7d0eda10e8",
+    "base_ref": "main",
+    "additions": 172,
+    "deletions": 0,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
