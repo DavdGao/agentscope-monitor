@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "yaxiaodang",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-26T12:38:10.707217Z",
+  "title": "[Bug]:compression_model 启用 stream=True 时 _compress_memory_if_needed 报 AttributeError: 'NoneType' object has no attribute 'metadata'",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1546#issuecomment-6416179915",
+  "number": 1546,
+  "body": "I reproduced the unsafe access on the official v1 branch (ff8064a): an empty streaming compression response leaves last_chunk as None before last_chunk.metadata is read. I will prepare a small PR agai…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "jinchangrong-jcr",
+    "commenter": "yaxiaodang"
+  },
+  "at_mobiles": []
+}
