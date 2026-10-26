@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ChaoDiDiaoAA",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-26T02:12:51.949599Z",
+  "title": "fix(tool): await owned stream cleanup",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3487",
+  "number": 3487,
+  "body": "## AgentScope Version\n\n2.0.11dev, based on main `bdad647d2fee7d66597681ecd89e086b7800dd2a`.\n\n## Description\n\nFixes #3486.\n\nExplicitly closing an initialized `FunctionTool` stream can return before the…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ChaoDiDiaoAA",
+    "head_sha": "810feef73c0169f4008aa7a01fac555cf5ae529f",
+    "base_ref": "main",
+    "additions": 334,
+    "deletions": 24,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
