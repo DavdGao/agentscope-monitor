@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "yaxiaodang",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-26T13:15:03.509166Z",
+  "title": "fix(tool): drain shell output while waiting for completion",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3497",
+  "number": 3497,
+  "body": "## AgentScope Version\n\n1.0.21, legacy `v1` branch at ff8064a.\n\n## Description\n\nFixes #1255.\n\n`execute_shell_command` waits for process exit before reading its pipes. A child that fills stdout or stder…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "yaxiaodang",
+    "head_sha": "e35250c12e79b2e60c1caac92f1ffca25583b576",
+    "base_ref": "v1",
+    "additions": 160,
+    "deletions": 10,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
