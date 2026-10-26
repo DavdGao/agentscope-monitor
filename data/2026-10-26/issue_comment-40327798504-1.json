@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "yaxiaodang",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-26T13:07:01.118633Z",
+  "title": "[Bug]:`execute_shell_command` deadlocks when subprocess output exceeds pipe buffer",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1255#issuecomment-6416738439",
+  "number": 1255,
+  "body": "I verified that the official v1 branch still waits on proc.wait() before reading stdout/stderr. Earlier PRs #1266 and #1369 are closed and unmerged, and I found no open replacement. I will prepare a f…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "lpdink",
+    "commenter": "yaxiaodang"
+  },
+  "at_mobiles": []
+}
