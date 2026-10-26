@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "yaxiaodang",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-26T12:47:00.605767Z",
+  "title": "fix(agent): handle empty streaming compression responses",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3495",
+  "number": 3495,
+  "body": "## AgentScope Version\n\n1.0.21, legacy `v1` branch at ff8064a.\n\n## Description\n\nFixes #1546.\n\nAn empty streaming response during memory compression leaves `last_chunk` as `None`, and accessing its meta…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "yaxiaodang",
+    "head_sha": "7ddb95159dccbf5f851c9c30afd37761c8a99f76",
+    "base_ref": "v1",
+    "additions": 78,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
