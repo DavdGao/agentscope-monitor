@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "294962silent",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-26T15:28:23.684989Z",
+  "title": "fix(tool): preserve CRLF line endings when editing files",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3499",
+  "number": 3499,
+  "body": "## PR Title Format\n\n`fix(tool): preserve CRLF line endings when editing files`\n\n## AgentScope Version\n\n2.0.11dev, main @ 44b5d52\n\n## Description\n\nFixes #3498.\n\nThe Edit tool normalized the whole file …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "294962silent",
+    "head_sha": "3f164cc254d61d36e76633bf1bb6b6012b579215",
+    "base_ref": "main",
+    "additions": 59,
+    "deletions": 16,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
