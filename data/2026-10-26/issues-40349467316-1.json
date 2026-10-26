@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "294962silent",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-26T15:27:31.007587Z",
+  "title": "[Bug]: Edit tool rewrites every CRLF line ending to LF",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3498",
+  "number": 3498,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions) and this i…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "294962silent"
+  },
+  "at_mobiles": []
+}
