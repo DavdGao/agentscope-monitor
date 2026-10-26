@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "yaxiaodang",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-26T12:10:04.865050Z",
+  "title": "ci(message): build tests for the message module",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1444#issuecomment-6415645982",
+  "number": 1444,
+  "body": "I would like to pick up the remaining message-module test coverage. The earlier PR #1495 is closed and unmerged. I will keep this focused on offline regression tests for JSON persistence round-trips, …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "yaxiaodang"
+  },
+  "at_mobiles": []
+}
