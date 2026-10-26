@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ChaoDiDiaoAA",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-26T01:38:13.592543Z",
+  "title": "[Bug]: closing FunctionTool and tool middleware streams does not await owned generator cleanup",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3486#issuecomment-6406307776",
+  "number": 3486,
+  "body": "/assign me\n\nI'd like to handle the FunctionTool/ToolBase stream-cleanup scope described here. I'll add deterministic early-close tests for sync/async generators and forwarding tool middleware, preserv…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "ChaoDiDiaoAA",
+    "commenter": "ChaoDiDiaoAA"
+  },
+  "at_mobiles": []
+}
