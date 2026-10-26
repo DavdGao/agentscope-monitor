@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Wilson0511",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-26T11:05:54.084358Z",
+  "title": "fix(realtime): retire unbound local user turns when the transport dies",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3491",
+  "number": 3491,
+  "body": "Fixes #3490\n\n## Summary\n\nThe `reply_stream` teardown for a dead transport ended pending user turns but left **unbound** (item-id-less, local-VAD) ones in `_pending_user_turns`. `_end_user_turn` intent…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Wilson0511",
+    "head_sha": "d806766380d1150b1e77807f41cce67817673ccb",
+    "base_ref": "main",
+    "additions": 143,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
