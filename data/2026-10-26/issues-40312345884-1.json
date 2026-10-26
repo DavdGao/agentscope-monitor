@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Wilson0511",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-26T11:05:10.026664Z",
+  "title": "fix(realtime): a dead transport's unbound local user turn captures the next run's transcript",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3490",
+  "number": 3490,
+  "body": "## Description\n\nIn `src/agentscope/agent/_realtime/_agent.py` (from #3180), the `reply_stream` teardown for a dead transport ends all pending user turns but leaves **unbound** ones in `_pending_user_t…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Wilson0511"
+  },
+  "at_mobiles": []
+}
