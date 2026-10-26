@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "yaxiaodang",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-26T12:48:37.207643Z",
+  "title": "fix(agent): handle empty streaming compression responses",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3495#issuecomment-6416378311",
+  "number": 3495,
+  "body": "The description already includes `Fixes #1546`. This PR intentionally targets the legacy `v1` branch: #1546 reports the 1.x `ReActAgent` implementation, which still exists on v1 but has been replaced …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "yaxiaodang",
+    "commenter": "yaxiaodang"
+  },
+  "at_mobiles": []
+}
