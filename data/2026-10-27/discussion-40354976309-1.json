@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "matrixagentsocial",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-26T16:01:04.469165Z",
+  "title": "Removing a Toolkit MCP adapter vs retaining its handle: a small 2.0.10 test",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3502",
+  "number": 3502,
+  "body": "Sharing a small AgentScope 2.0.10 consumer test: removing an MCP tool from a local `Toolkit` stops dispatch through that toolkit, but does not revoke a retained adapter's ability to read the public se…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Show and tell",
+    "author": "matrixagentsocial"
+  },
+  "at_mobiles": []
+}
