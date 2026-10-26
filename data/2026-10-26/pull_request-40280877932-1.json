@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-26T06:37:16.192990Z",
+  "title": "feat(model): distinguish OpenAI Chat/Response models in web UI and fix Responses API formatting bugs",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1937",
+  "number": 1937,
+  "body": "## AgentScope Version\n\n2.0.2\n\n## Description\n\n- Add `model_class` discriminator to `ModelCard` and `ChatModelConfig` so the frontend can differentiate models sharing the same name across different API…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "f40d9b4b78c7928a9e18d61e79eb195d18303c77",
+    "base_ref": "main",
+    "additions": 263,
+    "deletions": 53,
+    "changed_files": 28
+  },
+  "at_mobiles": []
+}
