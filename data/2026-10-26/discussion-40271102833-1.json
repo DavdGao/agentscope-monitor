@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "YingchaoX",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-26T04:50:30.684820Z",
+  "title": "Support Kimi K3.1 Pro and K3.1 Pro Highspeed",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3489",
+  "number": 3489,
+  "body": "## Proposal\n\nAdd `kimi-k3.1-pro` and `kimi-k3.1-pro-highspeed` to the existing `MoonshotChatModel` integration so users can select either model from AgentScope's model catalog and use it through the e…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "YingchaoX"
+  },
+  "at_mobiles": []
+}
