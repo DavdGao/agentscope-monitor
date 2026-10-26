@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "golitter",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-26T16:49:31.653314Z",
+  "title": "[Bug]: Web UI schedule date filter excludes valid occurrences on selected days",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3503",
+  "number": 3503,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [
+    "Bug"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "golitter"
+  },
+  "at_mobiles": []
+}
