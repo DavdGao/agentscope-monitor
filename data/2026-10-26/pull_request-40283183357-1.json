@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-26T07:00:54.234673Z",
+  "title": "feat(model): add OpenAI Chat and Responses API selection",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1937",
+  "number": 1937,
+  "body": "## AgentScope Version\n\n2.0.11dev\n\n## Description\n\nOpenAI models such as GPT-4o share the same name across Chat Completions and Responses. Expose both implementations in the web UI so users can select …",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "a823f2a069a670be396562359e837edc23ded43f",
+    "base_ref": "main",
+    "additions": 319,
+    "deletions": 53,
+    "changed_files": 28
+  },
+  "at_mobiles": []
+}
