@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-26T02:59:13.109928Z",
+  "title": "feat(mcp): support MCP SDK 2.x and tool progress streaming",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3325",
+  "number": 3325,
+  "body": "## AgentScope Version\n\n2.0.11dev\n\n## Description\n\nMigrate AgentScope's MCP integration to the MCP Python SDK 2.x high-level\nclient and add opt-in progress streaming for local MCP tools.\n\n### Changes\n\n…",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "f4456bf53ee07f88a1afa4520b68e3348c7ff0a6",
+    "base_ref": "main",
+    "additions": 1569,
+    "deletions": 232,
+    "changed_files": 21
+  },
+  "at_mobiles": []
+}
