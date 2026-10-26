@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-26T05:56:13.676987Z",
+  "title": "feat(models): add latest chat, TTS, and realtime model configs",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3488",
+  "number": 3488,
+  "body": "## AgentScope Version\n\n2.0.11dev\n\n## Description\n\n[Please describe the background, purpose, changes made, and how to test this PR]\n\n## Checklist\n\nPlease check the following items before code is ready …",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "1b8dc1f8703e3210554c361ebb276dc0f0949ef5",
+    "base_ref": "main",
+    "additions": 477,
+    "deletions": 77,
+    "changed_files": 19
+  },
+  "at_mobiles": []
+}
