@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-26T03:24:48.514723Z",
+  "title": "fix(app): replace deprecated HTTP 422 status constants",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3479",
+  "number": 3479,
+  "body": "## Summary\n\nStarlette 0.48 renamed the 422 constant and keeps `HTTP_422_UNPROCESSABLE_ENTITY` only through a module-level `__getattr__` that emits `StarletteDeprecationWarning` on every access. Since …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "shi-felix",
+    "head_sha": "98a34a3c7f7fce5f9316fa02dffa56e5896c8f02",
+    "base_ref": "main",
+    "additions": 7,
+    "deletions": 7,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
