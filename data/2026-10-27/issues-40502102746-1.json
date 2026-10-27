@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-27T12:13:50.422813Z",
+  "title": "Bug: tracing drops top_p=0 (falsy trap in _get_llm_request_attributes)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3515",
+  "number": 3515,
+  "body": "### Describe the bug\n\n`middleware/_tracing/_extractor.py::_get_llm_request_attributes` selects the sampling parameter with an ``or`` fallback:\n\n```python\nSpanAttributes.GEN_AI_REQUEST_TOP_P: kwargs.ge…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Kiko0301"
+  },
+  "at_mobiles": []
+}
