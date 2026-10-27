@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-27T13:19:34.310426Z",
+  "title": "fix(formatter): keep text before media in Anthropic multi-agent history",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3525",
+  "number": 3525,
+  "body": "## Why\n\n`AnthropicMultiAgentFormatter._format_agent_message` buffers the current message's text in `agent_text_parts` and only commits it into `accumulated_text` **after** the block loop finishes. Whe…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "daf366a443d046fc661cf24a8eb7c9ea31e9e620",
+    "base_ref": "main",
+    "additions": 64,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
