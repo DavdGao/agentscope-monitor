@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-27T12:14:52.496936Z",
+  "title": "fix(tool): require every subcommand to be a filesystem command for ACCEPT_EDITS auto-allow",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3519",
+  "number": 3519,
+  "body": "## Description\n\nIn ACCEPT_EDITS / DONT_ASK mode, `Bash.check_permissions` auto-allows filesystem commands (`mkdir`/`touch`/`rm`/...) whose targets all resolve inside a working directory. The command-n…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "5eb46b1c9c9e10e74324be12603809fb22b0c0e7",
+    "base_ref": "main",
+    "additions": 47,
+    "deletions": 7,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
