@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-27T12:15:14.556548Z",
+  "title": "fix(middleware): preserve top_p=0 in tracing request attributes",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3520",
+  "number": 3520,
+  "body": "## Description\n\n`_get_llm_request_attributes` selected the sampling parameter with `kwargs.get(\"p\") or kwargs.get(\"top_p\")`. `top_p=0` is a valid value (greedy decoding; the Gemini schema even allows …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "2d94dcb7d075dad34454335da1cdf6e90a0f543f",
+    "base_ref": "main",
+    "additions": 38,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
