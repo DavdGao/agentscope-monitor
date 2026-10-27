@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-27T03:14:10.942690Z",
+  "title": "chore(version): bumping version to 2.0.12dev",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3507",
+  "number": 3507,
+  "body": "## AgentScope Version\n\n2.0.11\n\n## Description\n\n[Please describe the background, purpose, changes made, and how to test this PR]\n\n## Checklist\n\nPlease check the following items before code is ready to …",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "7b9ca7dbc2a4d37a2eb6ab984f7f29a78f1d6b75",
+    "base_ref": "main",
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
