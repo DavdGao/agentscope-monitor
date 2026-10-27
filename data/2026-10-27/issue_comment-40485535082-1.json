@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "yetuge",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-27T10:03:46.702879Z",
+  "title": "fix(tool): split background and newline-separated commands before the read-only check",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3260#issuecomment-6438935722",
+  "number": 3260,
+  "body": "Closing in favor of #2471.\n\nWhen this was opened, `pr-guard` flagged that #2470 already had an open pull request (#2471). Having now compared the two, #2471 is the more fundamental fix: it replaces `s…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "yetuge",
+    "commenter": "yetuge"
+  },
+  "at_mobiles": []
+}
