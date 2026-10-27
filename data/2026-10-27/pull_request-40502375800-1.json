@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-27T12:15:57.444620Z",
+  "title": "fix(model): make DashScope thinking_enable tri-state so enable_thinking is optional",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3522",
+  "number": 3522,
+  "body": "## Description\n\nThe `enable_thinking` extra-body option is guarded by `if self.parameters.thinking_enable is not None:` — clearly tri-state intent — but the field is declared `bool` with default `Fals…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "02764e65fae58146316635a51b4bc929b0952fd7",
+    "base_ref": "main",
+    "additions": 35,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
