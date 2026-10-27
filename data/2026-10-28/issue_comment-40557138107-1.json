@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-27T18:08:31.846064Z",
+  "title": "fix(tool): let Bash see the paths a shell variable names",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3017#issuecomment-6449877572",
+  "number": 3017,
+  "body": "Rebased onto the current `main` (the branch went DIRTY while `main` moved past the original base).\n\nOne conflict, in `src/agentscope/tool/_base.py`: `main` changed `_is_dangerous_path` from `os.path.a…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "RerankerGuo",
+    "commenter": "RerankerGuo"
+  },
+  "at_mobiles": []
+}
