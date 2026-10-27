@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-27T10:12:17.926883Z",
+  "title": "Bug: Bash allow rules match the raw compound command, so \"git:*\" silently auto-allows \"git status && <any command>\"",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3512",
+  "number": 3512,
+  "body": "### Describe the bug\n\n`BashTool.match_rule` applies its prefix / wildcard / substring patterns to the **raw command string**:\n\nhttps://github.com/agentscope-ai/agentscope/blob/main/src/agentscope/tool…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Kiko0301"
+  },
+  "at_mobiles": []
+}
