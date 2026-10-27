@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "yetuge",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-27T10:03:37.652418Z",
+  "title": "fix(formatter): keep unsupported media visible as a placeholder in the OpenAI formatter",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3113",
+  "number": 3113,
+  "body": "## Why\n\nFixes #3112.\n\n`OpenAIChatFormatter` supports `image/*`, `audio/*` and `application/pdf` but not video, and `_format_openai_data_block` returns `None` for unsupported types. The plain-message b…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "yetuge",
+    "head_sha": "b8e542a0deb185bed376dfc31f6c927e046d1551",
+    "base_ref": "main",
+    "additions": 137,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
