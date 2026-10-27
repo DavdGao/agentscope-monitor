@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-27T09:47:16.786517Z",
+  "title": "Bug: OllamaChatModel always forces think=false, overriding model defaults (e.g. qwen3, deepseek-r1)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3509",
+  "number": 3509,
+  "body": "### Describe the bug\n\n`OllamaChatModel` unconditionally sends `think` in every chat request:\n\nhttps://github.com/agentscope-ai/agentscope/blob/main/src/agentscope/model/_ollama/_model.py#L176\n\n```pyth…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Kiko0301"
+  },
+  "at_mobiles": []
+}
