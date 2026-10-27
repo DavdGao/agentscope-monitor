@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-27T15:14:08.561840Z",
+  "title": "fix(embedding): forward configured parameters in DashScope embedding calls",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3530",
+  "number": 3530,
+  "body": "## Why\n\n`EmbeddingModelBase.Parameters` exists precisely so \"Subclasses extend this class to expose **non-dimensional** knobs (e.g. Gemini's `task_type`, Dashscope's `text_type`)\" — and its `extra=\"al…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "a9d6411df9bd0699579e1665713c5db05004f296",
+    "base_ref": "main",
+    "additions": 39,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
