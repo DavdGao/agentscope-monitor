@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-27T09:47:48.962989Z",
+  "title": "fix(model): only send think option to Ollama when explicitly configured",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3510",
+  "number": 3510,
+  "body": "## Description\n\n`OllamaChatModel` unconditionally sent `think` in every chat request. Since `Parameters.thinking_enable` is a plain `bool` defaulting to `False`, every request was sent with `think: fa…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "f906e514a0fd75ee2ddfde71340a20a4e9d94fe6",
+    "base_ref": "main",
+    "additions": 47,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
