@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-27T13:21:57.455267Z",
+  "title": "fix(formatter): normalize textless system message in xAI multi-agent formatter",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3526",
+  "number": 3526,
+  "body": "## Why\n\n`XAIMultiAgentFormatter.format` forwards `msgs[0].get_text_content()` straight into `xai_sdk.chat.system()`:\n\n```python\nif msgs and msgs[0].role == \"system\":\n    text = msgs[0].get_text_conten…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "059072ea7889937aa828e734eeb29be0f2f523a4",
+    "base_ref": "main",
+    "additions": 18,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
