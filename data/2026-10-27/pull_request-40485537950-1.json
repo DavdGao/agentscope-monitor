@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "yetuge",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-27T10:03:51.022158Z",
+  "title": "fix(tool): split background and newline-separated commands before the read-only check",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3260",
+  "number": 3260,
+  "body": "Fixes #2470\n\n## AgentScope Version\n\n`main` @ `654738c3`\n\n## Description\n\n`is_read_only_command()` only treated `&&`, `||`, `;` and `|` as compound separators, so a command joined with a single `&` (ba…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "yetuge",
+    "head_sha": "a84772052e4bfa3575d09e91cdf5aa7279427eb5",
+    "base_ref": "main",
+    "additions": 50,
+    "deletions": 5,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
