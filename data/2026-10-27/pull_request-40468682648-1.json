@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "HsbcJone",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-27T07:42:09.578787Z",
+  "title": "fix(rag): match Qdrant filters on literal dotted metadata keys",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3226",
+  "number": 3226,
+  "body": "## Summary\n\nFixes #3224.\n\n`QdrantStore` metadata filter keys are a flat dictionary of top-level `Chunk.metadata` names. `_build_metadata_filter()` was interpolating the key into `chunk.metadata.{key}`…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "HsbcJone",
+    "head_sha": "51949af3533c3f43b7b9b073ce0a4c1cb385350e",
+    "base_ref": "main",
+    "additions": 231,
+    "deletions": 8,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
