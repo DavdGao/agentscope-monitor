@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-27T13:14:07.729600Z",
+  "title": "fix(formatter): skip empty thinking blocks in Volcengine history",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3524",
+  "number": 3524,
+  "body": "## Why\n\n`_VolcengineFormatterBase._format_messages` appends every `ThinkingBlock.thinking` to `reasoning_content_blocks` without a truthiness check. An empty thinking string (`ThinkingBlock(thinking=\"…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "2b6765c0dd8c990dbbb6dfa56c78655532700da4",
+    "base_ref": "main",
+    "additions": 50,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
