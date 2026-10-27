@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "yetuge",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-27T10:03:24.163899Z",
+  "title": "fix(formatter): keep unsupported media visible as a text placeholder in the Anthropic formatters",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3106",
+  "number": 3106,
+  "body": "## Why\n\nFixes #3105.\n\n`_format_anthropic_data_block` returns `None` for media types the endpoint cannot ingest, and the plain-message branch dropped that `None` silently: a media-only user message dis…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "yetuge",
+    "head_sha": "d4c7efdbb78123ae6a3f73c40a4efbcf85165340",
+    "base_ref": "main",
+    "additions": 279,
+    "deletions": 37,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
