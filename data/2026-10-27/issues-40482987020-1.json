@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Tong-bit-art",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-27T09:43:56.984858Z",
+  "title": "[Bug]: LocalBackend.write_file/write_stream truncate the destination before writing, so a failed write destroys the previous file",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3508",
+  "number": 3508,
+  "body": "### Background / Description\n\nOn current main (`61556bf3`), `LocalBackend.write_file` and `LocalBackend.write_stream` open the final destination with `\"wb\"` before any payload has been written:\n\n```py…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Tong-bit-art"
+  },
+  "at_mobiles": []
+}
