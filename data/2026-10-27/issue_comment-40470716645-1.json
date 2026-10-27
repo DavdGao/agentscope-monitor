@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "shuxiachai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-27T08:01:46.002410Z",
+  "title": "fix(rag): reject nonpositive Milvus batch sizes",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3343#issuecomment-6436728376",
+  "number": 3343,
+  "body": "Hi @qbc2016, friendly ping on this one when you have a moment. It has been ready for review since Oct 16, CI is green, and it still merges cleanly into current `main`. I also re-ran the Milvus, MongoD…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "shuxiachai",
+    "commenter": "shuxiachai"
+  },
+  "at_mobiles": []
+}
