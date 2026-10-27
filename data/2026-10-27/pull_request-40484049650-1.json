@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Tong-bit-art",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-27T09:52:12.110395Z",
+  "title": "fix(tool): publish LocalBackend writes only when complete",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3511",
+  "number": 3511,
+  "body": "## AgentScope Version\n\n2.0.12dev (`main` @ `61556bf3`)\n\n## Description\n\nFixes #3508.\n\n`LocalBackend.write_file` / `write_stream` opened the final destination with `\"wb\"` before any payload was written…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Tong-bit-art",
+    "head_sha": "c578b9cc364926a29ab9af5471d5c6054e80e358",
+    "base_ref": "main",
+    "additions": 207,
+    "deletions": 14,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
