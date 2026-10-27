@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-27T15:10:53.403426Z",
+  "title": "fix(embedding): honor embedding_cache on the Gemini multimodal path",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3529",
+  "number": 3529,
+  "body": "## Why\n\n`GeminiEmbeddingModel.__init__` accepts and documents `embedding_cache` (\"Optional embedding cache.\") and stores it on the instance, and the text path (`_call_text`) uses it for both retrieve …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "06a890b15913eac54a098ec6e219c8fd4343cc72",
+    "base_ref": "main",
+    "additions": 65,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
