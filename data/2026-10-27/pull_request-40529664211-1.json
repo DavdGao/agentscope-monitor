@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-27T15:18:42.994934Z",
+  "title": "fix(embedding): deep-copy DashScope multimodal cache identifier",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3533",
+  "number": 3533,
+  "body": "## Why\n\n`_call_multimodal` builds its cache identifier from `api_kwargs` with a shallow comprehension:\n\n```python\ncache_identifier = {k: v for k, v in api_kwargs.items() if k != \"api_key\"}\n```\n\nso `ca…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "8b66717a720f122076441b2063277d2aaf50803b",
+    "base_ref": "main",
+    "additions": 38,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
