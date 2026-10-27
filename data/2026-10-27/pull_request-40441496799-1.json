@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "wuyaoHB",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-27T02:58:29.406769Z",
+  "title": "fix(tool): restore blocked_by when a completed task is reopened",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3506",
+  "number": 3506,
+  "body": "## PR Title Format\n\n`fix(tool): restore blocked_by when a completed task is reopened` — Conventional Commits, scope lowercase.\n\n## AgentScope Version\n\n`2.0.11.dev0` (main @ 44b5d520)\n\n## Description\n\n…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "wuyaoHB",
+    "head_sha": "ee569e94a534010e9390fc42e481b944cd8d81b5",
+    "base_ref": "main",
+    "additions": 140,
+    "deletions": 7,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
