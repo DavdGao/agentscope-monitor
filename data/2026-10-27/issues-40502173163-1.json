@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-27T12:14:27.900649Z",
+  "title": "Bug: DashScope always sends enable_thinking=false (dead tri-state guard)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3517",
+  "number": 3517,
+  "body": "### Describe the bug\n\n`DashScopeChatModel._call_api` guards the option with a None check:\n\n```python\nif self.parameters.thinking_enable is not None:\n    eb.setdefault(\"enable_thinking\", self.parameter…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Kiko0301"
+  },
+  "at_mobiles": []
+}
