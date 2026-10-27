@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-27T12:13:16.407754Z",
+  "title": "Bug: ACCEPT_EDITS/DONT_ASK auto-allow covers whole compound command when only the first word is a filesystem command",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3514",
+  "number": 3514,
+  "body": "### Describe the bug\n\nIn `Bash.check_permissions` step 6 (ACCEPT_EDITS / DONT_ASK auto-allow for filesystem commands), the command-name check uses only the first word of the **raw** command string:\n\n`…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Kiko0301"
+  },
+  "at_mobiles": []
+}
