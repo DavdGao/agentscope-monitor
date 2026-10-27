@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-27T15:16:30.608805Z",
+  "title": "fix(embedding): normalize one-peace singular embedding key in DashScope",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3531",
+  "number": 3531,
+  "body": "## Why\n\n`_MULTIMODAL_PREFIXES` contains the bare prefix `\"multimodal-embedding-\"`, so `model=\"multimodal-embedding-one-peace-v1\"` routes to `_call_multimodal`, which then parses the response with:\n\n``…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "7f070dc3d4a706f0b2d2f8da2ccf1c2e9a0ba259",
+    "base_ref": "main",
+    "additions": 23,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
