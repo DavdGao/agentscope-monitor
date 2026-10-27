@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "yetuge",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-27T10:03:19.789366Z",
+  "title": "fix(formatter): keep unsupported media visible as a text placeholder in the Anthropic formatters",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3106#issuecomment-6438926894",
+  "number": 3106,
+  "body": "Closing this for housekeeping: it has been open for 24 days with no human review in a repository that is otherwise actively merged (PRs landed as recently as today), and it has since gone conflicting …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "yetuge",
+    "commenter": "yetuge"
+  },
+  "at_mobiles": []
+}
