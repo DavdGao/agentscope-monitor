@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-27T13:29:20.595373Z",
+  "title": "fix(embedding): declare retryable exceptions for Gemini and Ollama models",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3528",
+  "number": 3528,
+  "body": "## Why\n\n`EmbeddingModelBase._call_with_retry` only retries exceptions returned by `_get_retryable_exceptions()`, and the base implementation returns `()`:\n\n```python\nretryable = tuple(self._get_retrya…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "50ceb3f40c6a546f6adaf63bab979519af10210b",
+    "base_ref": "main",
+    "additions": 70,
+    "deletions": 0,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
