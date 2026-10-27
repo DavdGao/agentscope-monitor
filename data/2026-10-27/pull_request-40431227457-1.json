@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "pei711",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-27T01:13:07.470336Z",
+  "title": "fix(webui): include full calendar days in schedule date filter",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3504",
+  "number": 3504,
+  "body": "## AgentScope Version\n\n`2.0.11dev`\n\n## Description\n\nFixes #3503.\n\n### Background & Problem\nOn the Web UI's **Schedule → List** page, filtering schedules by selecting a single day (e.g., 2026-10-27 to …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "pei711",
+    "head_sha": "efb3b0b14a8949d2337fe18afa6d32d46884ced9",
+    "base_ref": "main",
+    "additions": 3,
+    "deletions": 3,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
