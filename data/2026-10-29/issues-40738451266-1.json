@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-28T17:43:58.494924Z",
+  "title": "[Bug]: Bubblewrap smoke probe passes on bwrap < 0.5.0, then every sandbox command fails with 'Unknown option --clearenv'",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3549",
+  "number": 3549,
+  "body": "## Prerequisites\n\n- [x] I have searched the existing issues and pull requests; this is not a duplicate.\n- [x] This is a reproducible bug, not a usage question.\n\n## Background / Description\n\n`Bubblewra…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "RerankerGuo"
+  },
+  "at_mobiles": []
+}
