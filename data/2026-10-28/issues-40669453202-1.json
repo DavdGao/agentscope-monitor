@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lsSuperman",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-28T10:06:37.538532Z",
+  "title": "ReActConfig.stop_on_reject has never been implemented — denied tool calls always feed back into the reasoning loop",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3542",
+  "number": 3542,
+  "body": "## Summary\n\n`ReActConfig.stop_on_reject` promises *\"Whether to stop replying when being rejected to execute tools\"*, but no code has ever consumed it. The flag is a dead switch in every released versi…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "lsSuperman"
+  },
+  "at_mobiles": []
+}
