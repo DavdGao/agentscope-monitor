@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "golitter",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-28T12:51:00.810305Z",
+  "title": "fix(webui): respect selected end dates when creating schedules",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3547",
+  "number": 3547,
+  "body": "## AgentScope Version\n\n`2.0.12dev`\n\n## Description\n\nFixes #3545.\n\n### Background & Problem\n\nWhen creating a recurring task on the Web UI's **Schedule** page, the selected **End Date** is neither submi…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "golitter",
+    "head_sha": "f7623c07122b4d6291a3549724f39831e9c94808",
+    "base_ref": "main",
+    "additions": 317,
+    "deletions": 4,
+    "changed_files": 7
+  },
+  "at_mobiles": []
+}
