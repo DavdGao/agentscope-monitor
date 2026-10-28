@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "somnus-J-307",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-28T15:59:29.403667Z",
+  "title": "feat(webui): display background tool execution status in the side panel",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1800#issuecomment-6473925345",
+  "number": 1800,
+  "body": "I'd like to work on the frontend portion of this issue. Is it available for a community contributor?\n\nMy proposed first PR is a read-only background-tools panel in the existing PanelDock, scoped to th…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "somnus-J-307"
+  },
+  "at_mobiles": []
+}
