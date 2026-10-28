@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-28T09:52:52.014506Z",
+  "title": "fix(embedding): reject mismatched credential providers",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3541",
+  "number": 3541,
+  "body": "## AgentScope Version\n\n`2.0.12dev` (based on upstream `main` at `e763b351538c8d7b52f23565f8873a33fc5a5edc`).\n\n## Description\n\n`build_embedding_model` deserializes the stored credential, but independen…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "15e9448cb2fbe6c54c5f3cd38e6f0e0f6be9b264",
+    "base_ref": "main",
+    "additions": 62,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
