@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-28T09:55:14.899036Z",
+  "title": "fix(embedding): let per-call dimensions reach the OpenAI embedding API",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3527",
+  "number": 3527,
+  "body": "## Why\n\n`OpenAIEmbeddingModel._call_api` assigns the instance default **after** merging per-call kwargs:\n\n```python\napi_kwargs: dict[str, Any] = {\n    \"input\": inputs,\n    \"model\": self.model,\n    \"en…",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "0dbbc7ab1e6d69c51b82069b19c8301662608226",
+    "base_ref": "main",
+    "additions": 52,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
