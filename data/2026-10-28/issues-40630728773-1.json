@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Carrot-Ve",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-28T04:09:42.616880Z",
+  "title": "[Bug]: TaskCreate reuses deleted task IDs, allowing stale updates to modify unrelated tasks",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3538",
+  "number": 3538,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [
+    "Bug"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Carrot-Ve"
+  },
+  "at_mobiles": []
+}
