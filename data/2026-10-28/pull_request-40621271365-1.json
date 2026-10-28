@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-28T02:30:05.694072Z",
+  "title": "fix(middleware): tolerate unseen replies in budget middleware accumulation",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3534",
+  "number": 3534,
+  "body": "## Why\n\n`ReplyBudgetControlMiddleware.on_reply` accumulates cost with raw indexing:\n\n```python\nagent.state.middle_context[middleware_key][event.reply_id] += (\n    self.input_token_weight * event.input…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "d4539e44bae4ef898accd68b4c42e7cab66cabf0",
+    "base_ref": "main",
+    "additions": 45,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
