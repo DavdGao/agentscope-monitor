@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-28T02:56:47.098205Z",
+  "title": "fix(tool): keep resolvable annotations when one hint fails",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3484",
+  "number": 3484,
+  "body": "## AgentScope Version\n\n2.0.11dev (main)\n\n## Description\n\nFixes #3446\n\n**Background.** `_resolve_type_hints()` in `src/agentscope/tool/_utils.py` calls `typing.get_type_hints()` on the whole function. …",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "mengchen-atx",
+    "head_sha": "066a6345ee8137afb06bb4489772466797c0cc3f",
+    "base_ref": "main",
+    "additions": 40,
+    "deletions": 6,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
