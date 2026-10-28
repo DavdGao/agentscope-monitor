@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "shi-felix",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-28T10:06:00.772791Z",
+  "title": "fix(tool): keep resolvable annotations when one hint fails",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3480#issuecomment-6466132361",
+  "number": 3480,
+  "body": "Closing as superseded by #3484, which landed the same fix: `_resolve_type_hints` now falls back to resolving the remaining annotations one by one instead of dropping every hint when `get_type_hints` r…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "shi-felix",
+    "commenter": "shi-felix"
+  },
+  "at_mobiles": []
+}
