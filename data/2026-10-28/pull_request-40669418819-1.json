@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "shi-felix",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-28T10:06:15.696913Z",
+  "title": "fix(tool): keep resolvable annotations when one hint fails",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3480",
+  "number": 3480,
+  "body": "## Summary\n\nA tool module that uses postponed annotations and imports a parameter type only under `if TYPE_CHECKING:` (typically the injected `_agent_state: AgentState | None`) made `_resolve_type_hin…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "shi-felix",
+    "head_sha": "603c811ca95c488dae5fe7da9fc83fe4acb619b4",
+    "base_ref": "main",
+    "additions": 49,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
