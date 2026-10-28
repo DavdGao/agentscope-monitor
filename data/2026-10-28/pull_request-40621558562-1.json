@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-28T02:33:02.685467Z",
+  "title": "fix(tts): keep CosyVoice cold-start buffer when the send fails",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3535",
+  "number": 3535,
+  "body": "## Why\n\n`DashScopeCosyVoiceTTSModel.push` empties the cold-start buffer **before** the send:\n\n```python\ntext_to_send = self._cold_start_buffer\nself._cold_start_buffer = \"\"          # cleared BEFORE th…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "12abbf94e4b50d07e73f5dfcef352df9758bbd88",
+    "base_ref": "main",
+    "additions": 36,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
