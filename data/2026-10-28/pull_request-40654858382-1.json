@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Frank-zhu2000",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-28T08:10:14.926114Z",
+  "title": "fix(tool): stop reusing deleted task ids",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3539",
+  "number": 3539,
+  "body": "## AgentScope Version\n\n`2.0.12dev` (main at `3a0e73fa`)\n\n## Description\n\nFixes #3538.\n\n`TaskCreate` picked the next id as one more than the highest numeric id still in the task list. Deleting the high…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Frank-zhu2000",
+    "head_sha": "6de339903a762bead1938dd2fe582be3d3477641",
+    "base_ref": "main",
+    "additions": 228,
+    "deletions": 12,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
