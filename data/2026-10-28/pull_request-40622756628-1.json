@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-28T02:45:18.090153Z",
+  "title": "fix(app): remove server-path skill import endpoint",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3536",
+  "number": 3536,
+  "body": "## AgentScope Version\n\n2.0.12dev\n\n## Description\n\nRemove the deprecated POST `/workspace/skill` endpoint and its request schema and frontend helper.\n\nExisting clients must `use /workspace/skill/upload…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "1213757a3365a864edb91d02c7b0fa1a541e4f28",
+    "base_ref": "main",
+    "additions": 88,
+    "deletions": 57,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
