@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-28T09:12:06.603135Z",
+  "title": "fix(embedding): let a per-call dimensions override the OpenAI default",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3468",
+  "number": 3468,
+  "body": "Fixes #3467\n\n## Summary\n\n`OpenAIEmbeddingModel._call_api` spread `**kwargs` first and then overwrote the key with `api_kwargs[\"dimensions\"] = self.dimensions`, so with the default `pass_dimensions=Tru…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Wilson0511",
+    "head_sha": "3bc747a0ffc32060e77740f4b8617630862f39dc",
+    "base_ref": "main",
+    "additions": 93,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
