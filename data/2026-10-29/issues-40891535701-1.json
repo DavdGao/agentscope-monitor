@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Yzzz88",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T14:27:03.554143Z",
+  "title": "[Bug]: TeamPipeline leaves the leader awaiting TeamAssign after a member model failure",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3577",
+  "number": 3577,
+  "body": "### Prerequisites\n\n- [x] Searched related issues and pull requests, including TeamPipeline, TeamAssign, member failure, leader awaiting, and orphan tool calls.\n- [x] Reproduced on current main, commit…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Yzzz88"
+  },
+  "at_mobiles": []
+}
