@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "BlueX888",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T16:53:46.150420Z",
+  "title": "[Bug]: a shared Toolkit leaks per-agent tools between agents (CompressContext / GenerateStructuredOutput)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3584",
+  "number": 3584,
+  "body": "### Background / Description\n\nTwo agents can share one `Toolkit` (the comment in `src/agentscope/agent/_agent.py:206-214` explicitly anticipates \"another agent sharing the toolkit\"). Per-agent dynamic…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "BlueX888"
+  },
+  "at_mobiles": []
+}
