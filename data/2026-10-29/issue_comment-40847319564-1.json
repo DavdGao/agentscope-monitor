@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "konlue",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T09:08:51.635948Z",
+  "title": "[Bug]: XAIChatModel crashes on nullable token counters because the usage normalization missed the xAI adapter",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3558#issuecomment-6492573953",
+  "number": 3558,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "konlue",
+    "commenter": "konlue"
+  },
+  "at_mobiles": []
+}
