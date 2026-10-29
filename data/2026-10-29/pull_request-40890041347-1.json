@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "yang0228",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T14:18:00.990327Z",
+  "title": "fix(service): apply chat model-card parameter defaults",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3284",
+  "number": 3284,
+  "body": "## AgentScope Version\n\n2.0.10; based on main at `34457377b2919f69cd2cc3391552a333bc1791af`.\n\n## Description\n\nFixes #3280.\n\nThe chat factory previously built provider Parameters only from the session c…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "yang0228",
+    "head_sha": "6a21921604b67a6f6c8b3289bbd7494c300f4877",
+    "base_ref": "main",
+    "additions": 293,
+    "deletions": 16,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
