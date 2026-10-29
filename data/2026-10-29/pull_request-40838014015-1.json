@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T07:50:38.272221Z",
+  "title": "fix(rag): preserve source blobs when knowledge base deletion fails",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3556",
+  "number": 3556,
+  "body": "## AgentScope Version\n\n`2.0.12dev` (based on upstream `main` at `07fda8fa`)\n\n## Description\n\nFixes #3555.\n\nDeleting a knowledge base previously removed every uploaded source blob before asking the kno…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "cba67f9a881982782a746a0d5efe87850628e8a9",
+    "base_ref": "main",
+    "additions": 78,
+    "deletions": 6,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
