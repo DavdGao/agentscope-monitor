@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T06:37:04.264854Z",
+  "title": "feat(model): make DeepSeek thinking_enable tri-state so unset no longer force-sends thinking.type=disabled",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3398",
+  "number": 3398,
+  "body": "## AgentScope Version\n\n2.0.10dev (main @ `7c198c5`)\n\n## Description\n\n`DeepSeekChatModel.Parameters.thinking_enable` is declared as a non-optional `bool` with `default=False` (`src/agentscope/model/_de…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "konlue",
+    "head_sha": "3f4f931f35156ebaa6738b31c06605ed46c85987",
+    "base_ref": "main",
+    "additions": 159,
+    "deletions": 21,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
