@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T07:54:48.866908Z",
+  "title": "fix(rag): normalize MongoDB euclidean scores",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3553",
+  "number": 3553,
+  "body": "## Summary\n- negate MongoDB Atlas vector-search distances when the collection uses `euclidean`\n- preserve the shared `VectorSearchResult.score` higher-is-better contract used by knowledge-base merging…",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "4e05c21aa0fa821e154669e62d507d0e7a0711ea",
+    "base_ref": "main",
+    "additions": 36,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
