@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T10:07:21.396518Z",
+  "title": "fix(message): return an empty string when no text blocks are present",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3565",
+  "number": 3565,
+  "body": "## AgentScope Version\n\n2.0.12dev\n\n## Description\n\nFixes #3492\n\nSupersedes #3493 and #3526 by making `Msg.get_text_content()` always return a string, with regression coverage for all affected formatter…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "1925205aebdc92195ac72b895e74b402fc1359f9",
+    "base_ref": "main",
+    "additions": 123,
+    "deletions": 16,
+    "changed_files": 11
+  },
+  "at_mobiles": []
+}
