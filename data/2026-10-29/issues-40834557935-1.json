@@ -1,0 +1,28 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T07:18:28.413563Z",
+  "title": "[Bug]: DashScopeChatModel force-injects enable_thinking=False into every request even when the caller never configured it",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3191",
+  "number": 3191,
+  "body": "### Background / Description\n\n`DashScopeChatModel.Parameters.thinking_enable` is declared as a non-optional `bool` with `default=False` (`src/agentscope/model/_dashscope/_model.py:53-57`):\n\n```python\n…",
+  "labels": [
+    "Bug",
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "Winoren"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "konlue"
+  },
+  "at_mobiles": []
+}
