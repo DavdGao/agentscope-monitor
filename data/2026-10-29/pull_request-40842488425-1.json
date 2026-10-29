@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T08:29:35.331509Z",
+  "title": "feat(model): support tri-state thinking controls across adapters and UI",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3557",
+  "number": 3557,
+  "body": "## AgentScope Version\n\n2.0.12dev\n\n## Description\n\nMake `thinking_enable` nullable with a default of `None`, and replace the UI toggle with Default / On / Off. Honor explicit reasoning effort when unse…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "a328ccbea5ea7eb34a4ca96f2a748dce98eddc06",
+    "base_ref": "main",
+    "additions": 294,
+    "deletions": 36,
+    "changed_files": 13
+  },
+  "at_mobiles": []
+}
