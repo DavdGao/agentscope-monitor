@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lll-hhh",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T09:26:43.498270Z",
+  "title": "[Bug]: DashScope embedding adapter ignores response input indices",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3561",
+  "number": 3561,
+  "body": "`DashScopeEmbeddingModel` extracts vectors from both SDK response arrays in their returned array order, discarding the corresponding input index (`text_index` for text embeddings, `index` for multimod…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "lll-hhh"
+  },
+  "at_mobiles": []
+}
