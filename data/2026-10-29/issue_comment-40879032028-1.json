@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T13:07:19.601728Z",
+  "title": "[Bug]: DashScope embedding adapter ignores response input indices",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3561#issuecomment-6497512413",
+  "number": 3561,
+  "body": "I reproduced this on current main with two focused tests. A text response carrying text_index values [1, 0] returns vectors in the wrong input order and stores that order in FileEmbeddingCache; a mult…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "lll-hhh",
+    "commenter": "Kiko0301"
+  },
+  "at_mobiles": []
+}
