@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T13:44:08.671686Z",
+  "title": "fix(app): drain all index tasks at consumer startup",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3575",
+  "number": 3575,
+  "body": "## Description\n\nFixes #3574. The issue was automatically closed because this account already has five open issues; it records the reproduction and affected startup path.\n\n`IndexTaskConsumer` previousl…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "167279d9cad8e8d2eb2cc74680a150d05a51a60b",
+    "base_ref": "main",
+    "additions": 40,
+    "deletions": 11,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
