@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "dislovelhl",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T16:05:25.129621Z",
+  "title": "Example or docs link for agentscope-acgs: rule-based tool-call checks as an agent middleware",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3580",
+  "number": 3580,
+  "body": "**Background**\n\nAgentScope 2.x runs every tool call through a permission check, and agent middlewares can implement\n`on_check_permission` (since 2.0.6) and `on_acting`. I maintain a small community pa…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "dislovelhl"
+  },
+  "at_mobiles": []
+}
