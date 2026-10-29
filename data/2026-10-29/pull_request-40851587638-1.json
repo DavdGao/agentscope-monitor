@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lll-hhh",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T09:41:25.907940Z",
+  "title": "fix(embedding): preserve DashScope response input order",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3564",
+  "number": 3564,
+  "body": "## AgentScope Version\n\n2.0.12.dev0; based on main `2599410f46250cc7db54948fae378e7282bf9426`.\n\n## Description\n\nFixes #3561.\n\nThe DashScope embedding adapter drops response input indices and extracts v…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "lll-hhh",
+    "head_sha": "2b82ca4daa647d244293296c236568f2be9071b6",
+    "base_ref": "main",
+    "additions": 210,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
