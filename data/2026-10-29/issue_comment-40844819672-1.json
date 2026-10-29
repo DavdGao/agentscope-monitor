@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "12kkqq",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T08:48:41.999174Z",
+  "title": "fix(rag): accept the standard YAML media type",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3416#issuecomment-6492173814",
+  "number": 3416,
+  "body": "@DavdGao This PR is now ready for review and addresses confirmed issue #3414, which is assigned to me. The focused regression tests and changed-file pre-commit checks pass locally; the validation sect…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "12kkqq",
+    "commenter": "12kkqq"
+  },
+  "at_mobiles": []
+}
