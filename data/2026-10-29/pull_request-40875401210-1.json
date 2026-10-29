@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T12:42:07.586771Z",
+  "title": "fix(app): roll back SOP sessions when run creation is cancelled",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3568",
+  "number": 3568,
+  "body": "## AgentScope Version\n\n2.0.12dev (based on main at 2f8c0299)\n\n## Description\n\nSOP run creation writes its per-agent sessions before writing the run record. If the create task is cancelled while waitin…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "c44509ed5e3b5e453c940d865188c16049149a4c",
+    "base_ref": "main",
+    "additions": 133,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
