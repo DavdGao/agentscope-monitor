@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Java123456com",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T16:07:44.424392Z",
+  "title": "fix(pipeline): clear the leader's parked TeamAssign when a member's model fails",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3581",
+  "number": 3581,
+  "body": "## Problem\n\nFixes #3577.\n\n`TeamPipeline.reply_stream` only clears the leader's parked `TeamAssign` inside\n`except asyncio.CancelledError`:\n\n```python\ntry:\n    async for evt in self._reply(inputs):\n   …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Java123456com",
+    "head_sha": "6b806efaab156be44176e7edd8118a5cadfd3732",
+    "base_ref": "main",
+    "additions": 59,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
