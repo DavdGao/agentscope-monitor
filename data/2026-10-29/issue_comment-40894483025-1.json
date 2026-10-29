@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "its-amann",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T14:44:36.825036Z",
+  "title": "[Bug]: FileEmbeddingCache accepts negative eviction budgets",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3576#issuecomment-6499815683",
+  "number": 3576,
+  "body": "/assign\n\nHi! I'd like to work on this. I'll follow up with a PR that includes a fix and tests.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "cw-jlu",
+    "commenter": "its-amann"
+  },
+  "at_mobiles": []
+}
