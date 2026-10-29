@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "konlue",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T15:38:24.544032Z",
+  "title": "fix(tool): let TaskList and TaskGet report read-only so explore mode allows them",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3579",
+  "number": 3579,
+  "body": "Fixes #3567.\n\n## AgentScope Version\n\n2.0.12dev (main @ `2f8c029`)\n\n## Description\n\n`TaskList` and `TaskGet` only read the task list, but they inherit `is_read_only: bool = False` from `_TaskToolBase` …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "konlue",
+    "head_sha": "dc7ec9a98b7e19e0178f3601daa1541b9d25152a",
+    "base_ref": "main",
+    "additions": 34,
+    "deletions": 0,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
