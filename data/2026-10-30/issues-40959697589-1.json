@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "runshouse",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T21:40:09.676757Z",
+  "title": "Add a read-only Magic Hour MCP media recovery example",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3587",
+  "number": 3587,
+  "body": "I’m contributing on behalf of Magic Hour. I’d like to add a concise `examples/mcp_media_recovery` example demonstrating an authenticated remote MCP call for an asynchronous media project.\n\nThe user wo…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "runshouse"
+  },
+  "at_mobiles": []
+}
