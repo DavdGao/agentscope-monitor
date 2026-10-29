@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "lsSuperman",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T07:42:20.984130Z",
+  "title": "fix(agent): implement stop_on_reject to stop the reply on denied tool calls",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3543",
+  "number": 3543,
+  "body": "Fixes #3542\n\n## What & why\n\n`ReActConfig.stop_on_reject` has been a schema-only field since #1565: nothing consumed it, so a denied tool call was always fed back for another reasoning round no matter …",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "lsSuperman",
+    "head_sha": "002770ae03cb9388ea9786520435d7f570fae828",
+    "base_ref": "main",
+    "additions": 469,
+    "deletions": 67,
+    "changed_files": 7
+  },
+  "at_mobiles": []
+}
