@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "Jay0130-a",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T10:00:19.032367Z",
+  "title": "fix(permission): normalize paths before matching allow rules to block '..' traversal",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3207",
+  "number": 3207,
+  "body": "## PR Title Format\n\n`fix(permission): normalize paths before matching allow rules to block '..' traversal`\n\nConventional Commits: `fix` type, `permission` scope, description starts lowercase.\n\n## Agen…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "Jay0130-a",
+    "head_sha": "59df60a5bfc4e6dfa6e3ebceba5203bb84c4742c",
+    "base_ref": "main",
+    "additions": 41,
+    "deletions": 5,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
