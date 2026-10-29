@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T10:10:49.719931Z",
+  "title": "fix(formatter): normalize textless system message in xAI multi-agent formatter",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3526#issuecomment-6493861095",
+  "number": 3526,
+  "body": "Thanks for catching this and adding a regression test. We’ve updated `Msg.get_text_content()` to always return a string, so the xAI formatter now passes an empty string to system() for textless messag…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Kiko0301",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
