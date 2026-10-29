@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "shaojian0514",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T09:57:39.139497Z",
+  "title": "fix(formatter): preserve unsupported media in DeepSeek conversations",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3566",
+  "number": 3566,
+  "body": "## AgentScope Version\n\n2.0.12dev, based on 2599410f46250cc7db54948fae378e7282bf9426.\n\n## Description\n\nFixes #3110.\n\n### Problem\n\nDeepSeek's text-only default drops unsupported attachments in ordinary …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "shaojian0514",
+    "head_sha": "4632773fdf9c4321f63ad8636139bd74c172c656",
+    "base_ref": "main",
+    "additions": 182,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
