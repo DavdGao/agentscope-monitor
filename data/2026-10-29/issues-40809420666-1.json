@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T02:58:06.619827Z",
+  "title": "[Bug]:compression_model 启用 stream=True 时 _compress_memory_if_needed 报 AttributeError: 'NoneType' object has no attribute 'metadata'",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1546",
+  "number": 1546,
+  "body": "标题\ncompression_model 启用 stream=True 时 _compress_memory_if_needed 报 AttributeError: 'NoneType' object has no attribute\n  'metadata'\n\n  内容\n\n  问题描述\n\n  当 ReActAgent 配置了 compression_config 且压缩模型复用了主模型（stre…",
+  "labels": [
+    "state/stale-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "jinchangrong-jcr"
+  },
+  "at_mobiles": []
+}
