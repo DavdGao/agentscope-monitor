@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "its-amann",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T16:15:02.761894Z",
+  "title": "fix(embedding): reject negative file cache budgets",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3582#issuecomment-6502065875",
+  "number": 3582,
+  "body": "@qbc2016 could you review this when you have a chance? It rejects negative budgets at construction and preserves the zero-limit behavior from #2962. The regression tests and embedding suite pass.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "its-amann",
+    "commenter": "its-amann"
+  },
+  "at_mobiles": []
+}
