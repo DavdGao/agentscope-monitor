@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T13:33:12.921293Z",
+  "title": "Bug: qwen2.5-vl-embedding batches collapse multiple inputs into one fused vector",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3570",
+  "number": 3570,
+  "body": "### Describe the bug\n\n`DashScopeEmbeddingModel` batches up to 20 inputs together for `qwen2.5-vl-embedding`. Alibaba Cloud documents this model as fusion-only: all `contents` in one request become **o…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Kiko0301"
+  },
+  "at_mobiles": []
+}
