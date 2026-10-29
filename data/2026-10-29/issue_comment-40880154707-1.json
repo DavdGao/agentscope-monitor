@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T13:14:55.212568Z",
+  "title": "fix(embedding): restore DashScope response input order",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3569#issuecomment-6497679545",
+  "number": 3569,
+  "body": "Closed as a duplicate of #3564. I missed that existing PR in the initial issue-linked search; its fix covers the same response-order bug and has broader regression coverage. Thanks to the PR guard for…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Kiko0301",
+    "commenter": "Kiko0301"
+  },
+  "at_mobiles": []
+}
