@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T13:43:24.636093Z",
+  "title": "Bug: index consumer startup strands tasks beyond its first drain batch",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3574",
+  "number": 3574,
+  "body": "### Describe the bug\n\n`IndexTaskConsumer.__aenter__` performs only one startup `queue_drain`, capped at `max_batch` (32 by default). Redis Pub/Sub signals sent while all consumers were down are not re…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Kiko0301"
+  },
+  "at_mobiles": []
+}
