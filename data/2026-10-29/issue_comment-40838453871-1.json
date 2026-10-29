@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T07:54:45.149688Z",
+  "title": "fix(rag): normalize MongoDB euclidean scores",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3553#issuecomment-6491153332",
+  "number": 3553,
+  "body": "Thanks for the contribution. The proposed fix is based on a misunderstanding of MongoDB’s scoring semantics.\n\nFor Euclidean similarity, MongoDB’s `vectorSearchScore` already returns a higher-is-better…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Kiko0301",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
