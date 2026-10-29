@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "haotianqi666",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T17:13:08.085317Z",
+  "title": "fix(middleware): keep base model when a routed candidate cannot read media",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3586",
+  "number": 3586,
+  "body": "## AgentScope Version\n\n`2.0.12dev` (`upstream/main` at `2f8c029966990aa8456e623d6664ceedd8188c2e`)\n\n## Description\n\nFixes #3585\n\nWhen a vision-capable base model receives a user image but `ModelRouter…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "haotianqi666",
+    "head_sha": "4f7865a064dd212098618d23fccf8886c8e315a3",
+    "base_ref": "main",
+    "additions": 88,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
