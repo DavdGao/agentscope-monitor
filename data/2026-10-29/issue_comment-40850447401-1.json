@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T09:32:45.354878Z",
+  "title": "[Bug]: unowned session and SOP deletes cancel other users' work before returning 404",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3560#issuecomment-6493088953",
+  "number": 3560,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Kiko0301",
+    "commenter": "Kiko0301"
+  },
+  "at_mobiles": []
+}
