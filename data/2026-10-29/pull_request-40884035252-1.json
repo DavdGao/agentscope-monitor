@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T13:40:19.158266Z",
+  "title": "fix(rag): acquire index leases after local throttle",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3573",
+  "number": 3573,
+  "body": "## Description\n\nFixes #3572. The issue was automatically closed by the five-open-issue account limit; the deterministic reproduction and impact are recorded there.\n\n`IndexWorker.process` previously ac…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "2fe50b1f4531ca56a72999f6233c85cfc7889911",
+    "base_ref": "main",
+    "additions": 60,
+    "deletions": 20,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
