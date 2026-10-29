@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T13:13:09.785179Z",
+  "title": "fix(embedding): restore DashScope response input order",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3569",
+  "number": 3569,
+  "body": "## AgentScope Version\n\n2.0.12dev (based on main at 2f8c0299)\n\n## Description\n\nDashScope text embedding responses carry text_index, and multimodal responses carry index; both fields identify the input …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "adbd66dc7e68f0ff4086ad50ec1331e79e1298ab",
+    "base_ref": "main",
+    "additions": 80,
+    "deletions": 5,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
