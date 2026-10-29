@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T07:18:33.322101Z",
+  "title": "Bug: MoonshotChatModel always forces thinking.type=disabled for non-k3 models",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3516",
+  "number": 3516,
+  "body": "### Describe the bug\n\nFor non-k3 models, `MoonshotChatModel._call_api` unconditionally injects the thinking option into `extra_body`:\n\n```python\nelse:\n    thinking_type = \"enabled\" if self.parameters.…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "Kiko0301"
+  },
+  "at_mobiles": []
+}
