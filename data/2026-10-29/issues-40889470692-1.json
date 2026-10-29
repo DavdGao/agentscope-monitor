@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "cw-jlu",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T14:14:29.486652Z",
+  "title": "[Bug]: FileEmbeddingCache accepts negative eviction budgets",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3576",
+  "number": 3576,
+  "body": "### Background / Description\n\n`FileEmbeddingCache` accepts negative `max_file_number` and `max_cache_size` values without reporting a configuration error\n\nWith `max_file_number=-1`, the next write evi…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "cw-jlu"
+  },
+  "at_mobiles": []
+}
