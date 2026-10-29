@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T13:34:42.419681Z",
+  "title": "fix(embedding): preserve qwen2.5 fusion input cardinality",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3571",
+  "number": 3571,
+  "body": "## Description\n\nFixes #3570. The issue was automatically closed because this account already has five open issues; the reproduction and provider reference are in the issue body.\n\nAlibaba Cloud documen…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "07972abd4e756f1a7c0db8b1edd57f4a6f6604ca",
+    "base_ref": "main",
+    "additions": 41,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
