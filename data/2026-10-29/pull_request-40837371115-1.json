@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T07:44:46.138858Z",
+  "title": "feat(model): omit Gemini thinking_config unless thinking is explicitly configured",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3523",
+  "number": 3523,
+  "body": "## Description\n\n`GeminiChatModel` always attached a `thinking_config`; with `thinking_enable` defaulting to `False` every default-configured request carried `include_thoughts: False, thinking_budget: …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "987e4b544c4bf28771bdafe1dffcffce96a48f5d",
+    "base_ref": "main",
+    "additions": 91,
+    "deletions": 15,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
