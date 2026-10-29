@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T03:16:57.935166Z",
+  "title": "feat(webui): add editable server-side chat queues",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2236",
+  "number": 2236,
+  "body": "## AgentScope Version\n\n2.0.12dev\n\n## Description\n\nUsers can submit their next messages while an agent is replying, inspect the pending turns, and edit, delete, or reorder them before execution. Ordina…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "8ad3ecccae5d64d723f11051ecb34cf4d8ea5ad1",
+    "base_ref": "main",
+    "additions": 6050,
+    "deletions": 243,
+    "changed_files": 32
+  },
+  "at_mobiles": []
+}
