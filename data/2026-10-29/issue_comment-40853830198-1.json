@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Jay0130-a",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T09:58:46.653089Z",
+  "title": "fix(tool): extract tee targets so dangerous-path checks can see them",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3347#issuecomment-6493622023",
+  "number": 3347,
+  "body": "Closing to keep the review queue focused. The change is still on the branch and can be reopened on request if it is useful.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Jay0130-a",
+    "commenter": "Jay0130-a"
+  },
+  "at_mobiles": []
+}
