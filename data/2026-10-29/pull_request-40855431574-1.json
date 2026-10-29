@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T10:10:36.023691Z",
+  "title": "fix(formatter): never emit a null system content for OpenAI-compatible providers",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3493",
+  "number": 3493,
+  "body": "Fixes #3492\n\n`SystemMsg(\"sys\", [])` is a valid message, but `Msg.get_text_content()` returns `None` when it has no `TextBlock`. The six OpenAI-compatible multi-agent formatters pass that value straigh…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "Starchaser1024",
+    "head_sha": "9a8bea0eb03ecfb4ba4b321863658a6c64e859bc",
+    "base_ref": "main",
+    "additions": 93,
+    "deletions": 6,
+    "changed_files": 7
+  },
+  "at_mobiles": []
+}
