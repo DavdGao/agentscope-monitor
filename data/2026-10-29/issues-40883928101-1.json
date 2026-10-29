@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T13:39:30.725961Z",
+  "title": "Bug: queued index jobs hold leases and heartbeat before a worker slot is available",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3572",
+  "number": 3572,
+  "body": "### Describe the bug\n\n`IndexWorker.process` acquires a storage lease and starts its lease-renewal heartbeat **before** `_guarded_pipeline` waits for the worker's concurrency semaphore. An upload backl…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Kiko0301"
+  },
+  "at_mobiles": []
+}
