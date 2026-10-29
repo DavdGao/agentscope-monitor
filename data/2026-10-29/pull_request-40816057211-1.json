@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T04:08:38.635455Z",
+  "title": "fix(tts): use first Gemini audio candidate",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3540",
+  "number": 3540,
+  "body": "## AgentScope Version\n\n`2.0.12dev` (based on upstream `main` at `c74c56cc`).\n\n## Description\n\nA Gemini `generate_content` response can contain multiple `candidates`, which are alternative outputs. `Ge…",
+  "labels": [
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "73b8a7aa677bc7d4acf792be56e81120f7543d38",
+    "base_ref": "main",
+    "additions": 43,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
