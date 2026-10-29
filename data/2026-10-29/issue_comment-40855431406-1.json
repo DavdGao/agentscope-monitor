@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T10:10:41.351423Z",
+  "title": "fix(formatter): never emit a null system content for OpenAI-compatible providers",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3493#issuecomment-6493856804",
+  "number": 3493,
+  "body": "Thanks for the fix and regression tests. We’ve addressed this at the message API level:`Msg.get_text_content()` now returns an empty string when no text blocks are present. This covers all six affecte…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Starchaser1024",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
