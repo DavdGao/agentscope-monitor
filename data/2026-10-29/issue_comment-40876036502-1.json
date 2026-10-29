@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T12:46:31.157438Z",
+  "title": "fix(app): roll back SOP sessions when run creation is cancelled",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3568#issuecomment-6497057520",
+  "number": 3568,
+  "body": "The PR guard is right that this has no linked issue. I currently have five open issues, which is the repository limit, so a new issue would be auto-closed. This is a focused bug fix: the PR descriptio…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Kiko0301",
+    "commenter": "Kiko0301"
+  },
+  "at_mobiles": []
+}
