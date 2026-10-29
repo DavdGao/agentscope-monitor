@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T07:18:22.986522Z",
+  "title": "feat(model): make DashScope thinking_enable tri-state",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3192",
+  "number": 3192,
+  "body": "## AgentScope Version\n\n2.0.10dev (main @ `72f3f6f`)\n\n## Description\n\n`DashScopeChatModel.Parameters.thinking_enable` is declared as a non-optional `bool` with `default=False` (`src/agentscope/model/_d…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "konlue",
+    "head_sha": "ef2462d2be6c515f51887c108779dbff8f2270fc",
+    "base_ref": "main",
+    "additions": 59,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
