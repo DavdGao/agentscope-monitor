@@ -1,0 +1,26 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "konlue",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T09:18:59.646009Z",
+  "title": "[Bug]: XAIChatModel crashes on nullable token counters because the usage normalization missed the xAI adapter",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3558",
+  "number": 3558,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [
+    "Bug",
+    "triage/suggest-close"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "konlue"
+  },
+  "at_mobiles": []
+}
