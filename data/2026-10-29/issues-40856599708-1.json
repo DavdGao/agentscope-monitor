@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T10:19:20.496580Z",
+  "title": "[Bug]: Six OpenAI-compatible multi-agent formatters emit a null system content for a textless system message",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3492",
+  "number": 3492,
+  "body": "### Prerequisites\n\n- [X] I have searched the existing issues and discussions, and this is not a duplicate.\n- [X] This is a bug, not a usage question.\n\n### Background\n\n`SystemMsg(\"sys\", [])` is a valid…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "Starchaser1024"
+  },
+  "at_mobiles": []
+}
