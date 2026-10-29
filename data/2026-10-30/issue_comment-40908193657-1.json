@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Java123456com",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T16:06:08.511158Z",
+  "title": "[Bug]: TeamPipeline leaves the leader awaiting TeamAssign after a member model failure",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3577#issuecomment-6501858339",
+  "number": 3577,
+  "body": "I'd like to take this one.\n\nConfirmed the mechanism on `main`: `TeamPipeline.reply_stream` (`src/agentscope/pipeline/_team_pipeline.py:191-204`) clears the leader's parked `TeamAssign` **only** inside…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Yzzz88",
+    "commenter": "Java123456com"
+  },
+  "at_mobiles": []
+}
