@@ -1,0 +1,26 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T06:37:04.473216Z",
+  "title": "[Bug]: DeepSeekChatModel force-sends thinking.type=disabled on every request even when the caller never configured thinking_enable",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3396",
+  "number": 3396,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [
+    "Bug",
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "konlue"
+  },
+  "at_mobiles": []
+}
