@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T06:43:06.563854Z",
+  "title": "Bug: DashScope always sends enable_thinking=false (dead tri-state guard)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3517#issuecomment-6489880122",
+  "number": 3517,
+  "body": "Thanks for reporting this. This duplicates #3191, opened on October 9, which describes the same root cause and proposed tri-state fix. The fix and regression tests are tracked in #3192.\n\nPlease follow…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Kiko0301",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
