@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "Jay0130-a",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-29T09:58:50.909281Z",
+  "title": "fix(app): serialize scheduler reconcile so a stale read cannot undo it",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3346",
+  "number": 3346,
+  "body": "## PR Title Format\n\n`fix(app): serialize scheduler reconcile so a stale read cannot undo it`\n\n## AgentScope Version\n\n`2.0.11dev`\n\n## Description\n\n**Background.** `SchedulerManager.reconcile()` is the …",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "Jay0130-a",
+    "head_sha": "34d7cb06ac1d9545819d0c675d034f8cf4a6e9a3",
+    "base_ref": "main",
+    "additions": 169,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
