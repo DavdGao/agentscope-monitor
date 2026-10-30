@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "xuilen",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-30T01:29:20.572319Z",
+  "title": "fix(tracing): preserve zero top_p in _get_llm_request_attributes (#3515)",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3559#issuecomment-6512680001",
+  "number": 3559,
+  "body": "Closing this as a duplicate of #3520. I compared both diffs: they make the same None-based fallback change in `_get_llm_request_attributes` to preserve `p=0`. My additional test cases do not require a…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "xuilen",
+    "commenter": "xuilen"
+  },
+  "at_mobiles": []
+}
