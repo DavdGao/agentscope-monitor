@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-30T06:15:33.464146Z",
+  "title": "[Bug]: Read accepts offset below 1 and limit above its documented 2000-line cap",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3532",
+  "number": 3532,
+  "body": "### Background / Description\n\nThe `Read` tool publishes bounds on its own parameters, and then does not enforce them. `_ReadParams` in `src/agentscope/tool/_builtin/_read.py` declares `offset` with `g…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "Starchaser1024"
+  },
+  "at_mobiles": []
+}
