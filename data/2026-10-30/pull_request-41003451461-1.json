@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Yzzz88",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-30T04:32:29.126029Z",
+  "title": "fix(sop): settle exhausted attempts before emitting step endings",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3593",
+  "number": 3593,
+  "body": "Fixes #3592.\n\n## AgentScope Version\n\n2.0.12dev; based on main at 9f59a369904c65e88ba25ab934e6bf747b52b85b.\n\n## Description\n\nWhen the last allowed SOP attempt is refused, SOPEngine used to emit SOP_STE…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Yzzz88",
+    "head_sha": "268a060fa5c9d13ab4a6c7fd3ad37ce293a26dba",
+    "base_ref": "main",
+    "additions": 63,
+    "deletions": 6,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
