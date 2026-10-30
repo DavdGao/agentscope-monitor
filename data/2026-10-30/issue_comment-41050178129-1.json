@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Tong-bit-art",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-30T11:44:06.480937Z",
+  "title": "[Bug]: concurrent scheduler reconciliation can restore stale jobs",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3344#issuecomment-6521824406",
+  "number": 3344,
+  "body": "/assign me",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "LingYi-Liang",
+    "commenter": "Tong-bit-art"
+  },
+  "at_mobiles": []
+}
