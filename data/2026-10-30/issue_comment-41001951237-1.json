@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Yzzz88",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-30T04:16:27.233502Z",
+  "title": "[Bug]: SOPEngine emits a pending step ending after the attempt budget is exhausted",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3592#issuecomment-6514832787",
+  "number": 3592,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Yzzz88",
+    "commenter": "Yzzz88"
+  },
+  "at_mobiles": []
+}
