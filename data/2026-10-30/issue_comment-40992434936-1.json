@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-30T02:34:15.164980Z",
+  "title": "[Bug]: ModelRouterMiddleware drops image input when it selects a text-only model",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3585#issuecomment-6513538451",
+  "number": 3585,
+  "body": "Thanks for the report and the reproduction.\n\nWe acknowledge that silently dropping an attachment is undesirable. However, we would prefer to address model selection through clear candidate description…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "haotianqi666",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
