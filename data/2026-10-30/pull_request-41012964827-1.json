@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-30T06:15:10.500207Z",
+  "title": "fix(tool): reject out-of-range Read offset and limit",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3544",
+  "number": 3544,
+  "body": "Validate offset and limit against _ReadParams at the start of Read.call and return an ERROR chunk naming the bad argument. The toolkit only repairs JSON types, so an offset below 1 numbered lines from…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "ffffff55",
+    "head_sha": "617f3942648632c0f1c168284d9d39e611ffc801",
+    "base_ref": "main",
+    "additions": 150,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
