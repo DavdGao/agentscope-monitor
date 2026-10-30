@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-30T09:25:16.403912Z",
+  "title": "fix(workspace): validate SKILL.md front matter in the shared installers",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3370",
+  "number": 3370,
+  "body": "## PR Title Format\n\n- `fix(workspace): validate SKILL.md front matter in the shared installers`\n- Type `fix`, scope lowercase, subject starts with a lowercase letter.\n\n## AgentScope Version\n\n`2.0.11de…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "Tong-bit-art",
+    "head_sha": "a4548e13054fddbf257e620f9667b769a938f33f",
+    "base_ref": "main",
+    "additions": 156,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
