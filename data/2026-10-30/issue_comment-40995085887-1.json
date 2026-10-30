@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Jackkp0t",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-30T03:02:33.484827Z",
+  "title": "[Bug]: MongoDB listing metadata filters interpret dictionary values as query operators",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3590#issuecomment-6513900471",
+  "number": 3590,
+  "body": "/assign\n\nI would like to take this focused bug fix: explicit equality in the two MongoDB listing queries, with regression tests. The offline reproduction and failing query-boundary tests are recorded …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Jackkp0t",
+    "commenter": "Jackkp0t"
+  },
+  "at_mobiles": []
+}
