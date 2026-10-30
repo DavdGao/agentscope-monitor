@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "SU-AN-coder",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-30T02:44:20.775429Z",
+  "title": "fix(embedding): keep an unknown token count unknown when merging batches",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3589",
+  "number": 3589,
+  "body": "## What this fixes\n\nMerging batched embedding responses loses the \"unknown\" state of the token count.\n\n`EmbeddingModelBase._merge_responses` initialised the aggregate to `0` and only added a batch's c…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "SU-AN-coder",
+    "head_sha": "26aa28b0efd09193eb4a6b6def9fe24a9b5122bb",
+    "base_ref": "main",
+    "additions": 75,
+    "deletions": 6,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
