@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ai-yang",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-30T07:37:17.715238Z",
+  "title": "fix(pipeline): stop orchestration after agent interruption",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3603",
+  "number": 3603,
+  "body": "Fixes #3600.\n\n## AgentScope Version\n\n`2.0.12dev`; rebased onto upstream main `3ca8dc309572851a5b884aa36d51f9a164b30cd3`.\n\n## Description\n\nCancelling a running SOP or goal pipeline currently lets the d…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "ai-yang",
+    "head_sha": "38dac7865195788b85c6a6c45ecf6c0c58ae1ff1",
+    "base_ref": "main",
+    "additions": 241,
+    "deletions": 6,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
