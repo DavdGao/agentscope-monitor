@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "kennywu411-dev",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-30T04:56:55.666352Z",
+  "title": "[Bug]: streamed tool text blocks lose identity during event replay",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3594",
+  "number": 3594,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing issues and discussions, and this is not a duplicate.\n- [x] This is a bug, not a usage question.\n\n### Background / Description\n\nA streaming tool ca…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "kennywu411-dev"
+  },
+  "at_mobiles": []
+}
