@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-30T04:10:47.264904Z",
+  "title": "[Bug]: failed knowledge base deletion removes source files before a vector-store error",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3555",
+  "number": 3555,
+  "body": "### Prerequisites\n\n- [x] I searched existing issues and pull requests for this failure path.\n- [x] This is a reproducible bug on current `main`, not a usage question.\n\n### What happens\n\n`KnowledgeBase…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "Kiko0301"
+  },
+  "at_mobiles": []
+}
