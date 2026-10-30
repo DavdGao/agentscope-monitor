@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "leos-code",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-30T08:03:46.444533Z",
+  "title": "feat(observability): provide first-class tracing activation for AgentScope v2",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/1835#discussioncomment-19288025",
+  "number": 1835,
+  "body": "Im need too",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "leos-code",
+    "discussion_author": "YingchaoX"
+  },
+  "at_mobiles": []
+}
