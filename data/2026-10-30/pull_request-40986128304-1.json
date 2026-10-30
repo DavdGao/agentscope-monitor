@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "xuilen",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-30T01:29:23.919854Z",
+  "title": "fix(tracing): preserve zero top_p in _get_llm_request_attributes (#3515)",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3559",
+  "number": 3559,
+  "body": "## PR Title Format\n\nfix(tracing): preserve zero top_p in _get_llm_request_attributes\n\n## AgentScope Version\n\n2.0.12dev\n\n## Description\n\nFixes #3515.\n\n### Background & Problem\nIn `agentscope.middleware…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "xuilen",
+    "head_sha": "7ad4768cacbfd520ebe756317a20ca51b77c6b26",
+    "base_ref": "main",
+    "additions": 39,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
