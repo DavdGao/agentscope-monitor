@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ffffff55",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-30T14:31:42.090008Z",
+  "title": "fix(formatter): keep unsupported media visible in ollama formatters",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3611",
+  "number": 3611,
+  "body": "Ollama only carries images, so _format_ollama_data_block returns None for other media. The plain-message, HintBlock, and multi-agent history branches dropped that None, which erased a media-only user …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ffffff55",
+    "head_sha": "d09b407f80bd4250ae73bf297ff4106ccaf8da72",
+    "base_ref": "main",
+    "additions": 248,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
