@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Jackkp0t",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-30T03:11:35.743553Z",
+  "title": "fix(rag): preserve literal metadata values in MongoDB listings",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3591",
+  "number": 3591,
+  "body": "Fixes agentscope-ai/agentscope#3590\n\n## AgentScope Version\n\n2.0.12dev (main `ea903c9`).\n\n## Description\n\nMongoDB document/chunk listings now treat metadata values as literal equality operands, matchin…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Jackkp0t",
+    "head_sha": "43150910f885087da9680dfa95799048bf33f611",
+    "base_ref": "main",
+    "additions": 64,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
