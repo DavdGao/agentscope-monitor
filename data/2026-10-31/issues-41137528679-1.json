@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-30T22:21:10.958716Z",
+  "title": "[Bug]: standard cron day alternatives are treated as an intersection, skipping scheduled runs",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3601",
+  "number": 3601,
+  "body": "## Prerequisites\n\n- [x] I searched existing issues, PRs, and discussions for this problem.\n- [x] This is a bug, not a usage question.\n\n## Background / Description\n\n`ScheduleData` and the schedule crea…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "ai-yang"
+  },
+  "at_mobiles": []
+}
