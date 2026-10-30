@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "golitter",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-30T13:27:48.040307Z",
+  "title": "fix(schedule): respect selected start times when creating schedules",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3610",
+  "number": 3610,
+  "body": "## AgentScope Version\n\n2.0.12dev\n\n## Description\n\nFixes #3609\n\n### Problem\n\nWhen creating a scheduled task in the Web UI, the selected start date and time were not submitted to the backend. The backen…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "golitter",
+    "head_sha": "5fd17c235cc60a893c79f081a7b23396e0a4a0de",
+    "base_ref": "main",
+    "additions": 230,
+    "deletions": 8,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
