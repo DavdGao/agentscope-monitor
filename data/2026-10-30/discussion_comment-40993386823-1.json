@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "langzhangxin07",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-30T02:44:07.545453Z",
+  "title": "Proposal: opt-in bounded concurrency for tool execution",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3163#discussioncomment-19283900",
+  "number": 3163,
+  "body": "good",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "langzhangxin07",
+    "discussion_author": "97Three"
+  },
+  "at_mobiles": []
+}
