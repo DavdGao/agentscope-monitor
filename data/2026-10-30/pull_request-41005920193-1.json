@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "kennywu411-dev",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-30T04:59:53.537997Z",
+  "title": "fix(agent): preserve tool text-block identity during event replay",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3595",
+  "number": 3595,
+  "body": "## AgentScope Version\n\n`main` @ 9f59a36 (2.0.11)\n\n## Description\n\nFixes #3594.\n\nStreamed tool `TextBlock` chunks lost their block id on the event path, so `Msg.append_event` could only append a text d…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "kennywu411-dev",
+    "head_sha": "88fc4a6f5f048fe0d717f87548ade1fc0807bc38",
+    "base_ref": "main",
+    "additions": 205,
+    "deletions": 4,
+    "changed_files": 9
+  },
+  "at_mobiles": []
+}
