@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "cursor[bot]",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-30T10:40:25.017152Z",
+  "title": "fix(agent): keep non-text blocks when merging a split realtime user turn",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3239",
+  "number": 3239,
+  "body": "### Description\n\nFixes #3237\n\n- **What**: `_merge_user` now appends the arriving text to the last text block of the previous user turn — adding one when the turn has none — and leaves every non-text b…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ffffff55",
+    "head_sha": "4fb0a6fd22cba438224e0ade0ed516c0d3088171",
+    "base_ref": "main",
+    "additions": 85,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
