@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-30T09:23:38.994029Z",
+  "title": "[Bug]: Edit silently corrupts non-UTF-8 bytes outside the replacement target",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3320",
+  "number": 3320,
+  "body": "### Prerequisites\n\n- [x] I searched existing issues and pull requests for encoding, UTF-8, Edit and corruption.\n- [x] This is a reproducible bug, not a usage question.\n\n### Background / Description\n\nE…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "fancyboi999"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "ch-z-hc"
+  },
+  "at_mobiles": []
+}
