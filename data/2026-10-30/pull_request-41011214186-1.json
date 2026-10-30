@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "haotianqi666",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-30T05:56:46.531542Z",
+  "title": "fix(rag): measure legacy S3 blobs in their URI bucket",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3598",
+  "number": 3598,
+  "body": "## AgentScope Version\n\n`2.0.12dev` (`main` at `9f59a369904c65e88ba25ab934e6bf747b52b85b`)\n\n## Description\n\nFixes #3597.\n\nAfter an application's configured S3 bucket changes, existing document records …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "haotianqi666",
+    "head_sha": "1f7ba7604018fa33faf914104472bc2424c8a779",
+    "base_ref": "main",
+    "additions": 27,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
