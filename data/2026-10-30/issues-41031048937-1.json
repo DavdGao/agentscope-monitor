@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "aravelo7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-30T09:07:06.249626Z",
+  "title": "[Bug]: cancelling a concurrent tool worker before toolkit entry re-executes the same call",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3604",
+  "number": 3604,
+  "body": "# [Bug]: cancelling a concurrent tool worker before toolkit entry re-executes the same call\n\n### Prerequisites\n\n- [x] I have searched existing issues and discussions and confirmed this is not a duplic…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "aravelo7"
+  },
+  "at_mobiles": []
+}
