@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Tong-bit-art",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-30T11:50:09.171468Z",
+  "title": "fix(schedule): serialize reconciliation so stale reads cannot restore jobs",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3608",
+  "number": 3608,
+  "body": "## PR Title Format\n\n`fix(schedule): serialize reconciliation so stale reads cannot restore jobs`\n\n## AgentScope Version\n\n`2.0.12dev` (main at `2350af90`)\n\n## Description\n\n**Background.** `SchedulerMan…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Tong-bit-art",
+    "head_sha": "eee32e751e44b758340bee71291b845639f0ba8d",
+    "base_ref": "main",
+    "additions": 109,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
