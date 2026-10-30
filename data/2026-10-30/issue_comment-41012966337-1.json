@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-30T06:15:04.703295Z",
+  "title": "fix(tool): reject out-of-range Read offset and limit",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3544#issuecomment-6516321020",
+  "number": 3544,
+  "body": "Thanks for the contribution! This issue has been addressed by #3297, which validates pagination bounds for text reads while preserving image/PDF behavior. Closing this PR as a duplicate.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "ffffff55",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
