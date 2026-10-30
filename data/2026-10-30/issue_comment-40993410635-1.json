@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "SU-AN-coder",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-30T02:44:22.303560Z",
+  "title": "[Bug]: Merging embedding batches turns unknown token usage into zero",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3379#issuecomment-6513670421",
+  "number": 3379,
+  "body": "I hit the same thing while reading `_merge_responses` and sent #3589 for it: the merged count now becomes `None` as soon as any batch has a missing `usage` object or an unknown `tokens`, and stays rep…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "HootRock",
+    "commenter": "SU-AN-coder"
+  },
+  "at_mobiles": []
+}
