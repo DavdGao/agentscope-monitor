@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-30T02:34:23.056229Z",
+  "title": "fix(middleware): keep base model when a routed candidate cannot read media",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3586#issuecomment-6513540448",
+  "number": 3586,
+  "body": "Thanks for the implementation and regression tests.\n\nAfter reviewing the routing behavior, we’ve decided not to adopt this fallback policy. Checking every user message in history makes the restriction…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "haotianqi666",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
