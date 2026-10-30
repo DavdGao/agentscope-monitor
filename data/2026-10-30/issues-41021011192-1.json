@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ai-yang",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-30T07:35:37.638861Z",
+  "title": "[Bug]: cancelling an active SOP or GoalPipeline starts another attempt",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3600",
+  "number": 3600,
+  "body": "## Prerequisites\n\n- [x] I searched existing issues, PRs, and discussions for this problem.\n- [x] This is a bug, not a usage question.\n\n## Background / Description\n\nCancelling an in-flight `SOPEngine.r…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "ai-yang"
+  },
+  "at_mobiles": []
+}
