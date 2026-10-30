@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "SU-AN-coder",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-30T02:46:07.843537Z",
+  "title": "fix(embedding): keep an unknown token count unknown when merging batches",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3589#issuecomment-6513691718",
+  "number": 3589,
+  "body": "Closing this: #3380 (by @HootRock, who filed #3379) already implements the same fix and has green CI, and the issue had no comment linking it when I picked it up. Keeping mine open would only split re…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "SU-AN-coder",
+    "commenter": "SU-AN-coder"
+  },
+  "at_mobiles": []
+}
