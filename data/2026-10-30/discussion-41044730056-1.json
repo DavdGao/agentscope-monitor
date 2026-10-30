@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "HootRock",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-30T10:59:19.918712Z",
+  "title": "Interest in joining core development: model and embedding maintenance",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3607",
+  "number": 3607,
+  "body": "Hi AgentScope maintainers,\n\nI'd like to explore joining AgentScope's core development circle, following the invitation to contact the core developers in section 1 of CONTRIBUTING.md.\n\nI have five merg…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "General",
+    "author": "HootRock"
+  },
+  "at_mobiles": []
+}
