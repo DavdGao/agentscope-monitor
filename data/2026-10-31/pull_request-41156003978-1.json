@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "ydflow",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-31T01:34:46.187926Z",
+  "title": "fix(app): keep the lock heartbeat alive on transient redis errors",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2869",
+  "number": 2869,
+  "body": "## AgentScope Version\n\nmain @ `a388212` (this branch adds one commit on top)\n\n## Description\n\nFixes #2868.\n\n`RedisMessageBus.acquire_lock`'s heartbeat renewed the lease with a bare `await self._client…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "ydflow",
+    "head_sha": "8dae803df332f401cb11765fe638b24f923ef164",
+    "base_ref": "main",
+    "additions": 100,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
