@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "konlue",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-31T10:04:23.867931Z",
+  "title": "fix(tts): surface post-cold-start streaming_call failures instead of dropping the delta",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3621",
+  "number": 3621,
+  "body": "## AgentScope Version\n\n2.0.12dev (main @ `4acacb9`)\n\n## Description\n\n`CosyVoiceModel.push()` (realtime mode) silently drops the current text delta when `streaming_call` raises **after** the cold-start…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "konlue",
+    "head_sha": "2672e0ef74aa260cf787036926f08a6541db42a9",
+    "base_ref": "main",
+    "additions": 26,
+    "deletions": 5,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
