@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Dengzi555",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-31T14:21:08.828672Z",
+  "title": "fix(tool): report Write failures as error chunks",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3627",
+  "number": 3627,
+  "body": "## Summary\n\n`Write.call` awaits `backend.write_file` without guarding it, so an I/O failure of the filesystem escapes the tool as a raw exception. The sibling file tools do not behave this way: `Read`…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Dengzi555",
+    "head_sha": "a31a70a168fd8c7bb6bef8b049de1a8f3c49f0b7",
+    "base_ref": "main",
+    "additions": 30,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
