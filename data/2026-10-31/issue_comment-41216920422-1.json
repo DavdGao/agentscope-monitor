@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ydflow",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-31T15:52:41.971308Z",
+  "title": "test(model): cover nullable Anthropic usage through the SDK",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3562#issuecomment-6545667473",
+  "number": 3562,
+  "body": "Test-only follow-up, so there is no open issue to close: it adds regression coverage for #3444, whose fix (#3453) was merged on 2026-10-27. The production source is unchanged — this PR only adds `test…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "ydflow",
+    "commenter": "ydflow"
+  },
+  "at_mobiles": []
+}
