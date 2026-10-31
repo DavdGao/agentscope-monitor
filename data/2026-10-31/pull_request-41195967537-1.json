@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ffffff55",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-31T11:13:45.946480Z",
+  "title": "fix(utils): apply the NaN guard on the schema-less parse path too",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3626",
+  "number": 3626,
+  "body": "### Description\n\nFixes #3624\n\n- **What**: run the same `allow_nan=False` guard on the `schema is None` early return of `_json_loads_with_repair` that the schema-repair path already applies.\n- **Why**:…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ffffff55",
+    "head_sha": "3c8140cb5bac222e61e51c2fad2cdc4c4cf11f33",
+    "base_ref": "main",
+    "additions": 19,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
