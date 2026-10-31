@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Chkhikvadze",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-31T10:39:56.868047Z",
+  "title": "Proposal: Desearch web search tool for AgentScope",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3622",
+  "number": 3622,
+  "body": "## Problem\nAgentScope agents have no built-in search or web crawl tool in `src/agentscope/tool/_builtin`. Users who want web, X/social or page content currently have to write their own tool function.\n…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "Chkhikvadze"
+  },
+  "at_mobiles": []
+}
