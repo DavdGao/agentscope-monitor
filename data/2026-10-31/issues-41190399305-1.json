@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "konlue",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-31T09:51:55.054237Z",
+  "title": "[Bug]: CosyVoice TTS push() silently drops the current text delta when streaming_call fails after cold start",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3620",
+  "number": 3620,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "konlue"
+  },
+  "at_mobiles": []
+}
