@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ffffff55",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-31T11:13:42.711758Z",
+  "title": "fix(credential): register TypeSafeCredential in CredentialFactory",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3625",
+  "number": 3625,
+  "body": "### Description\n\nFixes #3623\n\n- **What**: add `TypeSafeCredential` to `CredentialFactory._classes` alongside the other built-ins.\n- **Why**: it is exported from `agentscope.credential` and documented …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ffffff55",
+    "head_sha": "49dd2deab8aaea69f820f641b4fe17a7fc5a5147",
+    "base_ref": "main",
+    "additions": 37,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
