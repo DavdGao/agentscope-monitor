@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "konlue",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-31T03:35:47.936123Z",
+  "title": "fix(ollama): declare ResponseError as fallback-eligible so the structured-output ladder can switch strategies",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3615",
+  "number": 3615,
+  "body": "## AgentScope Version\n\n2.0.12dev (main @ `4acacb9`)\n\n## Description\n\n`OllamaChatModel` is the only mainline provider that does not override `_get_structured_output_fallback_exceptions` (base returns `…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "konlue",
+    "head_sha": "5584ec788e07988ac19fad3ccb73b46a51c1c737",
+    "base_ref": "main",
+    "additions": 71,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
