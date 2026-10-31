@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "HsbcJone",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-10-31T00:20:40.587335Z",
+  "title": "fix(tool): dedupe glob paths from overlapping ** segments",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3235",
+  "number": 3235,
+  "body": "## Summary\n\nFixes #3234.\n\nOverlapping `**` segments in a Glob pattern could return the same path more than once when multiple segment expansions discovered it. `glob_match()` now returns `list(dict.fr…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "HsbcJone",
+    "head_sha": "0801380db243f646ae46e6e58ca5a7f69582a975",
+    "base_ref": "main",
+    "additions": 173,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
