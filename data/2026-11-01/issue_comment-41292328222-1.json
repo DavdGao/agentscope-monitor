@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "inchang-ing",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-01T09:15:37.704899Z",
+  "title": "[Bug]: wakeup dispatcher startup hangs if subscription fails before readiness",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3630#issuecomment-6555985406",
+  "number": 3630,
+  "body": "I'd like to take this one.\n\nPlan, as suggested: in `_wakeup_dispatcher.py`, `__aenter__` will wait on `ready.wait()` and the loop task together (`asyncio.wait(..., FIRST_COMPLETED)`). If `_loop` finis…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "lllluull",
+    "commenter": "inchang-ing"
+  },
+  "at_mobiles": []
+}
