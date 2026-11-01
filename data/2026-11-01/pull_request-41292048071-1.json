@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "PeaceMaker-best",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-01T09:11:56.532716Z",
+  "title": "fix(memory): persist redis compressed summaries across instances",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3631",
+  "number": 3631,
+  "body": "## AgentScope Version\n\nv1 maintenance branch (1.0.21), based on `049c6f01f6f7783cd535138918ea73b7213ab8c3`.\n\n## Description\n\nCloses #1624.\n\nAfter ReActAgent compresses a long conversation, the origina…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "PeaceMaker-best",
+    "head_sha": "b8516bfb9183e9a4d4a38e07885c446d2791a5b4",
+    "base_ref": "v1",
+    "additions": 423,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
