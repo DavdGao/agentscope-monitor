@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "MannXo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-01T09:14:32.154647Z",
+  "title": "[Bug]: wakeup dispatcher startup hangs if subscription fails before readiness",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3630#issuecomment-6555974192",
+  "number": 3630,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "lllluull",
+    "commenter": "MannXo"
+  },
+  "at_mobiles": []
+}
