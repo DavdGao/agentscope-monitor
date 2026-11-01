@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "lllluull",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-01T09:49:59.702977Z",
+  "title": "[Bug]: wakeup startup can succeed with a dead listener or leak tasks after readiness",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3633#issuecomment-6556343487",
+  "number": 3633,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "lllluull",
+    "commenter": "lllluull"
+  },
+  "at_mobiles": []
+}
