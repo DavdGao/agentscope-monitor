@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "PeaceMaker-best",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-01T00:43:39.582205Z",
+  "title": "feat(pipeline): support pipeline module in agentscope",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2479#issuecomment-6551320537",
+  "number": 2479,
+  "body": "Hi maintainers, would a first-success race pipeline fit the richer orchestration patterns invited in this issue?\n\nUse case: independent agents attempt a safely repeatable retrieval/analysis task. A fa…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "PeaceMaker-best"
+  },
+  "at_mobiles": []
+}
