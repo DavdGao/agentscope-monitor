@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "PeaceMaker-best",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-01T04:26:01.424198Z",
+  "title": "feat(pipeline): add first-accepted race orchestration",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3628",
+  "number": 3628,
+  "body": "## PR Title Format\n\n`feat(pipeline): add first-accepted race orchestration`\n\n## AgentScope Version\n\n2.0.12dev, based on `4acacb9ffb8c148a1f1e68263657a978bcb1e5a3`.\n\n## Description\n\nRefs #2479. Draft i…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "PeaceMaker-best",
+    "head_sha": "7042555ba0d54237b68028adb42a83aed9ee8257",
+    "base_ref": "main",
+    "additions": 538,
+    "deletions": 0,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
