@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "PeaceMaker-best",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-01T12:32:59.892201Z",
+  "title": "fix(memory): support mem0 2.x scoped search on v1",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3635",
+  "number": 3635,
+  "body": "## AgentScope Version\n\nv1 maintenance branch (1.0.21).\n\n## Description\n\nFixes #1511.\n\nTracking issue: https://github.com/agentscope-ai/agentscope/issues/1511. This targets `v1`; GitHub only creates cl…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "PeaceMaker-best",
+    "head_sha": "74bb9805ec763a620660c5e5a9f9b448a8960503",
+    "base_ref": "v1",
+    "additions": 148,
+    "deletions": 16,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
