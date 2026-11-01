@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "PeaceMaker-best",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-01T12:23:34.475125Z",
+  "title": "[Bug] Mem0 2.0 API breaking change causes Mem0LongTermMemory to fail in AgentScope",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1511#issuecomment-6557890024",
+  "number": 1511,
+  "body": "I plan to fix this on the v1 maintenance branch, where both automatic retrieval and the agent-controlled memory search still pass entity IDs as top-level search parameters. I will preserve legacy SDK …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Baochr",
+    "commenter": "PeaceMaker-best"
+  },
+  "at_mobiles": []
+}
