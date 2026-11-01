@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "shuxiachai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-01T06:24:35.659663Z",
+  "title": "[Bug]: Scoped KnowledgeBase inserts overwrite another scope's records in a shared collection when document IDs overlap",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3475#issuecomment-6554406455",
+  "number": 3475,
+  "body": "I'm still working on this. Since the fix needs a design choice, here is a concrete proposal so it is easy to say yes or no.\n\n**Proposal: make the record identity scope-aware only when a scope is set**…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "shuxiachai",
+    "commenter": "shuxiachai"
+  },
+  "at_mobiles": []
+}
