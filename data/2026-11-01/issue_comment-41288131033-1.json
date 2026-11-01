@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "PeaceMaker-best",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-01T08:16:10.887461Z",
+  "title": "[Bug]:RedisMemory的_compressed_summary仅存在于内存，对于多节点服务或进程重启后会出现数据不一致",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1624#issuecomment-6555417506",
+  "number": 1624,
+  "body": "我计划针对 v1 分支修复 RedisMemory 压缩摘要在重建实例后丢失的问题，覆盖摘要读写、会话 TTL 和清空行为，并增加重建实例及双实例的离线回归测试。将使用 AI 辅助开发；目前尚未发布补丁。",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "NEUNiu",
+    "commenter": "PeaceMaker-best"
+  },
+  "at_mobiles": []
+}
