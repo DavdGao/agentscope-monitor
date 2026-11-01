@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "PeaceMaker-best",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-01T15:49:38.155962Z",
+  "title": "Session replay fails with 400 when empty assistant turn saved on crash",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1426#issuecomment-6560217317",
+  "number": 1426,
+  "body": "I plan to address the remaining v1 formatter case behind this report. An empty string becomes a TextBlock with text=\"\", so the existing content-list check still sends an invalid assistant turn. Main a…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Ras-4567",
+    "commenter": "PeaceMaker-best"
+  },
+  "at_mobiles": []
+}
