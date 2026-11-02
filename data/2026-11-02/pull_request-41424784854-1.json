@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-02T09:57:07.680729Z",
+  "title": "fix(tool): treat newline and \"&\" as compound separators in the bash read-only check",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3474",
+  "number": 3474,
+  "body": "## What changed\n\n`BashCommandParser.is_read_only_command` now also treats **newline** and a single **`&`** as compound-command separators, so a command string like `cat file.txt\\nrm -rf /tmp/x` no lon…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "indexGin",
+    "head_sha": "95f81aee824795cf205c02db5dde2edf21fa6e03",
+    "base_ref": "main",
+    "additions": 94,
+    "deletions": 6,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
