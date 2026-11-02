@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-02T06:52:30.130275Z",
+  "title": "fix(ollama): implement _get_disable_thinking_kwargs so structured-output fallback can disable thinking",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3588#issuecomment-6571021339",
+  "number": 3588,
+  "body": "Thanks for adding the Ollama thinking toggle. The upstream reports in ollama/ollama#10976 and ollama/ollama#10929 suggest that disabling thinking can be a useful workaround in some configurations. How…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "konlue",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
