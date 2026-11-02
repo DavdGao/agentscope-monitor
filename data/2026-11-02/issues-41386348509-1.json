@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-02T04:03:53.382338Z",
+  "title": "[Bug]: WordParser concatenates separate paragraphs inside a DOCX text box",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3413",
+  "number": 3413,
+  "body": "# Description\n\nOn current main (`ed357feb`, AgentScope `2.0.11.dev0`), a DOCX text box containing two separate `w:p` paragraphs is extracted without a separator between their text. This silently chang…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "12kkqq"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "12kkqq"
+  },
+  "at_mobiles": []
+}
