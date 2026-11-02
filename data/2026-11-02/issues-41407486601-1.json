@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-02T07:37:28.469277Z",
+  "title": "[Feature]: support Kimi K3.1 Pro and K3.1 Pro Highspeed",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3554",
+  "number": 3554,
+  "body": "Tracking the approved [Discussion #3489](https://github.com/agentscope-ai/agentscope/discussions/3489), following [maintainer approval](https://github.com/agentscope-ai/agentscope/discussions/3489#dis…",
+  "labels": [
+    "triage/not-a-bug"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "YingchaoX"
+  },
+  "at_mobiles": []
+}
