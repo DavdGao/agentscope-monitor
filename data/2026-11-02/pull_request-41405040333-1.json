@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-02T07:14:59.254767Z",
+  "title": "feat(moonshot): support kimi k3.1 pro variants",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3578",
+  "number": 3578,
+  "body": "## PR Title Format\n\n`feat(moonshot): support kimi k3.1 pro variants`\n\n## AgentScope Version\n\n2.0.12dev\n\n## Description\n\nFixes #3554. Implements the scope approved in [Discussion #3489](https://github.…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "YingchaoX",
+    "head_sha": "664a95e3821da7786b95baa872e37d31e1ce734e",
+    "base_ref": "main",
+    "additions": 515,
+    "deletions": 20,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
