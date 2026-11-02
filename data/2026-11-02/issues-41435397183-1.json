@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Tong-bit-art",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-02T11:15:59.740321Z",
+  "title": "[Bug]: Editing a queued chat message accepts system/assistant roles and bypasses the public chat role check",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3646",
+  "number": 3646,
+  "body": "### Describe the bug\n\nThe public chat boundary is supposed to accept only user-authored messages. There is a second write path into the same per-session FIFO that is not covered by the `POST /chat` ro…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Tong-bit-art"
+  },
+  "at_mobiles": []
+}
