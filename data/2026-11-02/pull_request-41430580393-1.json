@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "golitter",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-02T10:39:50.373520Z",
+  "title": "fix(agent): count rounds completed during HITL resumption toward max_iters",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3645",
+  "number": 3645,
+  "body": "## AgentScope Version\n\n`2.0.12dev`\n\n## Description\n\nRounds completed during HITL resumption were not counted toward `max_iters`. External execution results and rejected confirmations can finish a park…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "golitter",
+    "head_sha": "d102ffa1bffa07811b8c10f1f449d78924b00f77",
+    "base_ref": "main",
+    "additions": 454,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
