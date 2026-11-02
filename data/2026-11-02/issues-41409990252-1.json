@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-02T08:01:00.089154Z",
+  "title": "[Bug]: unowned session and SOP deletes cancel other users' work before returning 404",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3560",
+  "number": 3560,
+  "body": "### Prerequisites\n\n- [x] I searched existing issues and PRs for session deletion, ownership, cancellation, and bus purging; I found no report of this delete-path defect. #3186 concerns the separate st…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "Kiko0301"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "Kiko0301"
+  },
+  "at_mobiles": []
+}
