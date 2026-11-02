@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-02T08:01:00.776382Z",
+  "title": "fix(app): guard session and SOP deletion side effects",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3563",
+  "number": 3563,
+  "body": "## Summary\n\n- Return without sending a cancel broadcast or purging message-bus state when a session is missing from the caller's user-scoped storage view.\n- Check SOP run ownership before cancelling i…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "c828486b3ed5ed53555594b83b9a5a2d28137592",
+    "base_ref": "main",
+    "additions": 189,
+    "deletions": 3,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
