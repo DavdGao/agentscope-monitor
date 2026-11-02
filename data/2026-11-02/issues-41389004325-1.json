@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-02T04:32:14.600514Z",
+  "title": "[Bug]: Reply budget wrap-up hints remain in the next reply's model input",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3596",
+  "number": 3596,
+  "body": "### Prerequisites\n\n- [x] I searched related issues and PRs; the related reports are distinguished below.\n- [x] This reports an observed inconsistency in per-reply budget handling.\n\n### Background / De…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "Yzzz88"
+  },
+  "at_mobiles": []
+}
