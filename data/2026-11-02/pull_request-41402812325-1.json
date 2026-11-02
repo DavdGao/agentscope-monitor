@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-02T06:53:59.436163Z",
+  "title": "feat(webui): steer active replies with queued messages",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3638",
+  "number": 3638,
+  "body": "## AgentScope Version\n\n2.0.12dev\n\n## Description\n\nAdd a Steer action to guide an active reply with a queued message without interrupting generation or tool execution. Show steering status in the chat,…",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "808c1d88c14ed9604c3d5726d827c8c924c163a0",
+    "base_ref": "main",
+    "additions": 2544,
+    "deletions": 112,
+    "changed_files": 25
+  },
+  "at_mobiles": []
+}
