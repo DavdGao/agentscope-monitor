@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "stefanielizeth73-art",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-02T16:24:28.169364Z",
+  "title": "[Bug]: KnowledgeBase.search leaves sibling vector queries running after one query fails",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3649",
+  "number": 3649,
+  "body": "## Background / Description\n\n`KnowledgeBase.search` supports multi-query search by embedding inputs and fanning out concurrent vector queries via `asyncio.gather`. If one vector query raises an except…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "stefanielizeth73-art"
+  },
+  "at_mobiles": []
+}
