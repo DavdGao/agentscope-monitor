@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "SSShooter",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-02T07:24:18.164344Z",
+  "title": "Windows: exec_shell children inherit the host process's stdin and can deadlock at CPython startup",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3643",
+  "number": 3643,
+  "body": "### Environment\n\n- agentscope: 2.0.9 (verified still present on `main` as of 2026-11-02, `src/agentscope/tool/_builtin/_backend.py` line ~799)\n- OS: Windows 11 (logically present on any Windows versio…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "SSShooter"
+  },
+  "at_mobiles": []
+}
