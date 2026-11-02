@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-02T12:49:17.140223Z",
+  "title": "[Bug]: wakeup startup can succeed with a dead listener or leak tasks after readiness",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3633",
+  "number": 3633,
+  "body": "### Prerequisites\n\n- [x] I searched existing issues and PRs for these startup boundaries.\n- [x] This is a bug, not a usage question.\n\n### Background / Description\n\nTwo failures remain after the wakeup…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "lllluull"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "lllluull"
+  },
+  "at_mobiles": []
+}
