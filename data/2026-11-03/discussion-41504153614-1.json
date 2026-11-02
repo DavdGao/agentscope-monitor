@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "giggyai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-02T18:49:25.165458Z",
+  "title": "Giggy TTS integration for AgentScope",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3655",
+  "number": 3655,
+  "body": "Hi AgentScope team,\n\nI'd like to contribute a Giggy TTS integration through AgentScope's existing TTS interface. We're positioning Giggy as the most affordable voice AI platform, with TTS in 240+ lang…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "giggyai"
+  },
+  "at_mobiles": []
+}
