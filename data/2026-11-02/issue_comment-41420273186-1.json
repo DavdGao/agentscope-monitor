@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ai-yang",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-02T09:23:50.912289Z",
+  "title": "fix(pipeline): stop orchestration after agent interruption",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3603#issuecomment-6573559773",
+  "number": 3603,
+  "body": "Added the companion documentation PR: https://github.com/agentscope-ai/docs/pull/96. It updates the English and Chinese development-version SOP and GoalPipeline pages for active interruption, pending-…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "ai-yang",
+    "commenter": "ai-yang"
+  },
+  "at_mobiles": []
+}
