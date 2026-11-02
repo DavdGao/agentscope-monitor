@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-02T06:31:50.786183Z",
+  "title": "[Bug]: Gemini structured-output fallback aborts on 4xx — ClientError is treated as retryable before the fallback check",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3612#issuecomment-6570712861",
+  "number": 3612,
+  "body": "Thanks for the report. Could you provide a minimal reproduction using the real Gemini API, including the exact model ID, SDK version, request configuration, and full API error with credentials removed…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "konlue",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
