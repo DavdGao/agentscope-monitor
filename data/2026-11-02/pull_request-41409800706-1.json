@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "konlue",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-02T07:59:17.350093Z",
+  "title": "fix(ollama): implement _get_disable_thinking_kwargs so structured-output fallback can disable thinking",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3588",
+  "number": 3588,
+  "body": "Fixes #3583\n\n## AgentScope Version\n\n2.0.12dev (main @ `2f8c029`)\n\n## Description\n\n`ChatModelBase.generate_structured_output` only includes the `no_think` strategy in its fallback ladder when the provi…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "konlue",
+    "head_sha": "14b8b6a1bf6e314773f2e32be3305decb900d763",
+    "base_ref": "main",
+    "additions": 66,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
