@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-02T12:59:15.290051Z",
+  "title": "fix(scheduler): authorize deletes before removing jobs",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3648",
+  "number": 3648,
+  "body": "## Summary\n- perform the user-scoped storage deletion before removing the local APScheduler job\n- leave schedules owned by other users running when the scoped delete returns false\n- add a regression t…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "6dbb7f521678caee8d33e61acdb8b667415f6d44",
+    "base_ref": "main",
+    "additions": 38,
+    "deletions": 7,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
