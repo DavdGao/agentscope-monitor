@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "xizhilanre",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-02T17:01:53.359009Z",
+  "title": "fix(permission): await a decorated async match_rule instead of failing open",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3652",
+  "number": 3652,
+  "body": "## Problem\n\nThe permission system **fails open** when a tool's async `match_rule` is wrapped by an ordinary sync decorator (`functools.wraps` over an `async def` — logging, tracing, metrics, anything …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "xizhilanre",
+    "head_sha": "90e77481d336a751d935f03f0c37501a7eb744cf",
+    "base_ref": "main",
+    "additions": 75,
+    "deletions": 24,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
