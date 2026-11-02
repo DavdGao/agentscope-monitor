@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "golitter",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-02T06:57:18.034867Z",
+  "title": "Support editing existing schedules in the Web UI while preserving execution history",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3641",
+  "number": 3641,
+  "body": "### Background\n\nThe Web UI currently supports creating schedules with an activation window (`started_at` / `ended_at`), but provides no way to edit them afterward.\n\nTo adjust the start time, extend or…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "golitter"
+  },
+  "at_mobiles": []
+}
