@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-02T06:51:57.191564Z",
+  "title": "[Bug]: Ollama structured-output fallback never tries no_think — _get_disable_thinking_kwargs is not overridden",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3583#issuecomment-6571012355",
+  "number": 3583,
+  "body": "Thanks for the report. There are relevant upstream reports, including ollama/ollama#10976 (thinking with tools producing empty output) and ollama/ollama#10929 (invalid structured JSON with thinking en…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "konlue",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
