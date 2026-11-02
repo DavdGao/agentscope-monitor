@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-02T10:00:35.952760Z",
+  "title": "fix(tool): handle compound bash commands and Unicode in read-only checks",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3474",
+  "number": 3474,
+  "body": "## What changed\n\nThe Bash read-only check now treats newlines and a single `&` as compound-command separators. Commands such as `cat file.txt\\nrm -f victim.txt` are split before checking read-only sta…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "indexGin",
+    "head_sha": "93fbb8795c8ca2610cca81c6def5b9269799f92f",
+    "base_ref": "main",
+    "additions": 90,
+    "deletions": 2,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
