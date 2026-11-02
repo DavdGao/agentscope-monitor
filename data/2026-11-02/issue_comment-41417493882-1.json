@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "golitter",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-02T09:03:05.737231Z",
+  "title": "[Bug]: External tool results and rejected confirmations bypass max_iters by leaving completed rounds uncounted",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3644#issuecomment-6573161187",
+  "number": 3644,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "golitter",
+    "commenter": "golitter"
+  },
+  "at_mobiles": []
+}
