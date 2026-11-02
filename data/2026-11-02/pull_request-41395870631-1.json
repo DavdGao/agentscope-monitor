@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-02T05:45:40.084234Z",
+  "title": "fix(tts): offload realtime DashScope SDK calls from the event loop",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3640",
+  "number": 3640,
+  "body": "## AgentScope Version\n\n2.0.12dev, based on upstream main at `9aeab115940b773403f0e9305fa46864a8d762cf`.\n\n## Description\n\nFixes #3639.\n\nWhen a session establishes a DashScope realtime TTS connection, t…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "iluv7",
+    "head_sha": "9f123648e1ae3b93593bb859b08d4c42d7b763cd",
+    "base_ref": "main",
+    "additions": 87,
+    "deletions": 10,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
