@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-02T10:11:38.405382Z",
+  "title": "test(tool): add regression coverage for bash read-only permissions",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3474",
+  "number": 3474,
+  "body": "## Summary\n\nAdds regression tests for Bash read-only permission decisions. The original runtime fixes in this PR have been superseded by [#3513](https://github.com/agentscope-ai/agentscope/pull/3513),…",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "indexGin",
+    "head_sha": "93fbb8795c8ca2610cca81c6def5b9269799f92f",
+    "base_ref": "main",
+    "additions": 90,
+    "deletions": 2,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
