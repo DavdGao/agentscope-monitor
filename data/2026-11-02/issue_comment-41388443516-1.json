@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "HootRock",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-02T04:26:19.899968Z",
+  "title": "fix(embedding): honor configured DashScope text parameters",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3367#issuecomment-6569038508",
+  "number": 3367,
+  "body": "The Windows CI failure is in the unchanged channel stream test, rather than either file modified by this PR:\n\n`EventStreamTest.test_seam_events_are_not_delivered_twice` expected two START events follo…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "HootRock",
+    "commenter": "HootRock"
+  },
+  "at_mobiles": []
+}
