@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-02T09:43:20.552270Z",
+  "title": "[Bug] DiscordChannel.chat_kind/chat_name raise on an unresolvable channel id, violating the ChannelBase contract",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3482",
+  "number": 3482,
+  "body": "## Description\n\n`DiscordChannel.chat_kind()` and `chat_name()` raise an exception when `chat_id` has a valid snowflake format but the channel cannot be fetched — e.g. the channel was deleted between t…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "mosifu"
+  },
+  "at_mobiles": []
+}
