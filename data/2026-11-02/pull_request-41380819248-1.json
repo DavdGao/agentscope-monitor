@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-02T03:02:11.044587Z",
+  "title": "fix(web-ui): reset document panel when switching knowledge bases",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3422",
+  "number": 3422,
+  "body": "## AgentScope Version\n\n`2.0.11dev`, based on `main` at `ed357feb78a45ff02df155bb5610eab9bf543832`.\n\n## Description\n\nFixes #3418.\n\nThe document panel previously retained its hook state and detail/delet…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "yang0228",
+    "head_sha": "041bb63908e4e4ecc5eb703aad18d825a310e2f2",
+    "base_ref": "main",
+    "additions": 4,
+    "deletions": 1,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
