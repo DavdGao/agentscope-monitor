@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "xizhilanre",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-02T17:31:22.695034Z",
+  "title": "fix(permission): await a decorated async match_rule instead of failing open",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3652#issuecomment-6583805137",
+  "number": 3652,
+  "body": "Closing this in favour of #3552 by @mengchen-atx, which already implements the same fix (await match_rule hooks wrapped by sync decorators). I missed it when opening this — sorry for the duplicate noi…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "xizhilanre",
+    "commenter": "xizhilanre"
+  },
+  "at_mobiles": []
+}
