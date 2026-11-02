@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-02T06:32:15.131938Z",
+  "title": "fix(gemini): let 4xx fall through the structured-output ladder and gate the no_think strategy by model",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3613#issuecomment-6570718978",
+  "number": 3613,
+  "body": "Thanks for the contribution. Before we change the fallback behavior, could you provide a real-API before/after reproduction showing that this PR turns a failing request into a successful structured re…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "konlue",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
