@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "mengchen-atx",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-02T21:50:43.343883Z",
+  "title": "fix(permission): await async match_rule hooks wrapped by sync decorators",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3552#issuecomment-6589354666",
+  "number": 3552,
+  "body": "Hi @qbc2016, I've rebased this onto current main and resolved the conflict with #3513, so the bool check now runs inside the new per-operation loop in `_rule_matches`. Could you or @DavdGao take a loo…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "mengchen-atx",
+    "commenter": "mengchen-atx"
+  },
+  "at_mobiles": []
+}
