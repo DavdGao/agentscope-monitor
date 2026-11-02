@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "xizhilanre",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-02T17:06:36.428801Z",
+  "title": "fix(permission): treat TaskList/TaskGet as read-only so EXPLORE allows them",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3653",
+  "number": 3653,
+  "body": "## Problem\n\nIn `EXPLORE` (plan) mode, `TaskList` and `TaskGet` are **denied**, although both only read task state. Only `TaskCreate` / `TaskUpdate` modify anything, yet all four inherit the same verdi…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "xizhilanre",
+    "head_sha": "7d042a35477bb2c6dd084b0a8ade0886d3017ac2",
+    "base_ref": "main",
+    "additions": 101,
+    "deletions": 24,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
