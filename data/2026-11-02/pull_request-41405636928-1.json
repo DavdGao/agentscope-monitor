@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "SSShooter",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-02T07:20:21.236266Z",
+  "title": "fix(tool): spawn exec_shell children with stdin=DEVNULL to prevent Windows deadlock via inherited pipe handle",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3642",
+  "number": 3642,
+  "body": "Fixes the Windows deadlock where `exec_shell` children inherit the host process's stdin and hang at CPython startup.\n\n## Problem\n\n`exec_shell` spawned children without a `stdin` argument, so children …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "SSShooter",
+    "head_sha": "0e866d08981608df5a282808d26833653d62b9fc",
+    "base_ref": "main",
+    "additions": 7,
+    "deletions": 0,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
