@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T09:43:57.425544Z",
+  "title": "fix(offload): report failed background tool results as failures",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3678",
+  "number": 3678,
+  "body": "## Problem\n\nWhen a tool call is offloaded to run in the background, the middleware\nnotifies the agent about its result in `_deliver_when_done`. The\nnotification text is built from the `ToolResponse` a…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "a95f761268cb531da8ebac8dd5483d28eb27d08a",
+    "base_ref": "main",
+    "additions": 134,
+    "deletions": 9,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
