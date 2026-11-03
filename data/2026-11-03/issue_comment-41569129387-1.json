@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Smilewithoutfalling",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T02:56:17.389042Z",
+  "title": "[Bug]: A delayed duplicate index task reprocesses a ready document and can erase its indexed chunks",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3650#issuecomment-6594267686",
+  "number": 3650,
+  "body": "I'd like to work on this.\n\nReproduced it on `fc3445e` by driving the real `IndexWorker.process` twice over one document, and the failure mode matches the report exactly:\n\n| | first delivery | duplicat…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "stefanielizeth73-art",
+    "commenter": "Smilewithoutfalling"
+  },
+  "at_mobiles": []
+}
