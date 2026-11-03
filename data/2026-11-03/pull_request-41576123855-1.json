@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T04:06:31.296418Z",
+  "title": "fix(agent): keep tool results within token limit",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3447",
+  "number": 3447,
+  "body": "## Description\n\nFixes #3469.\n\nTool results may contain mixed text and non-text content. The token limiting path must preserve the content structure while ensuring the serialized result remains within …",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "huyengiang101086-spec",
+    "head_sha": "037a310b3c0f65b72afcd68dd288b016ae9357ff",
+    "base_ref": "main",
+    "additions": 57,
+    "deletions": 24,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
