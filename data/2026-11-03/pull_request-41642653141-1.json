@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T13:15:12.532712Z",
+  "title": "fix(tool): yield the final tool response outside the finally block",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3685",
+  "number": 3685,
+  "body": "## Problem\n\n`Toolkit.call_tool()` is an async generator that streams `ToolChunk`s and\nthen yields the aggregated `ToolResponse` — from a `finally:` block:\n\n```python\n        finally:\n            # Fin…",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "518e9afab31454b9be07b888930dc3049103feef",
+    "base_ref": "main",
+    "additions": 30,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
