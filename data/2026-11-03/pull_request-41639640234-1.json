@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T12:54:30.808951Z",
+  "title": "fix(tool): build the meta tool schema for any tool group name",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3688",
+  "number": 3688,
+  "body": "## Problem\n\n`ResetTools.input_schema` builds a pydantic model whose **field names are\nthe tool group names**:\n\n```python\nfields = {}\nfor group in self.groups:\n    if group.name == \"basic\":\n        con…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "df12bdaaf0fa7a0f62d7b36b633448f4d57813c1",
+    "base_ref": "main",
+    "additions": 97,
+    "deletions": 26,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
