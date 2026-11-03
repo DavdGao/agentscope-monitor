@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T03:05:49.721726Z",
+  "title": "fix(app): check session ownership before reporting RUNNING",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3660",
+  "number": 3660,
+  "body": "## Problem\n\n`SessionService.get_session_status()` checks the cluster-wide run lock\nbefore it loads the session record. The lock key is derived from the\nsession id alone, and the method's own contract …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "3f08b561014b51ce5d2c16e5fb324bd58746c90a",
+    "base_ref": "main",
+    "additions": 112,
+    "deletions": 13,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
