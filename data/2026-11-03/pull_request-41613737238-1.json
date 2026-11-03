@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T09:46:34.498018Z",
+  "title": "fix(formatter): keep multi-agent history framing for media-only turns",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3680",
+  "number": 3680,
+  "body": "## Problem\n\n`OpenAIMultiAgentFormatter._format_agent_message` and the DashScope\ncounterpart only append a text block when the group actually contains\ntext:\n\n```python\nif accumulated_text:\n    conversa…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "81abd2ed9d8c4e13469e609b42a1c89452af80f5",
+    "base_ref": "main",
+    "additions": 72,
+    "deletions": 0,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
