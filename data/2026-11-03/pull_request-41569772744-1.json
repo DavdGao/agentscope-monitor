@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T03:02:47.433504Z",
+  "title": "fix(utils): remove dangling discriminators when flattening schemas",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3618",
+  "number": 3618,
+  "body": "Fixes #3046.\n\nWhen flattening removes `$defs` or `definitions`, discriminator mappings\ncan retain references to those removed definitions.\n\nRemove a discriminator when its mapping references a local d…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "lll-hhh",
+    "head_sha": "d5e744cbc96e74fb2cbcdbd48c0bd3133047713d",
+    "base_ref": "main",
+    "additions": 191,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
