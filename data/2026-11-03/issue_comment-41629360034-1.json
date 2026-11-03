@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "stefanielizeth73-art",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T11:40:13.472782Z",
+  "title": "fix(app): clean up source blob when document registration is cancelled",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3657#issuecomment-6602835005",
+  "number": 3657,
+  "body": "The after-commit control from #3651 still fails on head `3f404a6f5ac98a7dd7679feb6fb3cd0357ecd496`: cancellation can arrive after the document is readable but before `upsert_knowledge_document` return…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "rome-xi",
+    "commenter": "stefanielizeth73-art"
+  },
+  "at_mobiles": []
+}
