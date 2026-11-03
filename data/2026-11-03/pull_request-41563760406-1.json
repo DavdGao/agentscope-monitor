@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "rome-xi",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T02:04:15.871182Z",
+  "title": "fix(app): clean up source blob when document registration is cancelled",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3657",
+  "number": 3657,
+  "body": "## AgentScope Version\n\n2.0.12dev (main at fc3445e)\n\n## Description\n\nFixes #3651.\n\n`KnowledgeBaseService.register_document` writes the source blob first and then awaits `upsert_knowledge_document`. The…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "rome-xi",
+    "head_sha": "cc412a8d14f4fdce069886f725c769c1ef9ef2c2",
+    "base_ref": "main",
+    "additions": 56,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
