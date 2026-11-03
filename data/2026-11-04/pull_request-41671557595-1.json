@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T16:11:21.462765Z",
+  "title": "fix(session): write a PATCH under the session lock",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3693",
+  "number": 3693,
+  "body": "## Problem\n\n`PATCH /sessions/{id}` is a check-then-write across several awaits. It\nreads the record, checks `is_locked`, validates the model / TTS / ASR /\nKB references (each a storage or access-servi…",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "b6f492cffd054448b6c38948f1c5a6ce306020d0",
+    "base_ref": "main",
+    "additions": 240,
+    "deletions": 39,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
