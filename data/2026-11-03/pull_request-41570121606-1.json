@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T03:06:13.215999Z",
+  "title": "fix(app): keep index lease heartbeat alive on renewal errors",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3662",
+  "number": 3662,
+  "body": "## Problem\n\n`IndexWorker._heartbeat()` renews the document's processing lease in a\nbackground task while the pipeline runs. `IndexWorker.process()` races\nthe heartbeat against the pipeline and treats …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "ef447c7766de42f546dac919f3b3072071d928a9",
+    "base_ref": "main",
+    "additions": 58,
+    "deletions": 11,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
