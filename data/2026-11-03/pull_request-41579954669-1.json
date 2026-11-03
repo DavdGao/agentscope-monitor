@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "konlue",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T04:45:37.433587Z",
+  "title": "fix(tool): keep an attached cp/mv target directory visible to Bash path checks",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3668",
+  "number": 3668,
+  "body": "## Background\n\n`Bash.check_permissions` decides whether a filesystem command may run unattended from the paths returned by `BashCommandParser.extract_file_paths`. Two safety checks consume that list: …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "konlue",
+    "head_sha": "ff3986fba42415bbd8cea1c1928973731523cb71",
+    "base_ref": "main",
+    "additions": 178,
+    "deletions": 0,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
