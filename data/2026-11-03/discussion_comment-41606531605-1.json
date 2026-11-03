@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T08:52:40.355268Z",
+  "title": "Support DeepSeek V4.1 Flash in the native DeepSeek provider",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3676#discussioncomment-19369968",
+  "number": 3676,
+  "body": "@iluv7 Thanks for looking into this! A PR would be welcome.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "qbc2016",
+    "discussion_author": "iluv7"
+  },
+  "at_mobiles": []
+}
