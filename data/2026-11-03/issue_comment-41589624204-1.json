@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Smilewithoutfalling",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T06:24:07.235757Z",
+  "title": "fix(app): clean up source blob when document registration is cancelled",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3657#issuecomment-6596976828",
+  "number": 3657,
+  "body": "Correction to one sentence in the comment above — the measurements hold, the mechanism line does not.\n\nI wrote that `CancelledError` \"is no longer absorbed by the cleanup handler\". It was never absorb…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "rome-xi",
+    "commenter": "Smilewithoutfalling"
+  },
+  "at_mobiles": []
+}
