@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T03:05:39.295643Z",
+  "title": "fix(realtime): release streams when local transport start fails",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3659",
+  "number": 3659,
+  "body": "## Problem\n\n`LocalAudioTransport.start()` creates and starts the input stream and then\nthe output stream. If the output stream fails to be created or started\n(for example, the output device is busy), …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "dfb0ed79e5a265c5a245269a93818d3c802c9bd6",
+    "base_ref": "main",
+    "additions": 66,
+    "deletions": 17,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
