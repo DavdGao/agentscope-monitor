@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T07:28:11.611844Z",
+  "title": "fix(scheduler): authorize schedule deletes before removing the job",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3673#issuecomment-6597928797",
+  "number": 3673,
+  "body": "Closing: this duplicates #3648, which fixes the same ordering bug.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Kiko0301",
+    "commenter": "Kiko0301"
+  },
+  "at_mobiles": []
+}
