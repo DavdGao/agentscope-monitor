@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "rome-xi",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T05:52:26.304427Z",
+  "title": "fix(app): clean up source blob when document registration is cancelled",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3657#issuecomment-6596532454",
+  "number": 3657,
+  "body": "Thanks for measuring this, the four-row table made it easy to confirm. Pushed 3f404a6:\n\n- `_delete_blob_quietly` now runs the delete (with its log-and-swallow handler) under `asyncio.shield`, so all t…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "rome-xi",
+    "commenter": "rome-xi"
+  },
+  "at_mobiles": []
+}
