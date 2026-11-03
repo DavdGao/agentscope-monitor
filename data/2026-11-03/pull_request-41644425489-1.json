@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T13:27:15.234755Z",
+  "title": "fix(tool): keep the basic tool group when the toolkit is cleared",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3684",
+  "number": 3684,
+  "body": "## Problem\n\n`Toolkit` always keeps a reserved `\"basic\"` tool group, and\n`add_tool(..., group_name=\"basic\")` looks that group up:\n\n```python\ndef clear(self) -> None:\n    \"\"\"Clear the registered tools, …",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "8eff6c9107c6b750ccec9a3d8fe30766fd1b0434",
+    "base_ref": "main",
+    "additions": 46,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
