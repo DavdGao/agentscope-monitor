@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T07:42:01.330021Z",
+  "title": "feat(model): add Gemini 4 Argon support",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3675",
+  "number": 3675,
+  "body": "## AgentScope Version\n\n2.0.12dev\n\n## Description\n\nAdd Gemini 4 Argon to `GeminiChatModel` with thinking-level controls, model-specific parameter validation, and an isolated default timeout. Preserve e…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "2b627dc225c47fb9c39b6079bf680d10e8e240ed",
+    "base_ref": "main",
+    "additions": 283,
+    "deletions": 5,
+    "changed_files": 15
+  },
+  "at_mobiles": []
+}
