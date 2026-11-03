@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T04:10:20.322097Z",
+  "title": "fix(agent): fit truncated tool text to the counted token limit",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3441",
+  "number": 3441,
+  "body": "Fixes #3438\n\n`_split_tool_result_for_compression` sizes the retained prefix from the block's average token density (`src/agentscope/agent/_agent.py:3131`). A prefix whose script mix differs from that …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "Starchaser1024",
+    "head_sha": "ac1f688d8e3bb8309aa76d2165b2c57a4d1b0bfc",
+    "base_ref": "main",
+    "additions": 106,
+    "deletions": 9,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
