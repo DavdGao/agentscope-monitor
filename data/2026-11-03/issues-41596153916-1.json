@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T07:25:00.250457Z",
+  "title": "[Bug]: CustomEvent has no reply_id, so Msg.append_event raises AttributeError",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3432",
+  "number": 3432,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing issues and discussions and did not find a duplicate.\n- [x] This is a bug, not a usage question.\n\n### Background / Description\n\n`CustomEvent` (`src…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "WuDYouOu"
+  },
+  "at_mobiles": []
+}
