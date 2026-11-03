@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T01:59:01.870646Z",
+  "title": "fix(formatter): recover v1 session replay after empty replies",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3636",
+  "number": 3636,
+  "body": "## AgentScope Version\n\nv1 maintenance branch, 1.0.21.\n\n## Description\n\nFixes #1426.\n\nAn interrupted assistant reply can be saved as an empty string or an empty TextBlock. Reloading the session convert…",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "PeaceMaker-best",
+    "head_sha": "9e12a12c2cb09cb9b9b1a16fc3539ea8f8957492",
+    "base_ref": "v1",
+    "additions": 251,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
