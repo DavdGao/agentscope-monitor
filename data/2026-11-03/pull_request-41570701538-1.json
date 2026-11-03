@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T03:11:50.989622Z",
+  "title": "feat(formatter): support provider-specific media parameters in DataBlock",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2103",
+  "number": 2103,
+  "body": "## AgentScope Version\n\n2.0.4\n\n## Description\n\nThis PR allows `DataBlock` to carry provider-specific multimodal parameters, such as image detail and video fps, via Pydantic extra fields. Formatters now…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "8779d7dd7546fd88b37442d8f860f5fc5489d347",
+    "base_ref": "main",
+    "additions": 595,
+    "deletions": 96,
+    "changed_files": 16
+  },
+  "at_mobiles": []
+}
