@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T09:47:00.325973Z",
+  "title": "fix(tool): preserve a file's line endings when Edit rewrites it",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3682",
+  "number": 3682,
+  "body": "## Problem\n\n`Read` normalizes Windows/old-Mac line endings before caching so line\nmatching works the same on every platform:\n\n```python\ncontent_str = _normalize_newlines(content_str)   # \"\\r\\n\" -> \"\\n…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "8ee728462520fa0d250a19b1edbb9f669cb9bbcb",
+    "base_ref": "main",
+    "additions": 111,
+    "deletions": 9,
+    "changed_files": 8
+  },
+  "at_mobiles": []
+}
