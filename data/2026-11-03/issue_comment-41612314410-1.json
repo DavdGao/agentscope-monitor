@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "rome-xi",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T09:36:07.906390Z",
+  "title": "fix(app): clean up source blob when document registration is cancelled",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3657#issuecomment-6600142940",
+  "number": 3657,
+  "body": "Thanks for re-running it on both trees and for the correction. Agreed: `except Exception` never caught `CancelledError`, the only change is that the delete now runs in its own task under `asyncio.shie…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "rome-xi",
+    "commenter": "rome-xi"
+  },
+  "at_mobiles": []
+}
