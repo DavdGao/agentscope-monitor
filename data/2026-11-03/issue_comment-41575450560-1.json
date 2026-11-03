@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Smilewithoutfalling",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T04:00:08.800195Z",
+  "title": "fix(app): clean up source blob when document registration is cancelled",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3657#issuecomment-6595092030",
+  "number": 3657,
+  "body": "Correction to my earlier note — I followed up and **can** now reproduce the residual window, so please treat the \"I couldn't get a reproduction to fire locally\" line as retracted. My first probe was b…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "rome-xi",
+    "commenter": "Smilewithoutfalling"
+  },
+  "at_mobiles": []
+}
