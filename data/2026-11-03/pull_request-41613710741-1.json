@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T09:46:24.035293Z",
+  "title": "fix(app): keep background task registration alive when registry write fails",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3679",
+  "number": 3679,
+  "body": "## Problem\n\n`BackgroundTaskManager.register_task` put the task into the local\nregistry, awaited `self._message_bus.registry_set(...)`, and only *then*\nattached the `asyncio_task` done-callback:\n\n```py…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "7ef9b0e5363cae8989a822d7ab2714a19fefc4c0",
+    "base_ref": "main",
+    "additions": 103,
+    "deletions": 22,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
