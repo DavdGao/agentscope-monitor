@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ZhuLinsen",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T03:37:32.488414Z",
+  "title": "fix(tool): report the exception type when a tool raises without a message",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3666",
+  "number": 3666,
+  "body": "## AgentScope Version\n\n2.0.12dev (main at 4db9b45)\n\n## Description\n\nFixes #3664.\n\nWhen a tool raises an exception with an empty message, such as `TimeoutError()`, `Toolkit.call_tool` returned an error…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ZhuLinsen",
+    "head_sha": "0b4f37bb3e262c30693c07c4ba424a2b27063df3",
+    "base_ref": "main",
+    "additions": 23,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
