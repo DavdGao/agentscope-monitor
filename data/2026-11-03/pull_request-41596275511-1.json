@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T07:26:07.102001Z",
+  "title": "fix(scheduler): authorize schedule deletes before removing the job",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3673",
+  "number": 3673,
+  "body": "## Problem\n\n`ScheduleDelete.__call__` removed the in-process APScheduler job *before*\nasking storage to delete the record:\n\n```python\ntry:\n    self._scheduler.remove_job(schedule_id)\nexcept JobLookupE…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "e7f8de3519fceab4ec6c6e3e9939301e1c151c65",
+    "base_ref": "main",
+    "additions": 40,
+    "deletions": 7,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
