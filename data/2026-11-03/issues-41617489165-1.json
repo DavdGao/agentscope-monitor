@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T10:13:54.013418Z",
+  "title": "[Bug]: Channel reply stream hangs after subscription failure",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3373",
+  "number": 3373,
+  "body": "### Prerequisites\n\n- [x] I searched existing issues and discussions and found no duplicate.\n- [x] This is a bug rather than a usage question.\n\n### Background / Description\n\n`open_reply_stream()` consu…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "wuwenbo0626"
+  },
+  "at_mobiles": []
+}
