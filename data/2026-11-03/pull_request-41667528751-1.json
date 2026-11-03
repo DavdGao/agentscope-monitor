@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T15:47:46.145257Z",
+  "title": "fix(session): only bind a workspace the caller already owns",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3692",
+  "number": 3692,
+  "body": "## Problem\n\n`POST /sessions/` accepts an arbitrary `workspace_id` from the request\nbody and stores it as the session's workspace binding without checking\nwho owns it:\n\n```python\nresolved_workspace_id …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "3760ed0eaa1a561aa1281eeeed77fe8cb7ff1037",
+    "base_ref": "main",
+    "additions": 283,
+    "deletions": 1,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
