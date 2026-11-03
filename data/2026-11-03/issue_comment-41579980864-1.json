@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "konlue",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T04:45:52.808884Z",
+  "title": "[Bug]: Bash path extraction ignores attached -t/--target-directory values, so cp/mv can write outside the working directory without confirmation",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3663#issuecomment-6595681208",
+  "number": 3663,
+  "body": "Opened PR #3668 with the fix and the regression tests.\n\nThe parser now keeps the target directory visible when it rides along with the option token (`cp -tDIR`, `cp --target-directory=DIR`), both in t…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "konlue",
+    "commenter": "konlue"
+  },
+  "at_mobiles": []
+}
