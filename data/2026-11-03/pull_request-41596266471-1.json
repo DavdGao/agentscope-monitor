@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T07:26:03.080747Z",
+  "title": "fix(app): fail wakeup startup when the subscription breaks early",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3672",
+  "number": 3672,
+  "body": "## Problem\n\n`WakeupDispatcher.__aenter__` starts the listener and waits for its\n`on_ready` callback before publishing the startup signal:\n\n```python\nself._task = asyncio.create_task(self._loop(ready),…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "633637b11a1f26e86ac480348ad5307c7726d5a9",
+    "base_ref": "main",
+    "additions": 33,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
