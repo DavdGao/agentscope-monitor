@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T12:54:16.371929Z",
+  "title": "fix(memory): resolve memory entries under a relative workdir",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3686",
+  "number": 3686,
+  "body": "## Problem\n\n`AgenticMemoryMiddleware._list_md_files()` scans the memory directory and\nthen treats every entry that is not absolute as a **bare file name**:\n\n```python\nentry_path = self._backend.normpa…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "3625cba6c69b4777cf12be756800b3a36149e915",
+    "base_ref": "main",
+    "additions": 38,
+    "deletions": 5,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
