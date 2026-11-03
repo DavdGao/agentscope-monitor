@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T15:47:30.427072Z",
+  "title": "fix(chat): keep an idle-session interrupt a silent no-op",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3690",
+  "number": 3690,
+  "body": "## Problem\n\n`ChatService.interrupt()` documents that interrupting a session which is\nneither running nor parked on a HITL call is a silent no-op. The agent\nside implements that: `Agent._reply_impl` re…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "f102a69a3bf75e710b330f97815b432e6ecec5b6",
+    "base_ref": "main",
+    "additions": 244,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
