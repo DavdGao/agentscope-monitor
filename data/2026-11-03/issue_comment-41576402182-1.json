@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T04:09:15.169912Z",
+  "title": "[Bug]: mixed text tool results can exceed the configured token limit",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3469#issuecomment-6595212873",
+  "number": 3469,
+  "body": "Thanks for the report. The regression test in #3447 uses a single `TextBlock` and reproduces #3438, which is being addressed in #3441. We don’t yet have a reproducible example of the `TextBlock` and `…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "huyengiang101086-spec",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
