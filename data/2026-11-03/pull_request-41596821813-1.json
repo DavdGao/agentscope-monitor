@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T07:31:09.631221Z",
+  "title": "fix(app): keep dispatching wakeups when one trigger fails",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3674",
+  "number": 3674,
+  "body": "## Problem\n\n`WakeupDispatcher._drain_and_dispatch()` drains up to 64 trigger entries\nand then awaits `_dispatch_one()` for each of them without isolating the\ncalls:\n\n```python\nfor payload in entries:\n…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "1ff96d439d588783b3f39cb3b08d0fd85172ea0a",
+    "base_ref": "main",
+    "additions": 55,
+    "deletions": 7,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
