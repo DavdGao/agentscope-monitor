@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T07:56:01.344165Z",
+  "title": "Support DeepSeek V4.1 Flash in the native DeepSeek provider",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3676",
+  "number": 3676,
+  "body": "Would you welcome support for DeepSeek V4.1 Flash in the native DeepSeek provider? The current catalog includes it under DashScope, but not under DeepSeekChatModel. I would like to contribute the mode…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "iluv7"
+  },
+  "at_mobiles": []
+}
