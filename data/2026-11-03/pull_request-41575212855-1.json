@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T03:57:21.717168Z",
+  "title": "fix(memory): extend the frontmatter read to the closing fence when the byte cap cuts it off",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3617",
+  "number": 3617,
+  "body": "## AgentScope Version\n\n2.0.12dev (main @ `4acacb9`)\n\n## Description\n\nThe agentic-memory indexer reads only a byte-capped prefix of each memory file before parsing frontmatter (`retrieval_max_tokens_pe…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "konlue",
+    "head_sha": "4b064af20abca56e0014b143970b88d172e05497",
+    "base_ref": "main",
+    "additions": 193,
+    "deletions": 6,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
