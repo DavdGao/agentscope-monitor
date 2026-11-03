@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T07:25:40.513689Z",
+  "title": "fix(realtime): finish local transport teardown when a stream stop fails",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3669",
+  "number": 3669,
+  "body": "## Problem\n\n`LocalAudioTransport.close()` stops and closes the input stream and then\nthe output stream, with nothing guarding either call:\n\n```python\nfor stream in (self._in_stream, self._out_stream):…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "ffa00279c738517dc32cf67ea46e43ccff6d06b8",
+    "base_ref": "main",
+    "additions": 65,
+    "deletions": 11,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
