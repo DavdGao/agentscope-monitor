@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T07:25:00.470132Z",
+  "title": "[Bug]: CustomEvent has no reply_id, so Msg.append_event raises AttributeError",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3432#issuecomment-6597880442",
+  "number": 3432,
+  "body": "Thanks for the clear reproduction. This is fixed on `main` by #3325. The `msg.append_event(CustomEvent(...))` call in your example now leaves the message unchanged and returns without raising `Attribu…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "WuDYouOu",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
