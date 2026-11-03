@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ZhuLinsen",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T03:37:37.599059Z",
+  "title": "fix(model): keep OpenAI chat refusals instead of returning an empty reply",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3667",
+  "number": 3667,
+  "body": "## AgentScope Version\n\n2.0.12dev (main at 4db9b45)\n\n## Description\n\nFixes #3665.\n\nAn OpenAI Chat Completions refusal arrives in `message.refusal`, or in `delta.refusal` when streaming, with `content` …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ZhuLinsen",
+    "head_sha": "4c83e24ab164288a2ad81e93daf74730902b4ac0",
+    "base_ref": "main",
+    "additions": 59,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
