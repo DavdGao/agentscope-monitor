@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T04:06:29.979696Z",
+  "title": "fix(agent): keep tool results within token limit",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3447#issuecomment-6595177017",
+  "number": 3447,
+  "body": "Thanks for the contribution. The regression test here reproduces the same mixed-language truncation bug as #3438, and both PRs change how we choose the retained text prefix. We’re proceeding with #344…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "huyengiang101086-spec",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
