@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T16:09:48.961042Z",
+  "title": "fix(workspace): lease a workspace for the whole run",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3694",
+  "number": 3694,
+  "body": "## Problem\n\nEvery workspace manager caches built workspaces and evicts a cache\nentry once its *last access* is older than `ttl`:\n\n```python\nexpired_ids = [\n    wid\n    for wid, (_, ts) in self._cache.…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "388aa5584e14ecf89d30c9339aa8980cb53a9f51",
+    "base_ref": "main",
+    "additions": 315,
+    "deletions": 15,
+    "changed_files": 18
+  },
+  "at_mobiles": []
+}
