@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T02:43:32.221984Z",
+  "title": "fix(utils): flatten discriminator mapping references",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3618",
+  "number": 3618,
+  "body": "## Description\n\nFixes #3046.\n\n`_flatten_json_schema` already inlines local `$ref` entries from `$defs` and `definitions`, but Pydantic discriminated unions also store those references as strings in `d…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "lll-hhh",
+    "head_sha": "d5e744cbc96e74fb2cbcdbd48c0bd3133047713d",
+    "base_ref": "main",
+    "additions": 191,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
