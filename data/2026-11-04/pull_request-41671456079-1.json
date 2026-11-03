@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T16:10:49.406646Z",
+  "title": "fix(realtime): clean up a cancelled WebRTC offer",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3691",
+  "number": 3691,
+  "body": "## Problem\n\n`POST /realtime/sessions/{id}/offer` registers a `WebRTCSession` runner\nand starts it before returning the SDP answer:\n\n```python\nrunner = WebRTCSession(...)\nconnections[connection_key] = …",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "9a6f3c8aa91a5cb77d3f1dbc8302ef085947761c",
+    "base_ref": "main",
+    "additions": 287,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
