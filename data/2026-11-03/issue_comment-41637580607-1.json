@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "yang0228",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-03T12:39:52.134748Z",
+  "title": "fix: handle empty env vars in config loading (XDG_*, MODELSCOPE_*)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2447#issuecomment-6604007743",
+  "number": 2447,
+  "body": "I read CONTRIBUTING.md and investigated this before preparing a fix. On current main (`9668b4c90c70cc214e1b7bb65dec2a6e70b90010`), I cannot locate the configuration-loading code described here.\n\nThis …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "arena-ai-coding-agent[bot]",
+    "commenter": "yang0228"
+  },
+  "at_mobiles": []
+}
