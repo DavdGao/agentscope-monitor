@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "97Three",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-04T03:45:49.029904Z",
+  "title": "fix(embedding): join sibling batches after failure",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3148",
+  "number": 3148,
+  "body": "## AgentScope Version\n\n2.0.10dev, based on `72f3f6fa0b2fc38b8517f408ab616f0f2bd229e6`.\n\n## Description\n\nCloses #3146.\n\nWhen one embedding batch fails, `asyncio.gather` propagates its error while sibli…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "97Three",
+    "head_sha": "c2bc8b6bcf1ab0fcd3aa82370954239fb1f80e9e",
+    "base_ref": "main",
+    "additions": 206,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
