@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-04T02:31:58.396330Z",
+  "title": "[Bug]: Cancelling document registration can leave a complete source blob without a document record",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3651",
+  "number": 3651,
+  "body": "## Background / Description\n\n`KnowledgeBaseService.register_document` writes the source blob to storage before awaiting `upsert_knowledge_document`. Because its compensation handler catches `Exception…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "rome-xi"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "stefanielizeth73-art"
+  },
+  "at_mobiles": []
+}
