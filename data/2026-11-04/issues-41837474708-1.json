@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-04T13:22:30.642695Z",
+  "title": "Bug: mem0 search_memory ignores the middleware top_k default",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3729",
+  "number": 3729,
+  "body": "### Describe the bug\n\n`Mem0Middleware`'s `top_k` parameter is documented as also governing the\n`search_memory` tool:\n\n> `top_k`: Max number of memories retrieved per static-control search. Also\n> serv…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Kiko0301"
+  },
+  "at_mobiles": []
+}
