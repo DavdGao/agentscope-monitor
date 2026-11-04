@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-04T09:57:24.493941Z",
+  "title": "fix(middleware): reject unknown placeholders in hint_template",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3721",
+  "number": 3721,
+  "body": "## Problem\n\n`RAGMiddleware.Parameters._validate_hint_template` only counts\noccurrences of `{context}`:\n\n```python\ncount = value.count(\"{context}\")\nif count != 1:\n    raise ValueError(...)\nreturn value…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "282c32121b68b0169e5b614fae7123f7d2f739ae",
+    "base_ref": "main",
+    "additions": 25,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
