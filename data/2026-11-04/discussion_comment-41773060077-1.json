@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-04T04:25:06.699368Z",
+  "title": "Support DeepSeek V4.1 Flash in the native DeepSeek provider",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3676#discussioncomment-19389544",
+  "number": 3676,
+  "body": "After checking the official API docs and the existing implementation, I found that `deepseek-flash` already serves DeepSeek V4.1 Flash, so my initial description of missing native support was inaccura…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "iluv7",
+    "discussion_author": "iluv7"
+  },
+  "at_mobiles": []
+}
