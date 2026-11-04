@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-04T08:53:04.070164Z",
+  "title": "fix(memory): start the ReMe app once for concurrent callers",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3687",
+  "number": 3687,
+  "body": "## Problem\n\n`ReMeMiddleware._ensure_started()` is documented as idempotent (\"started\nonce (idempotent guards)\"), but the check has no lock:\n\n```python\nif self._app is None:\n    self._app = self._build…",
+  "labels": [
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "9339b531af440f63bab5b16447b9716b4760a0ed",
+    "base_ref": "main",
+    "additions": 37,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
