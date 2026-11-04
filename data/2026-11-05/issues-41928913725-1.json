@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Fahmid-Arman",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-04T22:51:50.402397Z",
+  "title": "[Bug]: Ollama formatter splits parallel tool calls into separate assistant messages, and Ollama drops all but the first",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3738",
+  "number": 3738,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing issues and discussions, and this is not a duplicate.\n- [x] This is a bug, not a usage question.\n\n### Background / Description\n\n`OllamaChatFormatte…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Fahmid-Arman"
+  },
+  "at_mobiles": []
+}
