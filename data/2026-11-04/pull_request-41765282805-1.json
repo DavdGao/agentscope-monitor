@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-04T03:09:11.301558Z",
+  "title": "fix(agent): truncate external execution results too",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3698",
+  "number": 3698,
+  "body": "## Problem\n\nA tool result that was executed locally is truncated before it enters\nthe context: `_execute_tool_call` splits it with\n`_split_tool_result_for_compression()` when it exceeds\n`context_confi…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "18f40c4d2f5d8819f4c481d9b054336b6a76fdc1",
+    "base_ref": "main",
+    "additions": 163,
+    "deletions": 61,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
