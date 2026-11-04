@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-04T03:41:06.381480Z",
+  "title": "fix(model): derive anthropic thinking budget from per-call max_tokens",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3292",
+  "number": 3292,
+  "body": "## AgentScope Version\n\n2.0.10\n\n## Description\n\nFixes #3288.\n\nWith manual thinking enabled, `await model(msgs, max_tokens=4096)` used to send a thinking budget of 4096 because AgentScope calculated it …",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "BlueX888",
+    "head_sha": "ca3e8ca4a92ed1b84f72f484049b2d39225636f0",
+    "base_ref": "main",
+    "additions": 193,
+    "deletions": 19,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
