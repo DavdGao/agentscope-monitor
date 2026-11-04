@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "97Three",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-04T03:47:48.277501Z",
+  "title": "fix(workspace): stage skill installs before publishing",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3145#issuecomment-6622003340",
+  "number": 3145,
+  "body": "Update after resolving the conflict with `main@dff94ffd` (head `7802a61d`): the PR is mergeable again. The conflict was in `tests/workspace_local_test.py`. I retained the upstream case-insensitive dir…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "97Three",
+    "commenter": "97Three"
+  },
+  "at_mobiles": []
+}
