@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "zhangkom",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-04T10:26:01.238485Z",
+  "title": "bug: schema flattening retains discriminator references with escaped definition names",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3722",
+  "number": 3722,
+  "body": "### Version\n\nAgentScope 2.0.12dev, `main` at `782bd43`, Python 3.12.14.\n\n### Reproduction\n\n```python\nfrom agentscope._utils._common import _flatten_json_schema\n\nschema = {\n    \"$defs\": {\"Ring/Named\": …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "zhangkom"
+  },
+  "at_mobiles": []
+}
