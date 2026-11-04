@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Wilson0511",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-04T05:20:52.123949Z",
+  "title": "fix(rag): drop the orphan collection when KB creation is cancelled",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3703",
+  "number": 3703,
+  "body": "## AgentScope Version\n\n2.0.12dev (main at 3aa1bc0)\n\n## Description\n\nFixes #3702.\n\n`create_knowledge_base` compensation only caught `Exception`, so a cancelled `upsert_knowledge_base` leaked the alloca…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Wilson0511",
+    "head_sha": "6bc09441971a1f71afb404f82a47337253b2652c",
+    "base_ref": "main",
+    "additions": 164,
+    "deletions": 12,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
