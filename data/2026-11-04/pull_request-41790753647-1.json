@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-04T07:13:31.737267Z",
+  "title": "fix(app): claim a redis message id atomically on upsert",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3708",
+  "number": 3708,
+  "body": "## Problem\n\n`RedisStorage.upsert_message()` decides whether a message is new and\nappends it in two separate round trips:\n\n```python\nasync with self._client.pipeline(transaction=False) as pipe:\n    pip…",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "6de917f1d099bf70b57cc87fd715d580a3bf60e9",
+    "base_ref": "main",
+    "additions": 137,
+    "deletions": 21,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
