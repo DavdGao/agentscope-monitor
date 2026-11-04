@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "indexGin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-04T07:00:59.653946Z",
+  "title": "fix(agent): close model streams when reasoning exits",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3707",
+  "number": 3707,
+  "body": "## AgentScope Version\n\n2.0.12dev\n\n## Description\n\nClosing `Agent.reply_stream()` during a streamed model response currently returns while the provider HTTP response remains open. Close the delegated r…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "indexGin",
+    "head_sha": "2f0788670d5caecedc37ee2298dc1ec4df95f939",
+    "base_ref": "main",
+    "additions": 172,
+    "deletions": 38,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
