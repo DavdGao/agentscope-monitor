@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "review_requested",
+  "action_cn": "请求审核",
+  "sender": "indexGin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-04T06:06:33.307326Z",
+  "title": "fix(utils): keep sibling keywords when a $ref resolves to a boolean schema",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3705",
+  "number": 3705,
+  "body": "## PR Title Format\n\n`fix(utils): keep sibling keywords when a $ref resolves to a boolean schema`\n\n## AgentScope Version\n\nmain @ 3aa1bc0 (`agentscope.__version__` = 1.x, working from source)\n\n## Descri…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "indexGin",
+    "head_sha": "bff09ef1b9825cdd8f62ca8c2c2b2303d414f8cd",
+    "base_ref": "main",
+    "additions": 32,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
