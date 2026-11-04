@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Wilson0511",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-04T05:20:30.714241Z",
+  "title": "fix(rag): cancelled create_knowledge_base leaks the vector-store collection (compensation misses CancelledError)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3702",
+  "number": 3702,
+  "body": "## AgentScope Version\n\n2.0.12dev (main at 6bc0944)\n\n## Description\n\n`CollectionPerKbManager.create_knowledge_base` (`src/agentscope/app/rag/knowledge_base_manager/_collection_per_kb.py`) allocates the…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Wilson0511"
+  },
+  "at_mobiles": []
+}
