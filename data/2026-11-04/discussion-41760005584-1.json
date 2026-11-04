@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "mariagorskikh",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-04T02:19:54.185969Z",
+  "title": "feat(workspace): add Maritime as a sandboxed workspace backend",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3695",
+  "number": 3695,
+  "body": "**Is your feature request related to a problem?**\nAgentScope workspaces can run on E2B, Daytona, OpenSandbox, Docker, K8s, Apple Container and Bubblewrap. Maritime (maritime.sh) runs cloud sandboxes w…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "mariagorskikh"
+  },
+  "at_mobiles": []
+}
