@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "inchang-ing",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-04T18:44:34.841829Z",
+  "title": "Honor tools/list_changed notifications in stateful MCP clients",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3735",
+  "number": 3735,
+  "body": "Closes #3733\n\n## Problem\n\nA stateful `MCPClient` never observes `notifications/tools/list_changed`:\n\n1. `_create_sdk_client()` builds the MCP SDK client without a `message_handler`, so the notificatio…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "inchang-ing",
+    "head_sha": "d3d325adea0d0a25f1a452b4d946cd957c9d7256",
+    "base_ref": "main",
+    "additions": 227,
+    "deletions": 1,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
