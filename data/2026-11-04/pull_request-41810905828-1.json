@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-04T09:57:00.620095Z",
+  "title": "fix(tool): recognise paths below a configured filesystem root",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3719",
+  "number": 3719,
+  "body": "## Problem\n\n`ToolBase._path_in_allowed_working_path` decides whether a file may be\nedited without asking, and its containment test builds the prefix by\nappending a separator to the working directory:\n…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "1ff1fa47982881546e1edec20bcd1f4ab17d5c86",
+    "base_ref": "main",
+    "additions": 41,
+    "deletions": 6,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
