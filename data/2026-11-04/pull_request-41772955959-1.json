@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-04T04:24:09.676792Z",
+  "title": "fix(formatter): preserve HintBlock in multi-agent requests",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3321",
+  "number": 3321,
+  "body": "Fixes #3289.\n\n## What\n- Preserve `HintBlock` content in multi-agent request history across all 11 formatter providers.\n- Keep message order by splitting history at each `HintBlock` and formatting each…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "zhengguangzhuo",
+    "head_sha": "7f68cf048483228e8df979eae0ce0b396fa0b606",
+    "base_ref": "main",
+    "additions": 643,
+    "deletions": 53,
+    "changed_files": 14
+  },
+  "at_mobiles": []
+}
