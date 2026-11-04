@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-04T13:22:37.353623Z",
+  "title": "Bug: RAG hint_template accepts unknown placeholders and crashes the reply",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3730",
+  "number": 3730,
+  "body": "### Describe the bug\n\n`RAGMiddleware.Parameters._validate_hint_template` only counts occurrences of\n`{context}`:\n\n```python\ncount = value.count(\"{context}\")\nif count != 1:\n    raise ValueError(...)\nre…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Kiko0301"
+  },
+  "at_mobiles": []
+}
