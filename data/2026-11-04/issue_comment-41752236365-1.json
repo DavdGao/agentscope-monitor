@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ydflow",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-04T01:11:00.070546Z",
+  "title": "perf(message): append streamed Base64 chunks without re-encoding",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3629#issuecomment-6619764054",
+  "number": 3629,
+  "body": "Rebased onto `main` (`9668b4c`); the PR is mergeable again.\n\nThe rebase was not mechanical, because `main` refactored the exact code this PR touches:\n\n- `ToolResponse.append_chunk` no longer walks `cu…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "ydflow",
+    "commenter": "ydflow"
+  },
+  "at_mobiles": []
+}
