@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-04T08:14:39.962764Z",
+  "title": "fix(tool): spawn exec_shell children with stdin=DEVNULL to prevent Windows deadlock via inherited pipe handle",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3642",
+  "number": 3642,
+  "body": "Fixes #3643\n\n## AgentScope Version\n\n`2.0.9` (where the bug was found); still present on `main` as of 2026-11-02 (`src/agentscope/tool/_builtin/_backend.py`, single `create_subprocess_exec` call site i…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "SSShooter",
+    "head_sha": "ca908ea0355543e753f087e3297e8699ea35874a",
+    "base_ref": "main",
+    "additions": 2,
+    "deletions": 0,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
