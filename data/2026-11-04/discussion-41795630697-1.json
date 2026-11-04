@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "dingzhenznen",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-04T07:55:39.971503Z",
+  "title": "tracing的功能实现",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3709",
+  "number": 3709,
+  "body": "可以通过环境变量 配置 收集trace 的地址，系统自动把 trace 发送到 配置的地址吗",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "dingzhenznen"
+  },
+  "at_mobiles": []
+}
