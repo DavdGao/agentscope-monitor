@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "AndrewGuo-0011",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-04T07:10:48.758143Z",
+  "title": "fix(tool): judge dangerous names only where bash runs a program",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2810#issuecomment-6624921311",
+  "number": 2810,
+  "body": "Confirming this still reproduces on latest `main` (we run agentscope 2.0.9 in production) — filing here since #2809 was closed administratively, not technically.\n\n**Minimal repro** (`agentscope.tool._…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "sxh313",
+    "commenter": "AndrewGuo-0011"
+  },
+  "at_mobiles": []
+}
