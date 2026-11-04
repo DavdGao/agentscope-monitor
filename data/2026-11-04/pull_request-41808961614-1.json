@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "review_requested",
+  "action_cn": "请求审核",
+  "sender": "indexGin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-04T09:37:38.777533Z",
+  "title": "fix(tool): name the exception type when a tool fails without a message",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3711",
+  "number": 3711,
+  "body": "## AgentScope Version\n\nmain @ origin/main (2.0.12dev), verified against the current tree\n\n## Description\n\n`Toolkit.call_tool` renders a tool's failure for the model with `text=str(e)`.\nFor a message-l…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "indexGin",
+    "head_sha": "4ea193aa6e66f18fbf3e6be8cd329c7ebd488676",
+    "base_ref": "main",
+    "additions": 72,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
