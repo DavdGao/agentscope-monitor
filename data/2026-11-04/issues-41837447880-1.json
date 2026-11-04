@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-04T13:22:20.281301Z",
+  "title": "Bug: working-directory containment never matches inside a filesystem root",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3728",
+  "number": 3728,
+  "body": "### Describe the bug\n\n`ToolBase._path_in_allowed_working_path` decides whether an edit is inside a\nconfigured working directory by appending a separator to the directory:\n\n```python\nos.path.relpath(ab…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Kiko0301"
+  },
+  "at_mobiles": []
+}
