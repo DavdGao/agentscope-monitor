@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "indexGin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-04T06:05:53.436105Z",
+  "title": "[Bug]: _flatten_json_schema raises TypeError on a boolean $ref target with sibling keywords",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3704",
+  "number": 3704,
+  "body": "### Description\n\n`_flatten_json_schema()` crashes with an uncaught `TypeError` when a local `$ref` points at a boolean JSON schema and the referencing object carries sibling keywords.\n\nJSON Schema (dr…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "indexGin"
+  },
+  "at_mobiles": []
+}
