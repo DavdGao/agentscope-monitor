@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-04T08:34:41.222943Z",
+  "title": "fix(tool): prevent CPython startup hangs in exec_shell on Windows",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3642",
+  "number": 3642,
+  "body": "Fixes #3643\n\nOn Windows, a CPython process launched by `LocalBackend.exec_shell()` can hang during interpreter startup if it inherits a named pipe as stdin from a host such as Electron. This leaves `e…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "SSShooter",
+    "head_sha": "ca908ea0355543e753f087e3297e8699ea35874a",
+    "base_ref": "main",
+    "additions": 2,
+    "deletions": 0,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
