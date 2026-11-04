@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-04T13:22:09.746971Z",
+  "title": "Bug: IndexTaskConsumer reports a successful startup when the index signal cannot be subscribed",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3727",
+  "number": 3727,
+  "body": "### Describe the bug\n\n`IndexTaskConsumer.__aenter__` starts the consumer loop, waits for its\n`ready` event, and then performs one eager drain. `_loop` sets `ready` in\n`finally` so that a failed `subsc…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Kiko0301"
+  },
+  "at_mobiles": []
+}
