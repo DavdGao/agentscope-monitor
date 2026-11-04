@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-04T06:48:20.070521Z",
+  "title": "fix(tool): skip a PowerShell candidate that cannot run",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3699",
+  "number": 3699,
+  "body": "## Problem\n\n`PowerShell._resolve_executable()` probes each candidate shell with\n`exit 0` and caches the first one that is not \"not found\":\n\n```python\nprobe = await self._backend.exec_shell([...], time…",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "1b294c6221139bc9cbb1e615e9f7d1b81b2124c9",
+    "base_ref": "main",
+    "additions": 27,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
