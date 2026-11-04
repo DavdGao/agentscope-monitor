@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-04T02:58:59.148786Z",
+  "title": "fix(app): parse redis global index tokens from the right",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3696",
+  "number": 3696,
+  "body": "## Problem\n\nBoth Redis global indexes store a **delimiter-joined token** instead of\na record key, and both readers parse it from the **left**:\n\n```python\n# upsert_schedule\nawait self._client.sadd(\n   …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "c04a677d6aef0c5a970db263a1f369feb9880e5a",
+    "base_ref": "main",
+    "additions": 64,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
