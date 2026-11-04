@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Tong-bit-art",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-04T11:59:58.942196Z",
+  "title": "[Bug]: SchedulerManager startup hangs when the schedule lifecycle subscription fails before readiness",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3724",
+  "number": 3724,
+  "body": "### Describe the bug\n\n`SchedulerManager.__aenter__()` waits for the schedule lifecycle subscription to become ready. If `MessageBus.subscribe()` raises before calling `on_ready`, `_listen()` logs the …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Tong-bit-art"
+  },
+  "at_mobiles": []
+}
