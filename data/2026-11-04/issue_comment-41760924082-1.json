@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "PHM-Audit",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-04T02:28:11.696447Z",
+  "title": "[Bug]: indirect `rm` spellings (/bin/rm, \\rm, env rm, FOO=1 rm) bypass the dangerous-removal check",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2500#issuecomment-6620890814",
+  "number": 2500,
+  "body": "Follow-up testing on the 2.0.11 PyPI release (the original report was against main @ 10eaaac), since this issue is now flagged stale:\n\n**1. The original variants split into two groups on 2.0.11.** Sti…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "yaoruiquan",
+    "commenter": "PHM-Audit"
+  },
+  "at_mobiles": []
+}
