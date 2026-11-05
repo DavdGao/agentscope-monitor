@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-05T09:28:56.269794Z",
+  "title": "fix(workspace): ignore a non-object mcps value in the persisted file",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3758",
+  "number": 3758,
+  "body": "## Problem\n\n`WorkspaceBase._restore_mcp_specs` documents that it returns an empty\nmapping when the persisted file is absent or unusable, \"so a corrupt\nfile cannot block startup\". A v2 `.mcp` file is a…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "d21edbdf818a4c37eadfd4ec3ccfe2888f3cb0f2",
+    "base_ref": "main",
+    "additions": 24,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
