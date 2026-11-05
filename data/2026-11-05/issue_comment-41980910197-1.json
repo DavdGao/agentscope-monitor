@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Tong-bit-art",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-05T06:31:00.434375Z",
+  "title": "[Bug]: failed steering items are auto-executed by the chat queue pump",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3746#issuecomment-6651427838",
+  "number": 3746,
+  "body": "/assign me",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Tong-bit-art",
+    "commenter": "Tong-bit-art"
+  },
+  "at_mobiles": []
+}
