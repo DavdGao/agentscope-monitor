@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-05T09:29:00.882599Z",
+  "title": "fix(channel): measure message length in UTF-16 units when splitting",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3760",
+  "number": 3760,
+  "body": "## Problem\n\nLong replies are split by the channel base class before they reach the\nplatform:\n\n```python\nlimit = self.capabilities.max_message_length\nif len(text) <= limit:\n    return [text]\nreturn [te…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "9222d1aec019bfeaddaf4b4421b24291990b381c",
+    "base_ref": "main",
+    "additions": 85,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
