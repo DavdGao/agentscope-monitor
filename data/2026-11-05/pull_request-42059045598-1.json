@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ccclucky",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-05T15:50:44.208788Z",
+  "title": "fix(tool): read tree-sitter node text instead of byte offsets",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3772",
+  "number": 3772,
+  "body": "## Summary\n\n`BashCommandParser` parses the command as UTF-8 bytes but used tree-sitter's\n`start_byte`/`end_byte` (byte offsets) to slice the original `str`. Every token after a\nnon-ASCII character was…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ccclucky",
+    "head_sha": "9ba9ceee5ce16f9ae990f924609cd7a7f5e4eaba",
+    "base_ref": "main",
+    "additions": 74,
+    "deletions": 17,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
