@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "zhangkom",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-05T02:53:53.342669Z",
+  "title": "fix(model): surface failed non-streaming responses",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3743",
+  "number": 3743,
+  "body": "## AgentScope Version\n\n2.0.12dev (main at 782bd43f9f61788a1901fcc4e5486758491d387f).\n\n## Summary\n\nAn HTTP 200 Responses API result with `status=\"failed\"` is currently returned by `OpenAIResponseModel(…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "zhangkom",
+    "head_sha": "c4dc0481253aa08380d2dfbbc9dc2e811cf21849",
+    "base_ref": "main",
+    "additions": 133,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
