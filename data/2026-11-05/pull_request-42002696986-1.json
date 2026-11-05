@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-05T09:28:57.495157Z",
+  "title": "fix(workspace): validate the shape of the persisted skills index",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3759",
+  "number": 3759,
+  "body": "## Problem\n\nEach skill partition persists its index in `.index`, parsed into\n`_SkillsFile` / `_SkillEntry` — `TypedDict`s, which validate nothing at\nruntime. `_load_skills_file` checked only that the …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "a8db4650bcea4fe2eaf81ca9d3fee94b7a75c066",
+    "base_ref": "main",
+    "additions": 68,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
