@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "yetuge",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-05T09:56:06.968945Z",
+  "title": "[Bug]: OpenAI formatter silently drops video media, so a video-only message disappears",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3112",
+  "number": 3112,
+  "body": "### Describe the bug\n\n`OpenAIChatFormatter` supports `image/*`, `audio/*` and `application/pdf` but **not video**, and `_format_openai_data_block` returns `None` for unsupported types. The plain-messa…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "yetuge"
+  },
+  "at_mobiles": []
+}
