@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "golitter",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-05T07:20:57.656760Z",
+  "title": "[Bug]: LocalWorkspace fails to discover a new skill when SKILL.md is added after the directory was scanned",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3748#issuecomment-6652211410",
+  "number": 3748,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "golitter",
+    "commenter": "golitter"
+  },
+  "at_mobiles": []
+}
