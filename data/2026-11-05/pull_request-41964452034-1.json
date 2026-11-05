@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "shuxiachai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-05T03:54:22.583989Z",
+  "title": "fix(rag): drop a leading byte order mark in TextParser",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3745",
+  "number": 3745,
+  "body": "## AgentScope Version\n\n`2.0.12dev`, based on `782bd43f9f61788a1901fcc4e5486758491d387f`.\n\n## Description\n\nFixes #3744.\n\n`TextParser` decoded file bytes with `bytes.decode(self.encoding)`, and the defa…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "shuxiachai",
+    "head_sha": "5795d8e93718af9595a6afed5366e34709eb89e9",
+    "base_ref": "main",
+    "additions": 51,
+    "deletions": 15,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
