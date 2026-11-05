@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "indexGin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-05T03:44:46.087426Z",
+  "title": "fix(model): surface the Chat Completions refusal as reply text",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3713#issuecomment-6649098433",
+  "number": 3713,
+  "body": "Closing this in favour of #3667, which was opened first for the same issue (#3665). Comparing the two diffs, they cover the same two branches — streaming `delta.refusal` in `_parse_stream_response` an…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "indexGin",
+    "commenter": "indexGin"
+  },
+  "at_mobiles": []
+}
