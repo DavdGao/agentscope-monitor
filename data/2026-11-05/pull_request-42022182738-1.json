@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "fusenning119",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-05T11:50:29.498707Z",
+  "title": "fix(channel): deliver every reply from a run",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3769",
+  "number": 3769,
+  "body": "Fixes #3757.\n\n## AgentScope Version\n\n`2.0.12dev`, based on `main` at `782bd43f`.\n\n## Description\n\nWhen a channel-bound run picks up another inbox message after finishing a reply, it can generate a sec…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "fusenning119",
+    "head_sha": "b49db4752c5d0fc26009a033c2259e3790f07f42",
+    "base_ref": "main",
+    "additions": 863,
+    "deletions": 116,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
