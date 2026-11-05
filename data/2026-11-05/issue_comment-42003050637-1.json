@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "indexGin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-05T09:31:37.725885Z",
+  "title": "[Bug]: OpenAI formatter silently drops video media, so a video-only message disappears",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3112#issuecomment-6654524097",
+  "number": 3112,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "yetuge",
+    "commenter": "indexGin"
+  },
+  "at_mobiles": []
+}
