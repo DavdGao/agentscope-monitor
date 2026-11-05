@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "indexGin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-05T03:44:44.056502Z",
+  "title": "fix(tool): name the exception type when a tool fails without a message",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3711#issuecomment-6649098040",
+  "number": 3711,
+  "body": "Thanks for flagging #3666 — it does target the same report (#3664), so I want to put the difference on record rather than leave two PRs that look identical.\n\n#3666 uses `text=str(e) or type(e).__name_…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "indexGin",
+    "commenter": "indexGin"
+  },
+  "at_mobiles": []
+}
