@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "fusenning119",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-05T09:37:30.222999Z",
+  "title": "[Bug]: Channel delivery stops at the first REPLY_END and drops later replies from the same run",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3757#issuecomment-6654644176",
+  "number": 3757,
+  "body": "I'd like to work on this issue. I'll first reproduce the missing second reply on current main, then add a focused regression test and investigate reply-scoped channel delivery, preserving parked-run b…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "llystar",
+    "commenter": "fusenning119"
+  },
+  "at_mobiles": []
+}
