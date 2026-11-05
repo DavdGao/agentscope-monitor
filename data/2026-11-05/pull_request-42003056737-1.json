@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "review_requested",
+  "action_cn": "请求审核",
+  "sender": "indexGin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-05T09:31:31.687470Z",
+  "title": "fix(formatter): keep unsupported anthropic media as a text placeholder",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3764",
+  "number": 3764,
+  "body": "Fixes #3105\n\n## Problem and root cause\n\n`AnthropicChatFormatter` (and `MiniMaxChatFormatter`, which inherits it) only\nsupports images and PDF documents. `_format_anthropic_data_block()` returns\n`None`…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "indexGin",
+    "head_sha": "69b323728a0949ead6ca0d1a5304086f91e3ceec",
+    "base_ref": "main",
+    "additions": 165,
+    "deletions": 19,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
