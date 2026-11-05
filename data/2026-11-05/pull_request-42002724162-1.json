@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-05T09:29:10.538538Z",
+  "title": "fix(asr): join recognised sentences without inventing spaces",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3762",
+  "number": 3762,
+  "body": "## Problem\n\nThe DashScope realtime recognizer reports one text per sentence, without\nthe spacing between them. `_complete_text` restores that spacing with a\nword-joining heuristic:\n\n```python\nfor part…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "fd809b5e8a04db65d830b84a4d1a2386b3a8b048",
+    "base_ref": "main",
+    "additions": 81,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
