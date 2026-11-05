@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "mengchen-atx",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-05T08:11:18.653766Z",
+  "title": "fix(permission): await async match_rule hooks wrapped by sync decorators",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3552",
+  "number": 3552,
+  "body": "## AgentScope Version\n\n2.0.12dev (main)\n\n## Description\n\nFixes #3551\n\n**Background.** `_execute_async_or_sync_func` decided whether to `await` by checking `inspect.iscoroutinefunction` before calling …",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "mengchen-atx",
+    "head_sha": "cc75ca8a7980ee2dcf5e9f1f5b3ebb8f8471dc44",
+    "base_ref": "main",
+    "additions": 605,
+    "deletions": 27,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
