@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "golitter",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-05T07:43:34.572715Z",
+  "title": "fix(workspace): discover skills completed after an earlier scan",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3749",
+  "number": 3749,
+  "body": "## AgentScope Version\n\n`2.0.12dev`\n\n## Description\n\nWhen `list_skills()` scans a new skill directory before its `SKILL.md` is present or valid, it skips the skill but still saves the parent directory'…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "golitter",
+    "head_sha": "18a683a667d99716fa3c00263bea49accffbaddc",
+    "base_ref": "main",
+    "additions": 135,
+    "deletions": 16,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
