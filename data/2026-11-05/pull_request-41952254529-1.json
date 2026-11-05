@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "zhangkom",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-05T02:00:22.678075Z",
+  "title": "fix(message-bus): isolate in-memory replay and broadcast payloads",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3741",
+  "number": 3741,
+  "body": "## Summary\n\nFixes #3740. AgentScope 2.0.12dev.\n\n`InMemoryMessageBus` shares mutable event objects between publishers, replay readers, and subscribers. A later nested mutation can rewrite saved replay …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "zhangkom",
+    "head_sha": "238d2a3edffe4ba9170bc22bb2c8a56a4c24c96f",
+    "base_ref": "main",
+    "additions": 101,
+    "deletions": 5,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
