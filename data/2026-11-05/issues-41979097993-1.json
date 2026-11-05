@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Tong-bit-art",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-05T06:14:43.152745Z",
+  "title": "[Bug]: failed steering items are auto-executed by the chat queue pump",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3746",
+  "number": 3746,
+  "body": "### Describe the bug\n\nA steering input that the middleware rejects is left in the durable chat FIFO with `state=\"failed\"` and a visible `error`, so the user can edit, delete, or steer it again. The qu…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Tong-bit-art"
+  },
+  "at_mobiles": []
+}
