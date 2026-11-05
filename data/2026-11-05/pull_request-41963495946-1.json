@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "indexGin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-05T03:45:00.361456Z",
+  "title": "fix(model): surface the Chat Completions refusal as reply text",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3713",
+  "number": 3713,
+  "body": "## AgentScope Version\n\nmain @ origin/main (2.0.12dev), verified against the current tree\n\n## Description\n\nChat Completions reports a refusal in `message.refusal` (or `delta.refusal`\nwhile streaming) a…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "indexGin",
+    "head_sha": "e70f5bbf36be9ef8ce1b1462a8bf87b3ed1e8182",
+    "base_ref": "main",
+    "additions": 59,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
