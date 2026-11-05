@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "zhangkom",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-05T01:47:25.039008Z",
+  "title": "bug: in-memory message bus shares mutable replay and subscriber payloads",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3740",
+  "number": 3740,
+  "body": "### Version\n\nAgentScope 2.0.12dev, `main` at `782bd43`, Python 3.12.14.\n\n### Problem\n\n`InMemoryMessageBus.log_append` retains the caller's payload, `log_read` returns references to stored payloads, an…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "zhangkom"
+  },
+  "at_mobiles": []
+}
