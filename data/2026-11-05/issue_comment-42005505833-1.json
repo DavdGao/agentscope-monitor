@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "rome-xi",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-05T09:49:13.790883Z",
+  "title": "[Bug]: CancelDispatcher: subscription loops never reconnect after a dropped Redis pub/sub connection",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3752#issuecomment-6654871765",
+  "number": 3752,
+  "body": "I can reproduce this on 782bd43: each CancelDispatcher subscription loop is a single `async for` without reconnect, so a dropped pub/sub ends cancel delivery for that process. Working on a fix with a …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "llystar",
+    "commenter": "rome-xi"
+  },
+  "at_mobiles": []
+}
