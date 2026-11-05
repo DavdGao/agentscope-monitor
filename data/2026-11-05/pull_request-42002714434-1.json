@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-05T09:29:04.303667Z",
+  "title": "fix(feishu): drop mention placeholders from group text messages",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3761",
+  "number": 3761,
+  "body": "## Problem\n\nFeishu does not put the mentioned user's name in the message text. It\nputs a placeholder — `@_user_1`, `@_user_2`, ... — and lists the mapping\nin `message.mentions`. The channel strips tho…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "0d0328c9d9fa6eaa04b5f924ebba51a368958ce6",
+    "base_ref": "main",
+    "additions": 87,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
