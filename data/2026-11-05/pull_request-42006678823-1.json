@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "rome-xi",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-05T09:57:49.722742Z",
+  "title": "fix(app): keep Redis lock heartbeat alive after renew errors",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3767",
+  "number": 3767,
+  "body": "Fixes #3751\n\n`RedisMessageBus.acquire_lock` renews its lease from a background heartbeat. That loop called Redis with no error handling, so one transient failure ended the task while the lock body kep…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "rome-xi",
+    "head_sha": "df57c42961d10f880328472dc1513d4dc30fcb31",
+    "base_ref": "main",
+    "additions": 62,
+    "deletions": 9,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
