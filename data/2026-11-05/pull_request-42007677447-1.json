@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "rome-xi",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-05T10:04:58.728040Z",
+  "title": "fix(app): reconnect CancelDispatcher after dropped pub/sub",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3768",
+  "number": 3768,
+  "body": "## AgentScope Version\n\n2.0.12dev\n\n## Description\n\n`CancelDispatcher` kept each bus subscription in a single `async for`. When that pub/sub ended or raised, the session-cancel, task-cancel, and interru…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "rome-xi",
+    "head_sha": "817ef6cc17f449259827cee0c46a7d3606cb608b",
+    "base_ref": "main",
+    "additions": 279,
+    "deletions": 56,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
