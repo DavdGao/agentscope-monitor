@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "llystar",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-05T08:44:10.908743Z",
+  "title": "[Bug]: Channel delivery stops at the first REPLY_END and drops later replies from the same run",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3755",
+  "number": 3755,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [
+    "Bug"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "llystar"
+  },
+  "at_mobiles": []
+}
