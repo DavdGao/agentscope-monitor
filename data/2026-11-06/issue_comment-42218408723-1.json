@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "97Three",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-06T12:32:19.641365Z",
+  "title": "fix(mcp): reject overlapping stateful connection attempts",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3795#issuecomment-6684889948",
+  "number": 3795,
+  "body": "The fix for #3794 is ready for feedback in this draft at `5bb2e867`. The event-gated regression fails on unmodified `main@782bd43f` and passes with the guard in place. The offline reproduction now ent…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "97Three",
+    "commenter": "97Three"
+  },
+  "at_mobiles": []
+}
