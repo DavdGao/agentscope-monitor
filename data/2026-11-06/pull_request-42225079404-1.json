@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-06T13:23:27.986035Z",
+  "title": "fix(mcp): migrate v1 streamable HTTP clients across supported SDKs",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3799",
+  "number": 3799,
+  "body": "Fixes #1392\n\nBoth v1 HTTP clients call a deprecated MCP SDK transport. Its replacement takes an already configured HTTP client. Configure and own that client for the transport lifetime while preservin…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "588cb3656c3a3682276be2820591fa3862371ee7",
+    "base_ref": "v1",
+    "additions": 95,
+    "deletions": 4,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
