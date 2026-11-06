@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "zuizhuai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-06T09:08:03.737368Z",
+  "title": "fix(agent): bound max_iters and tool_result_limit to positive values",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3780",
+  "number": 3780,
+  "body": "## Summary\n\nTwo Pydantic config fields in `src/agentscope/agent/_config.py` lack lower-bound validation, and invalid values fail silently at runtime instead of raising.\n\n### 1. `ReActConfig.max_iters`…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "zuizhuai"
+  },
+  "at_mobiles": []
+}
