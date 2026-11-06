@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-06T13:00:38.775830Z",
+  "title": "[Bug]: Agent compress memory: summary_template can not handle summary without 'next_steps'",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1388#issuecomment-6685394913",
+  "number": 1388,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "ceshihao",
+    "commenter": "Kiko0301"
+  },
+  "at_mobiles": []
+}
