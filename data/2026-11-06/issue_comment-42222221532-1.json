@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-06T13:02:10.291856Z",
+  "title": "[Bug]:short_term_memory_example报错ReMeShortTermMemory.get_memory() got an unexpected keyword argument 'exclude_mark'",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1405#issuecomment-6685423667",
+  "number": 1405,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Jack-ctrl6",
+    "commenter": "Kiko0301"
+  },
+  "at_mobiles": []
+}
