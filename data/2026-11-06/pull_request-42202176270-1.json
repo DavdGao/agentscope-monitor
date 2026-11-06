@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "yang0228",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-06T10:22:40.950236Z",
+  "title": "feat(examples): add pre-execution tool validation example",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3793",
+  "number": 3793,
+  "body": "## AgentScope Version\n\n2.0.12dev, based on `782bd43f`.\n\n## Description\n\nRefs #1509. This is a focused example contribution, leaving the broader system-level enforcement design open.\n\nWhen tool middlew…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "yang0228",
+    "head_sha": "c656b5c2a1206b5b769eff70a0c578428fce1b86",
+    "base_ref": "main",
+    "additions": 376,
+    "deletions": 0,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
