@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-06T13:27:16.914212Z",
+  "title": "fix(session): confine v1 JSON session files to the save directory",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3800",
+  "number": 3800,
+  "body": "Fixes #1249\n\nThe v1 JSON session backend builds a filename from caller-supplied IDs. Passing a relative traversal or absolute session ID can redirect both save and load to a JSON file outside the conf…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "46bfa1d8bbb9cc4a4498fe960073dcf8112410b4",
+    "base_ref": "v1",
+    "additions": 57,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
