@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "yang0228",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-06T13:10:54.829514Z",
+  "title": "refactor(storage): share typed record crud across backends",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3792#issuecomment-6685595611",
+  "number": 3792,
+  "body": "The PR now addresses the ordinary-record extension problem in #2634 and uses `Fixes #2634`.\n\nTyped CRUD methods are defined once in `StorageBase`; each backend provides generic primitives and explicit…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "yang0228",
+    "commenter": "yang0228"
+  },
+  "at_mobiles": []
+}
