@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-06T09:41:48.333279Z",
+  "title": "fix(pipeline): close the executor retry system-reminder",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3787",
+  "number": 3787,
+  "body": "## Problem\n\nWhen the executor fails to produce a structured `_ExecutionReport`,\n`GoalPipeline` re-prompts it with a reminder. Every other reminder the\npipeline builds is a closed `<system-reminder>...…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "0f3ce446ddb78e25aae0d271c5695dff5b6fa564",
+    "base_ref": "main",
+    "additions": 18,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
