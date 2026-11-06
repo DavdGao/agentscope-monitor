@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "shi-felix",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-06T13:04:18.115440Z",
+  "title": "ci: unify actions/checkout, setup-python and setup-uv versions to v6",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3796",
+  "number": 3796,
+  "body": "## Summary\n\nSeveral workflows still pin `actions/checkout@v4`, `actions/setup-python@v5` and `astral-sh/setup-uv@v5`, while newer workflows in this repository (`publish-pypi.yml`, `update_news.yml`) a…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "shi-felix",
+    "head_sha": "491236d67c4e4195dd863d6c82ddeaae85df7bd0",
+    "base_ref": "main",
+    "additions": 13,
+    "deletions": 13,
+    "changed_files": 8
+  },
+  "at_mobiles": []
+}
