@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-06T13:00:22.420607Z",
+  "title": "[Bug]: Need update streamablehttp_client to streamable_http_client",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1392#issuecomment-6685390207",
+  "number": 1392,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "WilliamEricCheung",
+    "commenter": "Kiko0301"
+  },
+  "at_mobiles": []
+}
