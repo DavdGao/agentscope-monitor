@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-06T13:21:02.398188Z",
+  "title": "fix(agent): keep v1 memory when a compression summary lacks a field",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3797",
+  "number": 3797,
+  "body": "Fixes #1388\n\nOn v1, a non-empty structured summary can omit a field used by the summary template. Formatting it raises KeyError during a reply. #3495 handles an empty compression stream; this change c…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "8cf302ffebbd8de2044bb04f94a4cec42529ec1e",
+    "base_ref": "v1",
+    "additions": 35,
+    "deletions": 14,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
