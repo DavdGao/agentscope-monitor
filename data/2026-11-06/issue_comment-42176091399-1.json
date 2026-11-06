@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "30bef100w",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-06T06:42:18.052867Z",
+  "title": "fix(model): preserve schema definitions in model cards",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3774#issuecomment-6678921850",
+  "number": 3774,
+  "body": "Regarding the claim notice: Starchaser1024 explicitly left this issue to me in https://github.com/agentscope-ai/agentscope/issues/3773#issuecomment-6676024040. The assignee field still lists them; cou…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "30bef100w",
+    "commenter": "30bef100w"
+  },
+  "at_mobiles": []
+}
