@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-06T09:42:34.024445Z",
+  "title": "fix(tool): extract quoted file operands in Bash commands",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3788",
+  "number": 3788,
+  "body": "## Problem\n\n`BashCommandParser.extract_file_paths` walks the tree-sitter AST and, for\neach `command` node, collects the argument children — but only those of\ntype `word`:\n\n```python\nfor child in node.…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "8dba25f6ef04bc0bfae9525a90c0ed30372892aa",
+    "base_ref": "main",
+    "additions": 59,
+    "deletions": 6,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
