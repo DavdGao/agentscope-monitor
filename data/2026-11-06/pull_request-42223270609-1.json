@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "yang0228",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-06T13:10:02.135899Z",
+  "title": "refactor(storage): share owner-scoped sql record reads",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3792",
+  "number": 3792,
+  "body": "Refs #2634.\n\nThe SQL backend repeats the same owner check and row-to-record conversion for ordinary record reads. This extracts two private helpers and delegates 10 by-ID reads and 8 owner-only lists …",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "yang0228",
+    "head_sha": "160120e3378c5cfe46bcabe87ffa381234ff56df",
+    "base_ref": "main",
+    "additions": 763,
+    "deletions": 802,
+    "changed_files": 7
+  },
+  "at_mobiles": []
+}
