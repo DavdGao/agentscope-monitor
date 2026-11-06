@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-06T09:41:28.023729Z",
+  "title": "fix(app): reject an unsupported audio format with 400, not 500",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3784",
+  "number": 3784,
+  "body": "## Problem\n\n`POST /asr/transcriptions` maps its own validation failures to `400` —\nempty upload, oversized upload, malformed JSON, and the pydantic\n`ValidationError` raised while building the model — …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "9c78c34d802c82531af48e15e627e31f2780cd4c",
+    "base_ref": "main",
+    "additions": 51,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
