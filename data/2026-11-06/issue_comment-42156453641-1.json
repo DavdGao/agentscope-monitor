@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Starchaser1024",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-06T03:25:34.622176Z",
+  "title": "[Bug]: model cards drop $defs for nested parameter schemas",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3773#issuecomment-6676024040",
+  "number": 3773,
+  "body": "Sorry, just saw in the description that @30bef100w wants to contribute the fix, leaving this one to you!",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "30bef100w",
+    "commenter": "Starchaser1024"
+  },
+  "at_mobiles": []
+}
