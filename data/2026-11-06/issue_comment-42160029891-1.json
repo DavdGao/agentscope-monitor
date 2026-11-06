@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "indexGin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-06T04:01:59.146937Z",
+  "title": "fix(formatter): match tool-result media types independently of the host OS",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3717#issuecomment-6676526143",
+  "number": 3717,
+  "body": "CI note for the current head `77a136e`: the only red check is `notify` (the \"GitHub Monitor\" workflow), and it is an infrastructure failure, not a test failure — the job logs show `Failed to store eve…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "indexGin",
+    "commenter": "indexGin"
+  },
+  "at_mobiles": []
+}
