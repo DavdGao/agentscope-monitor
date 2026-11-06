@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "97Three",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-06T11:11:53.129134Z",
+  "title": "[Bug]: concurrent MCPClient.connect() calls leak a stateful connection",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3794#issuecomment-6683480431",
+  "number": 3794,
+  "body": "I reproduced this on `main@782bd43f` with the event-gated script above. Both calls returned successfully, and `close()` exited only the second SDK context. The new regression also fails on the unchang…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "97Three",
+    "commenter": "97Three"
+  },
+  "at_mobiles": []
+}
