@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "PHM-Audit",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-06T13:19:37.362913Z",
+  "title": "feat(tool): add reusable pre-execution validation",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3793#issuecomment-6685776127",
+  "number": 3793,
+  "body": "Confirmed — all three coverages read correctly:\n\n1. Exact-boundary expiry (denied at valid_until, no execution) and consumption-time authorization (authorization checked on stream consumption, not cac…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "yang0228",
+    "commenter": "PHM-Audit"
+  },
+  "at_mobiles": []
+}
