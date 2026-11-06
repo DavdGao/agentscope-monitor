@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-06T13:00:31.437335Z",
+  "title": "Security: Path Traversal in JSONSession allows arbitrary file read/write (CWE-22)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1249#issuecomment-6685391787",
+  "number": 1249,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "optimus-fulcria",
+    "commenter": "Kiko0301"
+  },
+  "at_mobiles": []
+}
