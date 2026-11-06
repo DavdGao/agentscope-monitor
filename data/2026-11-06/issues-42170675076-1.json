@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "indexGin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-06T05:49:38.098724Z",
+  "title": "[Bug]: ModelCard.from_yaml keeps removed properties in the required list",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3776",
+  "number": 3776,
+  "body": "### 现象\n`ModelCard.from_yaml()` 会依据 `output_types` 自动过滤参数（`thinking_*`、`voice`），并依据 `parameter_overrides` 的 `hidden` / `null` 从 `properties` 中删除参数；但构造 `final_schema` 时，`required` 直接取自 `base_schema.get(…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "indexGin"
+  },
+  "at_mobiles": []
+}
