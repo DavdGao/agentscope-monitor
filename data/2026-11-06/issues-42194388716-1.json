@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "zuizhuai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-06T09:21:22.590134Z",
+  "title": "fix: add lower bounds to middleware and MCP config fields",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3782",
+  "number": 3782,
+  "body": "## Summary\n\nSeveral tunable numeric config fields lack lower-bound validation, and negative values fail silently (or invert behavior) at runtime.\n\n### 1. `AgenticMemoryMiddleware.Parameters` (4 fields…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "zuizhuai"
+  },
+  "at_mobiles": []
+}
