@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-06T13:32:26.408229Z",
+  "title": "fix(example): support marked reads in v1 ReMe short-term memory",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3801",
+  "number": 3801,
+  "body": "Fixes #1405\n\nThe v1 ReActAgent passes exclude_mark on prompt reads. The ReMe short-term memory example rejects that keyword. Simply accepting it would hand the formatter (Msg, marks) pairs and replace…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "64f63429ba473e75f61335b9b3caa30fe0bcb620",
+    "base_ref": "v1",
+    "additions": 105,
+    "deletions": 11,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
