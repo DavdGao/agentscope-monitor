@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-06T10:04:40.286837Z",
+  "title": "Proposal: Add Fish Audio (Fish TTS) provider",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3791",
+  "number": 3791,
+  "body": "Fish Audio (https://fish.audio) would be a valuable addition to the TTS module alongside OpenAI, Gemini, and DashScope. Its unique strengths:\n\n- **Best-in-class zero-shot voice cloning** — 10–30s of r…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "iluv7"
+  },
+  "at_mobiles": []
+}
