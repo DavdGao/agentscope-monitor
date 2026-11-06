@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-06T09:41:32.222595Z",
+  "title": "fix(feishu): fall back to text when the streaming card update fails",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3785",
+  "number": 3785,
+  "body": "## Problem\n\n`send_response` streams the reply into a CardKit card. `_card_open`\nchecks the API result and returns `None` when streaming cannot start, so\nthe caller sends one plain message instead — bu…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "3a8582cdfcd6ef212b101459b12773e5244387c0",
+    "base_ref": "main",
+    "additions": 90,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
