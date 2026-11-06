@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lianbie",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-06T06:12:05.963476Z",
+  "title": "KnowledgeBase.search silently drops queries when the embedding response is short",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3778",
+  "number": 3778,
+  "body": "## Problem\n\n`KnowledgeBase.search` embeds the queries and then fans one vector-store search out per returned vector:\n\n```python\nresponse = await self._embedding_model(queries)\n\nresults_per_query = awa…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "lianbie"
+  },
+  "at_mobiles": []
+}
