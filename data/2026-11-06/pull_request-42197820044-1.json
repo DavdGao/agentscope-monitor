@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "zuizhuai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-06T09:48:46.715110Z",
+  "title": "fix(formatter): keep image-only agent messages in Ollama multi-agent formatter",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3790",
+  "number": 3790,
+  "body": "Fixes #3789\n\n## Summary\n\n`OllamaMultiAgentFormatter._format_agent_message` dropped a message that carried only an image (no text), so the image never reached the model.\n\nThe `images` list is populated…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "zuizhuai",
+    "head_sha": "619fe3cda66a89737e59f0389964bf71dcd558b0",
+    "base_ref": "main",
+    "additions": 35,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
