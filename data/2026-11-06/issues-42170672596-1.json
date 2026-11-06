@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "indexGin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-06T05:49:37.452753Z",
+  "title": "[Bug]: _remove_title_field leaves generated titles inside JSON Schema applicators",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3775",
+  "number": 3775,
+  "body": "### 现象\n`agentscope.tool._utils._remove_title_field()` 负责从工具入参的 JSON Schema 中剥离 pydantic 自动生成的 `title` 字段，避免把内部类名暴露给模型。它只递归处理 `properties`、`items`、`additionalProperties` 和 `$defs`，没有处理 JSON Schema 的 ap…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "indexGin"
+  },
+  "at_mobiles": []
+}
