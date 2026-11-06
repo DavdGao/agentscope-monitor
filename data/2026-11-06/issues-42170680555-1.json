@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "indexGin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-06T05:49:46.796092Z",
+  "title": "[Bug]: GitHub MCP registry URL template variables are not rewritten or declared",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3777",
+  "number": 3777,
+  "body": "### 现象\nMCP Registry 的 `server.json` 允许在 `remotes[].url` 中用 `{var}` 声明 URL 模板变量，并在 `remotes[].variables` 里给出 `description` / `isRequired` / `isSecret` / `choices` / `default`（见官方文档 \"Publishing Remote S…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "indexGin"
+  },
+  "at_mobiles": []
+}
