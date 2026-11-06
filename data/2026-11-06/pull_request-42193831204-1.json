@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "zuizhuai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-06T09:16:57.880197Z",
+  "title": "fix(agent): bound max_iters and tool_result_limit to positive values",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3781",
+  "number": 3781,
+  "body": "Fixes #3780\n\n## Summary\n\nTwo Pydantic config fields in `src/agentscope/agent/_config.py` accepted non-positive values that then failed silently at runtime. This adds `ge=1` to both, so invalid values …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "zuizhuai",
+    "head_sha": "8754ccad800fb02be8ef2cf3751f64e4e2033257",
+    "base_ref": "main",
+    "additions": 62,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
