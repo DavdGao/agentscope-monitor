@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-06T13:22:58.781930Z",
+  "title": "fix(rag): preserve custom v1 document metadata across storage",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3798",
+  "number": 3798,
+  "body": "Fixes #1374\n\nOn v1, callers can add metadata such as a source filename via `DocMetadata.setattr`. Qdrant stores the field, but rebuilding the retrieved payload raises TypeError for that key. MongoDB i…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "a377e1ecbfa66527a0fea8be8ee68cc27beaff3f",
+    "base_ref": "v1",
+    "additions": 56,
+    "deletions": 25,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
