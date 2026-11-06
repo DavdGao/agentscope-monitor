@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-06T09:41:45.977922Z",
+  "title": "fix(tts): count a retried cold-start delta once",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3786",
+  "number": 3786,
+  "body": "## Problem\n\nWhen the cold-start flush fails, `push` keeps the buffer and the flag set\nso the next push retries the whole buffered text, and returns an empty\nresponse instead of raising. The failing de…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "0c68397a13c5e7fd7a4c7f371653cab4de488839",
+    "base_ref": "main",
+    "additions": 56,
+    "deletions": 16,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
