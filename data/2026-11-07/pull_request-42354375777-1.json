@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "review_requested",
+  "action_cn": "请求审核",
+  "sender": "indexGin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-07T08:11:18.564669Z",
+  "title": "fix(model): align model card required list with filtered properties",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3809",
+  "number": 3809,
+  "body": "Fixes #3776\n\n## Problem and root cause\n`ModelCard.from_yaml()` builds `parameter_schema` from the parameter class, then removes properties via the `output_types` auto-filter (`thinking_*` / `voice`) a…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "indexGin",
+    "head_sha": "d34829e496aa2ea3842677d306f2b671bcef18b0",
+    "base_ref": "main",
+    "additions": 85,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
