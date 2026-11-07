@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Starchaser1024",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-07T06:47:47.366611Z",
+  "title": "[Bug]: interrupted Redis document publication leaves pending records outside recovery indexes",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3805#issuecomment-6703544933",
+  "number": 3805,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "stefanielizeth73-art",
+    "commenter": "Starchaser1024"
+  },
+  "at_mobiles": []
+}
