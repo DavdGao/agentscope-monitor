@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Starchaser1024",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-07T10:44:17.457843Z",
+  "title": "fix(storage): publish Redis knowledge documents atomically",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3816",
+  "number": 3816,
+  "body": "## PR Title Format\n\nPlease ensure your PR title follows the Conventional Commits format:\n- Format: `<type>(<scope>): <description>`\n- Example: `feat(memory): add redis cache support`\n- Allowed types: …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Starchaser1024",
+    "head_sha": "0baa18fbaa3e6241cf4be7d706f0fe74b8888f1b",
+    "base_ref": "main",
+    "additions": 348,
+    "deletions": 15,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
