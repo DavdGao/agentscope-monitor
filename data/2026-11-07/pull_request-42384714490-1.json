@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "wuwenbo0626",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-07T15:06:14.988539Z",
+  "title": "fix(rag): skip search for non-positive top-k",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3827",
+  "number": 3827,
+  "body": "Fixes #3826.\n\n## AgentScope Version\n\n2.0.11dev\n\n## Description\n\n`KnowledgeBase.search()` now returns an empty list for a non-positive `top_k` before initializing the collection, embedding queries, or …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "wuwenbo0626",
+    "head_sha": "5f8a539a8c4a59382aa0efd1885143e8c9b1bdf0",
+    "base_ref": "main",
+    "additions": 35,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
