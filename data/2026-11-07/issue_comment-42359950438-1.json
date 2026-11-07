@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "its-amann",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-07T09:29:47.007022Z",
+  "title": "[Bug]: ReMeMiddleware fails to start with reme-ai >= 0.4.1.12 (Unregistered backend 'dream_topics_step')",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3811#issuecomment-6705068038",
+  "number": 3811,
+  "body": "/assign\nwill drop dream_topics_step from _dream_steps and add a smoke test that starts the real ReMe app when reme is installed",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "zzbazzzbaz",
+    "commenter": "its-amann"
+  },
+  "at_mobiles": []
+}
