@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "stefanielizeth73-art",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-07T06:31:02.603247Z",
+  "title": "[Bug]: RedisStorage updates can remove a configured record TTL when EXPIRE fails",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3804",
+  "number": 3804,
+  "body": "### Background / Description\n\nOn main `782bd43f9f61788a1901fcc4e5486758491d387f`, `RedisStorage._set_with_ttl` performs `SET` and `EXPIRE` as separate awaited commands. Redis SET removes the previous …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "stefanielizeth73-art"
+  },
+  "at_mobiles": []
+}
