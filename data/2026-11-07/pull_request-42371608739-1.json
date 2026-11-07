@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ydflow",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-07T12:14:52.279094Z",
+  "title": "fix(formatter): never emit a null system content for a textless system message",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3820",
+  "number": 3820,
+  "body": "## What\n\nThe DashScope, Gemini and Ollama multi-agent formatters build the system turn directly from `Msg.get_text_content()`, which returns `None` when the message carries no text block. An empty sys…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ydflow",
+    "head_sha": "9cf4b005dfc93f83ee032386ef45a8ae3e3d3cbd",
+    "base_ref": "v1",
+    "additions": 111,
+    "deletions": 3,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
