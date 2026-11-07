@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "zzbazzzbaz",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-07T12:37:49.857500Z",
+  "title": "[Bug]: create_app cannot disable FastAPI 0.162 auto telemetry, polluting agent traces",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3822#issuecomment-6707036532",
+  "number": 3822,
+  "body": "The issue body already contains the requested reproduction details\n(AgentScope 2.0.11, FastAPI 0.162.0, steps, expected/actual). The automated\ntriage still labels it `triage/not-a-bug`, but this is a …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "zzbazzzbaz",
+    "commenter": "zzbazzzbaz"
+  },
+  "at_mobiles": []
+}
