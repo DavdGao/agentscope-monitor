@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "konlue",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-07T03:16:58.462458Z",
+  "title": "fix(tool): honor the safe-env allowlist in the read-only check",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3803",
+  "number": 3803,
+  "body": "## AgentScope Version\n\n2.0.12dev (main @ `782bd43`)\n\n## Description\n\n`BashCommandParser._is_single_command_read_only` skipped every leading `VAR=value` assignment unconditionally before classifying th…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "konlue",
+    "head_sha": "890f64dd33426649a7af66566ea4ca917a9e18f0",
+    "base_ref": "main",
+    "additions": 44,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
