@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "baoypeng",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-07T11:53:07.677054Z",
+  "title": "[Bug]: setup_logger leaves replaced file handlers open",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3818",
+  "number": 3818,
+  "body": "## Prerequisites\n\n- [x] Searched existing issues and pull requests for `setup_logger`, `_logging.py`, and handler closing.\n- [x] This is a defect report with a local reproduction.\n\n## Background / Des…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "baoypeng"
+  },
+  "at_mobiles": []
+}
