@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "review_requested",
+  "action_cn": "请求审核",
+  "sender": "indexGin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-07T09:07:53.715952Z",
+  "title": "fix(workspace): normalize upload paths before the skill.md check",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3815",
+  "number": 3815,
+  "body": "Fixes #3813\n\n> The linked issue may be closed automatically by the repository's per-account\n> open-issue quota bot (max 5 open issues per account); the problem\n> description remains valid and this PR …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "indexGin",
+    "head_sha": "ecf9035f5fa42bee67677d85a10cf199a2df9b74",
+    "base_ref": "main",
+    "additions": 76,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
