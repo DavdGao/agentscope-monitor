@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "stefanielizeth73-art",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-07T06:31:04.116712Z",
+  "title": "[Bug]: interrupted Redis document publication leaves pending records outside recovery indexes",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3805",
+  "number": 3805,
+  "body": "### Background / Description\n\nOn main `782bd43f9f61788a1901fcc4e5486758491d387f`, RedisStorage.upsert_knowledge_document publishes a document with three separate awaited commands: record SET, per-KB S…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "stefanielizeth73-art"
+  },
+  "at_mobiles": []
+}
