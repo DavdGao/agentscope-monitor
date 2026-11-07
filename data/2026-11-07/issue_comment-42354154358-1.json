@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Starchaser1024",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-07T08:08:07.645132Z",
+  "title": "[Bug]: WordParser drops non-breaking hyphens from DOCX text and table cells",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3807#issuecomment-6704295066",
+  "number": 3807,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Yzzz88",
+    "commenter": "Starchaser1024"
+  },
+  "at_mobiles": []
+}
