@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "zzbazzzbaz",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-07T12:15:41.052255Z",
+  "title": "[Feature]: Expose FastAPI 0.162 telemetry settings in create_app to avoid HTTP spans polluting agent traces",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3821",
+  "number": 3821,
+  "body": "### Describe the feature\n\n`agentscope.app.create_app` creates the internal `FastAPI` app without exposing FastAPI 0.162's new `telemetry` parameter:\n\n```python\napp = FastAPI(title=title, version=versi…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "zzbazzzbaz"
+  },
+  "at_mobiles": []
+}
