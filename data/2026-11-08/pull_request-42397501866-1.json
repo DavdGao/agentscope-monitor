@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "baoypeng",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-07T17:41:50.373799Z",
+  "title": "fix(utils): keep schema definition namespaces distinct",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3830",
+  "number": 3830,
+  "body": "Fixes #3829.\n\nWhen `$defs` and legacy `definitions` contain the same name, merging their maps by name silently replaces modern tool parameter constraints with the legacy definition. Key definition loo…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "baoypeng",
+    "head_sha": "cf5142c2cd3aa0faf04e2ef9d7f4b1baeb8fbef5",
+    "base_ref": "main",
+    "additions": 158,
+    "deletions": 12,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
