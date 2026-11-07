@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "baoypeng",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-07T17:28:30.531053Z",
+  "title": "bug: schema flattening conflates $defs and definitions with the same name",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3829",
+  "number": 3829,
+  "body": "AgentScope main @ 782bd43f9f61788a1901fcc4e5486758491d387f.\n\nReproduction:\n```python\nfrom agentscope._utils._common import _flatten_json_schema\nschema = {\"$defs\": {\"Item\": {\"type\": \"string\"}}, \"defini…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "baoypeng"
+  },
+  "at_mobiles": []
+}
