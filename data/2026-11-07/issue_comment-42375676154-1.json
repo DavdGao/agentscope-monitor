@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ydflow",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-07T13:09:50.391122Z",
+  "title": "fix(formatter): never emit a null system content for a textless system message",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3820#issuecomment-6707359270",
+  "number": 3820,
+  "body": "This belongs here: the problem is already documented on `main` by #3492 (fixed there by #2950 and #3492/#3565), and this PR is its `v1` backport — the bug only exists on `v1` because `Msg.get_text_con…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "ydflow",
+    "commenter": "ydflow"
+  },
+  "at_mobiles": []
+}
