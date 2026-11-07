@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "indexGin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-07T08:40:45.907605Z",
+  "title": "FunctionTool discards an explicitly supplied empty input schema",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3812",
+  "number": 3812,
+  "body": "## 现象\n\n`FunctionTool.__init__` 用 `input_schema or _extract_input_schema(func)` 决定工具的输入 JSON Schema。显式传入的 `input_schema={}`（表示「该工具没有参数」）是 falsy，会被 `or` 丢弃并回退到从函数签名自动推导，调用方提供的 schema 因此被静默忽略。\n\n## 最小复现\n\n…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "indexGin"
+  },
+  "at_mobiles": []
+}
