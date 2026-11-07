@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "indexGin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-07T08:11:05.731967Z",
+  "title": "fix(tool): strip generated titles inside JSON Schema applicators",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3808",
+  "number": 3808,
+  "body": "Fixes #3775\n\n## Problem and root cause\n`_remove_title_field()` in `src/agentscope/tool/_utils.py` strips pydantic's auto-generated `title` from a tool's input JSON Schema so those internal names are n…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "indexGin",
+    "head_sha": "e8f4ff582331d38616d96443843c3b6ebb4f819c",
+    "base_ref": "main",
+    "additions": 142,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
