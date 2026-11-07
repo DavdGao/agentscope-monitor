@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Yzzz88",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-07T07:12:52.250486Z",
+  "title": "[Bug]: WordParser drops non-breaking hyphens from DOCX text and table cells",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3807",
+  "number": 3807,
+  "body": "### Prerequisites\n\n- [x] I searched existing issues, pull requests, and discussions for `noBreakHyphen` and non-breaking hyphens. The closest match, #2840, handles tabs and line breaks.\n- [x] This is …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Yzzz88"
+  },
+  "at_mobiles": []
+}
