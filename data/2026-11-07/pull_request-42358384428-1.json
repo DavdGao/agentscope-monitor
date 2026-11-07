@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "review_requested",
+  "action_cn": "请求审核",
+  "sender": "indexGin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-07T09:07:48.614672Z",
+  "title": "fix(tool): respect an explicitly empty tool input schema",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3814",
+  "number": 3814,
+  "body": "Fixes #3812\n\n> The linked issue may be closed automatically by the repository's per-account\n> open-issue quota bot (max 5 open issues per account); the problem\n> description remains valid and this PR …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "indexGin",
+    "head_sha": "73a140b9b059a600a875389ad742203091ebcf5b",
+    "base_ref": "main",
+    "additions": 66,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
