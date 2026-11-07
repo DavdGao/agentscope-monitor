@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "zzbazzzbaz",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-07T12:28:18.269489Z",
+  "title": "[Bug]: create_app cannot disable FastAPI 0.162 auto telemetry, polluting agent traces",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3821",
+  "number": 3821,
+  "body": "### Environment\n\n- AgentScope: 2.0.11\n- FastAPI: 0.162.0\n- Python: 3.14\n- Backend: Langfuse Cloud via OTLP\n\n### Steps to reproduce\n\n1. Create an AgentScope service with `agentscope.app.create_app(...)…",
+  "labels": [
+    "triage/not-a-bug"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "zzbazzzbaz"
+  },
+  "at_mobiles": []
+}
