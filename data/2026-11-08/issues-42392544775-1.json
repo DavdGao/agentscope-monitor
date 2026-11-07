@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lss680455-create",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-07T16:41:27.759362Z",
+  "title": "[feat] Proposal: DebatePipeline — independent answers, cross-examination, judge synthesis",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3828",
+  "number": 3828,
+  "body": "> Posting this as a design discussion first, as asked in `CONTRIBUTING.md:270-272`\n> and invited in the pipeline roadmap issue #2479. No implementation is attached\n> yet; I would like to agree on the …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "lss680455-create"
+  },
+  "at_mobiles": []
+}
