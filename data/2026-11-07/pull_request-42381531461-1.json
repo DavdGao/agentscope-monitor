@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Cmz9111",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-07T14:25:37.541268Z",
+  "title": "fix(utils): _get_bytes_from_web_url crashes with NameError on UnicodeDecodeError before response assignment",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3825",
+  "number": 3825,
+  "body": "## Bug Description\n\nIn `src/agentscope/_utils/_common.py`, `_get_bytes_from_web_url()` has an `except UnicodeDecodeError` handler that accesses `response.content`, but `response` may not be defined if…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Cmz9111",
+    "head_sha": "38d493a7bd5f737b4b422978852f7c9c7b43e441",
+    "base_ref": "main",
+    "additions": 8,
+    "deletions": 1,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
