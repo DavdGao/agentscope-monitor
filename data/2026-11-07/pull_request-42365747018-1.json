@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Starchaser1024",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-07T10:52:21.900242Z",
+  "title": "fix(rag): keep non-breaking hyphens in Word paragraph and table text",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3817",
+  "number": 3817,
+  "body": "## PR Title Format\n\nPlease ensure your PR title follows the Conventional Commits format:\n- Format: `<type>(<scope>): <description>`\n- Example: `feat(memory): add redis cache support`\n- Allowed types: …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Starchaser1024",
+    "head_sha": "b489b301e780d850f6aed697f71c32b452ae2e6d",
+    "base_ref": "main",
+    "additions": 67,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
