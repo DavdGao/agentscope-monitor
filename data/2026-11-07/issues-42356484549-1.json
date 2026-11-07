@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "indexGin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-07T08:40:45.480800Z",
+  "title": "validate_manifest rejects Windows-style skill upload paths",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3813",
+  "number": 3813,
+  "body": "## 现象\n\n`WorkspaceService.validate_manifest` 校验上传清单时，用 `entry.path.replace(\"\\\\\", \"/\").split(\"/\")` 规范化路径来做安全检查，但最后判断根目录是否含 `SKILL.md` 时用的是**原始** `entry.path` 与 `f\"{root}/SKILL.md\"` 做精确字符串比较。当清单里的路径使用 Wi…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "indexGin"
+  },
+  "at_mobiles": []
+}
