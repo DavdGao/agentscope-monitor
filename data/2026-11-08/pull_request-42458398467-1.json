@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qkycir",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-08T07:20:48.101755Z",
+  "title": "fix(workspace): reclaim cancelled prewarm handoffs",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3839",
+  "number": 3839,
+  "body": "## AgentScope Version\n\nmain, based on 782bd43f9f61788a1901fcc4e5486758491d387f.\n\n## Description\n\nFixes #3837.\n\nA taker can be cancelled after a prewarm Future receives its workspace but before the tak…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qkycir",
+    "head_sha": "f0fbeaca65211798b2ff84d9bcb2c84faa4733f1",
+    "base_ref": "main",
+    "additions": 101,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
