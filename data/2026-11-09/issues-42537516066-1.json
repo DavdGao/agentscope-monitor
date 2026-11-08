@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ccclucky",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-08T23:56:02.854997Z",
+  "title": "[Bug]: chmod 0777 / a+rwx, chown --recursive and kill -s 9 bypass the bypass-immune dangerous-command check",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3860",
+  "number": 3860,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "ccclucky"
+  },
+  "at_mobiles": []
+}
