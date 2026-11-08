@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-08T12:09:04.010809Z",
+  "title": "fix(app): isolate in-memory bus replay and subscriber payloads",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3846",
+  "number": 3846,
+  "body": "## PR Title Format\n\n- [x] My PR title follows the Conventional Commits format.\n\n## AgentScope Version\n\n2.0.12dev (main at `782bd43`)\n\n## Description\n\nFixes #3740.\n\n**Root cause**: `InMemoryMessageBus`…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "RerankerGuo",
+    "head_sha": "2ee67c57f1e7c8a8c8d754a1a09721319d96bd71",
+    "base_ref": "main",
+    "additions": 74,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
