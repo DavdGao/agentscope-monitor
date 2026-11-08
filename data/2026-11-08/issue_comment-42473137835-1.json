@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "its-amann",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-08T10:50:56.153853Z",
+  "title": "fix(memory): remove obsolete ReMe dream step",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3851#issuecomment-6720561158",
+  "number": 3851,
+  "body": "this one was assigned to me on nov 7 in #3811, #3850 came in a few minutes before this while i was wrapping up the smoke test. @qbc2016 happy to go with whatever you prefer",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "its-amann",
+    "commenter": "its-amann"
+  },
+  "at_mobiles": []
+}
