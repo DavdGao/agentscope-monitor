@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "lss680455-create",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-08T04:41:49.793969Z",
+  "title": "Proposal: add a DebatePipeline (independent answers -> cross-examination -> judge synthesis)",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3832",
+  "number": 3832,
+  "body": "## Summary\n\nI propose adding a `DebatePipeline` to the new `pipeline` module: several peers answer the same question independently, then see each other's answers in one or more cross-examination round…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "lss680455-create"
+  },
+  "at_mobiles": []
+}
