@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "2SinceJuly",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-08T03:08:01.718252Z",
+  "title": "[Bug]: AgentScope Bash tool misclassifies \"tee\" as a read-only command, allowing arbitrary file write without user confirmation (CWE-863, CVSS 8.1)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3313#issuecomment-6716523516",
+  "number": 3313,
+  "body": "Re the `triage/suggest-close` label: the automated pass that added it ran against v2.0.4 line numbers and concluded on `05ff52f`/`main` that the report's premise does not hold. That conclusion is only…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "ybyu-ieu",
+    "commenter": "2SinceJuly"
+  },
+  "at_mobiles": []
+}
