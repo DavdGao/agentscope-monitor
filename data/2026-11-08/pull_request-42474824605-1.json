@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "konlue",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-08T11:14:07.388490Z",
+  "title": "fix(app): mark offloaded tool placeholders machine-readable and report stopped tools as interrupted",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3853",
+  "number": 3853,
+  "body": "Part of #3845\n\n## AgentScope Version\n\nmain @ `782bd43`\n\n## Description\n\n### Problem\n\nTwo gaps in how `ToolOffloadMiddleware` communicates the fate of an offloaded tool call:\n\n1. **The synthetic placeh…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "konlue",
+    "head_sha": "cfc33c6448584712dc7a013a390d30e414d47f43",
+    "base_ref": "main",
+    "additions": 198,
+    "deletions": 34,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
