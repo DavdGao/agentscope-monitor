@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Luckyou-d",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-08T08:52:55.873962Z",
+  "title": "[Bug]: RedisStorage upserts write the record and its index entries in separate round trips — an interrupted upsert orphans schedules and channels",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3840#issuecomment-6719489151",
+  "number": 3840,
+  "body": "Confirmed on current `main` (782bd43): all 17 `upsert_*` sites in `RedisStorage` write the record and its index entries as separate awaited round trips with no transaction. A failure between writes le…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "konlue",
+    "commenter": "Luckyou-d"
+  },
+  "at_mobiles": []
+}
