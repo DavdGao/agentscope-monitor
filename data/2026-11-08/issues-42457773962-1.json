@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qkycir",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-08T07:11:56.016190Z",
+  "title": "[Bug]: cancellation after prewarm completion strands an unassignable workspace",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3837",
+  "number": 3837,
+  "body": "## Background / Description\n\n`WorkspacePrewarmMixin` can retain an unassignable workspace when a taker is cancelled after its Future receives a result but before the waiting task resumes. The workspac…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "qkycir"
+  },
+  "at_mobiles": []
+}
