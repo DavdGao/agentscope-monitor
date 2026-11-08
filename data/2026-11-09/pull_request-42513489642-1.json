@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "2SinceJuly",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-08T19:08:22.029216Z",
+  "title": "fix(storage): delete Redis messages atomically by id",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3857",
+  "number": 3857,
+  "body": "## Problem\n\n`RedisStorage.delete_message` located the message and removed it in two separate round trips:\n\n```python\nindex = await self._find_message_index(key, message_id)\nif index is None:\n    retur…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "2SinceJuly",
+    "head_sha": "c5ab61f86f4f69a72691fabe34611f7413ba3317",
+    "base_ref": "main",
+    "additions": 124,
+    "deletions": 14,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
