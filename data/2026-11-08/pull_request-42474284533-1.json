@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "Steve-20-ai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-08T11:06:52.992197Z",
+  "title": "fix(tool): detect rm -rf written with other flag orders",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3823",
+  "number": 3823,
+  "body": "Fixes #3824.\n\nProblem write-up, with the reproduction output for each spelling, is in the issue.\n\n## What changed\n\n`BashCommandParser.check_dangerous_command` reports the first entry of\n`DANGEROUS_COM…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Steve-20-ai",
+    "head_sha": "3db3618b291fbefd0c701c7efdd0a4928bab0254",
+    "base_ref": "main",
+    "additions": 162,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
