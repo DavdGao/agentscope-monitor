@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "lss680455-create",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-08T04:42:04.350522Z",
+  "title": "[feat] Proposal: DebatePipeline — independent answers, cross-examination, judge synthesis",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3828#issuecomment-6717343321",
+  "number": 3828,
+  "body": "Per the triage guidance and the project convention for feature proposals, I have moved the design proposal to Discussions → Ideas: https://github.com/agentscope-ai/agentscope/discussions/3832\n\nI will …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "lss680455-create",
+    "commenter": "lss680455-create"
+  },
+  "at_mobiles": []
+}
