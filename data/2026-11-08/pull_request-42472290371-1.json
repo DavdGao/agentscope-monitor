@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "peterzhang987723",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-08T10:38:49.820111Z",
+  "title": "fix(memory): drop removed dream_topics_step from embedded ReMe config",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3850",
+  "number": 3850,
+  "body": "## AgentScope Version\n\n`main` (2.0.12dev)\n\n## Description\n\nFixes #3811.\n\n`ReMeMiddleware` embeds a minimal ReMe configuration in `src/agentscope/middleware/_longterm_memory/_reme/_config.py`. In `reme…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "peterzhang987723",
+    "head_sha": "9d32c8fab911bb8e94eda476c4c75e68e10d4d52",
+    "base_ref": "main",
+    "additions": 34,
+    "deletions": 6,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
