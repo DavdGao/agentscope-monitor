@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "peterzhang987723",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-08T14:58:16.596671Z",
+  "title": "fix(app): propagate session SSE stream subscription failures",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3854",
+  "number": 3854,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing issues and pull requests, and this is not a duplicate.\n- [x] I have tested this change locally and added regression coverage.\n\n### Description\n\nIn…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "peterzhang987723",
+    "head_sha": "634c9863864f33a632e3a65edfa6ea2eea20cedb",
+    "base_ref": "main",
+    "additions": 159,
+    "deletions": 7,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
