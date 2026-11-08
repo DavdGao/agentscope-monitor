@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "its-amann",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-08T11:25:25.776012Z",
+  "title": "fix(tool): detect rm -rf written with other flag orders",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3823#issuecomment-6720884170",
+  "number": 3823,
+  "body": "looks good, thanks for picking it up. could you add `Co-authored-by: Aman Agnihotri <163747435+its-amann@users.noreply.github.com>` to 3db3618 so the guard keeps credit",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Steve-20-ai",
+    "commenter": "its-amann"
+  },
+  "at_mobiles": []
+}
