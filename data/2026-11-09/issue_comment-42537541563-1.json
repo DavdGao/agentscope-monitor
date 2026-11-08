@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ccclucky",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-08T23:56:23.150294Z",
+  "title": "fix(tool): match dangerous command patterns after removing shell quotes",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3859#issuecomment-6728960262",
+  "number": 3859,
+  "body": "One shell quoting form is still unhandled on head `0d4dd135`: ANSI-C quoting (`$'...'`). The shell decodes it before running, so it is the same defect class as the cases this PR fixes.\n\nOn this branch…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "2SinceJuly",
+    "commenter": "ccclucky"
+  },
+  "at_mobiles": []
+}
