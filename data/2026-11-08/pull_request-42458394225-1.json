@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qkycir",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-08T07:20:45.815923Z",
+  "title": "fix(workspace): close MCP clients after failed gateway discovery",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3838",
+  "number": 3838,
+  "body": "## AgentScope Version\n\nmain, based on 782bd43f9f61788a1901fcc4e5486758491d387f.\n\n## Description\n\nFixes #3836.\n\nA stateful MCP can connect successfully and then fail during tool discovery. Gateway regi…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qkycir",
+    "head_sha": "f9088be5554ee3a5d1e802db2860dc3602d7942e",
+    "base_ref": "main",
+    "additions": 80,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
