@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qkycir",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-08T07:15:20.573442Z",
+  "title": "[Bug]: failed MCP gateway registration leaves a stateful connection unowned",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3836#issuecomment-6718628142",
+  "number": 3836,
+  "body": "/assign me",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "qkycir",
+    "commenter": "qkycir"
+  },
+  "at_mobiles": []
+}
