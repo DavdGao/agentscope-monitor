@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lins",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-08T08:06:41.707046Z",
+  "title": "[Bug]: ToolOffloadMiddleware reports a still-running tool as SUCCESS and may deliver the result after the agent has finalized",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3845",
+  "number": 3845,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [
+    "Bug"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "lins"
+  },
+  "at_mobiles": []
+}
