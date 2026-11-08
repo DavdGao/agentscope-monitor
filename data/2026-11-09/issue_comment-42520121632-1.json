@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "2SinceJuly",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-08T20:26:32.603685Z",
+  "title": "[Bug]: quoting an option hides chmod 777 / chown -R / kill -9 from the bypass-immune safety check",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3858#issuecomment-6726680260",
+  "number": 3858,
+  "body": "Opened #3859 with a fix: the pattern check now also runs against the command with shell quoting removed, so quoted spellings of `chmod 777`, `chmod -R 777`, `chown -R`, `kill -9`, `rm -rf`, `sudo rm` …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "ccclucky",
+    "commenter": "2SinceJuly"
+  },
+  "at_mobiles": []
+}
