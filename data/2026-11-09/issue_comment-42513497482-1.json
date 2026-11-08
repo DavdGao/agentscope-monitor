@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "2SinceJuly",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-08T19:08:23.828155Z",
+  "title": "[Bug]: concurrent RedisStorage.delete_message calls can delete a different message and corrupt the ID index",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3856#issuecomment-6725791965",
+  "number": 3856,
+  "body": "Reproduced this on `782bd43` with the script in the report: deleting `a` and `b` leaves `b` in the list and `c` in the index.\n\nOpened #3857: the lookup and removal now run in one Lua script, so no com…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "FOWEPJF255",
+    "commenter": "2SinceJuly"
+  },
+  "at_mobiles": []
+}
