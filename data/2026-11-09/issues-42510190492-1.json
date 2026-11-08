@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "FOWEPJF255",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-08T18:28:49.120302Z",
+  "title": "[Bug]: concurrent RedisStorage.delete_message calls can delete a different message and corrupt the ID index",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3856",
+  "number": 3856,
+  "body": "### Prerequisites\n\n- [x] I searched the existing issues and discussions and found no duplicate of this deletion race.\n- [x] This is a bug rather than a usage question.\n\n### Background / Description\n\nT…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "FOWEPJF255"
+  },
+  "at_mobiles": []
+}
