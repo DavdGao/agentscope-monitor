@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Luckyou-d",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-08T09:55:30.567256Z",
+  "title": "fix(app): make RedisStorage upserts atomic via pipelines",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3847#issuecomment-6720059501",
+  "number": 3847,
+  "body": "Closing - I missed that @konlue had already been assigned (the `/assign` at 07:25 predates my comment) and their #3848 covers the same atomic-pipeline conversion. My apologies for the overlap - happy …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Luckyou-d",
+    "commenter": "Luckyou-d"
+  },
+  "at_mobiles": []
+}
