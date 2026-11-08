@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qkycir",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-08T07:44:02.456843Z",
+  "title": "[Bug]: cancelled skill copy can write back after workspace reset completes",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3843",
+  "number": 3843,
+  "body": "## Background / Description\n\nCancelling `LocalWorkspace.add_skill()` while `asyncio.to_thread(shutil.copytree, ...)` is running releases `_skill_lock` before the copy thread stops. A subsequent `reset…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "qkycir"
+  },
+  "at_mobiles": []
+}
