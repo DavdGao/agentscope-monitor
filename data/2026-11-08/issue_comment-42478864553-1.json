@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-08T12:09:02.446897Z",
+  "title": "fix(app): isolate in-memory bus replay and subscriber payloads",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3846#issuecomment-6721296045",
+  "number": 3846,
+  "body": "As the pr-guard bot noted — \"#3740 already has an open pull request, #3741 by @zhangkom.\" — issue #3740 already has an open PR that predates this one by three days.\n\nI compared the two implementations…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "RerankerGuo",
+    "commenter": "RerankerGuo"
+  },
+  "at_mobiles": []
+}
