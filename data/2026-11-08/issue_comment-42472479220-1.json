@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "its-amann",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-08T10:41:34.319533Z",
+  "title": "[Bug]: ReMeMiddleware fails to start with reme-ai >= 0.4.1.12 (Unregistered backend 'dream_topics_step')",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3811#issuecomment-6720474512",
+  "number": 3811,
+  "body": "opened #3851 for this, @qbc2016 could you take a look when you get a chance",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "zzbazzzbaz",
+    "commenter": "its-amann"
+  },
+  "at_mobiles": []
+}
