@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "Luckyou-d",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-08T09:55:26.904985Z",
+  "title": "fix(app): make RedisStorage upserts atomic via pipelines",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3847",
+  "number": 3847,
+  "body": "Fixes #3840\n\n## Problem\n\nAll `upsert_*` methods in `RedisStorage` wrote the record (with its sliding TTL) and the index entries as **separate awaited round trips**, with no transaction. A connection f…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "Luckyou-d",
+    "head_sha": "77eaac0b5545549141b799ccd0190e39d23834d9",
+    "base_ref": "main",
+    "additions": 156,
+    "deletions": 41,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
