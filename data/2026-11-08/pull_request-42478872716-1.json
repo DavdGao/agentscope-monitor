@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "RerankerGuo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-08T12:09:07.494355Z",
+  "title": "fix(rag): reject unrenderable hint_template placeholders at construction",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3849",
+  "number": 3849,
+  "body": "## PR Title Format\n\n- [x] My PR title follows the Conventional Commits format.\n\n## AgentScope Version\n\n2.0.12dev (main at `782bd43f`)\n\n## Description\n\nFixes #3730.\n\n**Root cause**: `RAGMiddleware.Para…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "RerankerGuo",
+    "head_sha": "60ac5c30ac88dbd4bb8bd7cc0fdde2eb43247bcf",
+    "base_ref": "main",
+    "additions": 31,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
