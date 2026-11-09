@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "simin-yuan",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T16:49:06.709378Z",
+  "title": "fix(rag): reject a non-positive top_k in KnowledgeBase.search",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3900#issuecomment-6745844312",
+  "number": 3900,
+  "body": "Local verification for reviewers (CI is not running on the fork yet): the new contract test plus the existing RAG knowledge tests,\n\n`\n.venv/bin/python -m pytest tests/rag_knowledge_metadata_test.py te…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "simin-yuan",
+    "commenter": "simin-yuan"
+  },
+  "at_mobiles": []
+}
