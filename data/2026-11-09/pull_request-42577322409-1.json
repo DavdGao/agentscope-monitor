@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T07:07:56.049574Z",
+  "title": "fix(middleware): default mem0 search_memory limit to top_k",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3720",
+  "number": 3720,
+  "body": "## Problem\n\n`Mem0Middleware(top_k=...)` documents itself as governing both the\nstatic-control search and the `search_memory` tool:\n\n```python\ntop_k:\n    Max number of memories retrieved per static-con…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "ca8e342fd2b705d97ab122d0ec25b3611e3731c8",
+    "base_ref": "main",
+    "additions": 84,
+    "deletions": 25,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
