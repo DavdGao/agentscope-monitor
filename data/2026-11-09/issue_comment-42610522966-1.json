@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "its-amann",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T11:37:41.521189Z",
+  "title": "fix(tool): count matching lines, not context lines, against head_limit",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3888#issuecomment-6739105689",
+  "number": 3888,
+  "body": "yeah would be great if you add me as co-author on 41e0204, no need to redo history. Co-authored-by: Aman Agnihotri <amanagnihotri902@gmail.com>",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "lianbie",
+    "commenter": "its-amann"
+  },
+  "at_mobiles": []
+}
