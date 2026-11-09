@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T07:43:35.051764Z",
+  "title": "[Bug]: wakeup dispatcher startup hangs if subscription fails before readiness",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3630",
+  "number": 3630,
+  "body": "### Prerequisites\n\n- [x] I searched existing issues, PRs, and recent discussions for this startup failure.\n- [x] This is a bug, not a usage question.\n\n### Background / Description\n\nIf the wakeup subsc…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "MannXo"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "lllluull"
+  },
+  "at_mobiles": []
+}
