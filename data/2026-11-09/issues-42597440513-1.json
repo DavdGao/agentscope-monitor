@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T09:58:45.232492Z",
+  "title": "[Bug]: TextParser does not register the standard application/yaml media type",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3414",
+  "number": 3414,
+  "body": "## Background / Description\n\nTextParser advertises `.yaml` and `.yml` extensions but registers only the legacy `application/x-yaml` MIME type. RFC 9512 section 2.1 registers `application/yaml` for YAM…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "12kkqq"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "12kkqq"
+  },
+  "at_mobiles": []
+}
