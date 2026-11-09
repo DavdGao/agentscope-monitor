@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ccclucky",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T00:14:17.233878Z",
+  "title": "fix(tool): detect equivalent dangerous command spellings",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3861",
+  "number": 3861,
+  "body": "## Problem\n\n`BashCommandParser.check_dangerous_command` matches the literal strings in `DANGEROUS_COMMANDS` only. The shell accepts equivalent spellings of the same operation, and those spellings retu…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ccclucky",
+    "head_sha": "41ce81e57cb07f7b859fb91fde3223aaedb990e5",
+    "base_ref": "main",
+    "additions": 381,
+    "deletions": 0,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
