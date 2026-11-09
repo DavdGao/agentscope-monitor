@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "indexGin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T04:36:48.598461Z",
+  "title": "Excel column-name helper silently returns an empty name for negative indices",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3871",
+  "number": 3871,
+  "body": "### 现象\n\n`_get_excel_column_name(col_index)` 把 0-based 列索引转成 Excel 列名(`A`…`Z`、`AA`…)。当传入负索引时,函数先 `col_index += 1`,若结果仍 <= 0,`while col_index > 0` 循环一次都不执行,函数静默返回空字符串 `\"\"` —— 这不是一个有效的 Excel 列名。\n\n### 最小复…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "indexGin"
+  },
+  "at_mobiles": []
+}
