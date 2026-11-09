@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Wilson0511",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T15:09:03.446435Z",
+  "title": "fix(workspace): roll back cancelled seed copies during initialize",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3897",
+  "number": 3897,
+  "body": "## What\n\n`LocalWorkspace.initialize()` copies each `skill_paths` seed with a bare awaited `asyncio.to_thread(shutil.copytree, ...)`. When `initialize()` is cancelled mid-copy (startup timeout, agent p…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Wilson0511",
+    "head_sha": "550a8ee513b36122be822c348ff0ba538fc4a22b",
+    "base_ref": "main",
+    "additions": 111,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
