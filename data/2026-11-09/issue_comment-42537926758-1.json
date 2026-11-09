@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ccclucky",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T00:01:19.531871Z",
+  "title": "[Bug]: chmod 0777 / a+rwx, chown --recursive and kill -s 9 bypass the bypass-immune dangerous-command check",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3860#issuecomment-6729011150",
+  "number": 3860,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "ccclucky",
+    "commenter": "ccclucky"
+  },
+  "at_mobiles": []
+}
