@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T06:49:11.544211Z",
+  "title": "Honor tools/list_changed notifications in stateful MCP clients",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3735#issuecomment-6734079420",
+  "number": 3735,
+  "body": "Closing as a duplicate of #3734, which addresses the same issue (#3733) with the same cache invalidation approach. Thanks for the contribution!",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "inchang-ing",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
