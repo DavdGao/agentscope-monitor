@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lianbie",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T09:52:57.379678Z",
+  "title": "XAIChatFormatter drops images carried by assistant messages",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3891",
+  "number": 3891,
+  "body": "## Problem\n\n`XAIChatFormatter.format` handles a different set of block types for the `user` role than for the `assistant` role, and the assistant branch has no `DataBlock` case at all — nor a fallback…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "lianbie"
+  },
+  "at_mobiles": []
+}
