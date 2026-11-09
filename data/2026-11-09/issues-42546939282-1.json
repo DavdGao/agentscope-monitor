@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "llystar",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T01:42:13.118303Z",
+  "title": "[Bug]: [Design] WakeupDispatcher has no per-session coalescing: a burst of N wakes re-queues at roughly 10×N/s and spawns N runs",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3866",
+  "number": 3866,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [
+    "Bug"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "llystar"
+  },
+  "at_mobiles": []
+}
