@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T04:59:07.081971Z",
+  "title": "fix(workspace): drain cancelled skill copies before releasing lock",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3844",
+  "number": 3844,
+  "body": "## AgentScope Version\n\nmain, based on 782bd43f9f61788a1901fcc4e5486758491d387f.\n\n## Description\n\nFixes #3843.\n\nCancelling `add_skill` stops its asyncio waiter, but the copytree executor thread continu…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "qkycir",
+    "head_sha": "baf91e5828ae2c59b98a37f3aa4cfab497860579",
+    "base_ref": "main",
+    "additions": 139,
+    "deletions": 5,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
