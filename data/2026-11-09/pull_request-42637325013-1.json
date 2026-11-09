@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Wilson0511",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T14:42:50.506385Z",
+  "title": "fix(storage): make Redis upsert_message atomic under concurrent writers",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3896",
+  "number": 3896,
+  "body": "Fixes #3895.\n\n## What\n\n`RedisStorage.upsert_message` reads the id index (`SISMEMBER`) and then writes (`RPUSH` + `SADD`) in separate steps with no atomicity between them, so two concurrent writers per…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Wilson0511",
+    "head_sha": "006594a8459a9e5e0e3a80595b382373852a2735",
+    "base_ref": "main",
+    "additions": 107,
+    "deletions": 30,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
