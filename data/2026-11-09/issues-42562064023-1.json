@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "indexGin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T04:29:07.288757Z",
+  "title": "DashScope realtime websocket URL does not URL-encode the model query parameter",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3869",
+  "number": 3869,
+  "body": "### 现象\n\nDashScope realtime 的 `_realtime_url()` 把 `model` 原样拼进 WebSocket URL 的查询串 `?model=<model>`,没有做 URL 编码。当模型名包含 `&`、`=`、`#`、空格或非 ASCII 字符时,生成的 URL 会被错误解析。\n\n### 最小复现\n\n```python\nfrom agentscope.real…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "indexGin"
+  },
+  "at_mobiles": []
+}
