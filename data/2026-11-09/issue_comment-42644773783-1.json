@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "mosifu",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T15:27:12.010447Z",
+  "title": "[Bug]: schema flattening removes nested definitions but leaves their references",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3894#issuecomment-6743884952",
+  "number": 3894,
+  "body": "Taking this one. I went with full local JSON Pointer resolution rather than \"keep the nested block\", because keeping it only makes the output legal — a provider that cannot process `$defs` (the reason…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Carrot-Ve",
+    "commenter": "mosifu"
+  },
+  "at_mobiles": []
+}
