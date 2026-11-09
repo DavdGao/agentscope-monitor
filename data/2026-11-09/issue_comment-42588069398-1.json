@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "lianbie",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T08:44:04.569508Z",
+  "title": "Bash path extraction drops arguments after a non-ASCII one, bypassing the permission check",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3881#issuecomment-6735851535",
+  "number": 3881,
+  "body": "Implemented in #3882. Every slice now goes through a helper that slices the UTF-8 bytes and decodes, matching what split_into_subcommands already did correctly. Four regression tests cover the dropped…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "lianbie",
+    "commenter": "lianbie"
+  },
+  "at_mobiles": []
+}
