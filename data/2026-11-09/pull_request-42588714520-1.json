@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T08:49:23.799984Z",
+  "title": "feat(webui): display background tool status and execution duration",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3883",
+  "number": 3883,
+  "body": "## AgentScope Version\n\n2.0.12dev\n\n## Description\n\nCloses #1800.\n\nUsers cannot currently inspect tools that continue running after a chat reply finishes. This PR adds a read-only background-tools panel…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "e6a9e9e089f2f5155f1c2ccd0d4f354a0f4bcc62",
+    "base_ref": "main",
+    "additions": 743,
+    "deletions": 15,
+    "changed_files": 16
+  },
+  "at_mobiles": []
+}
