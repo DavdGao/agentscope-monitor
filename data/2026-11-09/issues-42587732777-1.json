@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lianbie",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T08:41:12.197250Z",
+  "title": "Bash path extraction drops arguments after a non-ASCII one, bypassing the permission check",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3881",
+  "number": 3881,
+  "body": "## Problem\n\n`BashCommandParser` slices the command string with tree-sitter's byte offsets, but indexes a Python `str` with them:\n\n```python\npath = command[child.start_byte : child.end_byte]      # :32…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "lianbie"
+  },
+  "at_mobiles": []
+}
