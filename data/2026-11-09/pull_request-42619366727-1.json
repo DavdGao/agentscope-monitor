@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "lianbie",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T12:43:32.216040Z",
+  "title": "fix(tool): slice parsed nodes by byte offset, not character offset",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3882",
+  "number": 3882,
+  "body": "## Problem\n\n`BashCommandParser` slices the command string with tree-sitter's byte offsets, but indexes a Python `str` with them:\n\n```python\npath = command[child.start_byte : child.end_byte]      # :32…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "lianbie",
+    "head_sha": "91047ebe6d24efcab1a9bd6d25f7c45ada19aa9d",
+    "base_ref": "main",
+    "additions": 94,
+    "deletions": 7,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
