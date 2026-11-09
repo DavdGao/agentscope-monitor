@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T08:47:53.108830Z",
+  "title": "fix(rag): load milvus collection before reads",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3433",
+  "number": 3433,
+  "body": "## AgentScope Version\n\n2.0.10 (patch prepared against `main`)\n\n## Description\n\nFixes #3430.\n\n`MilvusLiteStore` called `load_collection` only while creating a collection, so\n`search()` and `list_docume…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "WuDYouOu",
+    "head_sha": "dc5702c332f506b95b7ff30429e573ee64497fe7",
+    "base_ref": "main",
+    "additions": 167,
+    "deletions": 22,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
