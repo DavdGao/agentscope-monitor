@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T10:11:33.153018Z",
+  "title": "fix(hub): rewrite and declare MCP registry URL template variables",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3810",
+  "number": 3810,
+  "body": "Fixes #3777\n\n## Problem and root cause\nThe MCP Registry `server.json` format supports URL template variables: a `remotes[].url` may contain `{var}` placeholders described by `remotes[].variables` (`de…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "indexGin",
+    "head_sha": "f512b82d96825d467b107c99a1ec0c64107d06ab",
+    "base_ref": "main",
+    "additions": 214,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
