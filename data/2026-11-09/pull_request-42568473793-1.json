@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "MannXo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T05:38:41.461262Z",
+  "title": "fix(storage): write redis record value and ttl in one command",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3806",
+  "number": 3806,
+  "body": "## AgentScope Version\n\n`2.0.12dev` (`main` at `782bd43f`)\n\n## Description\n\nFixes #3804.\n\n`RedisStorage._set_with_ttl` wrote a record with `SET` and then applied `key_ttl` with a separate `EXPIRE`. `SE…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "MannXo",
+    "head_sha": "8098bb7f7da91ac1bed7cda5dcbe31e4570b1520",
+    "base_ref": "main",
+    "additions": 83,
+    "deletions": 12,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
