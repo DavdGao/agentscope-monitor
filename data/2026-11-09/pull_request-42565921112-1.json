@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "review_requested",
+  "action_cn": "请求审核",
+  "sender": "indexGin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T05:12:24.857289Z",
+  "title": "fix(realtime): url-encode the model parameter in the dashscope websocket url",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3872",
+  "number": 3872,
+  "body": "Fixes #3869\n\n## 问题\n\n`_realtime_url()` 把 `model` 原样拼进 WebSocket URL 的查询串,未做 URL 编码。模型名含 `&`、`=`、`#`、空格或非 ASCII 字符时,生成的 URL 会被错误解析(例如 `model=qwen&x=1` 被解析成两个参数),还允许通过模型名注入额外的查询参数,导致握手失败或选中错误模型。\n\n## 修复\n\n…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "indexGin",
+    "head_sha": "859dab4b77142451ecbf724e4a9f7507c7dd1e90",
+    "base_ref": "main",
+    "additions": 51,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
