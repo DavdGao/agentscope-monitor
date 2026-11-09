@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "lianbie",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T11:50:38.398532Z",
+  "title": "RedisStorage writes can persist a key without its sliding TTL",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3878",
+  "number": 3878,
+  "body": "## Problem\n\n`RedisStorage._set_with_ttl` writes the key and then applies the sliding expiry as two separate round-trips:\n\n```python\nasync def _set_with_ttl(self, key: str, value: str) -> None:\n    \"\"\"…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "lianbie"
+  },
+  "at_mobiles": []
+}
