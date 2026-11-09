@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "wangguode",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T10:24:10.802874Z",
+  "title": "[RFC] Loop Convergence Controller: Dynamic Step Budgeting & Semantic Anti-Stuck Patterns for Agent Harness",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3893",
+  "number": 3893,
+  "body": "### Background & Problem Statement\nWhen orchestrating multi-agent systems and complex autonomous tasks, relying solely on static iteration caps (e.g., `max_iterations = 30`) presents several challenge…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "wangguode"
+  },
+  "at_mobiles": []
+}
