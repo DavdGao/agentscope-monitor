@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "HsbcJone",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T08:29:40.315934Z",
+  "title": "fix(model): preserve length stops and guard truncated tool calls",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3880",
+  "number": 3880,
+  "body": "## AgentScope Version\n\n`main` (dev)\n\n## Description\n\nCloses #3194.\n\nModel providers report why generation stopped, but AgentScope previously dropped that signal and left responses looking like normal …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "HsbcJone",
+    "head_sha": "2f1af1d286283c831b891adc5f3733f92463eb43",
+    "base_ref": "main",
+    "additions": 929,
+    "deletions": 41,
+    "changed_files": 26
+  },
+  "at_mobiles": []
+}
