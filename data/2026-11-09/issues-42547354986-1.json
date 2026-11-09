@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "llystar",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T01:47:02.249909Z",
+  "title": "[Bug]: [Design] Wakeup queue and signal keys are global fixed names; deployments sharing a Redis DB can consume each other's triggers",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3867",
+  "number": 3867,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [
+    "Bug"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "llystar"
+  },
+  "at_mobiles": []
+}
