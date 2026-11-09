@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lianbie",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T07:27:32.614675Z",
+  "title": "fix(storage): apply the sliding TTL in the same write",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3879",
+  "number": 3879,
+  "body": "## Problem\n\n`RedisStorage._set_with_ttl` writes the key and then applies the sliding expiry as two separate round-trips:\n\n```python\nasync def _set_with_ttl(self, key: str, value: str) -> None:\n    \"\"\"…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "lianbie",
+    "head_sha": "091546755d106679d4ea33f2597db3ad287983af",
+    "base_ref": "main",
+    "additions": 82,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
