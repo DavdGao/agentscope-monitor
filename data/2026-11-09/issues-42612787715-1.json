@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T11:55:25.813843Z",
+  "title": "[Bug]: Glob masks malformed helper output as no matching files",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3037",
+  "number": 3037,
+  "body": "### Reproduction\nOn main c0a5762, configure a backend whose successful helper invocation returns `ExecResult(0, b\"not-json\", b\"\")`, with `is_dir()` returning true, then call `Glob(backend=backend)(pat…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "twei43846-afk"
+  },
+  "at_mobiles": []
+}
