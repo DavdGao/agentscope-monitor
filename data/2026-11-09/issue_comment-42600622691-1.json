@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T10:24:24.582614Z",
+  "title": "KnowledgeBase.search silently drops queries when the embedding response is short",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3778#issuecomment-6737669194",
+  "number": 3778,
+  "body": "Could you provide a reproduction using a real embedding provider, including the model, input, and response showing the count mismatch?\n\nThe mock-based tests demonstrate that `KnowledgeBase.search` doe…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "lianbie",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
