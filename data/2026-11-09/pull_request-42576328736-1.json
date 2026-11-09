@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T06:58:27.912513Z",
+  "title": "fix(mcp): refresh cached tools on tools/list_changed notification",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3734",
+  "number": 3734,
+  "body": "Fixes #3733.\n\n### What\n\n`MCPClient._create_sdk_client()` now registers a `message_handler` on the MCP SDK client. When the server announces `notifications/tools/list_changed`, the handler drops `_cach…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "DingNova",
+    "head_sha": "7fd00e794562c41978ec44736d4e3d7c4eaeb98f",
+    "base_ref": "main",
+    "additions": 175,
+    "deletions": 3,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
