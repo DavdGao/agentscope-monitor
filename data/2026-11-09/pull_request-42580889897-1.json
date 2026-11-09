@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T07:43:07.715533Z",
+  "title": "fix(app): fail wakeup dispatcher startup when subscription dies early",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3632",
+  "number": 3632,
+  "body": "## AgentScope Version\n\n`2.0.12dev` (`main` at `4acacb9f`)\n\n## Description\n\nFixes #3630.\n\nIf the wakeup subscription failed before calling `on_ready`, `WakeupDispatcher.__aenter__()` never returned. `_…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "MannXo",
+    "head_sha": "b19e3b886fc0657b94e95fa83c191ba5783fe66e",
+    "base_ref": "main",
+    "additions": 238,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
