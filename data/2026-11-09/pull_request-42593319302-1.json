@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T09:25:42.427899Z",
+  "title": "test(app): fix race in background task renewal fairness test",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3890",
+  "number": 3890,
+  "body": "## AgentScope Version\n\n2.0.12dev\n\n## Description\n\nFix an intermittent failure in\n`TestRedisBackgroundTaskRecords.test_renewal_budget_preserves_fairness_and_cancels_io`, introduced in #1865 and reporte…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "49458da280333032425386ac5fd5dc2a193b3db2",
+    "base_ref": "main",
+    "additions": 14,
+    "deletions": 0,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
