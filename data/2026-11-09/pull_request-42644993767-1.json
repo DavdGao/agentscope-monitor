@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "konlue",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T15:28:31.744384Z",
+  "title": "feat(app): let tools opt out of background offloading or override the offload timeout",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3899",
+  "number": 3899,
+  "body": "Part of #3845\n\n## AgentScope Version\n\nmain @ `d8ebf89`\n\n## Description\n\n### Problem\n\n`ToolOffloadMiddleware` applies one deployment-wide timeout (`tool_offload_timeout_secs`, #3330) to every tool, and…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "konlue",
+    "head_sha": "8ee5daeaf0bad3a092e48cacb0ea59a7fcd05a01",
+    "base_ref": "main",
+    "additions": 192,
+    "deletions": 5,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
