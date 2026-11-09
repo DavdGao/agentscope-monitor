@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "2SinceJuly",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T00:54:47.691656Z",
+  "title": "fix(tool): match dangerous command patterns after removing shell quotes",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3859#issuecomment-6729666735",
+  "number": 3859,
+  "body": "Fixed in `8a8bf62c`. You were right on both the gap and the cause: `_strip_shell_quotes` had no `$'...'` branch, so ANSI-C quoting survived the unquote pass and the dangerous-pattern match never saw t…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "2SinceJuly",
+    "commenter": "2SinceJuly"
+  },
+  "at_mobiles": []
+}
