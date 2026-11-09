@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "lianbie",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T09:16:01.211557Z",
+  "title": "Grep with context drops the matching line when head_limit is small",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3886#issuecomment-6736423552",
+  "number": 3886,
+  "body": "Implemented in #3888. With context enabled the limit now counts match lines rather than raw output lines, keeping each match and its surrounding context intact. Without context the previous slice is u…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "lianbie",
+    "commenter": "lianbie"
+  },
+  "at_mobiles": []
+}
