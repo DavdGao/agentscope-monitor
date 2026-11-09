@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "lianbie",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T06:26:26.585233Z",
+  "title": "KnowledgeBase.search reinterprets a negative top_k instead of rejecting it",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3875#issuecomment-6733755913",
+  "number": 3875,
+  "body": "Implemented in #3876. The bound is checked before any embedding or store call, so a non-positive value now raises instead of returning a differently-shaped result set. Four regression tests cover the …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "lianbie",
+    "commenter": "lianbie"
+  },
+  "at_mobiles": []
+}
