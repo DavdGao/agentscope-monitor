@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T03:08:13.723493Z",
+  "title": "[Bug]: background task registration errors skip completion cleanup",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3384",
+  "number": 3384,
+  "body": "## Prerequisites\n\n- [x] Searched current open issues/PRs and related closed work; no matching fix was found in this screening.\n- [x] Reproduced on current main with the real manager and asyncio tasks.…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "Cordis798"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "Cordis798"
+  },
+  "at_mobiles": []
+}
