@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "FOWEPJF255",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T08:57:05.923117Z",
+  "title": "fix(app): bound wakeup retries while a session lock is held",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2682#issuecomment-6736071716",
+  "number": 2682,
+  "body": "I rechecked this against current `main`, `a7f7c46f300905c28fcbbfbe4fab4d8aa6912491`, before attempting to resolve the old PR's conflicts. The inbox-consumer handoff now protects the normal active-reas…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "FOWEPJF255",
+    "commenter": "FOWEPJF255"
+  },
+  "at_mobiles": []
+}
