@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lianbie",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T09:55:09.707341Z",
+  "title": "fix(formatter): keep media carried by assistant messages",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3892",
+  "number": 3892,
+  "body": "## Problem\n\n`XAIChatFormatter.format` handles a different set of block types for the `user` role than for the `assistant` role. The assistant branch has no `DataBlock` case at all — and no fallback `e…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "lianbie",
+    "head_sha": "b71263500d4137f633111dd86a4ec55b3ce2654d",
+    "base_ref": "main",
+    "additions": 330,
+    "deletions": 9,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
