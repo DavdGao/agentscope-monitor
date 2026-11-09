@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lianbie",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T06:26:01.930607Z",
+  "title": "fix(rag): reject a non-positive top_k in search",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3876",
+  "number": 3876,
+  "body": "## Problem\n\n`KnowledgeBase.search` slices its result list with `top_k` and passes the same value to the vector store, but never checks that `top_k` is a meaningful bound:\n\n```python\nasync def search(\n…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "lianbie",
+    "head_sha": "e07198d17ed110d3020986c50446b8812fb99502",
+    "base_ref": "main",
+    "additions": 120,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
