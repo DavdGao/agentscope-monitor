@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T07:41:37.614546Z",
+  "title": "fix(app): fail wakeup startup when the subscription breaks early",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3672#issuecomment-6734806758",
+  "number": 3672,
+  "body": "Closing this PR in favor of #3632, which fixes the same startup hang and also handles cleanup when startup is cancelled.\n\nThe cleanup gap identified during review of #3632 has been fixed, with a regre…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Kiko0301",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
