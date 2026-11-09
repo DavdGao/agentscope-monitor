@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T10:04:19.511228Z",
+  "title": "[Bug]: concurrent MCPClient.connect() calls leak a stateful connection",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3794",
+  "number": 3794,
+  "body": "### Prerequisites\n\n- [x] I searched the existing issues, discussions, and PRs for the same behavior.\n- [x] This is a reproducible bug.\n\n### Background / Description\n\nWhen two coroutines call `connect(…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "97Three"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "97Three"
+  },
+  "at_mobiles": []
+}
