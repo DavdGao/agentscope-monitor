@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Carrot-Ve",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T13:47:24.511005Z",
+  "title": "[Bug]: schema flattening removes nested definitions but leaves their references",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3894",
+  "number": 3894,
+  "body": "### Prerequisites\n\n- [x] I searched existing issues and pull requests for this failure.\n- [x] This is a reproducible bug report, not a usage question.\n\n### Background / Description\n\n`_flatten_json_sch…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Carrot-Ve"
+  },
+  "at_mobiles": []
+}
