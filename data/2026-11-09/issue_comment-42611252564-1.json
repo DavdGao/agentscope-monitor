@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "lianbie",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T11:43:25.050087Z",
+  "title": "fix(tool): count matching lines, not context lines, against head_limit",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3888#issuecomment-6739209486",
+  "number": 3888,
+  "body": "Done —  (same content, amended in place) now carries:\n\n\n\nOnly that commit was amended, so the PR still shows the same three commits.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "lianbie",
+    "commenter": "lianbie"
+  },
+  "at_mobiles": []
+}
