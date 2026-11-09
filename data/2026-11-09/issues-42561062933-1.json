@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T04:18:26.414240Z",
+  "title": "[Bug]: Grep drops empty matching lines and changes multiline output",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3841",
+  "number": 3841,
+  "body": "## Background / Description\n\nGrep discards empty matching lines when `output_mode=\"content\"` and `n=False`. `_run_ripgrep` splits stdout on LF and filters out every empty record, rather than removing …",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "qkycir"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "qkycir"
+  },
+  "at_mobiles": []
+}
