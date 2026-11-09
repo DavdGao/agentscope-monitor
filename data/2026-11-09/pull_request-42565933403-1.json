@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "indexGin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T05:12:33.301400Z",
+  "title": "fix(hub): reject timestamp skill versions carrying an invalid time",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3873",
+  "number": 3873,
+  "body": "Fixes #3870\n\n## 问题\n\n`_humanize_version()` 只校验 8 位日期部分,完全不校验 6 位时间部分,导致 `0.20260729.999999` / `0.20260729.240000` / `0.20260729.126000` 这类时间部分根本不是真实时间的版本号被误渲染成 `2026-07-29`,掩盖真实版本信息。\n\n## 修复\n\n把 `datetim…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "indexGin",
+    "head_sha": "cbf3580037d74ee82ed6727e214ee5273017447a",
+    "base_ref": "main",
+    "additions": 55,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
