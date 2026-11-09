@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ccclucky",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T11:53:16.883129Z",
+  "title": "fix(tool): slice parsed nodes by byte offset, not character offset",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3882#issuecomment-6739388106",
+  "number": 3882,
+  "body": "Flagging a duplicate for maintainer triage — no action requested from the author.\n\nThis PR and #3772 fix the same root cause in `_bash_parser.py` (tree-sitter byte offsets used as `str` indices) at th…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "lianbie",
+    "commenter": "ccclucky"
+  },
+  "at_mobiles": []
+}
