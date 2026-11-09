@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lianbie",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T09:13:19.813561Z",
+  "title": "Grep with context drops the matching line when head_limit is small",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3886",
+  "number": 3886,
+  "body": "## Problem\n\n`Grep.head_limit` is documented as \"Maximum number of results to return\", but with `context` enabled it truncates a flat list of raw ripgrep output lines. ripgrep emits `context` extra lin…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "lianbie"
+  },
+  "at_mobiles": []
+}
