@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T06:29:09.044262Z",
+  "title": "fix(formatter): preserve image-only messages and history prompts in Ollama multi-agent formatter",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3790",
+  "number": 3790,
+  "body": "Fixes #3789\n\n## Summary\n\n`OllamaMultiAgentFormatter` discarded image-only history segments when their messages had empty sender names and no text. Preserve these segments so their images reach the mod…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "zuizhuai",
+    "head_sha": "29f65370e3fdcea48647bb02c67ff0d071a01733",
+    "base_ref": "main",
+    "additions": 143,
+    "deletions": 12,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
