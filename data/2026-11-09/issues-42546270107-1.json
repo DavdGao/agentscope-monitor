@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "llystar",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T01:34:37.016413Z",
+  "title": "[Bug]: `MCPClient.list_raw_tools` has no retry; a transient failure removes all of that server's tools for the turn",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3863",
+  "number": 3863,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [
+    "Bug"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "llystar"
+  },
+  "at_mobiles": []
+}
