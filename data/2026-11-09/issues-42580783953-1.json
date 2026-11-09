@@ -1,0 +1,28 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T07:42:23.510593Z",
+  "title": "feat(service): add new endpoint to expose the background tasks",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1720",
+  "number": 1720,
+  "body": "**Background**\n\nBackground execution of timed-out tools is currently supported. However, there is no way for the frontend or users to observe the status of these background tasks, leaving them unaware…",
+  "labels": [
+    "Roadmap",
+    "state/stale-issue"
+  ],
+  "assignees": [
+    "XiuShenAl"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
