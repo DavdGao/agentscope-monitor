@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "indexGin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T04:33:09.075320Z",
+  "title": "ClawHub timestamp-style versions with an invalid time component are mis-rendered as a date",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3870",
+  "number": 3870,
+  "body": "### 现象\n\nClawHub 的 `_humanize_version()` 把形如 `0.<date>.<time>` 的 timestamp 版本渲染成日期。它只校验了 8 位日期部分,完全不校验 6 位时间部分。因此任何 `0.<8位数字>.<6位数字>` 字符串,只要日期合法,即使时间部分不是真实时间,也会被误当成 timestamp 版本渲染成日期。\n\n### 最小复现\n\n```pyt…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "indexGin"
+  },
+  "at_mobiles": []
+}
