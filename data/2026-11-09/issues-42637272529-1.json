@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Wilson0511",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T14:42:28.179722Z",
+  "title": "Redis upsert_message double-inserts a message under concurrent writers",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3895",
+  "number": 3895,
+  "body": "### Description\n\n`RedisStorage.upsert_message` decides insert-vs-update with two separate steps — read the id index (`SISMEMBER`), then write (`RPUSH` + `SADD`) — with no lock, `WATCH`, or Lua in betw…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Wilson0511"
+  },
+  "at_mobiles": []
+}
