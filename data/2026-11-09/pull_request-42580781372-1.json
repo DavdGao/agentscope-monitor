@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-09T07:42:23.264118Z",
+  "title": "feat(service): expose background tasks via REST endpoints",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/1865",
+  "number": 1865,
+  "body": "## AgentScope Version\n\n2.0.1\n\n## Description\n\n**Background**\n\n`ToolOffloadMiddleware` offloads tool calls that exceed the timeout to background `asyncio` tasks. However, there was no REST endpoint for…",
+  "labels": [
+    "state/stale-pr",
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "XiuShenAl",
+    "head_sha": "278785ac4416b71cfe1376a99c8c450416792b87",
+    "base_ref": "main",
+    "additions": 2445,
+    "deletions": 108,
+    "changed_files": 17
+  },
+  "at_mobiles": []
+}
