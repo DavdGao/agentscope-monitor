@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "wang1299",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T03:11:20.512555Z",
+  "title": "fix(formatter): preserve anthropic tool error status",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3905",
+  "number": 3905,
+  "body": "## AgentScope Version\n\n2.0.12.dev0; tested commit a2160f836a9be05b29d24cd86db4c30c4b4d5abf.\n\n## Description\n\nFailed tools currently reach Claude without the structured error flag. Map ToolResultState.…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "wang1299",
+    "head_sha": "a2160f836a9be05b29d24cd86db4c30c4b4d5abf",
+    "base_ref": "main",
+    "additions": 122,
+    "deletions": 7,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
