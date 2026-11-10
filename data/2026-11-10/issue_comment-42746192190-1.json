@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "wang1299",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T02:57:17.003674Z",
+  "title": "[Bug]: OpenAIChatModel corrupts non-streaming WAV output when extra_body overrides audio.format",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3904#issuecomment-6757677615",
+  "number": 3904,
+  "body": "/assign me",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "wang1299",
+    "commenter": "wang1299"
+  },
+  "at_mobiles": []
+}
