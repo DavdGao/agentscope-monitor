@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Smilewithoutfalling",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T14:36:51.948732Z",
+  "title": "fix(app): release only the caller's try_lock lease",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3919",
+  "number": 3919,
+  "body": "## Summary\n\n`MessageBus.try_lock()` leases were not bound to the task that took them, so a holder whose lease had already expired could delete the successor's claim by calling `unlock()` late. Both ba…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Smilewithoutfalling",
+    "head_sha": "fe1657f63c46ccee3dc1327ee784146356c5398b",
+    "base_ref": "main",
+    "additions": 132,
+    "deletions": 16,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
