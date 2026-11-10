@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T03:45:54.624247Z",
+  "title": "[Bug]: Embedding batch tasks continue running after a sibling batch fails",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3146",
+  "number": 3146,
+  "body": "<!-- reposteward-proposal:v1 repository=agentscope-ai/agentscope draft_id=aada352c3bef478bb16b405c1eace7c8 -->\n## Summary\n\nEmbeddingModelBase.__call__ launches batches with asyncio.gather. If one batc…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "sxh313"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "97Three"
+  },
+  "at_mobiles": []
+}
