@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T09:14:54.849701Z",
+  "title": "fix(mcp): fence discovery responses after tool list invalidation",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3889",
+  "number": 3889,
+  "body": "## AgentScope Version\r\n\r\nmain at `27c52cc65088227bb7414cb665c1bbbdef18f220`.\r\n\r\n## Description\r\n\r\nCloses #3884.\r\n\r\nA tools/list response can arrive after a tools/list_changed notification has invalida…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qkycir",
+    "head_sha": "af4333c22fd2bd3b39ba88e2b31479b425d75508",
+    "base_ref": "main",
+    "additions": 120,
+    "deletions": 10,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
