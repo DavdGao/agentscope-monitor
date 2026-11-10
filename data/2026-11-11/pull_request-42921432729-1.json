@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "inchang-ing",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T23:12:52.547607Z",
+  "title": "fix(tracing): don't record early stream close or cancellation as span ERROR",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3925",
+  "number": 3925,
+  "body": "Closes #3924\n\n## Problem\n\n`TracingMiddleware`'s three async-generator hooks caught `BaseException` and routed everything through `_set_span_error_status()`. Two control-flow exceptions reach them rout…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "inchang-ing",
+    "head_sha": "3de9cdc24fe7543f6995ccdc6e8a9f40d6dbaf8c",
+    "base_ref": "main",
+    "additions": 191,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
