@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "zuizhuai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T07:00:11.211345Z",
+  "title": "fix(embedding): validate context_size, batch_size, max_retries and retry_delay",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3877",
+  "number": 3877,
+  "body": "Fixes #3449\n\n## Summary\n\n`EmbeddingModelBase.__init__` validated `dimensions` (added earlier) but left the batching and retry knobs — `context_size`, `batch_size`, `max_retries`, and `retry_delay` — c…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "zuizhuai",
+    "head_sha": "fd68a4551494b3bcb365d52df70755af32e8dd19",
+    "base_ref": "main",
+    "additions": 96,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
