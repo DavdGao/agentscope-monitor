@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Wilson0511",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T15:31:38.022489Z",
+  "title": "fix(mcp): close stateful clients whose handshake is still running",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3922",
+  "number": 3922,
+  "body": "## What\n\n`MCPClient.close()` raised `RuntimeError(\"not connected. Call connect() first.\")` whenever the stateful handshake was still in progress. This PR makes `close()` during a running handshake req…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Wilson0511",
+    "head_sha": "102a440e67f8f08b99794cab288b60766df7e3a8",
+    "base_ref": "main",
+    "additions": 90,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
