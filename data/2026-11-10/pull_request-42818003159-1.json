@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "kartik70",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T12:42:22.920170Z",
+  "title": "fix(agent): validate summary_template against summary_schema at construction",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3916",
+  "number": 3916,
+  "body": "## AgentScope Version\n\n2.0.8 (`main` at `da1fb31`)\n\nFixes #2668\n\n## Description\n\n`ContextConfig.summary_template` is rendered with `summary_template.format(**res.content)` inside `_apply_change()`, wh…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "kartik70",
+    "head_sha": "3008a2ccc1ef15fb6eee0aae55b5056f6ac4ad90",
+    "base_ref": "main",
+    "additions": 200,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
