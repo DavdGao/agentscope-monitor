@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T10:23:00.798809Z",
+  "title": "[Bug]: MCP tools/list response can repopulate an invalidated tool cache",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3884",
+  "number": 3884,
+  "body": "### Prerequisites\n- [x] I searched existing issues and PRs.\n- [x] This is a reproducible bug.\n\n### Environment\nAgentScope main `27c52cc65088227bb7414cb665c1bbbdef18f220`, Python 3.12, Windows. No Dock…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "qkycir"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "qkycir"
+  },
+  "at_mobiles": []
+}
