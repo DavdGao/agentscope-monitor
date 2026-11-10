@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T12:29:48.061188Z",
+  "title": "fix(rag): reject negative column indices when naming excel columns",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3874",
+  "number": 3874,
+  "body": "Fixes #3871\n\n## 问题\n\n`_get_excel_column_name()` 对负的列索引静默返回空字符串 `\"\"`(不是有效 Excel 列名),因为 `col_index += 1` 后 `while col_index > 0` 一次都不执行。该函数被表格渲染用来生成 `[A1]` 形式的单元格坐标,静默的空列名会把上游索引错误伪装成正常输出,产生 `[1]` 之类的畸形坐标…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "indexGin",
+    "head_sha": "024c1597acc8e03268a3b6d357dad0be8b8efe04",
+    "base_ref": "main",
+    "additions": 8,
+    "deletions": 0,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
