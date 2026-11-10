@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "lianbie",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T08:17:28.055674Z",
+  "title": "fix(formatter): keep media carried by assistant messages",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3892#issuecomment-6762435619",
+  "number": 3892,
+  "body": "You were right, and the failure is exactly as you described. I reproduced it before touching anything:\n\n```\n$ python -m pytest -q tests/formatter_xai_assistant_media_test.py tests/formatter_xai_test.p…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "lianbie",
+    "commenter": "lianbie"
+  },
+  "at_mobiles": []
+}
