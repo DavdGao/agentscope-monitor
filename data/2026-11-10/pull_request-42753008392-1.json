@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T04:00:19.787799Z",
+  "title": "fix(app): allow WebRTC sessions to close during startup",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3190",
+  "number": 3190,
+  "body": "Fixes #3189\n\n## PR Title Format\n\n`fix(app): allow WebRTC sessions to close during startup`\n\n## AgentScope Version\n\n`2.0.10dev` (Python 3.12.13; native Linux x86_64 tests).\n\n## Description\n\n### Summary…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "kassdinzheng123",
+    "head_sha": "0fa87afe19831ab9256c92ce1b1bc4214d37608a",
+    "base_ref": "main",
+    "additions": 456,
+    "deletions": 12,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
