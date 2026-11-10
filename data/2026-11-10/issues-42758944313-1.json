@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "indexGin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T04:56:22.859142Z",
+  "title": "Tracing modality is unknown for upper-cased or parameterized MIME types",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3909",
+  "number": 3909,
+  "body": "@D:/Users/Jolene/Desktop/AT/ghwork/issue-1110-as6-tracing-modality.md",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "indexGin"
+  },
+  "at_mobiles": []
+}
