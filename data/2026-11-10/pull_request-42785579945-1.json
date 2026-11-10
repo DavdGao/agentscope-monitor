@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T08:49:06.998833Z",
+  "title": "fix(rag): reject a non-positive top_k in KnowledgeBase.search",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3900",
+  "number": 3900,
+  "body": "## Problem\n\nFixes #3875. `KnowledgeBase.search` slices its deduplicated hits with `top_k` and forwards the same value to the vector store without checking that it is a meaningful bound. Python slicing…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "simin-yuan",
+    "head_sha": "47cca668cd1dddb9974db3fff6922633067b9cca",
+    "base_ref": "main",
+    "additions": 26,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
