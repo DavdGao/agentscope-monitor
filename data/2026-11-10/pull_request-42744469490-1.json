@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T02:41:38.892197Z",
+  "title": "fix(app): validate channel updates instead of copying nulls into storage",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2744",
+  "number": 2744,
+  "body": "## AgentScope Version\n\n`main` at `226daf0` (2.0.8)\n\n## Description\n\n**What** — `ChannelService.update` (`src/agentscope/app/_service/_channel.py`) now builds the patched record with `ChannelRecord.mod…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "lihongyuan99",
+    "head_sha": "033e84af33ad8c1e4031f2f53f725c3f22cce5a3",
+    "base_ref": "main",
+    "additions": 106,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
