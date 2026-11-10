@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "wang1299",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T02:48:29.486626Z",
+  "title": "[Bug]: OllamaChatModel does not close the SDK HTTP stream on awaited early aclose",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3902",
+  "number": 3902,
+  "body": "### Prerequisites\n\n- [x] Searched existing issues, PRs and discussions; related reports and the remaining difference are described below.\n- [x] This is a reproducible defect report, not a usage questi…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "wang1299"
+  },
+  "at_mobiles": []
+}
