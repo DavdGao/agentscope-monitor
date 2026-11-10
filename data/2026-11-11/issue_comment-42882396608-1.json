@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "SharoonSharif",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T19:09:27.004523Z",
+  "title": "GeminiTTSModel default model gemini-2.5-flash-preview-tts is shut down on 2026-11-17",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3654#issuecomment-6776675057",
+  "number": 3654,
+  "body": "Following up on the bot's request: this is a bug rather than a feature request, because the default model is about to be shut down.\n\n**Version:** `2.0.12dev` (current `main`, 72911f83)\n\n**Steps to rep…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "pcbeingused333",
+    "commenter": "SharoonSharif"
+  },
+  "at_mobiles": []
+}
