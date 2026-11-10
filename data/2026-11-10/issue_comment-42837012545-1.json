@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "xiaoyuCR7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T14:43:51.555786Z",
+  "title": "[Bug]: a background tool's completion notification names a different id than its placeholder",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3918#issuecomment-6770318981",
+  "number": 3918,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "xiaoyuCR7",
+    "commenter": "xiaoyuCR7"
+  },
+  "at_mobiles": []
+}
