@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T12:54:51.209630Z",
+  "title": "fix(memory): drop removed dream_topics_step from embedded ReMe config",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3850#issuecomment-6767863675",
+  "number": 3850,
+  "body": "Thanks for the contribution! This PR and #3851 address the same issue (#3811) with the same core fix: removing `dream_topics_step` from the embedded ReMe configuration.\n\nWe'll proceed with #3851, whic…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "peterzhang987723",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
