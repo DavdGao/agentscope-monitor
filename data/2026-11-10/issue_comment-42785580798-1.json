@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T08:49:05.635823Z",
+  "title": "fix(rag): reject a non-positive top_k in KnowledgeBase.search",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3900#issuecomment-6763064306",
+  "number": 3900,
+  "body": "Thanks for the contribution! This fix is already covered by #3876, which addresses the same issue (#3875). Closing this PR as a duplicate.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "simin-yuan",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
