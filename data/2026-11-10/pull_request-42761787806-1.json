@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "indexGin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T05:23:12.838684Z",
+  "title": "fix(workspace): escape windows reserved skill directory names",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3914",
+  "number": 3914,
+  "body": "Fixes #3911\n\n## Problem\n\n`_sanitize_dir_name` in\n`src/agentscope/workspace/_local_workspace.py` documents that it returns a\nstring \"safe to use as a directory name on Windows, macOS, and Linux\", but\ni…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "indexGin",
+    "head_sha": "a1a73ab03d0a072f8b2fa9174183762c6943c7d9",
+    "base_ref": "main",
+    "additions": 53,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
