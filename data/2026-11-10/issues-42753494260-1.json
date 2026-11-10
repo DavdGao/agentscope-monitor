@@ -1,0 +1,26 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T04:04:46.992027Z",
+  "title": "feat(webui): display background tool execution status in the side panel",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1800",
+  "number": 1800,
+  "body": "**Background**\n\nSome tools in AgentScope can run in the background (e.g., long-running tasks). Currently, there is no way for users to know whether any tools are running in the background for the curr…",
+  "labels": [
+    "Roadmap",
+    "state/stale-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "DavdGao"
+  },
+  "at_mobiles": []
+}
