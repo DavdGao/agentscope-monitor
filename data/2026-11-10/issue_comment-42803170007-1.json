@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "wang1299",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T10:55:28.016672Z",
+  "title": "fix(gemini): preserve signed text history parts",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3908#issuecomment-6765504138",
+  "number": 3908,
+  "body": "Addressed in 36c6598. Unsigned text Parts now use append_text(), while signed Parts keep independent IDs and metadata. Two new real-SDK regression cases fail on 112c81a and pass after the fix through …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "wang1299",
+    "commenter": "wang1299"
+  },
+  "at_mobiles": []
+}
