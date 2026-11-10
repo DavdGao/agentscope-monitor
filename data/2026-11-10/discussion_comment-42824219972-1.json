@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "zzbazzzbaz",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T13:24:36.751264Z",
+  "title": "Expose FastAPI 0.162 telemetry settings in create_app",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3917#discussioncomment-19519603",
+  "number": 3917,
+  "body": "cc @DavdGao @qbc2016 for visibility. This was originally filed as #3822 and moved here following the Discussions-first policy. I'd be happy to prepare the PR once the API shape is agreed.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "zzbazzzbaz",
+    "discussion_author": "zzbazzzbaz"
+  },
+  "at_mobiles": []
+}
