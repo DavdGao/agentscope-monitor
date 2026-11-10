@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T02:47:21.152783Z",
+  "title": "fix(workspace): honor an explicit max_live_stateful_mcps of 0",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2741",
+  "number": 2741,
+  "body": "Closes #2738\n\n## AgentScope Version\n\n`2.0.8` (`src/agentscope/_version.py`), branch cut from `main` @ `226daf0`, Python 3.12.11.\n\n## Description\n\n`WorkspaceBase.__init__` fell back with `or`:\n\n```pyth…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "Lesereingrape",
+    "head_sha": "7b282c2f54dff2d96dc130610071ddf0db369381",
+    "base_ref": "main",
+    "additions": 44,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
