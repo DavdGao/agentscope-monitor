@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "indexGin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T05:23:06.769474Z",
+  "title": "fix(tracing): derive otel modality case-insensitively from mime types",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3913",
+  "number": 3913,
+  "body": "Fixes #3909\n\n## Problem\n\n`_get_modality` in\n`src/agentscope/middleware/_tracing/_converter.py` derives the OTel GenAI\nmodality by taking the substring before the first `/` of the media type\nverbatim. …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "indexGin",
+    "head_sha": "9f8afbaa607106776c65e7d91e3bd0045bfe47e9",
+    "base_ref": "main",
+    "additions": 42,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
