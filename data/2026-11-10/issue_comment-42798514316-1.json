@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T10:22:06.362587Z",
+  "title": "fix(gemini): preserve signed text history parts",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3908#issuecomment-6764861012",
+  "number": 3908,
+  "body": "Verified with a real Gemini model: this PR preserves text thought signatures correctly across turns. Keeping `extra=\"allow\"` consistent with `ThinkingBlock` seems reasonable.\n\nTwo small fixes:\n- Use `…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "wang1299",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
