@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "mosifu",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T12:51:22.142774Z",
+  "title": "fix(utils): resolve $ref pointers into nested $defs blocks",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3898",
+  "number": 3898,
+  "body": "## Problem\n\n`_flatten_json_schema` drops every `$defs` / `definitions` block it walks past, but resolves only references spelled `#/$defs/<name>` or `#/definitions/<name>`. A schema that nests definit…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "mosifu",
+    "head_sha": "f9f73480bc58397f21f2a7c0ddc0e735052cc0f1",
+    "base_ref": "main",
+    "additions": 206,
+    "deletions": 25,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
