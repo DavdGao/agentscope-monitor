@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "zuizhuai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T06:45:47.917717Z",
+  "title": "fix(embedding): validate context_size, batch_size, max_retries and retry_delay",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3877#issuecomment-6760966658",
+  "number": 3877,
+  "body": "@qbc2016 friendly ping — I have linked this to the existing issue #3449 (which was already triaged as `triage/confirmed`), so the missing-issue guard is now resolved. CI is green across ubuntu/windows…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "zuizhuai",
+    "commenter": "zuizhuai"
+  },
+  "at_mobiles": []
+}
