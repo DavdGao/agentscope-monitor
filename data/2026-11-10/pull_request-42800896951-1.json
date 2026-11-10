@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "lianbie",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T10:38:58.180957Z",
+  "title": "fix(rag): reject a search embedding response of the wrong length",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3779",
+  "number": 3779,
+  "body": "## Problem\n\n`KnowledgeBase.search` embeds the queries and then fans one vector-store search out per returned vector:\n\n```python\nresponse = await self._embedding_model(queries)\n\nresults_per_query = awa…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "lianbie",
+    "head_sha": "d7dadcb5845f0a86fb5ef6ca812c9926be05d693",
+    "base_ref": "main",
+    "additions": 108,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
