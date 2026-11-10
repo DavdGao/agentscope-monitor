@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "mosifu",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T12:51:59.347944Z",
+  "title": "fix(utils): resolve $ref pointers into nested $defs blocks",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3898#issuecomment-6767803819",
+  "number": 3898,
+  "body": "Good catch, and yes it should. Fixed in `f9f73480`.\n\nThe guard now asks two questions instead of matching a prefix:\n\n- does the pointer address an entry of a definition block — a `$defs` / `definition…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "mosifu",
+    "commenter": "mosifu"
+  },
+  "at_mobiles": []
+}
