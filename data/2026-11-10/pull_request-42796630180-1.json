@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T10:08:56.247471Z",
+  "title": "fix(model): preserve schema definitions in model cards",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3774",
+  "number": 3774,
+  "body": "## AgentScope Version\n\n2.0.12.dev0 (main at 782bd43f9f61788a1901fcc4e5486758491d387f).\n\n## Description\n\nFixes #3773.\n\nChat, embedding, and TTS model cards retain `$ref` properties from Pydantic but di…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "30bef100w",
+    "head_sha": "d8c52b0168b5b5f75aaeb8520e7206f852f06f56",
+    "base_ref": "main",
+    "additions": 6,
+    "deletions": 0,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
