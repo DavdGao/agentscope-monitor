@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "SharoonSharif",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T19:09:29.821178Z",
+  "title": "[human in loop]how to interrupt the agent  flow and give a confirm/new information to the agent to continue the flow when coding by fastapi?",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1120#issuecomment-6776675464",
+  "number": 1120,
+  "body": "Hi @rayrayraykk, I'd like to take this now that the claim has been released.\n\nI've read the January design discussion (chat, interrupt and confirm endpoints linked by one ID, single process, with the …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "fhkankan",
+    "commenter": "SharoonSharif"
+  },
+  "at_mobiles": []
+}
