@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T12:55:03.715999Z",
+  "title": "fix(memory): remove obsolete ReMe dream step",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3851",
+  "number": 3851,
+  "body": "## AgentScope Version\n\n2.0.12dev\n\n## Description\n\nFixes #3811. ReMe removed `dream_topics_step` in 0.4.1.12, so resolving AgentScope's embedded jobs fails on first use with current ReMe releases.\n\nRem…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "its-amann",
+    "head_sha": "cf747c2f44caa40420c9f0417ab3230f2ef0fe2d",
+    "base_ref": "main",
+    "additions": 62,
+    "deletions": 14,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
