@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "wang1299",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T03:15:59.854150Z",
+  "title": "fix(ollama): close the delegated provider stream",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3906",
+  "number": 3906,
+  "body": "## AgentScope Version\n\n2.0.12.dev0; tested commit 17c37e451b4b4ad86a3077bef7dc3a3c5b96f0f7.\n\n## Description\n\nClosing a native OllamaChatModel stream after its first delta currently returns before the …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "wang1299",
+    "head_sha": "17c37e451b4b4ad86a3077bef7dc3a3c5b96f0f7",
+    "base_ref": "main",
+    "additions": 195,
+    "deletions": 39,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
