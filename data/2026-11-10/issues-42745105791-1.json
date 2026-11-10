@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T02:47:18.659622Z",
+  "title": "[Bug]: max_live_stateful_mcps=0 is silently replaced by the derived default (40)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2738",
+  "number": 2738,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "Lesereingrape"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "Lesereingrape"
+  },
+  "at_mobiles": []
+}
