@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "indexGin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T05:17:03.421128Z",
+  "title": "TUI diff stats miscount file headers in diffs carrying a git preamble",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3912",
+  "number": 3912,
+  "body": "@D:/Users/Jolene/Desktop/AT/ghwork/issue-1110-as6-diff-stats-preamble.md",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "indexGin"
+  },
+  "at_mobiles": []
+}
