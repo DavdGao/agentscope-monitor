@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "indexGin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T05:23:24.675925Z",
+  "title": "fix(tui): skip the diff file-header pair regardless of preamble",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3915",
+  "number": 3915,
+  "body": "Fixes #3912\n\n## Problem\n\n`_diff_stats` in `src/agentscope/tui/_messages.py` counts added/removed\nlines of a unified diff from a tool result's `metadata[\"diff\"]`, but it\nassumes the `---`/`+++` file-he…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "indexGin",
+    "head_sha": "79a174691fa405ef08f35bb96453282a0f1ad9e1",
+    "base_ref": "main",
+    "additions": 53,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
