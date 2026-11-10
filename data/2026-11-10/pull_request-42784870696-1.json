@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T08:43:43.054578Z",
+  "title": "fix(model): decode the effective openai audio format",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3907",
+  "number": 3907,
+  "body": "## AgentScope Version\n\n2.0.12.dev0; tested commit 3902a2436ae193c54ff7d38deeb72092e794a1a5.\n\n## Description\n\nWhen extra_body overrides audio.format, the SDK sends that effective format but the non-str…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "wang1299",
+    "head_sha": "0b4d2793c827e384ea0ac10d84ddfae8e9954e91",
+    "base_ref": "main",
+    "additions": 148,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
