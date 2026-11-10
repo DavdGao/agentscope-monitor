@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T09:14:20.789829Z",
+  "title": "KnowledgeBase.search reinterprets a negative top_k instead of rejecting it",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3875",
+  "number": 3875,
+  "body": "## Problem\n\n`KnowledgeBase.search` slices its result list with `top_k` and passes the same value to the vector store, but never checks that `top_k` is a meaningful bound:\n\n```python\nasync def search(\n…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "lianbie"
+  },
+  "at_mobiles": []
+}
