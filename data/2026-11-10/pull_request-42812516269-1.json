@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T12:03:40.918603Z",
+  "title": "fix(formatter): keep parallel Ollama tool calls on one assistant message",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3910",
+  "number": 3910,
+  "body": "OllamaChatFormatter gave every ToolCallBlock its own assistant message, so a turn with parallel tool calls became consecutive assistant messages. Ollama's server collates consecutive same-role message…",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "MaxFreedomPollard",
+    "head_sha": "15422f373a021bab85d234f1f0371fc71ea98691",
+    "base_ref": "main",
+    "additions": 184,
+    "deletions": 19,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
