@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Smilewithoutfalling",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T14:19:50.714331Z",
+  "title": "[Bug]: Expired try_lock holder can unlock a successor lease",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2728#issuecomment-6769729020",
+  "number": 2728,
+  "body": "Taking this one. Plan: give every non-blocking lease an opaque owner token and make release a compare-and-delete against that token.\n\n- `try_lock` writes a random token instead of the constant `\"1\"` a…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "wangtaotaotao95",
+    "commenter": "Smilewithoutfalling"
+  },
+  "at_mobiles": []
+}
