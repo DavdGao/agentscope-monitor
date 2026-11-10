@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "wang1299",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T03:22:47.962888Z",
+  "title": "fix(gemini): preserve signed text history parts",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3908",
+  "number": 3908,
+  "body": "## AgentScope Version\n\n2.0.12.dev0; tested commit 112c81a17b4fd439d0571ae191ecf785a1910c9f.\n\n## Description\n\nGemini text/thinking Parts lose their thought signatures when ChatResponse content is persi…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "wang1299",
+    "head_sha": "112c81a17b4fd439d0571ae191ecf785a1910c9f",
+    "base_ref": "main",
+    "additions": 321,
+    "deletions": 24,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
