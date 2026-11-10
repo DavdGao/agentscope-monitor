@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T08:35:38.776106Z",
+  "title": "fix(middleware): release queued output after tool offload",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3887",
+  "number": 3887,
+  "body": "## AgentScope Version\r\n\r\nmain at `27c52cc65088227bb7414cb665c1bbbdef18f220`.\r\n\r\n## Description\r\n\r\nCloses #3885.\r\n\r\nA streaming tool that exceeds the foreground deadline continues adding every intermed…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "qkycir",
+    "head_sha": "d1edf490fc8d7e379a5211217617596a9ad22113",
+    "base_ref": "main",
+    "additions": 113,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
