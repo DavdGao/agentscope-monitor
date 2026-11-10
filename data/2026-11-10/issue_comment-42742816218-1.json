@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Baochr",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T02:27:00.881187Z",
+  "title": "feat(app): add client-declared external tools and interactive user input",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2394#issuecomment-6757226598",
+  "number": 2394,
+  "body": "@qbc2016 \n+1 — I’m building an Android app (WebView + native bridge) on AgentScope 2.0.11 AgentService, plus a Windows Python helper (tray/hotkey + Playwright). Both need per-request client_external_t…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "qbc2016",
+    "commenter": "Baochr"
+  },
+  "at_mobiles": []
+}
