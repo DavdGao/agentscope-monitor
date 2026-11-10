@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "NUAAwqy",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T18:56:31.000901Z",
+  "title": "fix(formatter): do not block the event loop while fetching URLSource media",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3923",
+  "number": 3923,
+  "body": "## Background / Description\n\nWhile profiling a stalled multi-agent service I found that one agent\ndownloading a media file froze every other agent in the same process.\nThe cause is in the formatters: …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "NUAAwqy",
+    "head_sha": "03a337206570ffa7ce65dfb311ec1c13076d8c9f",
+    "base_ref": "main",
+    "additions": 432,
+    "deletions": 157,
+    "changed_files": 12
+  },
+  "at_mobiles": []
+}
