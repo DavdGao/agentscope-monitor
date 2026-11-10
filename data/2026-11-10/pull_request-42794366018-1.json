@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T09:52:57.914870Z",
+  "title": "feat(realtime): add GPT Live Voice Integration with Chat Agent Delegation",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3272",
+  "number": 3272,
+  "body": "## AgentScope Version\n\n2.0.10dev\n\n## Description\n\nIntegrates GPT Live full-duplex voice sessions with the existing Chat Agent as a delegated task backend. Includes WebRTC support, persistent voice tra…",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "bf377a411266218ddbadc1f8e836e018320fa623",
+    "base_ref": "main",
+    "additions": 6852,
+    "deletions": 145,
+    "changed_files": 40
+  },
+  "at_mobiles": []
+}
