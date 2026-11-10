@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-10T12:31:00.134321Z",
+  "title": "fix: add lower bounds to middleware and MCP config fields",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3783",
+  "number": 3783,
+  "body": "Fixes #3782\n\n## Summary\n\nSeveral tunable numeric config fields accepted negative (or zero) values that then behaved silently or inverted behavior. This adds the appropriate lower bounds so invalid val…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "zuizhuai",
+    "head_sha": "ac9806c59523ec94236de5639f4483b557eb812d",
+    "base_ref": "main",
+    "additions": 6,
+    "deletions": 0,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
