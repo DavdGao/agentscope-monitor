@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T03:21:26.589470Z",
+  "title": "fix(workspace): keep offloaded tool results inside their session",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3935",
+  "number": 3935,
+  "body": "## Problem\n\n`WorkspaceBase.offload_tool_result` builds the offload file name\nstraight from `tool_result.id`:\n\n```python\nbase = backend.join_path(self._sessions_dir, session_id)\npath = backend.join_pat…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "422737bdeb3694265f6218773df19c97b5233c28",
+    "base_ref": "main",
+    "additions": 61,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
