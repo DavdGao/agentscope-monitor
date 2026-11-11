@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "shuxiachai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T05:17:02.696258Z",
+  "title": "[Bug]: Scoped KnowledgeBase inserts overwrite another scope's records in a shared collection when document IDs overlap",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3475#issuecomment-6787732832",
+  "number": 3475,
+  "body": "I've opened #3945 with the implementation of the proposal above (scope-aware record IDs, with unscoped IDs unchanged). I noticed #3852 takes the same approach as well. I'm happy for maintainers to cho…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "shuxiachai",
+    "commenter": "shuxiachai"
+  },
+  "at_mobiles": []
+}
