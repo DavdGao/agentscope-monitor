@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "wuyi-github",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T01:46:32.972797Z",
+  "title": "fix(workflows): count only older open issues during quota check",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3928",
+  "number": 3928,
+  "body": "## AgentScope Version\n\n`2.0.12dev` (`main`)\n\n## Description\n\n### Problem\nIn `.github/workflows/issue-triage.yml`, the `quota` job lists all open issues by the author (`state: 'open'`) and closes the c…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "wuyi-github",
+    "head_sha": "b72947f0a8bcc4bb8850da339f44019ec6777c88",
+    "base_ref": "main",
+    "additions": 203,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
