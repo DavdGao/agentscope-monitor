@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T04:59:55.540353Z",
+  "title": "fix(model): keep the audio reply of a non-streaming DashScope omni call",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3943",
+  "number": 3943,
+  "body": "## Problem\n\nWith `voice` set, `DashScopeChatModel` asks for audio output on every\ncall, streaming or not:\n\n```python\nif self.parameters.voice is not None:\n    request_kwargs[\"audio\"] = {\"voice\": ..., …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "1b01fd6847e56104aaf8d15ab31809181daaf78b",
+    "base_ref": "main",
+    "additions": 80,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
