@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "peterzhang987723",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T05:40:21.418508Z",
+  "title": "fix(rag): isolate scoped KnowledgeBase record IDs across shared collections",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3852#issuecomment-6788085763",
+  "number": 3852,
+  "body": "I saw the update on #3475 and the new #3945. Thanks for making the overlap clear.\n\nThe current version here keeps the existing custom-store `insert(collection, records)` signature and excludes the opt…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "peterzhang987723",
+    "commenter": "peterzhang987723"
+  },
+  "at_mobiles": []
+}
