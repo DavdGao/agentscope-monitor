@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ccclucky",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T11:02:26.750855Z",
+  "title": "[Bug]: Bash ACCEPT_EDITS auto-allows workspace-relative symlink targets outside the workspace",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3959",
+  "number": 3959,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "ccclucky"
+  },
+  "at_mobiles": []
+}
