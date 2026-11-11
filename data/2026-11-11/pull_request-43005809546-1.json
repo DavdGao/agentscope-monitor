@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qkycir",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T10:42:18.652411Z",
+  "title": "fix(memory): exclude reasoning drafts from mem0 extraction",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3957",
+  "number": 3957,
+  "body": "## AgentScope Version\n\nmain at db780a4c341c9c79a313303b55d9428a30e365fa.\n\n## Description\n\nFixes #3955.\n\nReasoning-capable models can return a discarded JSON draft in ThinkingBlock alongside valid fina…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qkycir",
+    "head_sha": "5e15bdfe743c3189012d4e3fc1a73adc0b3e38d9",
+    "base_ref": "main",
+    "additions": 35,
+    "deletions": 17,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
