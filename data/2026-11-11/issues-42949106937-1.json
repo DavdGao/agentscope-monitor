@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "2SinceJuly",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T02:54:06.058287Z",
+  "title": "Context-compression LLM call still emits no ModelCallEndEvent",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3930",
+  "number": 3930,
+  "body": "## Background\n\nWhile verifying #2151 I found that the context-compression LLM call is now reflected in `state.context` token accounting, but it still does not produce a `ModelCallEndEvent`.\n\nEvery ord…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "2SinceJuly"
+  },
+  "at_mobiles": []
+}
