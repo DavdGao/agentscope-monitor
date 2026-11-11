@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Wilson0511",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T11:45:08.717318Z",
+  "title": "fix(formatter): promote assistant-role media in anthropic/openai_response",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3961",
+  "number": 3961,
+  "body": "## Summary\n\nPartially addresses #3942 (the Anthropic-family and Responses-API group); companion to #3951 (the OpenAI-compatible group, disjoint file set).\n\nThe Anthropic-family formatters (`anthropic`…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Wilson0511",
+    "head_sha": "0e8157130cd44c5a624f1d5552876e1d8bc6096b",
+    "base_ref": "main",
+    "additions": 187,
+    "deletions": 6,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
