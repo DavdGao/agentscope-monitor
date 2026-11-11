@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "2SinceJuly",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T16:55:59.406571Z",
+  "title": "fix(tool): let the dangerous-path check see tee write targets",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3831",
+  "number": 3831,
+  "body": "## PR Title Format\n\n`fix(tool): let the dangerous-path check see tee write targets`\n\n## AgentScope Version\n\n`2.0.12dev` (`main` at `782bd43`)\n\n## Description\n\nFixes #3313\n\n**Background.** #3313 report…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "2SinceJuly",
+    "head_sha": "8212f2dc8552ec0bd27c6946c881dd7091bdcf22",
+    "base_ref": "main",
+    "additions": 121,
+    "deletions": 2,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
