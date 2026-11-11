@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qkycir",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T10:37:58.016619Z",
+  "title": "[Bug]: Mem0 adapter mixes reasoning drafts into extracted memory JSON",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3955",
+  "number": 3955,
+  "body": "### Problem\n\nThe Mem0 AgentScope LLM adapter prepends ThinkingBlock content to final TextBlock content in `_parse_chat_response`. Mem0 expects final extraction JSON: reasoning drafts can cause valid e…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "qkycir"
+  },
+  "at_mobiles": []
+}
