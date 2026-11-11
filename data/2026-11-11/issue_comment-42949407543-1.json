@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "2SinceJuly",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T02:56:49.223664Z",
+  "title": "[Bug]: setup_logger leaves replaced file handlers open",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3818#issuecomment-6785622522",
+  "number": 3818,
+  "body": "Fixed in #3931. `setup_logger` now removes and closes each handler it replaces instead of calling `handlers.clear()`, so a retained reference sees `stream is None` after reconfiguration. Level validat…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "baoypeng",
+    "commenter": "2SinceJuly"
+  },
+  "at_mobiles": []
+}
