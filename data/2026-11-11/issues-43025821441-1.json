@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T13:04:33.257729Z",
+  "title": "[Bug]: Reopening Qdrant distance collections with default settings reverses retrieval ranking",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3956",
+  "number": 3956,
+  "body": "### Problem\n\nQdrantStore.search decides whether to negate a distance using the store constructor's `distance`, rather than the metric of the collection being queried. The constructor documents that op…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "qkycir"
+  },
+  "at_mobiles": []
+}
