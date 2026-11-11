@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "Wilson0511",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T04:18:51.712129Z",
+  "title": "fix(gemini): close the delegated SDK stream in the parser",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3938",
+  "number": 3938,
+  "body": "## What\n\nThe Gemini stream parser (`_parse_stream_response`) consumed `client.aio.models.generate_content_stream` output with a bare `async for`, with no cleanup of the delegated SDK stream. This PR w…",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Wilson0511",
+    "head_sha": "8331d60b80186ae3ecad3ff2a13bfb243dcc5007",
+    "base_ref": "main",
+    "additions": 123,
+    "deletions": 53,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
