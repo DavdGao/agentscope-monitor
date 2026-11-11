@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Wilson0511",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T04:47:31.573951Z",
+  "title": "Formatter media blocks in assistant-role messages are emitted into payloads where the API only accepts them in user messages",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3942",
+  "number": 3942,
+  "body": "### Description\n\nWhen a message with the **assistant** role carries a `DataBlock` (image/audio/video), most formatters emit the media part directly into the assistant-role payload. The target APIs onl…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Wilson0511"
+  },
+  "at_mobiles": []
+}
