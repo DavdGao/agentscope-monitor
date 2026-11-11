@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T04:47:15.628934Z",
+  "title": "fix(tool): list nothing for a missing directory in LocalBackend",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3941",
+  "number": 3941,
+  "body": "## Problem\n\n`BackendBase.list_dir` documents its contract explicitly:\n\n```python\nReturns:\n    `list[str]`:\n        The matched entries, or an empty list if ``path`` does\n        not exist or cannot be…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "cb22c648b93816a9d8c8a54eb120bdd3a586885b",
+    "base_ref": "main",
+    "additions": 20,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
