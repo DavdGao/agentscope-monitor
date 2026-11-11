@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "David-Wu1119",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T05:56:05.953374Z",
+  "title": "fix(formatter): send failed gemini tool results under the error key",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3947",
+  "number": 3947,
+  "body": "Closes #3946\n\n## AgentScope Version\n\n`2.0.12dev` (`agentscope.__version__`), based on main `28ccae66`.\n\n## Description\n\n`GeminiChatFormatter` always serializes a tool result as `function_response.resp…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "David-Wu1119",
+    "head_sha": "adfa48395c0576d48ed1a88e15852abfad9eb466",
+    "base_ref": "main",
+    "additions": 92,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
