@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T02:16:57.632474Z",
+  "title": "feat(rag): support updating knowledge base chunker configuration",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2440",
+  "number": 2440,
+  "body": "## AgentScope Version\n\n2.0.7\n\n## Description\n\n### Summary\n\nEnable users to update the chunker type and parameters of an existing knowledge base from the web UI.\n\n### Changes\n\n- Extend the knowledge ba…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "87ee728caeeef697d9d39041631b2d3431f9609e",
+    "base_ref": "main",
+    "additions": 2350,
+    "deletions": 203,
+    "changed_files": 29
+  },
+  "at_mobiles": []
+}
