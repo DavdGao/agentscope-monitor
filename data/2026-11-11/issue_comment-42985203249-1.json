@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "indexGin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T08:12:37.732778Z",
+  "title": "fix(agent): emit ModelCallEndEvent for context compression",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3950#issuecomment-6790708671",
+  "number": 3950,
+  "body": "CI note: the two failing checks on this PR (`run (ubuntu-latest)` mypy/flake8/pylint, and `test (macos-26, 3.11)`) are **pre-existing on `main`**, not caused by this change.\n\n```\ntests/builtin_grep_te…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "indexGin",
+    "commenter": "indexGin"
+  },
+  "at_mobiles": []
+}
