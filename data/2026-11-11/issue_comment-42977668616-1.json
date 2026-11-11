@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T07:11:33.195224Z",
+  "title": "[Bug]: io.agentscope.core.rag.reader.WordReader分片问题",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3310#issuecomment-6789535466",
+  "number": 3310,
+  "body": "Please move this issue to the [Java repo](https://github.com/agentscope-ai/agentscope-java).",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "ricks-yin",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
