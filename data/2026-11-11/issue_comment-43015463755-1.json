@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Wilson0511",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T11:52:09.503852Z",
+  "title": "fix(formatter): promote assistant-role media in anthropic/openai_response",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3961#issuecomment-6795059077",
+  "number": 3961,
+  "body": "Commenting per the pr-guard note above: like #3951, this PR intentionally does not use a closing keyword. #3942 tracks an 11-formatter matrix; #3951 covers the OpenAI-compatible group and this PR cove…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Wilson0511",
+    "commenter": "Wilson0511"
+  },
+  "at_mobiles": []
+}
