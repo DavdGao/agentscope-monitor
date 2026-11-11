@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "indexGin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T05:24:25.668631Z",
+  "title": "Context-compression LLM call still emits no ModelCallEndEvent",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3930#issuecomment-6787843997",
+  "number": 3930,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "2SinceJuly",
+    "commenter": "indexGin"
+  },
+  "at_mobiles": []
+}
