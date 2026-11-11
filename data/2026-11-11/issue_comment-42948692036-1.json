@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "2SinceJuly",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T02:50:18.063915Z",
+  "title": "[Bug]: Remote media downloads in async formatters block the event loop",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2724#issuecomment-6785528417",
+  "number": 2724,
+  "body": "Opened #3929 with a fix for this: the blocking part of each provider's media helper (the `requests.get` download and the local file read) now runs through `asyncio.to_thread`, so `format()` no longer …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "wangtaotaotao95",
+    "commenter": "2SinceJuly"
+  },
+  "at_mobiles": []
+}
