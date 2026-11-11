@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "2SinceJuly",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T02:56:44.969720Z",
+  "title": "fix(logging): close the handlers that setup_logger replaces",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3931",
+  "number": 3931,
+  "body": "## Problem\n\n`setup_logger` replaced the previous handlers with\n\n```python\nlogger.handlers.clear()\n```\n\nwhich detaches them without closing them. A caller that kept a reference to a handler saw its fil…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "2SinceJuly",
+    "head_sha": "0ae5007b101bed2b34abb59066154cc1cdbd8c22",
+    "base_ref": "main",
+    "additions": 125,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
