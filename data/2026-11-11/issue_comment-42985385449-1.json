@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Wilson0511",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T08:14:04.117140Z",
+  "title": "fix(formatter): promote assistant-role media into a user message",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3951#issuecomment-6790733861",
+  "number": 3951,
+  "body": "The failing checks here are inherited from main, not from this PR: #3358 (048055c) uses `patch.dict` in `tests/builtin_grep_test.py` without importing `patch`, so main's Pre-commit and Python Unittest…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Wilson0511",
+    "commenter": "Wilson0511"
+  },
+  "at_mobiles": []
+}
