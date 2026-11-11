@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "2SinceJuly",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T02:51:25.550626Z",
+  "title": "fix(storage): delete Redis messages atomically by id",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3857#issuecomment-6785544055",
+  "number": 3857,
+  "body": "Status check — this one has been mergeable with green CI since 2026-11-08 and has had no review yet.\n\nWhat it does: `RedisStorage.delete_message()` issued `HGETALL` and then `HDEL` as two round-trips.…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "2SinceJuly",
+    "commenter": "2SinceJuly"
+  },
+  "at_mobiles": []
+}
