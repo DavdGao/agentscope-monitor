@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T13:05:17.262211Z",
+  "title": "feat(model): add Gemini 4 Argon and Carbon support",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3675",
+  "number": 3675,
+  "body": "## AgentScope Version\n\n2.0.12dev\n\n## Description\n\nAdd Gemini 4 Argon and Carbon to `GeminiChatModel` and the built-in model list. Both models support `low`, `medium`, and `high` thinking levels; `thin…",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "bb99af0447f7872ab82ac4181bd9680db43aaf47",
+    "base_ref": "main",
+    "additions": 524,
+    "deletions": 8,
+    "changed_files": 16
+  },
+  "at_mobiles": []
+}
