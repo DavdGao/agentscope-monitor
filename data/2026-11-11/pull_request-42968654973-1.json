@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T05:53:27.728940Z",
+  "title": "fix(workspace): resolve local search paths from the workspace directory",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2637",
+  "number": 2637,
+  "body": "## AgentScope Version\n\n2.0.8; based on `43deddc`. The revision was also tested integrated with upstream main at `00d295b`.\n\n## Description\n\nFixes #2636\n\nWhen the launching Python process is outside `L…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "tomsen02",
+    "head_sha": "c8ada2c66dfdba3b9d16d2774edff40efa4e48a7",
+    "base_ref": "main",
+    "additions": 153,
+    "deletions": 31,
+    "changed_files": 7
+  },
+  "at_mobiles": []
+}
