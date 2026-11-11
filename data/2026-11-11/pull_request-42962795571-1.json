@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T05:00:03.570999Z",
+  "title": "fix(app): address hub card ids that contain a slash",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3944",
+  "number": 3944,
+  "body": "## Problem\n\nThe MCP card endpoints declare the card id as a single path segment:\n\n```python\n@hub_router.get(\"/mcp/{hub_id}/cards/{card_id}\")\nasync def get_mcp_card(...)\n\n@hub_router.post(\"/mcp/{hub_id…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "2a6d861b359b59430d76516aefeb683f0cad2e22",
+    "base_ref": "main",
+    "additions": 52,
+    "deletions": 20,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
