@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "shuxiachai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T05:16:53.231172Z",
+  "title": "fix(rag): keep scoped records distinct when document IDs overlap",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3945",
+  "number": 3945,
+  "body": "## AgentScope Version\n\n`2.0.12dev`, based on `28ccae6676b7c963ca38d73ba9a62aba9e7fe4ab`.\n\n## Description\n\nFixes #3475.\n\nKnowledge bases that share one collection through a fixed `metadata_filter` over…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "shuxiachai",
+    "head_sha": "d3d22db1aae95da61a96a5d4c133e314c9a95f9a",
+    "base_ref": "main",
+    "additions": 189,
+    "deletions": 12,
+    "changed_files": 7
+  },
+  "at_mobiles": []
+}
