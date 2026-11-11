@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "Tong-bit-art",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T11:06:58.133527Z",
+  "title": "fix(app): fail scheduler startup when the lifecycle subscription dies",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3725",
+  "number": 3725,
+  "body": "## Why\n\nFixes #3724.\n\n`SchedulerManager.__aenter__()` starts APScheduler and then waits for the schedule lifecycle subscription's `ready` event. If `MessageBus.subscribe()` raises before invoking `on_…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Tong-bit-art",
+    "head_sha": "456f05102bb2b3596cb203d402efedd58cc110d1",
+    "base_ref": "main",
+    "additions": 209,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
