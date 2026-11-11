@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "xiaoyuCR7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T01:08:09.072848Z",
+  "title": "[Bug]: cancelling a TeamPipeline starts the member's next queued assignment",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3926",
+  "number": 3926,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [
+    "Bug"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "xiaoyuCR7"
+  },
+  "at_mobiles": []
+}
