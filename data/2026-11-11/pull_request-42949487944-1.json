@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ccclucky",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T02:57:38.423795Z",
+  "title": "fix(tracing): keep cancelled streams out of span error status",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3932",
+  "number": 3932,
+  "body": "## Problem\n\n`TracingMiddleware` treats every early stream close (`GeneratorExit`) and task\ncancellation (`asyncio.CancelledError`) as a span failure: the span ends with\n`StatusCode.ERROR` and a synthe…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ccclucky",
+    "head_sha": "46d5220b01fa7e9c27b3a06ad68e4a65adc7a921",
+    "base_ref": "main",
+    "additions": 255,
+    "deletions": 6,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
