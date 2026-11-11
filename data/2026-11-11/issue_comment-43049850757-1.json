@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ccclucky",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T15:35:29.301538Z",
+  "title": "fix(tool): detect equivalent dangerous command spellings",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3861#issuecomment-6800073917",
+  "number": 3861,
+  "body": "Thanks for running the cross-check — agreed on both points: the conflict is positional, and the two PRs cover disjoint spellings, so `chmod '0777' x` genuinely needs both.\n\nOn merge order: if #3859 la…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "ccclucky",
+    "commenter": "ccclucky"
+  },
+  "at_mobiles": []
+}
