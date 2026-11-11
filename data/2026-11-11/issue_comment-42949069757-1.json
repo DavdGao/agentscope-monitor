@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "2SinceJuly",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T02:53:48.189328Z",
+  "title": "[Bug]: context-compression LLM call's token usage is never recorded anywhere",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2151#issuecomment-6785577301",
+  "number": 2151,
+  "body": "This one looks fixed on `main` already — the claim can stay released.\n\n`_agent.py::_compress_context_impl` now records the compression call's cost on the context tail before the summary is applied:\n\n`…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "AmirF194",
+    "commenter": "2SinceJuly"
+  },
+  "at_mobiles": []
+}
