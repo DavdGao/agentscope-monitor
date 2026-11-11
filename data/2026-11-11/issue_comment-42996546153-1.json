@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T09:36:14.023462Z",
+  "title": "fix(model): keep the audio reply of a non-streaming DashScope omni call",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3943#issuecomment-6792352025",
+  "number": 3943,
+  "body": "DashScope currently supports audio output only in streaming mode (`stream=True`), as documented in the [official error reference](https://help.aliyun.com/en/model-studio/error-code) (`'audio' output o…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Kiko0301",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
