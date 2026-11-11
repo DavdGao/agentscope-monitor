@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "2SinceJuly",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T04:48:32.595519Z",
+  "title": "fix(tool): let the dangerous-path check see tee write targets",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3831#issuecomment-6787313238",
+  "number": 3831,
+  "body": "wrong, ignore",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "2SinceJuly",
+    "commenter": "2SinceJuly"
+  },
+  "at_mobiles": []
+}
