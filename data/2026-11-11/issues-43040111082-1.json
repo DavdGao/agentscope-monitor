@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "jiands233",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T14:36:41.560849Z",
+  "title": "Example: MiniCPM-OCR custom PDF/image parser for scanned docs (zh/en)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3962",
+  "number": 3962,
+  "body": "## Summary\n\nI'd like to contribute an **example** (not a core change) that wires [MiniCPM-OCR 1.0](https://github.com/OpenBMB/MiniCPM-OCR) into AgentScope's RAG path via a custom `ParserBase` implemen…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "jiands233"
+  },
+  "at_mobiles": []
+}
