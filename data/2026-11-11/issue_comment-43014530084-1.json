@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Wilson0511",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T11:45:23.314067Z",
+  "title": "Formatter media blocks in assistant-role messages are emitted into payloads where the API only accepts them in user messages",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3942#issuecomment-6794924397",
+  "number": 3942,
+  "body": "Progress update on the matrix:\n\n| Group | Formatters | Status |\n|---|---|---|\n| OpenAI-compatible | openai, dashscope, moonshot, volcengine | #3951 (CI retriggered after the #3954 main repair) |\n| Ant…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Wilson0511",
+    "commenter": "Wilson0511"
+  },
+  "at_mobiles": []
+}
