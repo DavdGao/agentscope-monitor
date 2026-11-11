@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "xiaoyuCR7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T01:09:16.543536Z",
+  "title": "fix(pipeline): stop queued team assignments once the round is cancelled",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3927",
+  "number": 3927,
+  "body": "## AgentScope Version\n\n2.0.12dev (main at 72911f83)\n\n## Description\n\nFixes #3926\n\n**Background.** `TeamPipeline` runs assignments to the same member one after another. When the team run is cancelled d…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "xiaoyuCR7",
+    "head_sha": "1f689339efc1772e4d30bf5707e02d8d641170e2",
+    "base_ref": "main",
+    "additions": 75,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
