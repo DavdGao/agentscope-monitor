@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ccclucky",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T06:46:20.926603Z",
+  "title": "fix(tracing): keep cancelled streams out of span error status",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3932#issuecomment-6789094994",
+  "number": 3932,
+  "body": "The pr-guard note is correct: #3925 was opened before I claimed #3924 and fixes the same three streaming hooks, so this PR is largely a duplicate.\n\nThe only additional coverage here is the non-streami…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "ccclucky",
+    "commenter": "ccclucky"
+  },
+  "at_mobiles": []
+}
