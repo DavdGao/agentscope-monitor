@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T10:24:51.195374Z",
+  "title": "[Bug]: Gemini formatter sends failed tool results under \"output\" instead of \"error\"",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3946",
+  "number": 3946,
+  "body": "### Description\n\n`GeminiChatFormatter` serializes every tool result as `function_response.response = {\"output\": <text>}`, whatever `ToolResultBlock.state` is. A failed tool execution (`ToolResultState…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "David-Wu1119"
+  },
+  "at_mobiles": []
+}
