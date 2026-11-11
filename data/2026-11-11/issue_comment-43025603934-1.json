@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "2SinceJuly",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T13:03:09.840955Z",
+  "title": "fix(tool): detect equivalent dangerous command spellings",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3861#issuecomment-6796552250",
+  "number": 3861,
+  "body": "Heads-up on merge order with #3859: I ran the two branches against each other locally. They conflict textually in `_bash_parser.py` (both append right after the `return None` that ends `check_dangerou…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "ccclucky",
+    "commenter": "2SinceJuly"
+  },
+  "at_mobiles": []
+}
