@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "peterzhang987723",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T01:23:03.279922Z",
+  "title": "fix(rag): isolate scoped KnowledgeBase record IDs across shared collections",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3852",
+  "number": 3852,
+  "body": "## Summary\n\nFixes #3475.\n\nWhen multiple scoped `KnowledgeBase` instances (`metadata_filter={\"corpus\": \"A\"}` vs `{\"corpus\": \"B\"}`) share a single underlying collection and insert documents with the sam…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "peterzhang987723",
+    "head_sha": "015172d150b2745f5c6e1654642e7a1c61fba5dd",
+    "base_ref": "main",
+    "additions": 208,
+    "deletions": 17,
+    "changed_files": 9
+  },
+  "at_mobiles": []
+}
