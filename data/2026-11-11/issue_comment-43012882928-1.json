@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Wilson0511",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T11:33:22.643523Z",
+  "title": "fix(test): import patch in builtin_grep_test",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3952#issuecomment-6794691189",
+  "number": 3952,
+  "body": "Understood — thanks for pointing to #3954 and for the quick repair of main. Glad the import fix landed either way. 👍\n\nCo-Authored-By: ZCode <noreply@zcode.local>",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Wilson0511",
+    "commenter": "Wilson0511"
+  },
+  "at_mobiles": []
+}
