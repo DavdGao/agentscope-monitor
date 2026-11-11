@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T03:21:14.959988Z",
+  "title": "fix(agent): let cancellation end a pending realtime confirmation",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3934",
+  "number": 3934,
+  "body": "## Problem\n\n`RealtimeAgent._ask_user` waits for the user's answer with a 300 s\ntimeout, and treated a cancellation exactly like a timeout:\n\n```python\ntry:\n    result = await asyncio.wait_for(future, t…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "8088f48d90f6e98973ba7c0a847c5c4c06343316",
+    "base_ref": "main",
+    "additions": 36,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
