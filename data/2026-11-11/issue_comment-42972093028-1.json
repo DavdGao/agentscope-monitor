@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T06:23:43.649417Z",
+  "title": "[Bug]: Gemini TTS creates a client per utterance without closing it",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3043#issuecomment-6788739752",
+  "number": 3043,
+  "body": "Resolved by #3677, now merged into `main`.\n\nGemini TTS now explicitly manages both synchronous and asynchronous client lifetimes. Streaming clients are created when iteration begins and released when …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "little-spoon77",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
