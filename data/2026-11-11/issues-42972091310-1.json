@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T06:23:42.390906Z",
+  "title": "[Bug]: Gemini TTS creates a client per utterance without closing it",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3043",
+  "number": 3043,
+  "body": "### Reproduction\nOn main c0a5762, patch `google.genai.Client` with a mocked client, return a normal generate_content response, and call GeminiTTSModel.synthesize(\"hello\"). Neither client.aio.aclose() …",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "jiangjiang248"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "little-spoon77"
+  },
+  "at_mobiles": []
+}
