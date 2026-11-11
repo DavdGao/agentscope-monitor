@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qkycir",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T10:47:27.045891Z",
+  "title": "fix(rag): normalize scores using the Qdrant collection metric",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3958",
+  "number": 3958,
+  "body": "## AgentScope Version\n\nmain at db780a4c341c9c79a313303b55d9428a30e365fa.\n\n## Description\n\nFixes #3956.\n\nReopening a persisted Euclid collection with QdrantStore's default constructor leaves the databa…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qkycir",
+    "head_sha": "ac5b03b0b83ec7b3cc55df0250a2795e978a6f0c",
+    "base_ref": "main",
+    "additions": 145,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
