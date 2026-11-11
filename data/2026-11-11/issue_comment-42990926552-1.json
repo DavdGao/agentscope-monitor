@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "2SinceJuly",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T08:55:59.413014Z",
+  "title": "[Bug]: Chat composer can retain stale layout after its width changes",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3948#issuecomment-6791545683",
+  "number": 3948,
+  "body": "Opened #3953 for this: the two composer measurements (textarea height, stacked-layout check) were keyed only on the draft, so a width change alone never re-ran them. The PR observes the ghost row's in…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "embrace897",
+    "commenter": "2SinceJuly"
+  },
+  "at_mobiles": []
+}
