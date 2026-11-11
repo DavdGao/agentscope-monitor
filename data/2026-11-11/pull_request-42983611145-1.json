@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Wilson0511",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T08:00:30.103629Z",
+  "title": "fix(formatter): promote assistant-role media into a user message",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3951",
+  "number": 3951,
+  "body": "Fixes #3942 (the OpenAI-compatible group).\n\n## What\n\nThe OpenAI-compatible chat formatters (`openai`, `dashscope`, `moonshot`, `volcengine`) emitted a `DataBlock` carried by an **assistant**-role mess…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Wilson0511",
+    "head_sha": "4430b8d8488c01988835662bcb6350b2a377f56a",
+    "base_ref": "main",
+    "additions": 224,
+    "deletions": 12,
+    "changed_files": 8
+  },
+  "at_mobiles": []
+}
