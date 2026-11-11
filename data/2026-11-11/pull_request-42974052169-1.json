@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T06:40:26.250858Z",
+  "title": "fix(model): time out stalled model streams",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2367",
+  "number": 2367,
+  "body": "## AgentScope Version\n\n2.0.6\n\n## Description\n\nAdd configurable first-chunk and idle timeouts across all chat model providers to prevent streaming calls from hanging indefinitely. The deadlines also co…",
+  "labels": [
+    "state/stale-pr"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "b5c180e4462b7e9bc3b1da6624d58877268e7e06",
+    "base_ref": "main",
+    "additions": 713,
+    "deletions": 33,
+    "changed_files": 15
+  },
+  "at_mobiles": []
+}
