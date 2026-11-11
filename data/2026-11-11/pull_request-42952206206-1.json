@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T03:21:36.909831Z",
+  "title": "fix(message): apply an edited tool call from a confirmation",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3937",
+  "number": 3937,
+  "body": "## Problem\n\nA user answering a permission prompt may edit the call before allowing\nit; `Agent` applies that edit to its context:\n\n```python\nif confirmation.confirmed:\n    self._update_tool_call_state(…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "d8af1cb15c369563fb336a917156c057f97f8275",
+    "base_ref": "main",
+    "additions": 67,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
