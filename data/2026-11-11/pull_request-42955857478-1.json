@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T03:55:27.403868Z",
+  "title": "feat(model): add opt-in content-block error normalization",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3324",
+  "number": 3324,
+  "body": "## AgentScope Version\n\n2.0.11dev\n\n## Description\n\nNormalize explicit provider content-filter and refusal signals into `ContentBlockedError`, preserving phase, provider code, request ID, partial-output…",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "3b82c5d1fb003048df8b8a72c941dd42dd9e0802",
+    "base_ref": "main",
+    "additions": 2743,
+    "deletions": 17,
+    "changed_files": 19
+  },
+  "at_mobiles": []
+}
