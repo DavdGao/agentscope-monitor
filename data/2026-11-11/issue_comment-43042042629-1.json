@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ydflow",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T14:48:40.609856Z",
+  "title": "feat(tool): improve the overall capability and reliability of tools",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1803#issuecomment-6798979973",
+  "number": 1803,
+  "body": "## Scoped tool-registration bug under this tracker\n\nCurrent main `3fef100e` accepts async callable objects in `FunctionTool` (also covered by merged #3135), but the default-name path still assumes eve…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "ydflow"
+  },
+  "at_mobiles": []
+}
