@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T06:23:45.668085Z",
+  "title": "fix(tts): close Gemini clients after synthesis",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3044#issuecomment-6788740676",
+  "number": 3044,
+  "body": "Thanks for the contribution and the lifecycle regression tests.\n\nThis fix has been superseded by #3677, which is now merged into `main`. The current implementation manages both synchronous and asynchr…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "little-spoon77",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
