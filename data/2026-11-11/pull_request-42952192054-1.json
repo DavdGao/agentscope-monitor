@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-11T03:21:29.475124Z",
+  "title": "fix(workspace): sanitize gateway MCP tool names for providers",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3936",
+  "number": 3936,
+  "body": "## Problem\n\n`GatewayMCPTool` — the tool wrapper used by the sandboxed (docker /\ne2b / daytona / k8s / …) workspaces — composes its provider-facing name\nwith the upstream name verbatim:\n\n```python\nself…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "ee5dbf5a00e39957661e469eec7b3f7cc4ec9666",
+    "base_ref": "main",
+    "additions": 93,
+    "deletions": 3,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
