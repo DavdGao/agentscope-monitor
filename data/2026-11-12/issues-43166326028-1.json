@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-12T06:11:04.539329Z",
+  "title": "feat(code-mode): support Python orchestration of native tools",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3971",
+  "number": 3971,
+  "body": "## Background / Problem\n\nAgents often need to fetch several tool results, combine or filter them, and return a small answer. A model-driven sequence of individual calls can require repeated reasoning …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "qbc2016"
+  },
+  "at_mobiles": []
+}
