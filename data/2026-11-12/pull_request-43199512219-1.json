@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-12T10:20:52.802099Z",
+  "title": "fix(webui): re-measure the chat composer when its width changes",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3953",
+  "number": 3953,
+  "body": "Fixes #3948\n\n## Problem\n\nThe composer takes two measurements, and both were keyed only on the draft:\n\n```tsx\n// grow the textarea with its content\nuseLayoutEffect(() => {\n  textarea.style.height = 'au…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "2SinceJuly",
+    "head_sha": "ca7e0ab058bd68b912269e9ef55271dd575f1619",
+    "base_ref": "main",
+    "additions": 20,
+    "deletions": 3,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
