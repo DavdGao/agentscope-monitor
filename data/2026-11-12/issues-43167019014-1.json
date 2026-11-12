@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-12T06:16:57.916228Z",
+  "title": "[Bug]: large session payloads can exhaust MySQL sort memory when listing sessions",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3972",
+  "number": 3972,
+  "body": "### Prerequisites\n\n- [x] I have searched existing issues and discussions, and this is not a duplicate.\n- [x] This is a bug, not a usage question.\n\n### Background / Description\n\nLoading the session lis…",
+  "labels": [
+    "Bug"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "qbc2016"
+  },
+  "at_mobiles": []
+}
