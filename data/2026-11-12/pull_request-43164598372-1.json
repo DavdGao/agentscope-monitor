@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-12T05:55:47.819030Z",
+  "title": "fix(app): stop cancelled background renewal workers",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3968",
+  "number": 3968,
+  "body": "## AgentScope Version\n\n2.0.12dev\n\n## Description\n\nStop a cancelled background renewal worker from taking another queued record when an I/O operation returns despite a pending cancellation. Previously,…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "25448e948e5797d4d6233ec107659e07af05afbf",
+    "base_ref": "main",
+    "additions": 44,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
