@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "vggoat0428",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-12T14:55:39.321744Z",
+  "title": "security(app): arbitrary absolute-path file read via GET /workspace/files (local workspace backend)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3973",
+  "number": 3973,
+  "body": "## Summary\n\nThe standalone app service exposes `GET /workspace/files`, which streams a file from a session workspace. When `path` is an **absolute** path, `backend.abspath()` only runs `normpath()` on…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "vggoat0428"
+  },
+  "at_mobiles": []
+}
