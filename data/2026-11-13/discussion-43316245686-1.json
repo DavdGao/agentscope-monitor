@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "MichielMAnalytics",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-12T22:03:30.524339Z",
+  "title": "feat(workspace): add boxd as a sandboxed workspace backend",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3979",
+  "number": 3979,
+  "body": "I work on boxd (https://boxd.sh?ref=agentscope). boxd runs full Ubuntu microVMs with a persistent disk. A machine can hibernate and wake with its disk and memory intact, and it does not expire on its …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "MichielMAnalytics"
+  },
+  "at_mobiles": []
+}
