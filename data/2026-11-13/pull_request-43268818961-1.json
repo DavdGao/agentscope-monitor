@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DZH166",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-12T17:23:13.572427Z",
+  "title": "docs(readme): sync the NEWS section with docs/NEWS.md",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3978",
+  "number": 3978,
+  "body": "# docs(readme): sync the NEWS section with docs/NEWS.md\n\n## AgentScope Version\n\n`2.0.12dev` (`main` @ 6047bc00f1ba0461b5833c4861cef0e050b0bfea, 2026-11-12)\n\n## Description\n\nThe NEWS sections of `READM…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DZH166",
+    "head_sha": "118d7750a69796bf7c34f85ab6b9703f560687e0",
+    "base_ref": "main",
+    "additions": 2,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
