@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DZH166",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-12T17:22:33.835651Z",
+  "title": "docs: README NEWS sections are one sync behind docs/NEWS.md",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3977",
+  "number": 3977,
+  "body": "## Summary\n\nThe NEWS blocks in `README.md` and `README_zh.md` (between `<!-- BEGIN NEWS -->` and `<!-- END NEWS -->`) are one item behind `docs/NEWS.md` / `docs/NEWS_zh.md` on current `main`.\n\nPR #216…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "DZH166"
+  },
+  "at_mobiles": []
+}
