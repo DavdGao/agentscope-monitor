@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-12T08:18:54.963429Z",
+  "title": "fix(storage): avoid sorting large payloads in session lists",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3969",
+  "number": 3969,
+  "body": "## AgentScope Version\n\n2.0.12dev\n\n## Description\n\nFixes #3972\n\nListing sessions currently selects and sorts complete JSON payloads before the HTTP layer trims conversation history and file caches. Lon…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "6091d1a92ac61ad57d818efb546118621e704c26",
+    "base_ref": "main",
+    "additions": 764,
+    "deletions": 24,
+    "changed_files": 11
+  },
+  "at_mobiles": []
+}
