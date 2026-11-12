@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Wilson0511",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-12T13:51:29.349533Z",
+  "title": "Formatter media blocks in assistant-role messages are emitted into payloads where the API only accepts them in user messages",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3942#issuecomment-6825448750",
+  "number": 3942,
+  "body": "Landscape update: #3965 reverted the xAI assistant-media promotion (introduced in #3892), restoring silent-skip for assistant `DataBlock`s on xAI, citing role change and the extra conversation turn. T…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Wilson0511",
+    "commenter": "Wilson0511"
+  },
+  "at_mobiles": []
+}
