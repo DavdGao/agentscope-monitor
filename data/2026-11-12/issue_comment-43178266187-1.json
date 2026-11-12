@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "2SinceJuly",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-12T07:50:57.938373Z",
+  "title": "fix(formatter): run media downloads off the event loop",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3929#issuecomment-6817941339",
+  "number": 3929,
+  "body": "Rebased the conflict against `main` in c2c32fd0.\n\nThe conflict was semantic, not textual: #3965 reverted assistant-media promotion, so `flush_assistant` no longer takes a `media` parameter and no long…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "2SinceJuly",
+    "commenter": "2SinceJuly"
+  },
+  "at_mobiles": []
+}
