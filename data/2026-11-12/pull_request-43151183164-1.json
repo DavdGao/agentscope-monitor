@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "zuizhuai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-12T03:53:50.087733Z",
+  "title": "fix(workspace): accept workdirs under a filesystem-root basedir",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3966",
+  "number": 3966,
+  "body": "Fixes #3964\n\n## AgentScope Version\n\n`2.0.12dev` at `3fef100`.\n\n## Description\n\n`DockerWorkspaceManager._workdir_for` decided whether the bind-mounted host directory stays inside `basedir` with `workdi…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "zuizhuai",
+    "head_sha": "793b0dbf5dac188bb0d6e5021a101d95dc5caaac",
+    "base_ref": "main",
+    "additions": 54,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
