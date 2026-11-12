@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "rome-xi",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-12T05:45:31.408915Z",
+  "title": "fix(app): keep Redis lock heartbeat alive after renew errors",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3767#issuecomment-6815780731",
+  "number": 3767,
+  "body": "Friendly ping in case this slipped through. CI is green and the change is small: the Redis lock heartbeat now keeps renewing after a transient renew error instead of stopping silently. Happy to adjust…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "rome-xi",
+    "commenter": "rome-xi"
+  },
+  "at_mobiles": []
+}
