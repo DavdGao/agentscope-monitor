@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-12T10:22:02.668245Z",
+  "title": "[Bug]: OpenAIResponseModel returns failed non-streaming generations as successful empty replies",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3742",
+  "number": 3742,
+  "body": "### Version\n\n2.0.12dev, main at 782bd43f9f61788a1901fcc4e5486758491d387f; Python 3.12, openai 3.45.0.\n\n### Reproduction\n\nUse `OpenAIResponseModel(stream=False)` with the real OpenAI SDK and an offline…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "zhangkom"
+  },
+  "at_mobiles": []
+}
