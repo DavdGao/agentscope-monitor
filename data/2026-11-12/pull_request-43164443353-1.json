@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-12T05:54:22.031679Z",
+  "title": "fix(formatter): revert xAI assistant media promotion",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3965",
+  "number": 3965,
+  "body": "## AgentScope Version\n\n2.0.12dev\n\n## Description\n\nRevert the assistant-media promotion introduced in #3892. An assistant message containing text and a top-level image currently becomes an assistant te…",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "ebbe5fe91aeb6946504691db0e9e5a9df49a703d",
+    "base_ref": "main",
+    "additions": 8,
+    "deletions": 45,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
