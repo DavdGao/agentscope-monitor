@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-12T06:07:27.435662Z",
+  "title": "feat(code-mode): add Python tool orchestration and session controls",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3970",
+  "number": 3970,
+  "body": "## AgentScope Version\n\n2.0.12dev\n\n## Description\n\nAdd opt-in Code Mode so an agent can batch native tool calls, process intermediate results in Python, and return selected evidence through one model-f…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "abfd923eafefed95cc25a97af1e3aca0ee401aba",
+    "base_ref": "main",
+    "additions": 4761,
+    "deletions": 21,
+    "changed_files": 36
+  },
+  "at_mobiles": []
+}
