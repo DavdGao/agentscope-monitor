@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "vggoat0428",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-12T14:55:41.990234Z",
+  "title": "security(app): server-side SSRF via DataBlock URL source in POST /chat/",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3974",
+  "number": 3974,
+  "body": "## Summary\n\n`POST /chat/` accepts message content containing a `DataBlock` whose source is a `URLSource`. While formatting the message for the OpenAI-compatible model, the formatter downloads that URL…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "vggoat0428"
+  },
+  "at_mobiles": []
+}
