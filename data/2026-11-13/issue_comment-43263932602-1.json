@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "2SinceJuly",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-12T16:55:45.506776Z",
+  "title": "[Bug]: RAGMiddleware drops all knowledge-base context when one knowledge base cannot embed an attachment",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3975#issuecomment-6830124249",
+  "number": 3975,
+  "body": "Fix is up in #3976, along the lines of your proposed scope: `_search_across` gathers with `return_exceptions=True`, logs each failing knowledge base by name and skips it, and re-raises only when every…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "shuxiachai",
+    "commenter": "2SinceJuly"
+  },
+  "at_mobiles": []
+}
