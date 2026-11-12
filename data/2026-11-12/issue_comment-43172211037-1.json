@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "jiands233",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-12T07:01:40.680251Z",
+  "title": "Example: MiniCPM-OCR custom PDF/image parser for scanned docs (zh/en)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3962#issuecomment-6817076719",
+  "number": 3962,
+  "body": "Thanks for the triage. To clarify, this isn't a bug report. It's a proposal to contribute an example: a custom PDF/image parser that uses MiniCPM-OCR for scanned Chinese/English documents, plugged int…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "jiands233",
+    "commenter": "jiands233"
+  },
+  "at_mobiles": []
+}
