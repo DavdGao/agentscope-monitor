@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "vggoat0428",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-12T15:26:35.997294Z",
+  "title": "security(app): arbitrary absolute-path file read via GET /workspace/files (local workspace backend)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3973#issuecomment-6827816632",
+  "number": 3973,
+  "body": "Corrected the report after the automated check.\n\nYou are right on the two factual points: (1) absolute host paths and `..` are the documented, test-asserted contract for this route, and (2) the same i…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "vggoat0428",
+    "commenter": "vggoat0428"
+  },
+  "at_mobiles": []
+}
