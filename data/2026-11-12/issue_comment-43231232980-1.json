@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Wilson0511",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-12T13:51:11.607711Z",
+  "title": "fix(formatter): promote assistant-role media in anthropic/openai_response",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3961#issuecomment-6825441058",
+  "number": 3961,
+  "body": "Same direction check as the one I just posted on #3951, since this PR shares the promotion approach: #3965 reverted the xAI assistant-media promotion upstream (\"changes the role of the media and adds …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Wilson0511",
+    "commenter": "Wilson0511"
+  },
+  "at_mobiles": []
+}
