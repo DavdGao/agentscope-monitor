@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "2SinceJuly",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-13T08:48:45.599739Z",
+  "title": "fix(tool): match dangerous command patterns after removing shell quotes",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3859",
+  "number": 3859,
+  "body": "## Problem\n\n`BashCommandParser.check_dangerous_command` matched the multi-word entries of `DANGEROUS_COMMANDS` as plain substrings of the raw command string:\n\n```python\nnormalized = \" \".join(command.s…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "2SinceJuly",
+    "head_sha": "ab9b07b4fcf323703fd3b54187569317d5842aac",
+    "base_ref": "main",
+    "additions": 227,
+    "deletions": 3,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
