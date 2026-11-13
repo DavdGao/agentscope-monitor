@@ -1,0 +1,28 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-13T10:06:15.851518Z",
+  "title": "feat(tts): integrate MiniMax voice cloning",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4003",
+  "number": 4003,
+  "body": "## Background / Description\n\nMiniMax speech synthesis is available in AgentScope (added in #2298), but MiniMax voice creation is not exposed through the shared voice-cloning client or the App's voice-…",
+  "labels": [
+    "Feature",
+    "module/model"
+  ],
+  "assignees": [
+    "qbc2016"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "qbc2016"
+  },
+  "at_mobiles": []
+}
