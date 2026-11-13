@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "freshman-0ne",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-13T07:39:56.488521Z",
+  "title": "[Feature]: keep the sandbox lease alive during long-running agent turns",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3208#issuecomment-6847120136",
+  "number": 3208,
+  "body": "除了Sandbox租约续期的问题，在opensandbox workspace上还有两个问题：\n一个问题是 workspace缓存生命周期问题。\n1. OpenSandboxWorkspaceManager会按照ttl间隔检查是否要close workspace，一旦触发close()就会set backend=None。如果chat时长>ttl，backend=None，get_backend就…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Koawa265Richard31",
+    "commenter": "freshman-0ne"
+  },
+  "at_mobiles": []
+}
