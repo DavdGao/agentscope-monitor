@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "shuxiachai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-13T03:36:30.654761Z",
+  "title": "[Bug]: Realtime agent tests fail intermittently on Windows: FakeTransport's 20 ms frames can end the run before the scripted reply is handled",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3980",
+  "number": 3980,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing issues and discussions, and this is not a duplicate.\n- [x] This is a bug, not a usage question.\n\nRelated: #2723 describes the same failure for the…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "shuxiachai"
+  },
+  "at_mobiles": []
+}
