@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-13T14:07:17.029488Z",
+  "title": "fix(rag): wrap all pypdf parsing errors as ValueError",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4009",
+  "number": 4009,
+  "body": "## Problem\n\n`PDFParser.parse()` documents that invalid PDF bytes raise `ValueError`, but it only catches `pypdf.errors.PdfReadError`. pypdf can raise other `PyPdfError` subclasses while it resolves la…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "3609f1e544576933c6bb95c18fc22366ff3bd366",
+    "base_ref": "main",
+    "additions": 26,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
