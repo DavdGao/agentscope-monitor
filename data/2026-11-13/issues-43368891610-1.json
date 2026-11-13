@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "laoyyu",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-13T04:58:20.737534Z",
+  "title": "`_flatten_json_schema()` raises TypeError on a boolean `$defs` entry",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3982",
+  "number": 3982,
+  "body": "## Problem\n\nA boolean schema (`true` / `false`) is valid JSON Schema and may sit in `$defs`. `_flatten_json_schema()` inlines the reference and then copies the reference's sibling keywords onto the re…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "laoyyu"
+  },
+  "at_mobiles": []
+}
