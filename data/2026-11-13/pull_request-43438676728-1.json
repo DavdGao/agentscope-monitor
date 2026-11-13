@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-13T14:00:44.532325Z",
+  "title": "fix(app): require a submission before human SOP verdicts",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4008",
+  "number": 4008,
+  "body": "## Problem\n\n`SOPService.record_verdict()` accepts a human verdict whenever a step is in `SOPPhase.AWAITING`. An executor can park a step for human interaction before it has produced a `submission`, le…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "b09067161fcdf939dc31d9e6200ccc2cdf0054c0",
+    "base_ref": "main",
+    "additions": 39,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
