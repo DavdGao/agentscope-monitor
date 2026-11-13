@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "pcbeingused333",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-13T15:08:04.487622Z",
+  "title": "OpenAI chat model: streamed tool calls from compatible endpoints that omit `index` are merged into one call",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4010",
+  "number": 4010,
+  "body": "In `OpenAIChatModel._parse_completion_response` streaming (`src/agentscope/model/_openai_chat/_model.py`, the `for tool_call in delta.tool_calls` loop), `tool_call_mapping` is keyed by `tool_call.inde…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "pcbeingused333"
+  },
+  "at_mobiles": []
+}
