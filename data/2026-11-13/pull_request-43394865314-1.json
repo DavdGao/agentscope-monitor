@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-13T08:39:09.089798Z",
+  "title": "feat(model): update model catalog and sort by release date",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3997",
+  "number": 3997,
+  "body": "## AgentScope Version\n\n2.0.12dev\n\n## Description\n\nUpdate the built-in model catalog with Claude Fable 5.2, Gemini 4 Hydrogen, and GPT-6.1 Terra (Responses API), including the reasoning parameters requ…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "a7b8a09555ca2c82a24ec9d15ae753cfe3254744",
+    "base_ref": "main",
+    "additions": 858,
+    "deletions": 41,
+    "changed_files": 138
+  },
+  "at_mobiles": []
+}
