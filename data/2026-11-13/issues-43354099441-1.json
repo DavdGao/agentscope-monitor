@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-13T02:43:18.126911Z",
+  "title": "[Bug]: failed MCP gateway registration leaves a stateful connection unowned",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3836",
+  "number": 3836,
+  "body": "## Background / Description\n\nA stateful MCP connection can outlive a failed gateway registration. `_build_client()` connects the client, then calls `list_raw_tools()`. If tool discovery raises, `POST …",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "qkycir"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "qkycir"
+  },
+  "at_mobiles": []
+}
