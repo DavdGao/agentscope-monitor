@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "shuxiachai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-13T05:06:06.014698Z",
+  "title": "fix(tool): yield the final tool response outside the finally block",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3685#issuecomment-6844686449",
+  "number": 3685,
+  "body": "A data point from the realtime agent, in case it helps the review.\n\n`RealtimeAgent._run_tool` stops iterating `call_tool` as soon as it receives a `ToolResponse` ([source](https://github.com/agentscop…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Kiko0301",
+    "commenter": "shuxiachai"
+  },
+  "at_mobiles": []
+}
