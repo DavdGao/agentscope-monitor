@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Yzzz88",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-13T09:20:22.785586Z",
+  "title": "[Bug]: RAG citations lose page numbers from PDF search hits",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4001",
+  "number": 4001,
+  "body": "### Prerequisites\n- [x] I searched for existing issues and pull requests.\n\n### Problem\n\nPDFParser keeps the 1-based page number in each section. ApproxTokenChunker carries that value into each chunk, …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Yzzz88"
+  },
+  "at_mobiles": []
+}
