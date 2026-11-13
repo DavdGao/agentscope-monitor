@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-13T07:23:54.486565Z",
+  "title": "fix(rag): roll back a MongoDB collection when its index fails",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3987",
+  "number": 3987,
+  "body": "## Problem\n\n`MongoDBStore.create_collection()` creates the MongoDB collection before\ncreating its vector search index. If index creation or the readiness wait\nfails (including cancellation), the empty…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "eb9fb5afd404fc535d655057d68b2e3f617fba51",
+    "base_ref": "main",
+    "additions": 34,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
