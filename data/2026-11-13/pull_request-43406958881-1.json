@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-13T10:09:33.052852Z",
+  "title": "feat(tts): add MiniMax voice cloning",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4004",
+  "number": 4004,
+  "body": "## AgentScope Version\n\n`2.0.12dev`\n\n## Description\n\nCloses #4003\n\nMiniMax speech synthesis is available, but users cannot create and select a MiniMax voice through the shared voice-cloning and App voi…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "008eae9d4cd0f09a85fa68ed5ee027b5038c5b41",
+    "base_ref": "main",
+    "additions": 603,
+    "deletions": 17,
+    "changed_files": 20
+  },
+  "at_mobiles": []
+}
