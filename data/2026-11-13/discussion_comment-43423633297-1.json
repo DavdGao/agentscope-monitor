@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "capitaharlock",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-13T12:15:40.877146Z",
+  "title": "feat: Support subagents in Agent class to manage context and scale complex tasks",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/2491#discussioncomment-19589838",
+  "number": 2491,
+  "body": "@DavdGao Thanks for merging this. Blocking is fine for most members. The case I'd still like covered is a slow one: a member turn that takes a few minutes, where the leader would rather get a task han…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "capitaharlock",
+    "discussion_author": "GSword"
+  },
+  "at_mobiles": []
+}
