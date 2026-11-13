@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "coderbruis",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-13T22:58:36.757913Z",
+  "title": "fix(service): ignore stale parked-reply interrupts",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4015",
+  "number": 4015,
+  "body": "## AgentScope Version\n\n2.0.12dev\n\n## Description\n\nFixes #4013. Replaces #4014 after renaming the contribution branch.\n\nA stop request can capture parked reply A, enter the dispatcher retry path while …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "coderbruis",
+    "head_sha": "74be32e2721113b5ed1bf41588d29f80436a8a71",
+    "base_ref": "main",
+    "additions": 633,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
