@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-13T05:55:33.063924Z",
+  "title": "fix(tool): infer default names for callable objects",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3963",
+  "number": 3963,
+  "body": "## AgentScope Version\n\n2.0.12.dev0, based on main at `3fef100ee13d70905723d0000608bcce2d7e4a0d`.\n\n## Description\n\nRefs #1803. The scoped reproduction and work claim are recorded in [this comment](http…",
+  "labels": [
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "ydflow",
+    "head_sha": "d3433096388d63cfba633f6f446debf05bd179e0",
+    "base_ref": "main",
+    "additions": 25,
+    "deletions": 2,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
