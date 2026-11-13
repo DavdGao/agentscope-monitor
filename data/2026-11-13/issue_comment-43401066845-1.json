@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "freshman-0ne",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-13T09:24:43.801796Z",
+  "title": "[Feature]: keep the sandbox lease alive during long-running agent turns",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3208#issuecomment-6849123501",
+  "number": 3208,
+  "body": "在分布式多节点部署时，OpenSandboxWorkspaceManager ttl这个问题尤其严重啊，大家都是怎么解决的？\n由于workspace是每个节点上都会创建的，节点间会相互干扰啊。比如在按会话隔离（同一个会话指向一个沙箱）时:\n1. 第一次chat打到节点A，创建了workspace（就启动了ttl），连接了沙箱X；\n2. 经过一个时间间隔，第二次chat打到节点B，创建新的works…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Koawa265Richard31",
+    "commenter": "freshman-0ne"
+  },
+  "at_mobiles": []
+}
