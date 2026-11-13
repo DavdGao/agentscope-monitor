@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "xwm1782379277",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-13T07:42:56.729069Z",
+  "title": "[Bug]: Residual wake-up after an offloaded tool result is consumed starts an empty-input run and duplicates the assistant reply",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3990",
+  "number": 3990,
+  "body": "### Background / Description\n\nWe embed the app layer (`ChatService` + `InboxMiddleware` + `ToolOffloadMiddleware` with the default 10s timeout + `WakeupDispatcher`) in a chat product. A single user tu…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "xwm1782379277"
+  },
+  "at_mobiles": []
+}
