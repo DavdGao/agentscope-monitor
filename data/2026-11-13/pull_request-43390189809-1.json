@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "67-luck",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-13T08:03:20.549740Z",
+  "title": "fix(formatter): drop an empty system prompt in AnthropicMultiAgentFormatter",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3994",
+  "number": 3994,
+  "body": "## AgentScope Version\n\n2.0.12dev (main at e15a6026)\n\n## Description\n\nFixes #3993.\n\n`AnthropicMultiAgentFormatter._format_system_message` always emits a text block. An empty system prompt, such as the …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "67-luck",
+    "head_sha": "b488be2c097802b5341dd2a2c5b41ffaa569c7f4",
+    "base_ref": "main",
+    "additions": 22,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
