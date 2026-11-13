@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ccclucky",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-13T06:50:26.771301Z",
+  "title": "fix(tool): extract quoted file operands in Bash commands",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3788#issuecomment-6846298954",
+  "number": 3788,
+  "body": "Heads-up on the two new helpers: `_operand_text` (line 162) and `_command_operands` (line 221) slice `command`, a Python `str`, with `node.start_byte` / `node.end_byte`. tree-sitter reports those as U…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Kiko0301",
+    "commenter": "ccclucky"
+  },
+  "at_mobiles": []
+}
