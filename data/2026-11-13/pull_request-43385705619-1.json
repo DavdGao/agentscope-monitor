@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-13T07:26:03.728949Z",
+  "title": "feat(tts): add MiniMax speech synthesis",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2298",
+  "number": 2298,
+  "body": "Reason: Add native MiniMax T2A support to AgentScope's TTS framework.\n\nThis change:\n\n- registers MiniMax credentials and TTS model discovery;\n- supports streaming and non-streaming T2A responses acros…",
+  "labels": [],
+  "assignees": [
+    "qbc2016"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "octo-patch",
+    "head_sha": "5c2e48849ec5cd8790ba1767dce0acc3fe27c82a",
+    "base_ref": "main",
+    "additions": 978,
+    "deletions": 0,
+    "changed_files": 14
+  },
+  "at_mobiles": []
+}
