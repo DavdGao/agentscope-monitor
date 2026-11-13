@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-13T13:29:58.930256Z",
+  "title": "fix(tui): compare elapsed timestamps with a consistent clock",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4006",
+  "number": 4006,
+  "body": "## Problem\n\n`_elapsed()` converts both endpoints to POSIX timestamps independently. Python interprets a naive ISO timestamp in the viewer's local timezone, while an aware timestamp keeps its explicit …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "223f51d1493b445101e282e1238ca8788236b3e9",
+    "base_ref": "main",
+    "additions": 98,
+    "deletions": 7,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
