@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Yzzz88",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-13T09:39:17.352097Z",
+  "title": "fix(rag): preserve PDF page numbers in citations",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4002",
+  "number": 4002,
+  "body": "## AgentScope Version\n\n2.0.12dev\n\n## Description\n\nFixes #4001.\n\nPDFParser records the 1-based page number, and the chunker preserves it. Include that page number when formatting a RAG hit so passages …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Yzzz88",
+    "head_sha": "99ac356fe7bfd153001cb445d201218b839157b0",
+    "base_ref": "main",
+    "additions": 38,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
