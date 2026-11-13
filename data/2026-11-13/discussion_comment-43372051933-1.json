@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Leeminjing",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-13T05:26:44.240389Z",
+  "title": "Support verified GoalPipeline subworkflows as TeamPipeline members",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3984#discussioncomment-19583021",
+  "number": 3984,
+  "body": "I would like to move this proposal into a dedicated Issue for design discussion and contribution tracking. Would a maintainer be willing to convert it, or confirm that I may open a linked feature Issu…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "Leeminjing",
+    "discussion_author": "Leeminjing"
+  },
+  "at_mobiles": []
+}
