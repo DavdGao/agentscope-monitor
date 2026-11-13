@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "aravelo7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-13T08:34:16.192513Z",
+  "title": "fix(agent): propagate cancellation of individual tool workers",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3605#issuecomment-6848079969",
+  "number": 3605,
+  "body": "Hi maintainers, I'd appreciate guidance on one design decision in this fix.\n\nWhen an individual concurrent tool worker is cancelled before it reaches `toolkit.call_tool`, `gather(return_exceptions=Tru…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "aravelo7",
+    "commenter": "aravelo7"
+  },
+  "at_mobiles": []
+}
