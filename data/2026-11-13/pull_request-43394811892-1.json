@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-13T08:38:41.970114Z",
+  "title": "fix(tts): synthesize the authoritative final text",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3996",
+  "number": 3996,
+  "body": "## Problem\n\n`TextBlockEndEvent.text` is the block's authoritative final text when a voice reply is cut short to what the user actually heard. `Msg.append_event()` replaces the accumulated delta text w…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "01d1fdaa0345b49b3fc63c8a6bf1dc352651bb5c",
+    "base_ref": "main",
+    "additions": 40,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
