@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-13T03:05:11.350318Z",
+  "title": "fix(asr): join recognised sentences without inventing spaces",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3762",
+  "number": 3762,
+  "body": "DashScope realtime ASR currently strips leading and trailing whitespace from each sentence and guesses whether to insert a space when combining results. This changes the provider's text: for example, …",
+  "labels": [
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "943c1485d6cf2e3a30142d9fdc3bfbccb5f16106",
+    "base_ref": "main",
+    "additions": 86,
+    "deletions": 18,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
