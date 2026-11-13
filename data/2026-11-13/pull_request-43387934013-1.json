@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-13T07:44:54.180686Z",
+  "title": "fix(model): replace blocks whose stream type changes",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3991",
+  "number": 3991,
+  "body": "## Problem\n\n`ChatResponse.append_chat_response()` merges streaming deltas by block id\nbut assumes the existing block and the delta have the same type. If a\nprovider reuses an id with a different block…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "0612296869222502512026bc28212a9f24acf07e",
+    "base_ref": "main",
+    "additions": 46,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
