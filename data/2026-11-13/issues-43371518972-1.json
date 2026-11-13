@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Yzzz88",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-13T05:21:54.906421Z",
+  "title": "[Bug]: PPTX knowledge-base uploads fail indexing with application/octet-stream",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3985",
+  "number": 3985,
+  "body": "### Prerequisites\n- [x] I searched the existing issues and pull requests for the indexing error.\n- [x] This is a bug report.\n\n### Background / Description\n\nUploading a valid PowerPoint deck to a knowl…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Yzzz88"
+  },
+  "at_mobiles": []
+}
