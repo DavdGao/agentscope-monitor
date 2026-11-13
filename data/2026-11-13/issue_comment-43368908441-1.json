@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "laoyyu",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-13T04:58:28.885057Z",
+  "title": "fix(schema): keep a boolean $defs entry from aborting the flatten pass",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3967#issuecomment-6844549325",
+  "number": 3967,
+  "body": "Opened #3982 with the reproduction and linked it as `Fixes #3982`, as the check asked for.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "laoyyu",
+    "commenter": "laoyyu"
+  },
+  "at_mobiles": []
+}
