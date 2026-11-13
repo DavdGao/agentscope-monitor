@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "2SinceJuly",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-13T06:18:11.777951Z",
+  "title": "fix(middleware): keep other knowledge bases' context when one fails",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3976",
+  "number": 3976,
+  "body": "## Problem\n\n`_search_across` gathers every `KnowledgeBase.search` call with a bare\n`asyncio.gather`, so the first knowledge base that raises aborts the whole\nsearch:\n\n```python\nper_kb = await asyncio.…",
+  "labels": [
+    "pr/awaiting-changes"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "2SinceJuly",
+    "head_sha": "965ed07843808e55c2fb385184821b1aee3ecb52",
+    "base_ref": "main",
+    "additions": 210,
+    "deletions": 12,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
