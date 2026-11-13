@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "67-luck",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-13T08:02:54.351052Z",
+  "title": "[Bug]: AnthropicMultiAgentFormatter sends an empty system prompt as an empty text block",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3993",
+  "number": 3993,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "67-luck"
+  },
+  "at_mobiles": []
+}
