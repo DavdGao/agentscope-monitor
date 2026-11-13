@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-13T07:48:07.203957Z",
+  "title": "fix(app): match embedding credentials to their provider",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3992",
+  "number": 3992,
+  "body": "## Problem\n\n`build_embedding_model()` deserializes the stored credential but chooses\nthe provider class from `EmbeddingModelConfig.type` without checking that\nthe two providers agree. A config naming …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "e913a64454d2925668a7b0024c710dce0c0aeb3d",
+    "base_ref": "main",
+    "additions": 47,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
