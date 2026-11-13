@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-13T13:05:39.567007Z",
+  "title": "fix(middleware): validate steering acknowledgements before committing",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4005",
+  "number": 4005,
+  "body": "## Problem\n\n`SteeringSource.acknowledge()` is documented to raise before committing if it cannot accept the whole batch. `SteeringQueue.acknowledge()` checks every supplied id against the pending map,…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "994ffb576b92f2fe7d0be36c77cd6d1f3fb9ab80",
+    "base_ref": "main",
+    "additions": 38,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
