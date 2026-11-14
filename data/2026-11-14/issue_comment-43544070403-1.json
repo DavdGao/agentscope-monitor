@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Assertive-xxh",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-14T02:03:01.249985Z",
+  "title": "[Bug]: Realtime TTS only speaks the first text block of a reply (DashScope realtime and CosyVoice)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4018#issuecomment-6869855597",
+  "number": 4018,
+  "body": "D:/devtools/git/Git/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Assertive-xxh",
+    "commenter": "Assertive-xxh"
+  },
+  "at_mobiles": []
+}
