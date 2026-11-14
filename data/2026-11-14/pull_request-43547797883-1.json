@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "67-luck",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-14T02:42:53.430158Z",
+  "title": "fix(formatter): forward DataBlock extra params to MiniMax video blocks",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4021",
+  "number": 4021,
+  "body": "## AgentScope Version\n\n2.0.12dev (main at 27d83593)\n\n## Description\n\nFixes #4020.\n\n`MiniMaxChatFormatter` and `MiniMaxMultiAgentFormatter` override `_format_anthropic_data_block` to emit native `video…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "67-luck",
+    "head_sha": "8c377e730fa5b6f571b9733a757160e173ea0155",
+    "base_ref": "main",
+    "additions": 68,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
