@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "laoyyu",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-14T08:56:13.757962Z",
+  "title": "fix(tool): build input schemas for underscore-prefixed parameters",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4032",
+  "number": 4032,
+  "body": "## Summary\n\n`_extract_input_schema()` feeds every signature parameter straight into `pydantic.create_model()`, which rejects field names starting with an underscore (they read as private attributes). …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "laoyyu",
+    "head_sha": "35a2fb374724c2fe4e070dbab8e45d20c0bd9989",
+    "base_ref": "main",
+    "additions": 114,
+    "deletions": 7,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
