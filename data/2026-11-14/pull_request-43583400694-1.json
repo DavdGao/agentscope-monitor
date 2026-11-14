@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "rome-xi",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-14T10:03:14.095861Z",
+  "title": "fix(app): isolate WakeupDispatcher drain failures per entry",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3766",
+  "number": 3766,
+  "body": "## Summary\n\nA single failing wakeup trigger no longer drops the rest of a batch that `queue_drain` has already removed. `WakeupDispatcher._drain_and_dispatch` still skips malformed payloads the same w…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "rome-xi",
+    "head_sha": "fc05b979a20bb9d5494aa0c83d878ad5ab98a8f2",
+    "base_ref": "main",
+    "additions": 83,
+    "deletions": 12,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
