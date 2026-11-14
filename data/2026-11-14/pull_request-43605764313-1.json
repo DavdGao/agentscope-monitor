@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lkuko",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-14T14:36:48.427163Z",
+  "title": "fix(utils): keep array elements when schema repair shortens a list",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4036",
+  "number": 4036,
+  "body": "Fixes #4035\n\n## AgentScope Version\n\nBuilt from `main` at `27d8359`.\n\n## Description\n\n### Background\n\n`_json_loads_with_repair()` repairs a model's tool-call arguments with\n`json_repair`. When a schema…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "lkuko",
+    "head_sha": "9c363be1039c7fb606b1c3ad6fb3ed127b8effac",
+    "base_ref": "main",
+    "additions": 21,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
