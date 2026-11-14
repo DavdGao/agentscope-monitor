@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "JianhaoYu-AI",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-14T10:45:47.661412Z",
+  "title": "[Bug]: Gemini and DashScope multimodal batches continue after a sibling fails",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4025#issuecomment-6876111484",
+  "number": 4025,
+  "body": "I'd like to help with this follow-up. I have a patch that reuses the base class's cancel-and-join batch runner in both multimodal overrides, keeping their content-aware splitting unchanged. The offlin…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "coderbruis",
+    "commenter": "JianhaoYu-AI"
+  },
+  "at_mobiles": []
+}
