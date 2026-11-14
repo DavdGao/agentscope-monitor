@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "MasterZRC",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-14T09:08:18.892642Z",
+  "title": "feat(agent): limit per-tool dispatches within a reply",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4034",
+  "number": 4034,
+  "body": "Refs #1362 and follows up on the lifecycle questions in #1479. This covers the per-tool invocation limit discussed in the issue. The separate `return_direct` request remains open.\n\n## Behavior\n\nA mode…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "MasterZRC",
+    "head_sha": "a1e69fa94bd5c4a627c912c6d359e670d9692198",
+    "base_ref": "main",
+    "additions": 196,
+    "deletions": 18,
+    "changed_files": 9
+  },
+  "at_mobiles": []
+}
