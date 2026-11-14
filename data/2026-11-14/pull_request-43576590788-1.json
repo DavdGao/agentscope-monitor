@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "indexGin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-14T08:36:12.163639Z",
+  "title": "fix(workspace): keep distinct K8s pod names for lossy workspace ids",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4029",
+  "number": 4029,
+  "body": "Fixes #4028\n\n## Problem\n\n`_k8s_safe_name()` in `src/agentscope/workspace/_k8s/_constants.py` maps a\nworkspace id to the RFC-1123 name of its Kubernetes Pod. The name is built by\nlowercasing the id, re…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "indexGin",
+    "head_sha": "40607bbf15ac73140dd7ab9213933abb468a57f4",
+    "base_ref": "main",
+    "additions": 73,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
