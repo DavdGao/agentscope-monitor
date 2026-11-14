@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "laoyyu",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-14T08:52:48.450675Z",
+  "title": "fix(tool): resolve '..' pattern segments in Glob instead of dropping them",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4031",
+  "number": 4031,
+  "body": "## Summary\n\n`glob_match()` in `_glob_helper.py` splits the pattern into segments and matches each one against `os.scandir` entries — but `..` never appears as a directory entry name, so any pattern co…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "laoyyu",
+    "head_sha": "68bc28541578b3382b1b84ab1e489db67b65c273",
+    "base_ref": "main",
+    "additions": 46,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
