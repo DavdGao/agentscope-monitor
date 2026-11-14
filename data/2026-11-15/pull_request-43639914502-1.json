@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "2SinceJuly",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-14T20:54:15.739280Z",
+  "title": "fix(rag): keep tab characters inside table cells",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3999",
+  "number": 3999,
+  "body": "## Problem\n\n`WordParser` read a run-level `<w:tab/>` as a tab character in body paragraphs, but the table-cell path in `_extract_table_data` only collected `w:t` and line-break elements:\n\n```python\nte…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "2SinceJuly",
+    "head_sha": "d18c268994d9e8da90cc9b17aaf51cb9243cb448",
+    "base_ref": "main",
+    "additions": 65,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
