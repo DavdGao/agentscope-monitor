@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "MasterZRC",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-14T09:06:41.434644Z",
+  "title": "[Bug]:React agent陷入反复工具调用",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1362#issuecomment-6874960823",
+  "number": 1362,
+  "body": "我来跟进这个 issue 里「限制同一工具调用次数」的部分。具体场景是一次回复里模型并行请求两次发送通知：如果配置了 `ReActConfig(tool_call_limits={\"notify\": 1})`，只派发一次，另一条调用会收到本次回复额度已用完的工具错误，其他工具仍可以执行。\n\n计数按一次逻辑回复累计。等待人工确认时不扣次数，批准并派发时扣一次；暂停后恢复沿用原额度，下一次回复重新计数…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "AmberSecurity",
+    "commenter": "MasterZRC"
+  },
+  "at_mobiles": []
+}
