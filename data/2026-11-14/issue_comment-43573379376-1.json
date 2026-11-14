@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "wang1299",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-14T07:56:09.313454Z",
+  "title": "fix(gemini): preserve signed text history parts",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3908#issuecomment-6874163984",
+  "number": 3908,
+  "body": "CI follow-up at dcbe13e: the failing Windows test is `RealtimeAgentTest.test_crashed_downlink_pump_is_replaced_on_reconnect` (`reply_end: interrupted` instead of `completed`). The same failure reprodu…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "wang1299",
+    "commenter": "wang1299"
+  },
+  "at_mobiles": []
+}
