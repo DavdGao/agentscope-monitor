@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "indexGin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-14T08:35:34.253736Z",
+  "title": "Distinct workspace ids can collide on one Kubernetes Pod name",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4028",
+  "number": 4028,
+  "body": "## Phenomenon\n\n`agentscope.workspace._k8s._constants._k8s_safe_name()` turns a workspace id\ninto the name of its Kubernetes Pod. Different ids can produce the same Pod\nname, so two workspaces end up a…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "indexGin"
+  },
+  "at_mobiles": []
+}
