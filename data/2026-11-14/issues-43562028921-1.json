@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "coderbruis",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-14T05:32:51.415968Z",
+  "title": "[Bug]: Gemini and DashScope multimodal batches continue after a sibling fails",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4025",
+  "number": 4025,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [
+    "Bug"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "coderbruis"
+  },
+  "at_mobiles": []
+}
