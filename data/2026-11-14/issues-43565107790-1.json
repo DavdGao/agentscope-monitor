@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-14T06:11:40.601534Z",
+  "title": "[Bug]: OpenSandbox local workspace TTL pauses shared sandboxes used by other nodes",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4026",
+  "number": 4026,
+  "body": "### Background / Description\n\nWhen multiple service nodes attach to the same OpenSandbox sandbox through a stable workspace ID (e.g. session isolation), one node's local workspace-cache TTL can pause …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "iluv7"
+  },
+  "at_mobiles": []
+}
