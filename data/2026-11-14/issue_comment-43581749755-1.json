@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "MasterZRC",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-14T09:41:48.041986Z",
+  "title": "feat(agent): limit per-tool dispatches within a reply",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4034#issuecomment-6875370857",
+  "number": 4034,
+  "body": "I claimed #1362 and outlined the scope there before opening this PR. This change addresses the per-tool call limit within a single reply. The separate request for a tool to return its result and end t…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "MasterZRC",
+    "commenter": "MasterZRC"
+  },
+  "at_mobiles": []
+}
