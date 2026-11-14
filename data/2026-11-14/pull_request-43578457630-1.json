@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "laoyyu",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-14T09:00:42.186392Z",
+  "title": "fix(tool): reject previews on multi-select questions in AskUser",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4033",
+  "number": 4033,
+  "body": "## Summary\n\nBoth the `_Option.preview` field docs and the tool description promise that a preview is \"Only supported in single-select questions\", and `_Question._validate_options` documents itself as …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "laoyyu",
+    "head_sha": "19622af105bc105f1ac3c21c46f5e626f687c877",
+    "base_ref": "main",
+    "additions": 50,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
