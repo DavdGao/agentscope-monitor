@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "indexGin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-14T08:33:20.449927Z",
+  "title": "[Bug]:Vulnerability Report",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/999#issuecomment-6874593476",
+  "number": 999,
+  "body": "probe",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "bilisheep",
+    "commenter": "indexGin"
+  },
+  "at_mobiles": []
+}
