@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Leeminjing",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-14T02:35:47.328737Z",
+  "title": "Task-scoped delegation and recoverable joins for App session teams",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/4019",
+  "number": 4019,
+  "body": "I would like to propose task-scoped delegation and recoverable joins for App session teams, where members are persistent sessions.\n\n## Use case\n\nA leader assigns tasks A and B to two existing members …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "Leeminjing"
+  },
+  "at_mobiles": []
+}
