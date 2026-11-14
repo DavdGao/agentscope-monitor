@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lkuko",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-14T14:28:10.079888Z",
+  "title": "Tool argument repair silently drops array elements when json_repair shortens a list",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4035",
+  "number": 4035,
+  "body": "## Summary\n\n`_json_loads_with_repair()` can silently **drop array elements** from a tool call's arguments when a schema-guided `json_repair` result contains a shorter list than the original. This is d…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "lkuko"
+  },
+  "at_mobiles": []
+}
