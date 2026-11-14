@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "shuxiachai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-14T00:44:35.027269Z",
+  "title": "[Bug]: PPTParser drops shapes wrapped in mc:AlternateContent, such as a text box holding an equation, with all their text",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4016#issuecomment-6868726168",
+  "number": 4016,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "shuxiachai",
+    "commenter": "shuxiachai"
+  },
+  "at_mobiles": []
+}
