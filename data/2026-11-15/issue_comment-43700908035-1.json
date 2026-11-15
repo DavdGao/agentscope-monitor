@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "rome-xi",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-15T09:47:25.781084Z",
+  "title": "fix(app): keep Redis lock heartbeat alive after renew errors",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3767#issuecomment-6892539547",
+  "number": 3767,
+  "body": "Follow-up for the CI hang on Python 3.11: `acquire_lock` cancelled the heartbeat with `hb_task.cancel()` and then awaited it, but on 3.11 a cancellation that arrives while a successful renew is finish…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "rome-xi",
+    "commenter": "rome-xi"
+  },
+  "at_mobiles": []
+}
