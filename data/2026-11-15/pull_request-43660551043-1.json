@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "2SinceJuly",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-15T00:55:12.752893Z",
+  "title": "fix(tts): default Gemini TTS to a model that is still served",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4038",
+  "number": 4038,
+  "body": "## Problem\n\n`GeminiTTSModel` still defaults to `gemini-2.5-flash-preview-tts`:\n\n```python\nmodel: str = \"gemini-2.5-flash-preview-tts\",\n```\n\nGoogle shuts down both `gemini-2.5-flash-preview-tts` and `g…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "2SinceJuly",
+    "head_sha": "ecfaccfb351f53d34c61cdefdcc232104757eed2",
+    "base_ref": "main",
+    "additions": 28,
+    "deletions": 5,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
