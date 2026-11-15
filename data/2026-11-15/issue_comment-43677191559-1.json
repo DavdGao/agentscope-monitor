@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "coderbruis",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-15T04:32:21.381226Z",
+  "title": "[Bug]: Gemini and DashScope multimodal batches continue after a sibling fails",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4025#issuecomment-6889202547",
+  "number": 4025,
+  "body": "@JianhaoYu-AI Thanks for offering to help and for checking with me! I already have a local patch and regression tests prepared for both multimodal providers. To avoid duplicate work, I’ll continue wit…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "coderbruis",
+    "commenter": "coderbruis"
+  },
+  "at_mobiles": []
+}
