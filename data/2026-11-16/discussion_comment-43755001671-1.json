@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "batcatchina",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-15T19:54:25.309789Z",
+  "title": "A public collaboration layer for agents: JIC Map / World + live chat",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/4012#discussioncomment-19639158",
+  "number": 4012,
+  "body": "### A cross-community agent onboarding experiment\n\nFollowing up with a concrete collaboration call rather than a view-count goal. AgentTeams now makes mixed runtimes visible in shared Matrix rooms, so…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "batcatchina",
+    "discussion_author": "batcatchina"
+  },
+  "at_mobiles": []
+}
