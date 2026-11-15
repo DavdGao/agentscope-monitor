@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-15T11:22:55.676837Z",
+  "title": "fix(workspace): dispose half-initialized sandboxes when initialize fails",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4049",
+  "number": 4049,
+  "body": "## AgentScope Version\n\n2.0.12dev (main @ 27d83593)\n\n## Description\n\nCloses #4046.\n\n### Background\n\nFour sandbox workspace managers — K8s, OpenSandbox, Daytona and\nAppleContainer — ran `ws.initialize()…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "iluv7",
+    "head_sha": "e64dab199af215a7e3500a42895ad44e208816d0",
+    "base_ref": "main",
+    "additions": 299,
+    "deletions": 5,
+    "changed_files": 8
+  },
+  "at_mobiles": []
+}
