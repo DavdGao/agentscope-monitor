@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-15T12:10:21.541299Z",
+  "title": "[BUG]: Streaming iteration errors bypass model retries and fallback",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2757",
+  "number": 2757,
+  "body": "## Description\n\nWhen a streaming chat model successfully returns an async generator but raises an exception while that generator is being consumed, the exception bypasses both `ModelConfig.max_retries…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "iluv7"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "iluv7"
+  },
+  "at_mobiles": []
+}
