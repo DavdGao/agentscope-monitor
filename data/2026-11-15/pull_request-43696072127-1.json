@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-15T08:46:52.980889Z",
+  "title": "fix(formatter): tolerate malformed Gemini thought signatures",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4044",
+  "number": 4044,
+  "body": "## Problem\n\n`GeminiChatFormatter` encodes a Gemini tool-call thought signature in a `gemini_ts:`-prefixed tool-call ID, then calls `base64.b64decode()` on the suffix while formatting history. A malfor…",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "75a71f2a168b9692b0ff33f16c9e410fe0d2d615",
+    "base_ref": "main",
+    "additions": 62,
+    "deletions": 5,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
