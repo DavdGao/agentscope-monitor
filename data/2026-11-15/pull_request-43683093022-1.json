@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "coderbruis",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-15T05:55:01.832518Z",
+  "title": "fix(embedding): join sibling multimodal batches after failure",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4039",
+  "number": 4039,
+  "body": "Fixes #4025\n\nGemini and DashScope multimodal calls can raise a batch error while sibling batches keep running, allowing later retries or cache writes after the caller has handled the failure. Their ov…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "coderbruis",
+    "head_sha": "e39de4bee885f99c02c0b41c9c7d49b3fc34d6c4",
+    "base_ref": "main",
+    "additions": 283,
+    "deletions": 13,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
