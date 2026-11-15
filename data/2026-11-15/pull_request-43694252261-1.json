@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-15T08:23:31.576226Z",
+  "title": "fix(tui): accept free text when continuing a multiselect",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4042",
+  "number": 4042,
+  "body": "## Problem\n\nThe Textual AskUser form treats free-text answers as valid when navigating between questions: both `_steps_text()` and the right-arrow handler check `answer.selected or answer.other is not…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "ec0ee3ca8a33d9e2658524dd96b7a8bcee6a2003",
+    "base_ref": "main",
+    "additions": 78,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
