@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-15T11:07:38.803084Z",
+  "title": "refactor(workspace): share one Kubernetes ApiClient per workspace manager",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4047",
+  "number": 4047,
+  "body": "## Title\n\nrefactor(workspace): share one Kubernetes ApiClient per workspace manager\n\n## Background\n\nToday every `K8sWorkspace.initialize()` creates its own\n`kubernetes_asyncio.client.ApiClient` and ev…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "iluv7"
+  },
+  "at_mobiles": []
+}
