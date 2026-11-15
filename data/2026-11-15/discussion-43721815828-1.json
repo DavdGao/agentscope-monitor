@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Greyrat-chengC",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-15T13:58:59.825763Z",
+  "title": "Add a coding-agent evaluation example?",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/4054",
+  "number": 4054,
+  "body": "<html>\n<body>\n<!--StartFragment--><h2 id=\"summary\" style=\"corner-shape: superellipse(1.5); --dsw-elevation-stroke: 0 0 0 .5px #fff3; --dsw-elevation-panel: 0 0 0 .5px #fff3, 0 3px 8px 0 #00000008, 0 0…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "Greyrat-chengC"
+  },
+  "at_mobiles": []
+}
