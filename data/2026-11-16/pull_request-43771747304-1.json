@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "liangqianxing",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-15T22:53:23.902025Z",
+  "title": "fix(utils): keep array elements when json_repair shortens a list",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4056",
+  "number": 4056,
+  "body": "# fix(utils): keep array elements when json_repair shortens a list\n\nFixes #4035\n\n`_json_loads_with_repair()` keeps the original parse when json_repair drops data, so that the caller's schema validatio…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "liangqianxing",
+    "head_sha": "b79c0064509dc0dc607d2fae1ab738b13314adc6",
+    "base_ref": "main",
+    "additions": 56,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
