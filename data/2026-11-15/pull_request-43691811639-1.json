@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-15T07:51:45.083337Z",
+  "title": "fix(agent): clear merge state for dropped transcripts",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4040",
+  "number": 4040,
+  "body": "## Problem\n\n`TurnAggregator.take()` computes `_merges` only after it has accepted a transcript. Its empty/backchannel and `min_chars` early-return paths leave the previous value untouched, so `merges_…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "d8c6a292b614c3ef19b65e7d5daf68a995f04104",
+    "base_ref": "main",
+    "additions": 26,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
