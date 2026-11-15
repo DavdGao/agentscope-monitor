@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-15T12:12:09.144486Z",
+  "title": "[Bug]: realtime downlink-pump reconnect test flakes: reply ends 'interrupted' instead of 'completed'",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4050#issuecomment-6894121821",
+  "number": 4050,
+  "body": "/open",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "iluv7",
+    "commenter": "iluv7"
+  },
+  "at_mobiles": []
+}
