@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "2SinceJuly",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-15T00:55:18.598492Z",
+  "title": "GeminiTTSModel default model gemini-2.5-flash-preview-tts is shut down on 2026-11-17",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3654#issuecomment-6886931205",
+  "number": 3654,
+  "body": "Opened #4038 for option (a): the default moves to `gemini-3.8-flash-tts`, and both 2.5 preview cards go from `status: active` to `deprecated` with `deprecated_at: 2026-11-17T00:00:00`. No new YAMLs we…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "pcbeingused333",
+    "commenter": "2SinceJuly"
+  },
+  "at_mobiles": []
+}
