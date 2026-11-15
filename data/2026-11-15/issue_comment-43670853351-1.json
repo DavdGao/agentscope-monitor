@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "wxxlamp",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-15T03:07:03.695690Z",
+  "title": "fix(channel): secure approval card decisions",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2791#issuecomment-6888338930",
+  "number": 2791,
+  "body": "@qbc2016 Hi maintainer, all comments were replied, please take a look.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "wxxlamp",
+    "commenter": "wxxlamp"
+  },
+  "at_mobiles": []
+}
