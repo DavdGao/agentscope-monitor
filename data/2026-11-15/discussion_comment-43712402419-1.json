@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "tubban1",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-15T12:09:40.766630Z",
+  "title": "Stopping a tool call should also stop the work it started",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3080#discussioncomment-19630815",
+  "number": 3080,
+  "body": "这个讨论正好碰到我在做的开源项目 **Agent-Ready Engineering** 里的一条上线检查：写操作超时后，Agent 能不能查清业务结果再决定下一步。\n\n举个例子：Agent 通过 MCP 创建工单，服务端已经写入，但回包前连接断了。即使客户端发出取消通知，此时也未必能确认写入是否发生。如果把超时直接当成失败重试，就可能生成两张工单。\n\n我目前倾向于让工具调用层保留稳定的业务操作 …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "tubban1",
+    "discussion_author": "zaher-m"
+  },
+  "at_mobiles": []
+}
