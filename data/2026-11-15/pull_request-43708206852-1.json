@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-15T11:17:44.236302Z",
+  "title": "refactor(workspace): share one Kubernetes ApiClient per workspace manager",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4048",
+  "number": 4048,
+  "body": "## AgentScope Version\n\n2.0.12dev (main @ 27d83593)\n\n## Description\n\nCloses #4047.\n\n### Background\n\nEvery `K8sWorkspace.initialize()` used to create its own `kubernetes_asyncio` `ApiClient` (an aiohttp…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "iluv7",
+    "head_sha": "947a81d87af298ab9f3c140103b7fc6192faebc4",
+    "base_ref": "main",
+    "additions": 222,
+    "deletions": 18,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
