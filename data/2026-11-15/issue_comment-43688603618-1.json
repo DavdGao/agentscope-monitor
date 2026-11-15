@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "indexGin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-15T07:08:48.102693Z",
+  "title": "[Bug]: Vector stores disagree on None metadata_filter values: Milvus raises, MongoDB also matches missing keys",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4037#issuecomment-6890863334",
+  "number": 4037,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "fxia0018",
+    "commenter": "indexGin"
+  },
+  "at_mobiles": []
+}
