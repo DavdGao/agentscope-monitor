@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-15T09:04:24.626959Z",
+  "title": "fix(workspace): coordinate shared OpenSandbox lifecycle and active usage",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4027",
+  "number": 4027,
+  "body": "## AgentScope Version\n\n`2.0.12dev`; implementation commit `d3df0886`, based on `9aeab115`.\n\n## Description\n\nFixes #4026.\n\nAn OpenSandbox manager currently interprets its **process-local cache TTL** as…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "iluv7",
+    "head_sha": "2b5dc0b7df4caa12622c966d0cfeb704efaa8dda",
+    "base_ref": "main",
+    "additions": 1560,
+    "deletions": 92,
+    "changed_files": 15
+  },
+  "at_mobiles": []
+}
