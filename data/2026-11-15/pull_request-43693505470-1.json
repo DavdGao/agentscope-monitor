@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-15T08:13:52.463009Z",
+  "title": "fix(app): preserve literal double dollars in MCP configs",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4041",
+  "number": 4041,
+  "body": "## Problem\n\n`render_mcp()` substitutes card inputs with `string.Template.safe_substitute()`. Although undeclared `$NAME` placeholders are intentionally preserved, `safe_substitute()` also collapses th…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "e934f122b17035115d240c979ff15bb006971bd8",
+    "base_ref": "main",
+    "additions": 57,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
