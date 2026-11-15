@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "wiiiktor",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-15T09:05:03.425106Z",
+  "title": "Chopper: a small open model that cuts only the needed sentences out of retrieved text",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/4045",
+  "number": 4045,
+  "body": "Hi! Sharing a small open-source tool that may be useful here.\n\n```\n                 .-~-.-~-.-~-.\n                (  ~   ~   ~  )\n                 (___________)\n                 |___________|\n        …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Show and tell",
+    "author": "wiiiktor"
+  },
+  "at_mobiles": []
+}
