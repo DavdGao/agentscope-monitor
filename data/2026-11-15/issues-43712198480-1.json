@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-15T12:07:10.604565Z",
+  "title": "[Bug]: realtime downlink-pump reconnect test flakes: reply ends 'interrupted' instead of 'completed'",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4050",
+  "number": 4050,
+  "body": "- [x] I have searched the existing issues and discussions, and this is not a duplicate.\n\n- [x] This is a bug, not a usage question.\n\n## Background / Description\n\nWhile CI was running PR #4049 (`fix(wo…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "iluv7"
+  },
+  "at_mobiles": []
+}
