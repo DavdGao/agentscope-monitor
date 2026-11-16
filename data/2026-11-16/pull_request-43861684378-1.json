@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "burrows99",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-16T11:53:47.725739Z",
+  "title": "fix(workspace): keep every batch when offload_context runs concurrently",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4074",
+  "number": 4074,
+  "body": "## AgentScope Version\n\nmain @ 2fb8607a (2.0.13dev)\n\n## Description\n\nFixes #4073\n\n`WorkspaceBase.offload_context` appends to `sessions/<id>/context.jsonl` by reading the whole file, then writing it bac…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "burrows99",
+    "head_sha": "cb241d1bd013c29237c95e348afe2ff6ad1e4538",
+    "base_ref": "main",
+    "additions": 41,
+    "deletions": 6,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
