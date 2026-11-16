@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "chinaux",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-16T09:30:25.330135Z",
+  "title": "feat(vdb): integrate zvec as an optional vector database backend",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/4072",
+  "number": 4072,
+  "body": "### Background\n\n  - Since v2.0.3, AgentScope has a unified vector database interface under `src/agentscope/rag/_vdb/`, with four backends today: Qdrant, Milvus Lite, MongoDB Atlas, Elasticsearch.\n  - …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "chinaux"
+  },
+  "at_mobiles": []
+}
