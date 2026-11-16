@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-16T11:59:33.688248Z",
+  "title": "Bug: RAG hint_template accepts unknown placeholders and crashes the reply",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3730#issuecomment-6915789241",
+  "number": 3730,
+  "body": "This issue has been resolved by #2965, merged into `main` on November 9.\n\nI verified that both reproduction cases—an unknown placeholder and an unmatched brace—now raise a validation error when constr…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Kiko0301",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
