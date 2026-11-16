@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "freshman-0ne",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-16T01:44:53.268523Z",
+  "title": "[Feature]: keep the sandbox lease alive during long-running agent turns",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3208#issuecomment-6905022283",
+  "number": 3208,
+  "body": "我看一下",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Koawa265Richard31",
+    "commenter": "freshman-0ne"
+  },
+  "at_mobiles": []
+}
