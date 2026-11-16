@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "burrows99",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-16T11:52:43.875376Z",
+  "title": "[Bug]: Concurrent workspace context appends silently lose one agent's saved conversation",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4073#issuecomment-6915646571",
+  "number": 4073,
+  "body": "reproduced on main without a model: two concurrent offload_context calls on one session keep only one batch. fix is an asyncio lock around the read and write, plus a regression test. can i pick this u…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "UnZHGPPT",
+    "commenter": "burrows99"
+  },
+  "at_mobiles": []
+}
