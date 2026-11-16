@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-16T10:06:25.321609Z",
+  "title": "fix(model): keep OpenAI chat refusals instead of returning an empty reply",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3667#issuecomment-6913383827",
+  "number": 3667,
+  "body": "Thanks for identifying this issue and contributing the fix.\n\n#3324 has since been merged and includes the same refusal handling for both streaming and non-streaming responses. The remaining changes he…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "ZhuLinsen",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
