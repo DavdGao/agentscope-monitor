@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "lss680455-create",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-16T05:40:03.453630Z",
+  "title": "Proposal: add a DebatePipeline (independent answers -> cross-examination -> judge synthesis)",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/3832#discussioncomment-19646709",
+  "number": 3832,
+  "body": "Following up after a week with no replies. This proposal answers the invitation in #2479; the full design is in issue #3828. Below is the implementation plan condensed to what a maintainer can say yes…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "lss680455-create",
+    "discussion_author": "lss680455-create"
+  },
+  "at_mobiles": []
+}
