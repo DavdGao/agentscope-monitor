@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "farfriend",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-16T07:05:15.196595Z",
+  "title": "[Bug]: AnthropicMultiAgentFormatter sends an empty system prompt as an empty text block",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3993#issuecomment-6909805764",
+  "number": 3993,
+  "body": "Withdrawing my claim on this one — #3994 already fixes it, and I only noticed after opening #4064 (now closed as a duplicate). Releasing the assignment so it does not block anyone.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "67-luck",
+    "commenter": "farfriend"
+  },
+  "at_mobiles": []
+}
