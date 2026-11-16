@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-16T04:04:32.275296Z",
+  "title": "fix(steering): preserve inputs across uncertain acknowledgements",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4061",
+  "number": 4061,
+  "body": "## AgentScope Version\n\n`2.0.12dev`\n\n## Description\n\nFixes #4060.\n\nSteering acknowledgement can lose the original input when removal commits but its response times out. A delayed whole-queue replacemen…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "d1194c0cab696fb49107dc0007f59715daa732aa",
+    "base_ref": "main",
+    "additions": 721,
+    "deletions": 30,
+    "changed_files": 9
+  },
+  "at_mobiles": []
+}
