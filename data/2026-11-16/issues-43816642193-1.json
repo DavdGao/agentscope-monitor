@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "farfriend",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-16T06:25:36.475387Z",
+  "title": "feat(model): add zhipu (glm) chat model support",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4062",
+  "number": 4062,
+  "body": "### Background\n\nAgentScope v2 ships dedicated providers for DeepSeek, Moonshot, MiniMax and\nVolcengine, but Zhipu AI (BigModel, GLM series) is only reachable today by\npointing `OpenAIChatModel` at `ht…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "farfriend"
+  },
+  "at_mobiles": []
+}
