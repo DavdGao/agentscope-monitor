@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-16T09:03:05.481206Z",
+  "title": "feat(tts): add model release dates and sort model selection",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4071",
+  "number": 4071,
+  "body": "## AgentScope Version\n\n2.0.13dev\n\n## Description\n\nTTS model cards lack release dates, so their frontend model selector cannot show newer models first like the Chat and Realtime selectors. Add an optio…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "838338066f408e5b8840232b800c1c895a6029aa",
+    "base_ref": "main",
+    "additions": 218,
+    "deletions": 2,
+    "changed_files": 28
+  },
+  "at_mobiles": []
+}
