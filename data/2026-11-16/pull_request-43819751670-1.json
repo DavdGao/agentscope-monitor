@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "farfriend",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-16T06:52:27.511586Z",
+  "title": "fix(formatter): drop empty system prompt in anthropic multi-agent formatters",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4064",
+  "number": 4064,
+  "body": "Fixes #3993\n\n## What changed\n\n`AnthropicMultiAgentFormatter.format()` always forwarded the leading system\nmessage through `_format_system_message()`, which builds\n\n```python\n{\"role\": \"system\", \"conten…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "farfriend",
+    "head_sha": "cbd4a69d2e0212dbeb073db98965c03dd912613f",
+    "base_ref": "main",
+    "additions": 72,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
