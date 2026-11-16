@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "2SinceJuly",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-16T16:51:57.750270Z",
+  "title": "fix(model): keep streamed tool calls separate when the server omits index",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4011#issuecomment-6922976660",
+  "number": 4011,
+  "body": "The pr-guard note above is stale — the body has carried `Fixes #4010` since the PR was opened, and #4010 is still open and unassigned. `closingIssuesReferences` on this PR already resolves to it, so t…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "2SinceJuly",
+    "commenter": "2SinceJuly"
+  },
+  "at_mobiles": []
+}
