@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "farfriend",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-16T07:02:01.767173Z",
+  "title": "fix(formatter): drop empty system prompt in anthropic multi-agent formatters",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4064#issuecomment-6909748304",
+  "number": 4064,
+  "body": "Duplicate of #3994, which was opened first and fixes the same path — closing mine so the review queue stays clean. The only difference here was three extra edge-case tests, which I'm happy to paste in…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "farfriend",
+    "commenter": "farfriend"
+  },
+  "at_mobiles": []
+}
