@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "wangtaotaotao95",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-16T07:51:23.295059Z",
+  "title": "fix(asr): honor per-call DashScope model overrides",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4070",
+  "number": 4070,
+  "body": "## AgentScope Version\n\n2.0.13.dev0\n\n## Description\n\nFixes #4068.\n\n`DashScopeASRModel.transcribe(..., model=\"...\")` currently raises `TypeError` before making a request because `model` is supplied expl…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "wangtaotaotao95",
+    "head_sha": "0fd36bbd11b8fcfb18c73a507ecd5c0992dfd61b",
+    "base_ref": "main",
+    "additions": 63,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
