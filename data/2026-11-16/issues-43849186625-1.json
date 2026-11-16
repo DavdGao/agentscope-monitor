@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "UnZHGPPT",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-16T10:28:50.572681Z",
+  "title": "[Bug]: Concurrent workspace context appends silently lose one agent's saved conversation",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4073",
+  "number": 4073,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [
+    "Bug"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "UnZHGPPT"
+  },
+  "at_mobiles": []
+}
