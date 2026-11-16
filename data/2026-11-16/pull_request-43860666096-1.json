@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-16T11:46:34.216920Z",
+  "title": "fix(rag): route generic uploads by filename when no parser matches",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3986",
+  "number": 3986,
+  "body": "## Problem\n\nUploading a valid PowerPoint deck leaves it unindexed when the multipart client labels its file part `application/octet-stream`:\n\n```\nValueError: No parser registered for media type 'appli…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "2SinceJuly",
+    "head_sha": "ad2451e248515925fbaf2dba9d5355045d483ba5",
+    "base_ref": "main",
+    "additions": 303,
+    "deletions": 9,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
