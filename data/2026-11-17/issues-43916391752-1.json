@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "tonylate520",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-16T17:15:23.224418Z",
+  "title": "Agentscope MCP is listed on MCP ServerList",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4075",
+  "number": 4075,
+  "body": "Hi! We operate MCP ServerList and have added Agentscope MCP to our directory.\n\nYour listing: https://mcp-serverlist.com/mcp/agentscope\n\nWould you consider adding this \"Listed on MCP ServerList\" badge …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "tonylate520"
+  },
+  "at_mobiles": []
+}
