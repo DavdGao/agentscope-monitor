@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "2SinceJuly",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-16T03:34:43.989043Z",
+  "title": "[Bug]: Residual wake-up after an offloaded tool result is consumed starts an empty-input run and duplicates the assistant reply",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3990#issuecomment-6906545118",
+  "number": 3990,
+  "body": "Verified the premise on current `main` (`27d83593`), and it holds. Two facts from the code, so a maintainer can decide the shape before anyone writes a patch:\n\n1. **The parked guard does not cover thi…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "xwm1782379277",
+    "commenter": "2SinceJuly"
+  },
+  "at_mobiles": []
+}
