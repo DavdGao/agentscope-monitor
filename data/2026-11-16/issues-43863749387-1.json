@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-16T12:07:56.893945Z",
+  "title": "[Bug]: Realtime TTS only speaks the first text block of a reply (DashScope realtime and CosyVoice)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4018",
+  "number": 4018,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "Assertive-xxh"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "Assertive-xxh"
+  },
+  "at_mobiles": []
+}
