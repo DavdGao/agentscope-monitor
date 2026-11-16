@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "wangtaotaotao95",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-16T07:31:36.306085Z",
+  "title": "[Bug]: WordParser duplicates text moved with tracked changes",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4067",
+  "number": 4067,
+  "body": "### Description\n\nOn main `8bc5d3e9d576d0901cd894047218bd5a7e835e46` (2.0.13.dev0), `WordParser` includes both the source and destination of a tracked text move in a DOCX. Word stores the old run under…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "wangtaotaotao95"
+  },
+  "at_mobiles": []
+}
