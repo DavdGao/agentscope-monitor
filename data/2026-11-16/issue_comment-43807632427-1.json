@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "2SinceJuly",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-16T05:02:17.626298Z",
+  "title": "fix(tts): default Gemini TTS to a model that is still served",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4038#issuecomment-6907800837",
+  "number": 4038,
+  "body": "Re-checked against `main` at `fe7069e7` (today): the default is still `gemini-2.5-flash-preview-tts` at `src/agentscope/tts/_gemini/_model.py:109`, and both 2.5 preview cards are still `status: active…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "2SinceJuly",
+    "commenter": "2SinceJuly"
+  },
+  "at_mobiles": []
+}
