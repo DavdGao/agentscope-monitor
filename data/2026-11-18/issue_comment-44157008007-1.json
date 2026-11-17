@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "yang0228",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-17T19:18:00.380673Z",
+  "title": "fix(workspace): expose Daytona auto-stop interval",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3283#issuecomment-6958313810",
+  "number": 3283,
+  "body": "Hi @DavdGao, could you please review this focused Daytona configuration fix for #3277?\n\nThe scope remains limited to exposing `auto_stop_interval`: `None` preserves the provider policy, `0` disables a…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "yang0228",
+    "commenter": "yang0228"
+  },
+  "at_mobiles": []
+}
