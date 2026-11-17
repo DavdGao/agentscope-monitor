@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "CodeTerminator666",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-17T04:09:34.513928Z",
+  "title": "[Bug]: Toolkit orders MCP tools as the server lists them, so the tools array changes between model calls",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4085#issuecomment-6937999362",
+  "number": 4085,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "CodeTerminator666",
+    "commenter": "CodeTerminator666"
+  },
+  "at_mobiles": []
+}
