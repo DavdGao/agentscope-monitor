@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-17T06:18:25.002346Z",
+  "title": "fix(tool): suggest the file itself when it has no parent directory",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3940",
+  "number": 3940,
+  "body": "## Problem\n\nWhen a file operation asks the user for confirmation, the suggestion\nwidens the path to its parent directory so that approving it once is\nenough for a whole tree:\n\n```python\nparent = self.…",
+  "labels": [
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "4d2507efa4bd21b7c12cf3355c5979afd08116e9",
+    "base_ref": "main",
+    "additions": 56,
+    "deletions": 14,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
