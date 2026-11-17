@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-17T12:31:38.394018Z",
+  "title": "fix(realtime): drop null parameter overrides from cards",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4098",
+  "number": 4098,
+  "body": "## Problem\n\n`RealtimeModelCard.from_yaml` treats a YAML `parameter_overrides` value of `null` as a request to remove that parameter from the generated `parameter_schema`, but it then passes the origin…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "68870fa22f8b083a61175502cafb682020556c0c",
+    "base_ref": "main",
+    "additions": 53,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
