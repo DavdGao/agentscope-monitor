@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "farfriend",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-17T08:14:09.235965Z",
+  "title": "feat(model): add zhipu (glm) chat model support",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4062#issuecomment-6942527049",
+  "number": 4062,
+  "body": "Cross-posting this proposal to Discussions (per the triage bot's suggestion so it reaches more people): https://github.com/agentscope-ai/agentscope/discussions/4091 - the write-up there is the same, w…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "farfriend",
+    "commenter": "farfriend"
+  },
+  "at_mobiles": []
+}
