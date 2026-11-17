@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-17T03:53:55.800999Z",
+  "title": "test(realtime): fix reconnect pump test timing race",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4084",
+  "number": 4084,
+  "body": "## AgentScope Version\n\n2.0.13dev\n\n## Description\n\n`test_crashed_downlink_pump_is_replaced_on_reconnect` can intermittently report `interrupted` instead of `completed` on Windows: its fake transport en…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "040e69c9e809e413c2c2bf79e8668fc4b3f683e2",
+    "base_ref": "main",
+    "additions": 26,
+    "deletions": 2,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
