@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "rome-xi",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-17T09:41:54.560042Z",
+  "title": "fix(app): keep Redis lock heartbeat alive after renew errors",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3767#issuecomment-6944375116",
+  "number": 3767,
+  "body": "Gentle ping: CI is green and this is ready for review whenever someone has a moment. Happy to adjust anything. Thanks!",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "rome-xi",
+    "commenter": "rome-xi"
+  },
+  "at_mobiles": []
+}
