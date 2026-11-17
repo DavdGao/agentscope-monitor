@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "2SinceJuly",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-17T08:45:59.992099Z",
+  "title": "fix(formatter): run media downloads off the event loop",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3929#issuecomment-6943180365",
+  "number": 3929,
+  "body": "Rebased onto `main` at `e23da752` in `18fa4e0b` — the conflict is resolved.\n\nThe conflict was mechanical, not semantic: #4030 replaced `url2pathname(url_str.removeprefix(\"file://\"))` with the new `fil…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "2SinceJuly",
+    "commenter": "2SinceJuly"
+  },
+  "at_mobiles": []
+}
