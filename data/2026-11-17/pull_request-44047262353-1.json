@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-17T08:30:18.226092Z",
+  "title": "fix(formatter): keep the file:// URL authority when resolving local paths",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4030",
+  "number": 4030,
+  "body": "## Summary\n\nThe formatters previously resolved `file://` URLs with `str.removeprefix(\"file://\")`, which stripped the URL authority. That turned a network form such as `file://fileserver/share/image.pn…",
+  "labels": [
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "laoyyu",
+    "head_sha": "906d0d6098b0353a3984f6bf61755481b24ef4b6",
+    "base_ref": "main",
+    "additions": 165,
+    "deletions": 25,
+    "changed_files": 9
+  },
+  "at_mobiles": []
+}
