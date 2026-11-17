@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Yzzz88",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-17T10:50:28.446902Z",
+  "title": "[Bug]: Windows CSV MIME type routes lesson uploads to the binary Excel parser",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4095",
+  "number": 4095,
+  "body": "### Prerequisites\n\n- [x] I searched existing issues and PRs for CSV indexing and this MIME type.\n- [x] This is a bug, not a usage question.\n\n### Background / Description\n\nA plain UTF-8 CSV with lesson…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Yzzz88"
+  },
+  "at_mobiles": []
+}
