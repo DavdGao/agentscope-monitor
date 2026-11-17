@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-17T12:35:51.193909Z",
+  "title": "fix(model): keep Anthropic delta usage without start usage",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4099",
+  "number": 4099,
+  "body": "## Problem\n\n`AnthropicChatModel` builds its streaming `ChatUsage` from `message_start.message.usage` and only updates it in `message_delta` when that object already exists:\n\n```python\nif event.usage a…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "d0c93c0b2522b184566eb6fdd1ab7efd09aa0291",
+    "base_ref": "main",
+    "additions": 92,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
