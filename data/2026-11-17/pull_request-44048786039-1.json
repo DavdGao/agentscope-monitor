@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-17T08:40:55.673139Z",
+  "title": "test(realtime): end the fake transport on events, not its frame clock",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3981",
+  "number": 3981,
+  "body": "## AgentScope Version\n\n`2.0.12dev`, based on `946d938e3d37f23e2018bc221c3134ce032110f9`.\n\n## Description\n\nFixes #3980.\n\nSeveral tests in `tests/realtime_agent_test.py` end the run when `FakeTransport`…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "shuxiachai",
+    "head_sha": "ebb7762eeec58f30439f8ea575641de73928daef",
+    "base_ref": "main",
+    "additions": 38,
+    "deletions": 31,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
