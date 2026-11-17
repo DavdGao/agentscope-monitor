@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-17T08:30:06.583906Z",
+  "title": "[Bug]: WordParser joins terms separated by tabs inside DOCX table cells",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3998",
+  "number": 3998,
+  "body": "### Prerequisites\n- [x] I searched existing issues and PRs.\n- [x] This is a bug report.\n\n### Background / Description\n\nWhen a Word lesson or lab handout uses tabs to separate values inside a table cel…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "Yzzz88"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "Yzzz88"
+  },
+  "at_mobiles": []
+}
