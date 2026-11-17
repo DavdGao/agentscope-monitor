@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-17T07:58:23.941551Z",
+  "title": "fix(rag): preserve run tabs in Word table cells",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4000",
+  "number": 4000,
+  "body": "## AgentScope Version\n\n2.0.12dev, based on main at 917ff1f.\n\n## Description\n\nFixes #3998.\n\nWordParser currently joins terms separated by a tab in a DOCX table cell. For example, a lab handout cell con…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Yzzz88",
+    "head_sha": "da835e4f64eda78f840b3c07eeab95dfacaa1eea",
+    "base_ref": "main",
+    "additions": 65,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
