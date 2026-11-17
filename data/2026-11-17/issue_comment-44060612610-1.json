@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Wuwang777",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-17T09:59:36.103185Z",
+  "title": "[Bug]: ExcelParser strips leading and trailing spaces from text cells in JSON output",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4094#issuecomment-6944768932",
+  "number": 4094,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Wuwang777",
+    "commenter": "Wuwang777"
+  },
+  "at_mobiles": []
+}
