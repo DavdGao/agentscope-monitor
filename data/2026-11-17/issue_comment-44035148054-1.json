@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-17T06:58:49.454375Z",
+  "title": "fix(memory): exclude reasoning drafts from mem0 extraction",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3957#issuecomment-6941136830",
+  "number": 3957,
+  "body": "Could you clarify whether this was observed with a real model, or identified solely through deterministic tests?\n\nBoth this PR and #3955 state that model responses and embeddings are test doubles. The…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "qkycir",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
