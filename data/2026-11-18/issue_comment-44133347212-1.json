@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "2SinceJuly",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-17T17:07:13.824412Z",
+  "title": "fix(storage): delete Redis messages atomically by id",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3857#issuecomment-6955129307",
+  "number": 3857,
+  "body": "Re-verified against `main` at `e1112538` today, since the last status check here.\n\n- **The race still reproduces on `main`.** With `[a, b, c]` stored, `delete_message(b)` resolves index `1`; a concurr…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "2SinceJuly",
+    "commenter": "2SinceJuly"
+  },
+  "at_mobiles": []
+}
