@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-17T11:30:08.195828Z",
+  "title": "[Bug]: realtime downlink-pump reconnect test flakes: reply ends 'interrupted' instead of 'completed'",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4050#issuecomment-6946782352",
+  "number": 4050,
+  "body": "For reference, the test race reported here has been addressed on `main` by #3981, following the earlier reconnect-test fix in #4084.\n\nBoth affected tests now use `FakeTransport(until=model.played)` to…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "iluv7",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
