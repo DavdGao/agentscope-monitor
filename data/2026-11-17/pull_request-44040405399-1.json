@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-17T07:39:53.794629Z",
+  "title": "fix(formatter): keep the file:// URL authority when resolving local paths",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4030",
+  "number": 4030,
+  "body": "## Summary\n\nThe formatters resolved `file://` URLs by stripping the scheme with `str.removeprefix(\"file://\")`, which silently drops the URL **authority**. Per RFC 8089, `file://host/share/x.png` is a …",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "laoyyu",
+    "head_sha": "906d0d6098b0353a3984f6bf61755481b24ef4b6",
+    "base_ref": "main",
+    "additions": 165,
+    "deletions": 25,
+    "changed_files": 9
+  },
+  "at_mobiles": []
+}
