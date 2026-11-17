@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "drvt69talati",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-17T15:47:12.225711Z",
+  "title": "[Feature] Add kosa8 Cloud as a workspace (sandbox) backend",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/4105",
+  "number": 4105,
+  "body": "I'm on the kosa8 team (kosa8.com: microVM sandboxes for AI agents, hosted API at `api.kosa8.com`). We'd like to add kosa8 Cloud as a workspace backend, next to the E2B, Daytona, OpenSandbox and K8s ba…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "drvt69talati"
+  },
+  "at_mobiles": []
+}
