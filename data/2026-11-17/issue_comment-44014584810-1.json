@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-17T04:04:34.930305Z",
+  "title": "fix(rag): skip search for non-positive top-k",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3827#issuecomment-6937910508",
+  "number": 3827,
+  "body": "Thanks for the fix! This issue has already been addressed in #3876, which rejects non-positive `top_k` values with a `ValueError` before any collection initialization, embedding, or vector search. Sin…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "wuwenbo0626",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
