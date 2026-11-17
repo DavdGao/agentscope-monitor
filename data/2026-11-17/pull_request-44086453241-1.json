@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-17T12:47:51.081816Z",
+  "title": "fix(agent): advance Live playout after interruption",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4101",
+  "number": 4101,
+  "body": "## Problem\n\nIn full-duplex Live mode every `TimelineAudioDeltaEvent` uses the same playout item id, `live:<session_id>`. On barge-in, `_interrupt_live_speech()` calls `transport.clear_audio()`, and `W…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "46528aea1a86d7f33b9ef8ba9433c9d4d32a0063",
+    "base_ref": "main",
+    "additions": 61,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
