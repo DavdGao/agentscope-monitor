@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-17T12:29:25.718954Z",
+  "title": "fix(formatter): sanitize Moonshot message names",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4097",
+  "number": 4097,
+  "body": "## Problem\n\n`MoonshotChatFormatter` builds OpenAI-compatible chat messages with `\"name\": msg.name` in three places, but the Chat Completions API only accepts names matching `^[^\\s<|\\\\/>]+$`. A free-te…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "916b8bc8c389a35f25240aa06c4420baa1bdbf77",
+    "base_ref": "main",
+    "additions": 80,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
