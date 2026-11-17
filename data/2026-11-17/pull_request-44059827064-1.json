@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-17T09:54:24.138382Z",
+  "title": "fix(workspace): prevent K8s name collisions and preserve legacy storage",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4029",
+  "number": 4029,
+  "body": "Fixes #4028\n\nDistinct workspace IDs such as `a.b` and `a_b` can normalize to the same\nKubernetes resource name. Reusing resources by name alone can attach a\nworkspace to another workspace's Pod and PV…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "indexGin",
+    "head_sha": "9bde7ebd7775e0413496112f2d5d410111159ad9",
+    "base_ref": "main",
+    "additions": 575,
+    "deletions": 8,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
