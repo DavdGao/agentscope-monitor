@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-17T09:53:53.348274Z",
+  "title": "fix(formatter): tolerate malformed Gemini thought signatures",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4044#issuecomment-6944642729",
+  "number": 4044,
+  "body": "Could you provide a concrete reproduction showing how a `gemini_ts:` ID becomes malformed in practice?\n\nBoth Gemini response parsers construct these IDs using `base64.b64encode()`. Streaming accumulat…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Kiko0301",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
