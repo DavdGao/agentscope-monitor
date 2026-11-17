@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "CodeTerminator666",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-17T15:16:22.515954Z",
+  "title": "feat(mcp): let an mcp client distrust self-reported tool annotations",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4104",
+  "number": 4104,
+  "body": "## AgentScope Version\n\n2.0.13dev (based on main @ e5895ad6332d909a30e91491a713398cf832464b)\n\n## Description\n\nFixes #4103\n\n**Background.** `MCPTool` and the sandbox gateway's `GatewayMCPTool` take `is_…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "CodeTerminator666",
+    "head_sha": "3a770cd16ec8cca9393a15b57566ea1ef457791e",
+    "base_ref": "main",
+    "additions": 226,
+    "deletions": 7,
+    "changed_files": 7
+  },
+  "at_mobiles": []
+}
