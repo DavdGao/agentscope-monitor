@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-17T11:29:41.232102Z",
+  "title": "test(realtime): deflake downlink-pump reconnect tests",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4051",
+  "number": 4051,
+  "body": "## AgentScope Version\n\n2.0.12dev (main @ 27d83593)\n\n## Description\n\nCloses #4050.\n\n`FakeTransport(frames=N)` ends on a fixed frame budget, and `reply_stream`'s exit path — by design — barges in on any…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "iluv7",
+    "head_sha": "bbae1a492754c34eba55d7a39c624e4e444ad9b8",
+    "base_ref": "main",
+    "additions": 33,
+    "deletions": 2,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
