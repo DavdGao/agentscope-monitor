@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-17T08:00:07.230927Z",
+  "title": "fix(rag): clear stale document errors after successful reindexing",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4007",
+  "number": 4007,
+  "body": "## Problem\n\nA failed knowledge-document index stores a sanitized failure reason in `record.data.error`. When the document is retried and reaches `ready`, the worker only updates `status` and `chunk_co…",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "fda721fc6eb2b174e8e9a3f140eeac15b1e782b5",
+    "base_ref": "main",
+    "additions": 61,
+    "deletions": 5,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
