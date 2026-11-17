@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Yzzz88",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-17T08:42:11.383494Z",
+  "title": "[Bug]: A PPTX image prevents indexing usable slide text in a text-only knowledge base",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4093",
+  "number": 4093,
+  "body": "### Problem\n\nA normal mixed PowerPoint deck can fail to index even though its slide text is usable. The default PPTParser emits both TextBlock and DataBlock sections. KnowledgeBase.insert_document sen…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Yzzz88"
+  },
+  "at_mobiles": []
+}
