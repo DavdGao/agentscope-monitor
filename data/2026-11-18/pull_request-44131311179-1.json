@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "nurlanmnn",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-17T16:55:59.127118Z",
+  "title": "fix(tool): resolve lazy annotations for callable-instance tools",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4107",
+  "number": 4107,
+  "body": "## AgentScope Version\n2.0.13dev (main)\n\n## Description\nCloses #4106\n\nRegistering an object with `__call__` as a tool broke when its module used `from __future__ import annotations`. The type hints wer…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "nurlanmnn",
+    "head_sha": "676b9d07fee23bef6e7a333b66ee3f3859daacee",
+    "base_ref": "main",
+    "additions": 74,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
