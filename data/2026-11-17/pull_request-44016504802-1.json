@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "indexGin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-17T04:20:46.779333Z",
+  "title": "fix(app): normalize whitespace in auto-named sessions",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4089",
+  "number": 4089,
+  "body": "Fixes #4087\n\n## Problem and root cause\n\n`ChatService._auto_name_session` (`src/agentscope/app/_service/_chat.py`)\nnames a session from the opening message text. Two whitespace cases are not\nhandled:\n\n…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "indexGin",
+    "head_sha": "b04668bacc540f8b448178210d511b919b76066c",
+    "base_ref": "main",
+    "additions": 22,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
