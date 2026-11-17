@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "NUAAwqy",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-17T03:00:36.684745Z",
+  "title": "Formatters block the event loop while fetching remote media (URLSource)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4081",
+  "number": 4081,
+  "body": "### Describe the bug\n\nWhen a message contains a `DataBlock` (image / audio / video) whose source is a `URLSource` pointing to a remote URL, the Anthropic and DashScope formatters fetch the media synch…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "NUAAwqy"
+  },
+  "at_mobiles": []
+}
