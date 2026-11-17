@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-17T11:29:42.265287Z",
+  "title": "test(realtime): deflake downlink-pump reconnect tests",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4051#issuecomment-6946772134",
+  "number": 4051,
+  "body": "Thanks for the fix! This is now covered by PR #3981, which has been merged into `main`.\n\n#3981 updates both tests addressed here to wait for script completion via `FakeTransport(until=model.played)`, …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "iluv7",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
