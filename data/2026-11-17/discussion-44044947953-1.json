@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "farfriend",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-17T08:14:02.893920Z",
+  "title": "Proposal: first-class Zhipu AI (GLM) chat model provider",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/4091",
+  "number": 4091,
+  "body": "Opening this here because the triage bot on #4062 suggested feature proposals reach more people in Discussions. The full write-up and the per-field details are in #4062.\n\n## What\n\nA `zhipu` provider f…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "farfriend"
+  },
+  "at_mobiles": []
+}
