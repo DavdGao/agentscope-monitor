@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "Marlin-Phone",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T06:33:35.459160Z",
+  "title": "[Bug]: Agent crashes when tool call fails due to missing exception handling in _acting()",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1985",
+  "number": 1985,
+  "body": "## 问题描述\n\n当 Agent 调用 MCP 工具失败时（如 MCP Server 返回 HTTP 401），`ReActAgent._acting()` 方法中的工具调用异常未被捕获，直接向上传播导致整个 Agent 循环崩溃。表现为：\n\n- 微信渠道：typing 指示器永久旋转，用户收不到任何回复\n- 消费者线程死锁，后续消息被丢弃\n\n## 根因分析\n\n`_acting()` 方法（`_r…",
+  "labels": [
+    "state/needs-clarification"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "Marlin-Phone"
+  },
+  "at_mobiles": []
+}
