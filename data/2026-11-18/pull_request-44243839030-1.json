@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "laoyyu",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T05:23:01.489015Z",
+  "title": "fix(schema): keep a boolean $defs entry from aborting the flatten pass",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3967",
+  "number": 3967,
+  "body": "Fixes #3982\n\n## What\n\n`_flatten_json_schema` inlines every local `$ref` and then copies the reference's sibling keywords onto the inlined definition:\n\n```python\n_flatten_json_schema({\n    \"$defs\": {\"A…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "laoyyu",
+    "head_sha": "93867abb97957a0f29e83c6fa662e67f436e5d0b",
+    "base_ref": "main",
+    "additions": 26,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
