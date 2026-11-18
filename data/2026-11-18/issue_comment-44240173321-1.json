@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "xwm1782379277",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T04:51:25.056104Z",
+  "title": "[Bug]: Residual wake-up after an offloaded tool result is consumed starts an empty-input run and duplicates the assistant reply",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3990#issuecomment-6969411396",
+  "number": 3990,
+  "body": "Thanks for the quick triage and for verifying the premise on current main — much appreciated.\n\nOn (a) vs (b): please go ahead with whichever direction you and the other maintainers think is right. I'm…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "xwm1782379277",
+    "commenter": "xwm1782379277"
+  },
+  "at_mobiles": []
+}
