@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Wilson0511",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T04:06:33.049244Z",
+  "title": "fix(tool): resolve lazy annotations on callable objects",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4119",
+  "number": 4119,
+  "body": "## Description\n\nFixes #4106.\n\nWhen a callable object (an instance whose class defines `__call__`) is registered as a tool and its module uses `from __future__ import annotations`, schema generation fa…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Wilson0511",
+    "head_sha": "9ae8586cce54271f9b90a47f2bce12f384d3b980",
+    "base_ref": "main",
+    "additions": 66,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
