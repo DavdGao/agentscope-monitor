@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "laoyyu",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T05:22:52.244865Z",
+  "title": "fix(schema): keep a boolean $defs entry from aborting the flatten pass",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3967#issuecomment-6969907961",
+  "number": 3967,
+  "body": "此 PR 与已合并的 #4055 重复；#3982 已由 #4055 修复并关闭。为避免继续维护重复实现，我将关闭本 PR。",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "laoyyu",
+    "commenter": "laoyyu"
+  },
+  "at_mobiles": []
+}
