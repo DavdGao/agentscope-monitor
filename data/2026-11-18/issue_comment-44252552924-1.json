@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "2SinceJuly",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T06:36:26.230361Z",
+  "title": "fix(formatter): run media downloads off the event loop",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3929#issuecomment-6971127048",
+  "number": 3929,
+  "body": "`Pre-commit / run (ubuntu-latest)` is red on this head, but not from this PR.\n\npylint fails with `tests/model_gemini_test.py:1657:0: R0904: Too many public methods (21/20)`. That file is not touched h…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "2SinceJuly",
+    "commenter": "2SinceJuly"
+  },
+  "at_mobiles": []
+}
