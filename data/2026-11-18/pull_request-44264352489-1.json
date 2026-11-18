@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T08:08:08.758674Z",
+  "title": "fix(rag): read table rows, cells and cell text inside Word content controls",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4079",
+  "number": 4079,
+  "body": "## AgentScope Version\n\n2.0.13dev (main @ cee0c70)\n\n## Description\n\nFixes #4078\n\n`_extract_table_data` read only the direct `w:tr`, `w:tc` and `w:p` children of a table, so rows, cells and cell paragra…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "Fahmid-Arman",
+    "head_sha": "b069316b89e032744450dbc882cd2961c63b9743",
+    "base_ref": "main",
+    "additions": 76,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
