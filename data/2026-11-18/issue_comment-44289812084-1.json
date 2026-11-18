@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ZYZ666-RGB",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T10:55:02.062912Z",
+  "title": "[Bug]: Gemini tool calls fail for fixed-length tuple parameters because the sanitizer leaves prefixItems",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4137#issuecomment-6976448440",
+  "number": 4137,
+  "body": "Thanks @davis0178 — I missed that #4139 was already open. I won't open a duplicate. I'll leave this with your PR.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "davis0178",
+    "commenter": "ZYZ666-RGB"
+  },
+  "at_mobiles": []
+}
