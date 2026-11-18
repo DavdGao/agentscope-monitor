@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Wilson0511",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T15:39:20.904533Z",
+  "title": "[Bug]: callable-instance tool annotations are lost on Python 3.14 (PEP 749 __annotations__ descriptor)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4147#issuecomment-6983360359",
+  "number": 4147,
+  "body": "@yftx293 Thanks for digging in — one heads-up before you spend time on it: I opened #4149 for this a few minutes before your comment (the bot's claim pointer), and one empirical finding from testing i…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Wilson0511",
+    "commenter": "Wilson0511"
+  },
+  "at_mobiles": []
+}
