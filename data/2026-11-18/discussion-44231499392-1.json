@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "2sunfuchuang520",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T03:35:41.871303Z",
+  "title": "Learn to say no",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/4116",
+  "number": 4116,
+  "body": "I have an idea to add a feature to the Agentscope framework called 'learning to say no':\n  For example, if I want to do something that I haven't encountered before, this framework would allow the larg…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "2sunfuchuang520"
+  },
+  "at_mobiles": []
+}
