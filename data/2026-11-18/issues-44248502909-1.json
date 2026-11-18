@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T06:03:26.413284Z",
+  "title": "[Bug]: DashScope batch ASR double-binds per-call model overrides",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4068",
+  "number": 4068,
+  "body": "### Description\n\nOn main `8bc5d3e9d576d0901cd894047218bd5a7e835e46` (2.0.13.dev0), `DashScopeASRModel.transcribe(..., model=\"...\")` raises a Python `TypeError` before contacting the provider. `kwargs`…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "wangtaotaotao95"
+  },
+  "at_mobiles": []
+}
