@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T02:21:55.554564Z",
+  "title": "fix(mcp): invalidate tool discovery when runtime headers change",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4053",
+  "number": 4053,
+  "body": "## AgentScope Version\n\n`2.0.12dev`, based on `27d8359300f16e44f9d4d7184620480427e067af`.\n\n## Description\n\nAfter `set_runtime_headers()` switches a credential or tenant header, `get_tool()` can still r…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Guo-Yixin",
+    "head_sha": "a87b9e05343fc5f6bfaf4e36160075d0e1dc4ac1",
+    "base_ref": "main",
+    "additions": 367,
+    "deletions": 7,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
