@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T09:34:45.093517Z",
+  "title": "[Bug]: FunctionTool fails on callable objects when the module uses `from __future__ import annotations`",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4106",
+  "number": 4106,
+  "body": "**Describe the bug**\nIf I register an object with a `__call__` method as a tool, and the module it lives in uses `from __future__ import annotations`, building the tool fails with `PydanticUserError: …",
+  "labels": [
+    "triage/failed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "nurlanmnn"
+  },
+  "at_mobiles": []
+}
