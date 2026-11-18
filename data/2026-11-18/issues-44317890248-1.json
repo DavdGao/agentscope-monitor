@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Wilson0511",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T13:51:01.488829Z",
+  "title": "[Bug]: callable-object tools describe themselves with the class docstring, not __call__'s",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4148",
+  "number": 4148,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing issues and discussions, and this is not a duplicate.\n\n### Background / Description\n\nRegistering a callable object as a tool describes it with the …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Wilson0511"
+  },
+  "at_mobiles": []
+}
