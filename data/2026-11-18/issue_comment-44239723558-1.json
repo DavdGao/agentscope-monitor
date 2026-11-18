@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "indexGin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T04:47:28.873430Z",
+  "title": "fix(utils): support attribute-style deletion in DictMixin",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4122#issuecomment-6969349755",
+  "number": 4122,
+  "body": "The `Pre-commit / run (ubuntu-latest)` failure is unrelated to this change: it reports\n\n```\ntests/model_gemini_test.py:1657:0: R0904: Too many public methods (21/20) (too-many-public-methods)\n```\n\nfro…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "indexGin",
+    "commenter": "indexGin"
+  },
+  "at_mobiles": []
+}
