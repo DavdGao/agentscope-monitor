@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "soyorin33",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T10:23:09.040492Z",
+  "title": "PPTParser strips whitespace from JSON table cells",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4143#issuecomment-6975718661",
+  "number": 4143,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "soyorin33",
+    "commenter": "soyorin33"
+  },
+  "at_mobiles": []
+}
