@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T08:30:19.093213Z",
+  "title": "[Bug]: _flatten_json_schema raises TypeError on a boolean $ref target with sibling keywords",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3704#issuecomment-6973245938",
+  "number": 3704,
+  "body": "Fixed by #4055, now merged into `main`.\n\nReferences to boolean schemas no longer cause `TypeError` during schema flattening. References to `true` preserve sibling keywords, while references to `false`…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "indexGin",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
