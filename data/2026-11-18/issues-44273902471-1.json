@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "soyorin33",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T09:13:40.183722Z",
+  "title": "ExcelParser conflates boolean and numeric cells in the same column",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4134",
+  "number": 4134,
+  "body": "In an `.xlsx` sheet, put `value` in A1 and enter the native values `TRUE`, `1`, `FALSE`, `0` in A2:A5. The Excel parser’s table extraction and JSON rendering path produces `[\"True\"]`, `[\"True\"]`, `[\"F…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "soyorin33"
+  },
+  "at_mobiles": []
+}
