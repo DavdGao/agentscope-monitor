@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Yzzz88",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T08:49:51.297490Z",
+  "title": "fix(rag): report PDFs with no indexable text",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4131",
+  "number": 4131,
+  "body": "## AgentScope Version\n\n2.0.13dev (main at `0d86f847`)\n\n## Description\n\nFixes #4127.\n\nA raster-only PDF previously reached ready with zero chunks. Report that it has no indexable text and suggest OCR. …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Yzzz88",
+    "head_sha": "fad5bf0018181bf0b5578aa88f5af8b0744d92cd",
+    "base_ref": "main",
+    "additions": 64,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
