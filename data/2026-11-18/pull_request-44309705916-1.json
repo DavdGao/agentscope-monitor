@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "soyorin33",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T13:02:47.156868Z",
+  "title": "fix(rag): preserve whitespace in PowerPoint JSON table cells",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4145",
+  "number": 4145,
+  "body": "Fixes #4143.\n\nPPTParser stripped every table cell before choosing an output format.\nTrim cells only for Markdown; preserve their text for JSON while keeping\nthe existing line-break normalization in bo…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "soyorin33",
+    "head_sha": "ff52ee457688d51a599a42e12766c7a3c5a85c7e",
+    "base_ref": "main",
+    "additions": 12,
+    "deletions": 6,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
