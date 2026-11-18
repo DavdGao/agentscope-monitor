@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "yang0228",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T14:32:43.187200Z",
+  "title": "feat(tool): add reusable pre-execution validation",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3793#issuecomment-6981579970",
+  "number": 3793,
+  "body": "Hi @DavdGao, could you confirm whether the opt-in tool-wrapper approach and public `ToolValidationMiddleware(validator)` API are appropriate for #1509, and review the implementation?\n\nRegistered last …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "yang0228",
+    "commenter": "yang0228"
+  },
+  "at_mobiles": []
+}
