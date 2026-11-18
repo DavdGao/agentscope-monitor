@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T08:40:12.001316Z",
+  "title": "fix(app): require routing bindings so a channel cannot be stored unroutable",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4128",
+  "number": 4128,
+  "body": "## Problem\n\n`RoutingConfig.bindings` defaulted to an empty list:\n\n```python\nbindings: list[ChannelBinding] = Field(default_factory=list)\n```\n\nA pydantic `field_validator` does not run on a field defau…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "990d85075f262d3e9acb851a99b94e999bffab81",
+    "base_ref": "main",
+    "additions": 44,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
