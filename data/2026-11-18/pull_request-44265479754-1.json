@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T08:16:00.459501Z",
+  "title": "fix(app): ignore boolean status fields in error classification",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4088",
+  "number": 4088,
+  "body": "Fixes #4086\n\n## Problem and root cause\n\n`_extract_status` (`src/agentscope/app/_service/_errors.py`) walks the\nexception chain and accepts any `int` from `status`, `status_code` and\n`response.status_c…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "indexGin",
+    "head_sha": "de740e062596874247fe94ecc1d3bb50cffae437",
+    "base_ref": "main",
+    "additions": 28,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
