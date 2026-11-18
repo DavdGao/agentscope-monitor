@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Wilson0511",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T03:57:04.457390Z",
+  "title": "fix(gemini): close the delegated SDK stream in the parser",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3938#issuecomment-6968564649",
+  "number": 3938,
+  "body": "Rebased onto current `main` to resolve the conflict with the content-filter normalization work (#3324): the new `raise_on_content_filter` block and `has_output` tracking are now inside the `try`, so a…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Wilson0511",
+    "commenter": "Wilson0511"
+  },
+  "at_mobiles": []
+}
