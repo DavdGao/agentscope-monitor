@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T09:04:38.957358Z",
+  "title": "[Bug]: Gemini tool calls fail for discriminated-union parameters because the sanitizer leaves oneOf",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4082",
+  "number": 4082,
+  "body": "### Background / Description\n\nWhen a tool parameter is a Pydantic discriminated union, `GeminiChatModel._format_tools` runs `_flatten_json_schema` and then `_sanitize_schema_for_gemini` on the paramet…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "davis0178"
+  },
+  "at_mobiles": []
+}
