@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Wilson0511",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T04:10:30.790372Z",
+  "title": "[Bug]: Two concurrent DELETE /channels/{id}: the second gets 500 instead of 404",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4114#issuecomment-6968769356",
+  "number": 4114,
+  "body": "Confirmed the diagnosis — the three routes lack the `ChannelError` → `HTTPException` conversion that `update_channel` already has, and no handler is registered for `ChannelError`, so the second DELETE…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "ljblob",
+    "commenter": "Wilson0511"
+  },
+  "at_mobiles": []
+}
