@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T04:13:45.327964Z",
+  "title": "fix(workspace): dispose of half-started sandboxes when initialize fails",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4057",
+  "number": 4057,
+  "body": "Fixes #4046\n\nThe K8s, OpenSandbox, Daytona and AppleContainer workspace managers construct their workspace in `_build_and_start()` and insert it into the manager cache only after `initialize()` return…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "liangqianxing",
+    "head_sha": "b0f4e56d66486d8ee59a82a1dfb64de802cf76cd",
+    "base_ref": "main",
+    "additions": 639,
+    "deletions": 13,
+    "changed_files": 11
+  },
+  "at_mobiles": []
+}
