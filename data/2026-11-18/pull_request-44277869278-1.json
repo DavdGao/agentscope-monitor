@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T09:39:01.047332Z",
+  "title": "fix(asr,tts): treat an empty parameter_overrides key as an empty mapping",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4140",
+  "number": 4140,
+  "body": "## Problem\n\n`ASRModelCard.from_yaml` and `TTSModelCard.from_yaml` read the override\nmap as\n\n```python\noverrides = config.get(\"parameter_overrides\", {})\n```\n\nThe `{}` default only applies when the key …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "a7ec499a1f2d52379633f509be8bf86dee0d1a08",
+    "base_ref": "main",
+    "additions": 59,
+    "deletions": 4,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
