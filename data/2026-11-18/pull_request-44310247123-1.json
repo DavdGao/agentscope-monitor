@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Wilson0511",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T13:06:19.703072Z",
+  "title": "fix(tool): describe callable-instance tools via __call__'s docstring",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4146",
+  "number": 4146,
+  "body": "## Description\n\nFollow-up to the review of #4119 (closed as duplicate of #4107, which fixed the annotation side): the focused docstring extraction improvement, per @qbc2016's invitation there.\n\nToday …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Wilson0511",
+    "head_sha": "bcd45dfb6205f64e75a035ad21fe3313cc3c85ca",
+    "base_ref": "main",
+    "additions": 93,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
