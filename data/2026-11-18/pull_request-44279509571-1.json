@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "cursor[bot]",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T09:49:28.747283Z",
+  "title": "fix(mcp): keep sanitized tool names from overwriting each other",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3417",
+  "number": 3417,
+  "body": "## Summary\n\nFixes #3412.\n\nDistinct MCP tools whose names sanitize to the same string (e.g. `search.docs` and `searchxdocs` → `mcp__knowledge__searchxdocs`) were overwritten during toolkit registration…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "HsbcJone",
+    "head_sha": "ae2c80e09bac2dc936091499d2b70f90ce6ffb68",
+    "base_ref": "main",
+    "additions": 655,
+    "deletions": 18,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
