@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "2SinceJuly",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T06:41:19.090315Z",
+  "title": "fix(storage): stop PATCH from recreating a concurrently deleted record",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4124",
+  "number": 4124,
+  "body": "## Problem\n\nThe update routes read the record, then write it back:\n\n```python\nexisting = await storage.get_schedule(user_id, schedule_id)   # _schedule.py:177\nif existing is None: raise HTTPException(…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "2SinceJuly",
+    "head_sha": "3f4c5d76b644ac59d795c861c61d872c92292f3f",
+    "base_ref": "main",
+    "additions": 590,
+    "deletions": 17,
+    "changed_files": 9
+  },
+  "at_mobiles": []
+}
