@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T03:25:37.189191Z",
+  "title": "fix(rag): reject None metadata_filter values on stores that cannot match null",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4058",
+  "number": 4058,
+  "body": "## AgentScope Version\n\n2.0.12dev (main @ 27d83593)\n\n## Description\n\nFixes #4037. This is option **A** from [this comment](https://github.com/agentscope-ai/agentscope/issues/4037#issuecomment-690514022…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "fxia0018",
+    "head_sha": "3160097f918c2fe661bcbd48a1d2afdba90110b9",
+    "base_ref": "main",
+    "additions": 221,
+    "deletions": 8,
+    "changed_files": 7
+  },
+  "at_mobiles": []
+}
