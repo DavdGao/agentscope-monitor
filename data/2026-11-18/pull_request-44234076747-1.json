@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T03:58:40.325944Z",
+  "title": "fix(workspace): preserve sandbox MCP state when deregistration fails",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4112",
+  "number": 4112,
+  "body": "## AgentScope Version\n\n`2.0.13dev`; the reported failure also affects `2.0.9`.\n\n## Description\n\nFixes #4115.\n\nWhen Gateway deregistration fails, sandbox `remove_mcp()` currently returns normally after…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "38dc3419db76e1147ea75f58988a9176d55d8776",
+    "base_ref": "main",
+    "additions": 308,
+    "deletions": 8,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
