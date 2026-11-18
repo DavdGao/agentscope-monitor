@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ljblob",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T06:03:11.264211Z",
+  "title": "fix(app): serialise schedule and channel updates per id",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4123",
+  "number": 4123,
+  "body": "## AgentScope Version\n\n2.0.13dev, based on `main` @ `1cd078bd`\n\n## Description\n\nFixes #4113\n\n**Problem.** `PATCH /schedule/{id}` and `ChannelService.update` read the whole record, apply the request's …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ljblob",
+    "head_sha": "b087387e419b8070e0eba79248f02aee981ab53d",
+    "base_ref": "main",
+    "additions": 379,
+    "deletions": 39,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
