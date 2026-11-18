@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "shuxiachai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T02:32:25.702858Z",
+  "title": "fix(rag): read a picture inside a Word text box once",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4110",
+  "number": 4110,
+  "body": "## AgentScope Version\n\n`2.0.13dev`, based on `e11125387fdaf1255d88e17ecedaa03e61830677`.\n\n## Description\n\nFixes #4109.\n\n`_extract_image_blocks` scanned every `w:drawing` in a paragraph and every `a:bl…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "shuxiachai",
+    "head_sha": "87a39e817051027e1228a0ec33c15c504b6365e8",
+    "base_ref": "main",
+    "additions": 389,
+    "deletions": 42,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
