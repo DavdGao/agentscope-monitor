@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Guo-Yixin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T08:42:11.233595Z",
+  "title": "[Bug]: gateway MCP proxies keep stale tool schemas after runtime header updates",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4129",
+  "number": 4129,
+  "body": "### Prerequisites\n\n- [x] Searched existing issues and pull requests for runtime headers, gateway caches, and `GatewayMCPClient`.\n- [x] This is a reproducible bug, not a usage question.\n\n### Background…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Guo-Yixin"
+  },
+  "at_mobiles": []
+}
