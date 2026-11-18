@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T09:05:02.838594Z",
+  "title": "[Bug]: Toolkit orders MCP tools as the server lists them, so the tools array changes between model calls",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4085",
+  "number": 4085,
+  "body": "### Prerequisites\n\n- [X] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "CodeTerminator666"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "CodeTerminator666"
+  },
+  "at_mobiles": []
+}
