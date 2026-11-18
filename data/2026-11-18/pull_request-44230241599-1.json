@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T03:25:01.512015Z",
+  "title": "fix(utils): inline boolean definitions when flattening schemas",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4055",
+  "number": 4055,
+  "body": "# fix(utils): inline boolean definitions when flattening schemas\n\nFixes #3982\n\nA boolean schema (`true`/`false`) is valid JSON Schema and may sit in `$defs`. `_flatten_json_schema()` inlined such a de…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "liangqianxing",
+    "head_sha": "4c2d7faaf90f097616f82ab5636a7df2691a1289",
+    "base_ref": "main",
+    "additions": 59,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
