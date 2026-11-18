@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "ManasDasri",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T16:32:49.405682Z",
+  "title": "fix(rag): enforce UTF-8 byte limit in ApproxTokenChunker",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4108",
+  "number": 4108,
+  "body": "## Summary\n- Enforce the `chunk_size * 4` UTF-8 byte ceiling in the no-split fast path, matching the splitting path.\n- Document the byte ceiling in the Python API and Web UI.\n- Add regression coverage…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "ManasDasri",
+    "head_sha": "b39eae18f8f8b228b2ab7c1ff31ac9b57c54b6e4",
+    "base_ref": "main",
+    "additions": 43,
+    "deletions": 8,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
