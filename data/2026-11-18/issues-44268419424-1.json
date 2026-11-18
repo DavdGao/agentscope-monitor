@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Yzzz88",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T08:36:26.305530Z",
+  "title": "[Bug]: Scanned PDFs are marked ready with zero searchable chunks",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4127",
+  "number": 4127,
+  "body": "### Prerequisites\n\n- [x] I searched existing issues and pull requests.\n- [x] This is an indexing behavior issue.\n\n### Background / Description\n\nUploading a raster-only PDF to a knowledge base marks th…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Yzzz88"
+  },
+  "at_mobiles": []
+}
