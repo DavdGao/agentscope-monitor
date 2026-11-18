@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "soyorin33",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T09:31:37.983248Z",
+  "title": "ExcelParser conflates boolean and numeric cells in the same column",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4134#issuecomment-6974534965",
+  "number": 4134,
+  "body": "I reproduced this on current main (`dae83ed`) through the public `ExcelParser.parse` API, using Python 3.12.7, pandas 2.2.2, and openpyxl 3.1.5.\n\nThe preliminary check used pandas 3.1.1; the reported …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "soyorin33",
+    "commenter": "soyorin33"
+  },
+  "at_mobiles": []
+}
