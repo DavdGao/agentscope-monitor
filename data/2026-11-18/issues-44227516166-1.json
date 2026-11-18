@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ljblob",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T03:02:18.493517Z",
+  "title": "[Bug]: Two concurrent DELETE /channels/{id}: the second gets 500 instead of 404",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4114",
+  "number": 4114,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [
+    "Bug"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "ljblob"
+  },
+  "at_mobiles": []
+}
