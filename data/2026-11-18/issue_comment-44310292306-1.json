@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Wilson0511",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T13:06:13.632470Z",
+  "title": "fix(tool): resolve lazy annotations on callable objects",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4119#issuecomment-6979417086",
+  "number": 4119,
+  "body": "Thanks for the clear pointer, and to @nurlanmnn for the fix in #4107 — closing this as a duplicate is the right call, and my apologies for racing it: the pr-guard note about #4107 landed while I was a…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Wilson0511",
+    "commenter": "Wilson0511"
+  },
+  "at_mobiles": []
+}
