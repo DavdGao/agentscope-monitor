@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Wilson0511",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T13:51:08.263387Z",
+  "title": "fix(tool): describe callable-instance tools via __call__'s docstring",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4146#issuecomment-6980535370",
+  "number": 4146,
+  "body": "Per the pr-guard note: the problem this solves is now filed as #4148 and linked with a closing keyword. It is the docstring facet split out of the #4119 review (the annotation facet landed in #4107).",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Wilson0511",
+    "commenter": "Wilson0511"
+  },
+  "at_mobiles": []
+}
