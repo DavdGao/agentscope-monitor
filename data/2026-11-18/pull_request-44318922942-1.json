@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Wilson0511",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T13:56:59.024786Z",
+  "title": "fix(tool): keep instance hint layer visible on Python 3.14",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4149",
+  "number": 4149,
+  "body": "## Description\n\nFixes #4147.\n\nPython 3.14 (PEP 749) turns `__annotations__` into a descriptor, so annotations copied onto a callable instance — e.g. by `functools.update_wrapper` — are no longer visib…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Wilson0511",
+    "head_sha": "ce0dc66e24161af7178da9971224ad9787aacfdb",
+    "base_ref": "main",
+    "additions": 88,
+    "deletions": 17,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
