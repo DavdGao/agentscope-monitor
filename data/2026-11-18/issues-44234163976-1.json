@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T03:59:29.475792Z",
+  "title": "feat(web-ui): support voice conversations with separate ASR, LLM, and TTS models",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4117",
+  "number": 4117,
+  "body": "## Problem\n\nThe Web UI currently requires a realtime model for continuous voice conversations. Users who have separate ASR, chat, and TTS models cannot combine them into the same hands-free workflow, …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "qbc2016"
+  },
+  "at_mobiles": []
+}
