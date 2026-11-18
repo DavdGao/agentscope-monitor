@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Guo-Yixin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T09:19:43.194885Z",
+  "title": "[Bug]: sandbox file caches miss subsecond edits and can overwrite external changes",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4135",
+  "number": 4135,
+  "body": "### Prerequisites\n\n- [x] Searched existing issues and PRs for `stat_mtime`, mtime precision, and stale file caches.\n- [x] Reproduced against the current main branch with actual files and the actual Do…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Guo-Yixin"
+  },
+  "at_mobiles": []
+}
