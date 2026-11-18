@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "davis0178",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T09:33:53.558663Z",
+  "title": "[Bug]: Gemini tool calls fail for fixed-length tuple parameters because the sanitizer leaves prefixItems",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4137",
+  "number": 4137,
+  "body": "### Background / Description\n\n`GeminiChatModel._format_tools` runs `_flatten_json_schema` and then `_sanitize_schema_for_gemini` before building the google-genai request. A tool parameter typed as a f…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "davis0178"
+  },
+  "at_mobiles": []
+}
