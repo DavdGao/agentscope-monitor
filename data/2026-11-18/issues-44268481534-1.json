@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T08:36:50.433101Z",
+  "title": "[Bug]: MCP readOnlyHint auto-allows a tool in every permission mode, and a server cannot be marked as untrusted",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4103",
+  "number": 4103,
+  "body": "### Prerequisites\n\n- [X] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "CodeTerminator666"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "CodeTerminator666"
+  },
+  "at_mobiles": []
+}
