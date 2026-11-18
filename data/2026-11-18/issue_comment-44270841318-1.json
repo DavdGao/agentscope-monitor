@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "2SinceJuly",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T08:53:33.496249Z",
+  "title": "fix(tool): match dangerous command patterns after removing shell quotes",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3859#issuecomment-6973713871",
+  "number": 3859,
+  "body": "Good catch — fixed in `3401a706`.\n\nYou were right that it is not just a clamp: `\\U` takes up to eight hex digits, so `chr()` gets a value that is out of range in two different ways, and the surrogate …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "2SinceJuly",
+    "commenter": "2SinceJuly"
+  },
+  "at_mobiles": []
+}
