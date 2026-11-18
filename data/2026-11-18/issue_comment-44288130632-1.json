@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "davis0178",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T10:43:59.922357Z",
+  "title": "[Bug]: Gemini tool calls fail for fixed-length tuple parameters because the sanitizer leaves prefixItems",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4137#issuecomment-6976191235",
+  "number": 4137,
+  "body": "@ZYZ666-RGB — heads-up that PR #4139 is already open for this issue and implements the fix you described: `prefixItems` is rewritten to an `items.anyOf` schema (keeping `minItems`/`maxItems`), with a …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "davis0178",
+    "commenter": "davis0178"
+  },
+  "at_mobiles": []
+}
