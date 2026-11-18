@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Guo-Yixin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T10:07:45.492022Z",
+  "title": "fix(tool): detect subsecond changes in sandbox file caches",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4138#issuecomment-6975358484",
+  "number": 4138,
+  "body": "agentscope-ai/docs#106 is the companion documentation PR in the separate documentation repository, as requested by CONTRIBUTING.md for behavior changes. It only updates the English and Chinese file-to…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Guo-Yixin",
+    "commenter": "Guo-Yixin"
+  },
+  "at_mobiles": []
+}
