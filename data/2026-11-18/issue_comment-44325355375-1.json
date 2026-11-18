@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "yang0228",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T14:32:46.953456Z",
+  "title": "feat(examples): add MLflow OTLP tracing example",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3689#issuecomment-6981580761",
+  "number": 3689,
+  "body": "Following up on the review/scope question above, could @qbc2016 or another maintainer confirm the tracing-only milestone and the preferred issue association before merge?\n\nThis PR exports existing age…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "yang0228",
+    "commenter": "yang0228"
+  },
+  "at_mobiles": []
+}
