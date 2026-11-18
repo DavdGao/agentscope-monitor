@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "2SinceJuly",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T06:41:30.884520Z",
+  "title": "fix(tool): match dangerous command patterns after removing shell quotes",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3859#issuecomment-6971214520",
+  "number": 3859,
+  "body": "Status: CI is green (7 checks pass, 1 skipped), the branch merges cleanly into current `main`, and the ANSI-C quoting gap ccclucky found is fixed in `8a8bf62c`. No review threads are open.\n\nOne thing …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "2SinceJuly",
+    "commenter": "2SinceJuly"
+  },
+  "at_mobiles": []
+}
