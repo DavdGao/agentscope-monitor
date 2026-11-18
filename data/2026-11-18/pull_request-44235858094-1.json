@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T04:13:58.834327Z",
+  "title": "fix(rag): omit moved-away Word text",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4069",
+  "number": 4069,
+  "body": "## AgentScope Version\n\n2.0.13.dev0\n\n## Description\n\nFixes #4067.\n\nImporting a DOCX with a tracked text move currently indexes both its old location (`w:moveFrom`) and its current location (`w:moveTo`)…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "wangtaotaotao95",
+    "head_sha": "329e4f92066d488b1bef3a91eceb59186851d65e",
+    "base_ref": "main",
+    "additions": 128,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
