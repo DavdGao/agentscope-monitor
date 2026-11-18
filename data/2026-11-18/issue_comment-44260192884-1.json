@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T07:36:33.176394Z",
+  "title": "fix(agent): advance Live playout after interruption",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4101#issuecomment-6972212217",
+  "number": 4101,
+  "body": "Please clarify the affected client and provide reproduction steps. The default Web UI does not send `INTERRUPT`: stopping voice closes the session, and speaking over the assistant does not trigger thi…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Kiko0301",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
