@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "soyorin33",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T13:02:36.020646Z",
+  "title": "fix(message): type list filters for get_content_blocks",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4144",
+  "number": 4144,
+  "body": "Fixes #4142.\n\nMsg.get_content_blocks already accepts a list of block types at runtime,\nbut typed callers only see the single-type and no-filter overloads. The\ngeneral list-returning overload now accep…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "soyorin33",
+    "head_sha": "fb482bbae5974d51a3f48b6c42ac2f081baf6c88",
+    "base_ref": "main",
+    "additions": 7,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
