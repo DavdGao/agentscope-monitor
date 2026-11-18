@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T03:58:40.948245Z",
+  "title": "[Bug]: sandbox remove_mcp() discards local state when Gateway deregistration fails",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4115",
+  "number": 4115,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing issues and discussions. This tracks the unresolved failure-consistency part of closed #2773, not the stateless deregistration path fixed by #2777.…",
+  "labels": [
+    "Bug"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "qbc2016"
+  },
+  "at_mobiles": []
+}
