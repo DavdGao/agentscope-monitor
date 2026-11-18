@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T08:20:18.514041Z",
+  "title": "fix(rag): index .csv uploads labelled as legacy Excel as text/csv",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4102",
+  "number": 4102,
+  "body": "Fixes #4095\n\n## AgentScope Version\n\n2.0.13dev (main at e111253)\n\n## Problem\n\nWindows associates `.csv` with the legacy Excel type `application/vnd.ms-excel`, both in the multipart `Content-Type` brows…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "shu-chen-dot-ca",
+    "head_sha": "a710e7da11827730c8890764a75330250734a29b",
+    "base_ref": "main",
+    "additions": 137,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
