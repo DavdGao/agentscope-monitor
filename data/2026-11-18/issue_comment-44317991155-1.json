@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Wilson0511",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T13:51:39.496995Z",
+  "title": "[Bug]: callable-instance tool annotations are lost on Python 3.14 (PEP 749 __annotations__ descriptor)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4147#issuecomment-6980546363",
+  "number": 4147,
+  "body": "The triage confirm is much appreciated. I'll take this one — plan is to collect the instance hint layer from the raw ``__dict__`` entry (``vars(obj).get(\"__annotations__\")``) instead of the attribute …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Wilson0511",
+    "commenter": "Wilson0511"
+  },
+  "at_mobiles": []
+}
