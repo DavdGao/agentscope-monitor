@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "Guo-Yixin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T09:56:20.050530Z",
+  "title": "fix(tool): detect subsecond changes in sandbox file caches",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4138",
+  "number": 4138,
+  "body": "## AgentScope Version\n\n`2.0.13dev`, based on `dae83ed9b184434350487de05edccf0b81f724ac`.\n\n## Description\n\nAn external edit within the same second as an agent's Read can be lost: the sandbox backend tr…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Guo-Yixin",
+    "head_sha": "0d1b4cd49095dabfee789c2981e02b043bd077cb",
+    "base_ref": "main",
+    "additions": 333,
+    "deletions": 10,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
