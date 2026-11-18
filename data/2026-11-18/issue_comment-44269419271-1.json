@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T08:43:26.342990Z",
+  "title": "fix(rag): enforce UTF-8 byte limit in ApproxTokenChunker",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4108#issuecomment-6973511251",
+  "number": 4108,
+  "body": "Since token counting is approximate here, do we need a strict byte cap? With `chunk_size=32` and `overlap=0`, this splits 129 ASCII bytes into 128 + 1, leaving a tiny chunk with little semantic value.…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "ManasDasri",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
