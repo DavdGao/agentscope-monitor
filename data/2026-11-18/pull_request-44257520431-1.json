@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "zuizhuai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T07:16:12.219195Z",
+  "title": "fix(mcp): drop the cached tool catalog when a connection closes",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4126",
+  "number": 4126,
+  "body": "## AgentScope Version\n\n2.0.13dev, based on `main` @ `d4ac686`\n\n## Description\n\nFixes #4125.\n\n**Problem.** A stateful `MCPClient` caches its tool catalog in `_cached_tools`, and `get_tool()` serves fro…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "zuizhuai",
+    "head_sha": "66f81b2534cbca08a611e95e93b8a612fa0c6c6e",
+    "base_ref": "main",
+    "additions": 141,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
