@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T09:04:36.141166Z",
+  "title": "fix(model): convert discriminated-union oneOf for Gemini tool schemas",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4083",
+  "number": 4083,
+  "body": "Fixes #4082\n\n### What changed\n\n`GeminiChatModel._format_tools` flattens a tool schema and then sanitizes it for google-genai. For a Pydantic discriminated union, `_flatten_json_schema` inlines the `$d…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "davis0178",
+    "head_sha": "da611f005b9187e7b18feba03c1d0cfce081abcd",
+    "base_ref": "main",
+    "additions": 71,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
