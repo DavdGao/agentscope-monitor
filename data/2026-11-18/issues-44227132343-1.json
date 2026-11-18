@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-18T02:59:06.170145Z",
+  "title": "[Bug]: runtime header changes leave cached and in-flight MCP tool discovery stale",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4052",
+  "number": 4052,
+  "body": "## Prerequisites\n\n- [x] I searched existing issues and discussions for runtime headers and tool discovery. The broad proposal #3864 mentions credential invalidation but was closed by the issue-quota w…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "Guo-Yixin"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "Guo-Yixin"
+  },
+  "at_mobiles": []
+}
