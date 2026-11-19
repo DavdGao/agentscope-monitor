@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "yftx293",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-19T14:41:52.987071Z",
+  "title": "fix(tool): keep instance hint layer visible on Python 3.14",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4149#issuecomment-7012372634",
+  "number": 4149,
+  "body": "Independent check on Python 3.14.7 (Windows), since the resolution order was the open question:\n\n- With the `CallableWrapper` from the tests, `vars(w)[\"__annotations__\"]` is `{}` — 3.14's `functools.W…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Wilson0511",
+    "commenter": "yftx293"
+  },
+  "at_mobiles": []
+}
