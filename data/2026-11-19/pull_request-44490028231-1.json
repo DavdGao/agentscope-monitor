@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-19T08:43:40.156098Z",
+  "title": "fix(rag): index PPTX text with text-only embedding models",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4130",
+  "number": 4130,
+  "body": "## AgentScope Version\n\n2.0.13dev (main at `0d86f847`)\n\n## Description\n\nFixes #4093.\n\nA PPTX with pictures fails to index in a text-only knowledge base. Keep the text chunks and renumber them densely f…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "Yzzz88",
+    "head_sha": "04cdea04c7b31674aad55644a00f646671f97efb",
+    "base_ref": "main",
+    "additions": 184,
+    "deletions": 75,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
