@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-19T08:45:21.117406Z",
+  "title": "fix(workspace): refresh gateway tools after runtime header updates",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4132",
+  "number": 4132,
+  "body": "## AgentScope Version\n\n`2.0.13dev`, based on `c89c71167d6b6f28e7603136c509f6cf08de1b12`.\n\n## Description\n\nAfter a gateway proxy successfully changes a tenant or credential header, the live MCP client …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "Guo-Yixin",
+    "head_sha": "458de538ebff65f6c8f8713b0634cad80c9bd3c7",
+    "base_ref": "main",
+    "additions": 355,
+    "deletions": 18,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
