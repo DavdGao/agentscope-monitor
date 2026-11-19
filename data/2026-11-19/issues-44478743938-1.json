@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "67-luck",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-19T07:19:49.385355Z",
+  "title": "[Bug]: A2AAgent drops observed messages and leaves a reply unfinished when the request builder rejects the input",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4153",
+  "number": 4153,
+  "body": "**Describe the bug**\nIn `A2AAgent._reply` (`src/agentscope/agent/_a2a_agent.py`), the request is built only inside the `send_message(...)` call. By that point the agent has already yielded `ReplyStart…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "67-luck"
+  },
+  "at_mobiles": []
+}
