@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "zuizhuai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-19T09:24:39.551613Z",
+  "title": "Channel media buffer keys collide for channel ids containing a colon",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4156#issuecomment-7005048251",
+  "number": 4156,
+  "body": "Releasing my claim — @indexGin's #4157 already fixes this and has a green matrix, so there is no reason for two PRs to sit in the review queue. Nothing is blocked on me here.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "indexGin",
+    "commenter": "zuizhuai"
+  },
+  "at_mobiles": []
+}
