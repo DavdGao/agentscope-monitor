@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "BlueX888",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-19T18:56:47.091710Z",
+  "title": "[Bug]: tool-result DataBlock name is lost when replies are rebuilt from the event stream",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4166#issuecomment-7018961022",
+  "number": 4166,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "BlueX888",
+    "commenter": "BlueX888"
+  },
+  "at_mobiles": []
+}
