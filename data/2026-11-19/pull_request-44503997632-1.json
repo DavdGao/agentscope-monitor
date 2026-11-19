@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-19T10:15:55.091349Z",
+  "title": "fix(formatter): match tool-result media types independently of the host OS",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3717",
+  "number": 3717,
+  "body": "## AgentScope Version\n\nmain @ origin/main (2.0.12dev), verified against the current tree\n\n## Description\n\n`FormatterBase.convert_tool_result_to_string()` decided whether a tool's\n`DataBlock` is suppor…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "indexGin",
+    "head_sha": "0b121863117d1029ca96c9b79a82b8b229d3b86b",
+    "base_ref": "main",
+    "additions": 62,
+    "deletions": 51,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
