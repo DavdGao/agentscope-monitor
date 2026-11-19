@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "BlueX888",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-19T18:51:16.172214Z",
+  "title": "[Bug]: tool-result DataBlock name is lost when replies are rebuilt from the event stream",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4166",
+  "number": 4166,
+  "body": "## Summary\n\nOn `main` at `2219b047ad6d63e70f7fed9bd9363a13f548b019` (2.0.13dev), a tool-result `DataBlock` loses its `name` when the reply is rebuilt from the event stream. The built-in `Read` tool se…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "BlueX888"
+  },
+  "at_mobiles": []
+}
