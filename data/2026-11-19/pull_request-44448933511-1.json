@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "2SinceJuly",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-19T03:05:32.862091Z",
+  "title": "fix(app): skip a wake-up run when the inbox was already drained",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4152",
+  "number": 4152,
+  "body": "## Problem\n\nA session where two offloaded tool calls both finish before the first wake-up run registers its inbox consumer ends up with **two** `wake` triggers. The first run drains both inbox payload…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "2SinceJuly",
+    "head_sha": "8413e2f40f9c72780ba12d25a47b2d1179e2b89e",
+    "base_ref": "main",
+    "additions": 348,
+    "deletions": 0,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
