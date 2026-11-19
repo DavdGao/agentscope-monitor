@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "CodeTerminator666",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-19T13:54:23.187633Z",
+  "title": "[Bug]: Workspace status runs commands from a repository's git config on the host (LocalBackend)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4162#issuecomment-7011133588",
+  "number": 4162,
+  "body": "PR: #4163 (option B). Option A is ready if a smaller change is preferred.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "CodeTerminator666",
+    "commenter": "CodeTerminator666"
+  },
+  "at_mobiles": []
+}
