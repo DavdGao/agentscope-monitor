@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "MannXo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-19T08:45:15.962134Z",
+  "title": "feat(channel): add Slack channel support",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2267#issuecomment-7004206409",
+  "number": 2267,
+  "body": "@qbc2016 I merged main to clear the conflict. Two commits, so the re-review is small.\n\n- `ee483dc7` is the merge. The only conflict was in `tests/service_chat_channel_delivery_test.py`, where #2791 an…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "MannXo",
+    "commenter": "MannXo"
+  },
+  "at_mobiles": []
+}
