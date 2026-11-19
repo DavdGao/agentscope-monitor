@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-19T03:00:53.282375Z",
+  "title": "refactor(workspace): share one Kubernetes ApiClient per workspace manager",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4048#issuecomment-6998342233",
+  "number": 4048,
+  "body": "Hi, @qbc2016, could you take a look at this PR when you have a moment?",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "iluv7",
+    "commenter": "iluv7"
+  },
+  "at_mobiles": []
+}
