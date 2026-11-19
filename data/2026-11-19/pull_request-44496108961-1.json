@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "zuizhuai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-19T09:24:33.799754Z",
+  "title": "fix(channel): escape media-buffer key segments so conversations cannot collide",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4158",
+  "number": 4158,
+  "body": "## AgentScope Version\n\n2.0.13dev (main `54e7016`)\n\n## Description\n\nFixes #4156.\n\n`MessageBusKeys.channel_media_buffer()` interpolated its three ids verbatim into a colon-separated template:\n\n```\nagent…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "zuizhuai",
+    "head_sha": "2b886e20b4218ea99aecc2cefa278fe0c68b6a5b",
+    "base_ref": "main",
+    "additions": 91,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
