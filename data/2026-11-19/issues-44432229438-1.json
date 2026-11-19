@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "xingliu228",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-19T00:50:43.447629Z",
+  "title": "SSE subscriptions established during server startup window silently receive no events (zombie pubsub subscription: NUMSUB>0, PUBLISH delivered, client gets nothing)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4151",
+  "number": 4151,
+  "body": "## Description\n\nSSE subscriptions established during the **startup window** of the agentscope server (roughly the first ~15–20s after uvicorn boot) can become \"zombie\" subscriptions: the HTTP connecti…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "xingliu228"
+  },
+  "at_mobiles": []
+}
