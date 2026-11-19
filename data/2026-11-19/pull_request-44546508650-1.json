@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "yftx293",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-19T14:41:46.419281Z",
+  "title": "fix(tool): read callable-instance annotations on Python 3.14",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4150",
+  "number": 4150,
+  "body": "## AgentScope Version\n\n2.0.13dev (`main` @ `9fdad22`)\n\n## Description\n\nFixes #4147.\n\n### Background\n\nThe two `CallableWrapper` tests added in #4107 fail on Python 3.14 even on pristine `main`. On 3.14…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "yftx293",
+    "head_sha": "9b6ede5e6a652ae15f56c1ccfb8f8a855481e5cc",
+    "base_ref": "main",
+    "additions": 60,
+    "deletions": 17,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
