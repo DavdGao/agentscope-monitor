@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "CodeTerminator666",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-19T13:54:20.199676Z",
+  "title": "fix(workspace): isolate host git status from repository config",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4163",
+  "number": 4163,
+  "body": "## AgentScope Version\n\n2.0.13dev (`main` @ 9fdad22)\n\n## Description\n\nFixes #4162\n\n### Background\n\n`GET /workspace/status` runs `git status` and `git diff` in the session's `cwd`. Git loads the reposit…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "CodeTerminator666",
+    "head_sha": "a50cc3baa49e3c0388841d5364234b3d8ab1598b",
+    "base_ref": "main",
+    "additions": 2110,
+    "deletions": 12,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
