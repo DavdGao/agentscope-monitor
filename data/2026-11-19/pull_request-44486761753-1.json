@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "review_requested",
+  "action_cn": "请求审核",
+  "sender": "indexGin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-19T08:20:39.325611Z",
+  "title": "fix(message-bus): escape separators in channel media buffer keys",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4157",
+  "number": 4157,
+  "body": "Fixes #4156\n\n### Problem\n\n`MessageBusKeys.channel_media_buffer` interpolated three externally sourced\nchannel ids directly into the colon-separated Redis key\n`agentscope:channel:media:{cid}:{chat}:{ui…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "indexGin",
+    "head_sha": "96467ae86ae43ef62ba7108dcf3647e2cbbd55ef",
+    "base_ref": "main",
+    "additions": 90,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
