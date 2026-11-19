@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "zuizhuai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-19T09:30:13.350814Z",
+  "title": "[Bug]: knowledge-document sweeps silently skip every document whose user id contains a colon",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4159",
+  "number": 4159,
+  "body": "## Background / Description\n\n`RedisStorage` keeps a global set of `(user_id, kb_id, doc_id)` tokens so the two knowledge-document sweeps can enumerate non-terminal documents without scanning the keysp…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "zuizhuai"
+  },
+  "at_mobiles": []
+}
