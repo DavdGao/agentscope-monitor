@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-19T02:40:01.999352Z",
+  "title": "fix(app): map lost-race channel errors to 404 responses",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4120",
+  "number": 4120,
+  "body": "## Description\n\nFixes #4114.\n\nWhen two requests target the same channel concurrently, both can pass the route-level ownership check before the first request deletes the channel. The service then raise…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "Wilson0511",
+    "head_sha": "c6f1f46c9d99ac7d6de84d237f4f8fde52f055f3",
+    "base_ref": "main",
+    "additions": 107,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
