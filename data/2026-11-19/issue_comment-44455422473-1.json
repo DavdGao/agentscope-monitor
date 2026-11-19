@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "fancyboi999",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-19T04:01:39.235611Z",
+  "title": "SSE subscriptions established during server startup window silently receive no events (zombie pubsub subscription: NUMSUB>0, PUBLISH delivered, client gets nothing)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4151#issuecomment-6999282092",
+  "number": 4151,
+  "body": "Thanks for the detailed report. I tried to reproduce this on current `main` and could not trigger it.\n\n**Setup:** Python 3.12, redis-py 8.1.0, uvicorn 0.54.0, Redis 8.2, `RedisMessageBus` + `RedisStor…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "xingliu228",
+    "commenter": "fancyboi999"
+  },
+  "at_mobiles": []
+}
