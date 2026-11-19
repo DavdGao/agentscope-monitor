@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "yftx293",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-19T14:41:43.152931Z",
+  "title": "fix(tool): read callable-instance annotations on Python 3.14",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4150#issuecomment-7012368352",
+  "number": 4150,
+  "body": "Closing as a duplicate: #4149 was opened at 13:56, before this PR, and takes the `annotationlib.get_annotations(format=STRING)` route.\n\nI verified on Python 3.14.7 that this is the right shape: `vars(…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "yftx293",
+    "commenter": "yftx293"
+  },
+  "at_mobiles": []
+}
