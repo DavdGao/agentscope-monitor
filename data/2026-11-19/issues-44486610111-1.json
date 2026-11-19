@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "indexGin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-19T08:19:29.830262Z",
+  "title": "Channel media buffer keys collide for channel ids containing a colon",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4156",
+  "number": 4156,
+  "body": "### Phenomenon\n\n`MessageBusKeys.channel_media_buffer(channel_id, chat_id, user_id)` builds the\nRedis queue key used to buffer inbound media by interpolating the three ids\nverbatim into a colon-separat…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "indexGin"
+  },
+  "at_mobiles": []
+}
