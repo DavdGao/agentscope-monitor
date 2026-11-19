@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-19T08:27:47.656228Z",
+  "title": "[Bug]: A stateful MCP client serves the previous connection's tool catalog after close()/connect()",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4125",
+  "number": 4125,
+  "body": "### Prerequisites\n\n- [X] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "zuizhuai"
+  },
+  "at_mobiles": []
+}
