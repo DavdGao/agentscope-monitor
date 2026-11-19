@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "yayuzhang420-sudo",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-19T13:32:45.214123Z",
+  "title": "fix(web-ui): show agent progress and recover event streams",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4161",
+  "number": 4161,
+  "body": "## AgentScope Version\n\n2.0.13dev\n\n## Description\n\nReopening a long-running chat can show only the user's message even while the agent continues calling models and tools. The bounded event replay may h…",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "yayuzhang420-sudo",
+    "head_sha": "7b5235ed012525c2af255b2923e47c8f1330d056",
+    "base_ref": "main",
+    "additions": 1013,
+    "deletions": 124,
+    "changed_files": 11
+  },
+  "at_mobiles": []
+}
