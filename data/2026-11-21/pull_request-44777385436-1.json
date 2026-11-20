@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "2SinceJuly",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-20T16:50:42.528297Z",
+  "title": "fix(formatter): run media downloads off the event loop",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3929",
+  "number": 3929,
+  "body": "## Problem\n\nEvery formatter's media helper runs blocking IO directly on the event-loop\nthread. Formatting a message with a remote image, audio clip or PDF stalls\nevery other coroutine in the process f…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "2SinceJuly",
+    "head_sha": "fe9cfd0ae6c74ca52bed4c574c85263860a0c45c",
+    "base_ref": "main",
+    "additions": 451,
+    "deletions": 194,
+    "changed_files": 15
+  },
+  "at_mobiles": []
+}
