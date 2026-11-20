@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Winoren",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-20T14:52:31.866881Z",
+  "title": "perf(asr): retain only the latest dashscope partial transcript",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4188",
+  "number": 4188,
+  "body": "Fixes #4187\n\n## AgentScope Version\n\n`2.0.13dev` (base `ba9e9d0`)\n\n## Description\n\nDashScope realtime ASR returns only the latest cumulative partial transcript when the caller reads. Previously, all pa…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Winoren",
+    "head_sha": "d16514da569ad90aece8b6f081e1fec91edd9f75",
+    "base_ref": "main",
+    "additions": 67,
+    "deletions": 12,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
