@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Winoren",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-20T14:38:26.570836Z",
+  "title": "perf(embedding): avoid repeated scans during cache eviction",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4186",
+  "number": 4186,
+  "body": "Fixes #4185\n\n## AgentScope Version\n\n`2.0.13dev` (base `ba9e9d0`)\n\n## Description\n\nWhen a write needs to evict multiple entries, reuse file sizes from the directory scan instead of recalculating the di…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Winoren",
+    "head_sha": "884bb828ed3712309bceec9f3284c9b6495ae225",
+    "base_ref": "main",
+    "additions": 42,
+    "deletions": 13,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
