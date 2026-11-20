@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-20T04:00:45.880033Z",
+  "title": "PPTParser strips whitespace from JSON table cells",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4143",
+  "number": 4143,
+  "body": "`PPTParser(table_format=\"json\")` removes leading and trailing whitespace from native PowerPoint table cells. A cell containing only spaces then becomes indistinguishable from an empty cell. The saved …",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "soyorin33"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "soyorin33"
+  },
+  "at_mobiles": []
+}
