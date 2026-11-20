@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "zuizhuai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-20T03:28:15.904331Z",
+  "title": "fix(workflows): apply the open-PR rule when granting a claim",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4170",
+  "number": 4170,
+  "body": "Fixes #4169\n\n### Problem\n\n`issue-claim.yml` refuses a claim while an open pull request closes the issue, but only inside the branch that transfers a standing claim. When nobody holds the issue, the gr…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "zuizhuai",
+    "head_sha": "6294b59c54827cf3a28bf8f825e1d89c811ae8bb",
+    "base_ref": "main",
+    "additions": 71,
+    "deletions": 38,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
