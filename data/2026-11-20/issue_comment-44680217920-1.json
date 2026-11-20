@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "zuizhuai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-20T05:19:13.395830Z",
+  "title": "[Bug]: chat and embedding model cards reject a card whose parameter_overrides key is empty",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4175#issuecomment-7031192595",
+  "number": 4175,
+  "body": "/assign\n\nThe patch is in #4176 (two loaders, one line each).",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "zuizhuai",
+    "commenter": "zuizhuai"
+  },
+  "at_mobiles": []
+}
