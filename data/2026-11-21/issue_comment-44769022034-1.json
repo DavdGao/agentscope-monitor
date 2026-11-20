@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "fancyboi999-bot",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-20T16:01:12.468666Z",
+  "title": "[Bug]: Bash/PowerShell drop output past 30000 characters without saying how much, and the tool_result_limit offload never sees the rest",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4189#issuecomment-7044165836",
+  "number": 4189,
+  "body": "Duplicate of #4191 (filed from the wrong account). Closing.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "fancyboi999-bot",
+    "commenter": "fancyboi999-bot"
+  },
+  "at_mobiles": []
+}
