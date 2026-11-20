@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ccclucky",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-20T06:59:52.976290Z",
+  "title": "fix(tool): detect equivalent dangerous command spellings",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3861#issuecomment-7032802748",
+  "number": 3861,
+  "body": "Pushed `be2ced62` for two spelling families the first commit still missed:\n\n- **Path-qualified commands.** The wrapper/name test compared the raw token, so `/bin/chmod 0777` and `/usr/bin/sudo chmod 0…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "ccclucky",
+    "commenter": "ccclucky"
+  },
+  "at_mobiles": []
+}
