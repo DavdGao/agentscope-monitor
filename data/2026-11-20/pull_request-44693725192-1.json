@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "TINGyu123644",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-20T07:16:26.190902Z",
+  "title": "fix(security): enforce stdio MCP allowlist on from-library route (CVE-2026-123022 gap)",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4181",
+  "number": 4181,
+  "body": "{\n  \"title\": \"fix(security): enforce stdio MCP allowlist on from-library route (CVE-2026-123022 gap)\",\n  \"body\": \"## Problem\\n\\nThe opt-in stdio command allowlist in #3448 (CVE-2026-123022 / #3312) is…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "TINGyu123644",
+    "head_sha": "7dfa2fd4a94bdc34802c31064b73f924abee7283",
+    "base_ref": "main",
+    "additions": 331,
+    "deletions": 1,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
