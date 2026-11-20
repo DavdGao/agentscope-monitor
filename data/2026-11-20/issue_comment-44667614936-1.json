@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "zuizhuai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-20T03:25:42.872821Z",
+  "title": "[Bug]: issue-claim grants an issue that an open pull request already closes",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4169#issuecomment-7029393637",
+  "number": 4169,
+  "body": "One more piece of evidence for the asymmetry, from the other side of the same rule.\n\n`pr-state-labels.yml` already runs the reciprocal guard when a pull request opens: it reads the assignees of the is…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "zuizhuai",
+    "commenter": "zuizhuai"
+  },
+  "at_mobiles": []
+}
