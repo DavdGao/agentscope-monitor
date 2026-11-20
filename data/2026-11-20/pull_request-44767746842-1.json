@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "fancyboi999-bot",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-20T15:53:20.903929Z",
+  "title": "fix(tool): say how much Bash and PowerShell output was cut",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4190",
+  "number": 4190,
+  "body": "## AgentScope Version\n\n2.0.13dev (`main` at ba9e9d04)\n\n## Description\n\nFixes #4189.\n\n**Background.** `Bash` and `PowerShell` cut output at 30000 characters and append only `... (output truncated)`. Th…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "fancyboi999-bot",
+    "head_sha": "aac4284fda06878f22cc10d12acc7b0e730213fb",
+    "base_ref": "main",
+    "additions": 143,
+    "deletions": 23,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
