@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "67-luck",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-20T01:37:07.345725Z",
+  "title": "fix(tool): pass positional-only arguments of FunctionTool by position",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4168",
+  "number": 4168,
+  "body": "## AgentScope Version\n\n2.0.13dev (main @ 2219b047)\n\n## Description\n\nFixes #4167\n\n`FunctionTool` puts positional-only parameters into its input schema by name. `_extract_input_schema` lists `a` and `b`…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "67-luck",
+    "head_sha": "4e7129f9484266f0f39140a36afd7ac71f6b078c",
+    "base_ref": "main",
+    "additions": 92,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
