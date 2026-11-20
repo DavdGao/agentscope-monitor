@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "fancyboi999",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-20T16:00:45.455221Z",
+  "title": "[Bug]: Bash/PowerShell drop output past 30000 characters without saying how much, and the tool_result_limit offload never sees the rest",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4191",
+  "number": 4191,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing issues and discussions, and this is not a duplicate. (Related but different: #3438, #2753.)\n- [x] This is a bug, not a usage question.\n\n### Backgr…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "fancyboi999"
+  },
+  "at_mobiles": []
+}
