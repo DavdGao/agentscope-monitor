@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "zuizhuai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-20T05:19:08.095148Z",
+  "title": "fix(model-card): read a bare parameter_overrides key as no overrides",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4176",
+  "number": 4176,
+  "body": "## Problem\n\nFixes #4175.\n\n`ModelCard.from_yaml` and `EmbeddingModelCard.from_yaml` index the override\nmapping with `config.get(\"parameter_overrides\", {})`. The default only covers a\nmissing key, so a …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "zuizhuai",
+    "head_sha": "45ba8b22c572ba0bcf42f11b0e55eb28af6b1780",
+    "base_ref": "main",
+    "additions": 100,
+    "deletions": 7,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
