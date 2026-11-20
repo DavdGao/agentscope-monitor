@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Winoren",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-20T16:23:22.974928Z",
+  "title": "[Bug]: Gemini TTS misreads quoted or spaced audio MIME parameters",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4195",
+  "number": 4195,
+  "body": "### Background\n\nThe Gemini TTS adapter splits MIME parameters on `=` but keeps surrounding quotes and whitespace. This can reject supported PCM or cause the adapter to miss a declared sample rate and …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Winoren"
+  },
+  "at_mobiles": []
+}
