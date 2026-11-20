@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Winoren",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-20T16:11:27.141240Z",
+  "title": "[Bug]: DashScope realtime TTS skips synthesis when max_retries is zero",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4193",
+  "number": 4193,
+  "body": "### Background\n\nBoth `DashScopeRealtimeTTSModel` and realtime mode in `DashScopeCosyVoiceTTSModel` put the first synthesis attempt inside `range(max_retries)`. With `max_retries=0`, the call returns w…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Winoren"
+  },
+  "at_mobiles": []
+}
