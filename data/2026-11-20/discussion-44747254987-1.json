@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "jiangxingfan1-coder",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-20T13:46:35.971911Z",
+  "title": "Showcase: call AgentScope over A2A from an OpenAI Responses client",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/4184",
+  "number": 4184,
+  "body": "I maintain [Open Agent API](https://github.com/jiangxingfan1-coder/Open-Agent-API), and I tried AgentScope's official A2A server with a different client: an OpenAI Responses request enters the gateway…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Show and tell",
+    "author": "jiangxingfan1-coder"
+  },
+  "at_mobiles": []
+}
