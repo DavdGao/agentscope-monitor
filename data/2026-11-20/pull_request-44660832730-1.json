@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-20T02:26:50.505301Z",
+  "title": "fix(model): convert tuple prefixItems for Gemini tool schemas",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4139",
+  "number": 4139,
+  "body": "Fixes #4137\n\n### What changed\n\n`GeminiChatModel._format_tools` flattens a tool schema and then sanitizes it for google-genai. A fixed-length tuple parameter produces `prefixItems` (plus `minItems`/`ma…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "davis0178",
+    "head_sha": "90f5753c9c536cba0d9650362c4d6aaec63ce809",
+    "base_ref": "main",
+    "additions": 93,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
