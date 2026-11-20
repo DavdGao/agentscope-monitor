@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Winoren",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-20T16:12:26.723745Z",
+  "title": "fix(tts): run dashscope synthesis once when retries are disabled",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4194",
+  "number": 4194,
+  "body": "Fixes #4193\n\n## AgentScope Version\n\n`2.0.13dev` (base `ba9e9d0`)\n\n## Description\n\nWith `max_retries=0`, both DashScope realtime TTS and CosyVoice realtime TTS skipped the synthesis loop entirely. Ensu…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Winoren",
+    "head_sha": "bf3a70fa0a267c89d6aa48f300fbf9997313f4e7",
+    "base_ref": "main",
+    "additions": 42,
+    "deletions": 15,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
