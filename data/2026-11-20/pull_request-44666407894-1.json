@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-20T03:15:09.573084Z",
+  "title": "fix(formatter): default the OpenAI and Moonshot audio types to what they can encode",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4141",
+  "number": 4141,
+  "body": "## Problem\n\n`OpenAIChatFormatter`, `OpenAIMultiAgentFormatter` and both Moonshot\nformatters defaulted to accepting every audio type:\n\n```python\ninput_types: list[str] = Field(\n    default_factory=lamb…",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "9fe696a75e1af8ae1391026912b0dde556e38ded",
+    "base_ref": "main",
+    "additions": 93,
+    "deletions": 10,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
