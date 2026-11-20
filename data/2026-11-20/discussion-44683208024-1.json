@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "iluv7",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-20T05:46:18.995272Z",
+  "title": "Refactor the Kubernetes sandbox backend to use Agent Sandbox",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/4177",
+  "number": 4177,
+  "body": "I propose migrating AgentScope’s Kubernetes sandbox backend to [Kubernetes SIG Apps’ Agent Sandbox](https://agent-sandbox.sigs.k8s.io/docs/). The first step would use the `Sandbox` CRD to provision an…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "iluv7"
+  },
+  "at_mobiles": []
+}
