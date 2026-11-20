@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "zuizhuai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-20T02:21:27.498029Z",
+  "title": "fix(app): parse redis global index tokens from the right",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3696#issuecomment-7028333415",
+  "number": 3696,
+  "body": "Your diagnosis here is right, and `rsplit` does fix both indexes for the ids this repo generates.\n\nTwo things you may want to know, since this has been open since Nov 4:\n\n1. The `pr-guard` comment abo…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Kiko0301",
+    "commenter": "zuizhuai"
+  },
+  "at_mobiles": []
+}
