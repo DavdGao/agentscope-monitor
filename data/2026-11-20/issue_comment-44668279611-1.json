@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "zuizhuai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-20T03:31:24.106257Z",
+  "title": "[Bug]: issue-claim grants an issue that an open pull request already closes",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4169#issuecomment-7029479173",
+  "number": 4169,
+  "body": "/assign\n\nThe patch is in #4170 (YAML only).",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "zuizhuai",
+    "commenter": "zuizhuai"
+  },
+  "at_mobiles": []
+}
