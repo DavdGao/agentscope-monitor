@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "indexGin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-20T07:11:41.179861Z",
+  "title": "fix(tracing): keep span attribute JSON valid for non-finite floats",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4179",
+  "number": 4179,
+  "body": "### Problem\n\n`_serialize_to_str()` in\n`src/agentscope/middleware/_tracing/_utils.py` serializes span attributes\nwith `json.dumps(value, ensure_ascii=False)` and only falls back to\n`_to_serializable()`…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "indexGin",
+    "head_sha": "3659ac9167c48bcd814fd39a16da541d4fee3816",
+    "base_ref": "main",
+    "additions": 92,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
