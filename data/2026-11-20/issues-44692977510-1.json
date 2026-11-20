@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "indexGin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-20T07:10:31.517346Z",
+  "title": "Tracing span attributes become invalid JSON when tool results contain NaN/Infinity",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4178",
+  "number": 4178,
+  "body": "### Describe the bug\n\nWith tracing enabled, OTEL span attributes are built by serializing tool\nresults and response messages through `_serialize_to_str()` in\n`src/agentscope/middleware/_tracing/_utils…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "indexGin"
+  },
+  "at_mobiles": []
+}
