@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Winoren",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-20T14:37:45.897811Z",
+  "title": "[Performance]: FileEmbeddingCache rescans the directory after each size eviction",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4185",
+  "number": 4185,
+  "body": "### Background\n\nWhen `FileEmbeddingCache.store()` exceeds `max_cache_size`, the cache removes entries oldest-first. It enumerates the directory to sort the entries, then enumerates it again to calcula…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Winoren"
+  },
+  "at_mobiles": []
+}
