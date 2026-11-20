@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-20T07:55:03.128464Z",
+  "title": "fix(web-ui): tighten chat footers and add Markdown block actions",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4182",
+  "number": 4182,
+  "body": "## AgentScope version\n\n`2.0.13dev`\n\n## Changes\n\nPlain-text chat messages rendered an empty attachment row between the bubble and its actions. Render the row only for visible attachments and keep a 4 p…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "b8a19d0994b916a3ee963b617af8a3d5fdbbe4a5",
+    "base_ref": "main",
+    "additions": 153,
+    "deletions": 29,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
