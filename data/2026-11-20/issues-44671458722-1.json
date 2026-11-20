@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-20T04:00:28.432291Z",
+  "title": "Msg.get_content_blocks rejects list filters during static type checking",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4142",
+  "number": 4142,
+  "body": "`Msg.get_content_blocks([\"hint\", \"text\"])` works at runtime, and the message tests added in #3494 exercise that exact call. In a typed caller, mypy rejects it because it sees overloads for single bloc…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "soyorin33"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "soyorin33"
+  },
+  "at_mobiles": []
+}
