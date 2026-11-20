@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "TINGyu123644",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-20T07:15:55.933319Z",
+  "title": "[Security] Stdio MCP allowlist (#3448) is bypassable via POST /workspace/mcp/from-library",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4180",
+  "number": 4180,
+  "body": "### Summary\n\nThe opt-in stdio command allowlist introduced in #3448 (mitigating CVE-2026-123022 / #3312) is enforced only on `POST /workspace/mcp`. The second route that starts a caller-influenced std…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "TINGyu123644"
+  },
+  "at_mobiles": []
+}
