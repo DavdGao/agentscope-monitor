@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "zuizhuai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-20T04:56:37.073027Z",
+  "title": "[Bug]: ASR and embedding model cards reject null parameter overrides",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4173",
+  "number": 4173,
+  "body": "### Background / Description\n\n`ASRModelCard.from_yaml` and `EmbeddingModelCard.from_yaml` document a YAML `parameter_overrides` value of `null` as \"remove this parameter\": they pop the property out of…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "zuizhuai"
+  },
+  "at_mobiles": []
+}
