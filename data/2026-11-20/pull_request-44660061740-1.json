@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "zuizhuai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-20T02:20:44.092991Z",
+  "title": "fix(storage): escape knowledge-document index tokens so the sweeps can find colon-bearing user ids",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4160",
+  "number": 4160,
+  "body": "Fixes #4159\n\n### Problem\n\n`_document_global_token()` joined `(user_id, kb_id, doc_id)` with `:`, and both knowledge-document sweeps took it apart again with `token.split(\":\", 2)`. Nothing escaped the …",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "zuizhuai",
+    "head_sha": "b727026a96a0d9ffd41241c0a3815e72dbf87ab8",
+    "base_ref": "main",
+    "additions": 318,
+    "deletions": 34,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
