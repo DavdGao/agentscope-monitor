@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-20T04:23:04.443305Z",
+  "title": "fix(a2a): build the request before consuming observed messages",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4154",
+  "number": 4154,
+  "body": "## AgentScope Version\n\n2.0.13dev (main at bea42ba8)\n\n## Description\n\nFixes #4153.\n\n`A2AAgent._reply` built the outgoing request inside the `send_message(...)` call. By that point it had already yielde…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "67-luck",
+    "head_sha": "c121944e78a1bf2a322d9ddc04f6c4b5a27474c3",
+    "base_ref": "main",
+    "additions": 56,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
