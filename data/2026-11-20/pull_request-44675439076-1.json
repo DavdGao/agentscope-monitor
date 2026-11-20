@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "davis0178",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-20T04:35:42.330276Z",
+  "title": "fix(model): drop deprecated and patternProperties for Gemini tool schemas",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4172",
+  "number": 4172,
+  "body": "Fixes #4171\n\n### What changed\n\n`GeminiChatModel._format_tools` sanitizes the tool schema with `_sanitize_schema_for_gemini` before building the request. Two Pydantic-emitted keywords were still left i…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "davis0178",
+    "head_sha": "37fffd54d566cb7385d849b04bf75d0bb63db68f",
+    "base_ref": "main",
+    "additions": 29,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
