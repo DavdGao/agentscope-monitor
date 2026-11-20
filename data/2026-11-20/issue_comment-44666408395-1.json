@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-20T03:15:08.955452Z",
+  "title": "fix(formatter): default the OpenAI and Moonshot audio types to what they can encode",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4141#issuecomment-7029236300",
+  "number": 4141,
+  "body": "Closing this in favor of #2737. Thanks for catching the mismatch between the advertised audio types and what the encoder can handle.\n\n#2737 now uses the encoder’s MIME mapping to set the defaults for …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Kiko0301",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
