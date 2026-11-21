@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Guo-Yixin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-21T06:46:01.497862Z",
+  "title": "[Bug]: tool middleware consumes index arguments and skips layers",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4205",
+  "number": 4205,
+  "body": "## Background / Description\n\nOn main `ba9e9d04eb3788b3dc8d8148d27c0948a3b7f43e`, attaching tool-level middleware changes the meaning of a legitimate tool argument named `index`. `FunctionTool` adverti…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Guo-Yixin"
+  },
+  "at_mobiles": []
+}
