@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "DZH166",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-21T12:00:54.740100Z",
+  "title": "fix(message): keep tool-result data block name when replaying events",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4211",
+  "number": 4211,
+  "body": "## Problem\n\nA tool-result `DataBlock` can carry a `name`: the built-in `Read` tool sets it\nto the source file name for every image and PDF it returns. The canonical tool\nresult keeps it (`ToolResponse…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "DZH166",
+    "head_sha": "b32df544a8c326bf92fed46f33ced28616670698",
+    "base_ref": "main",
+    "additions": 240,
+    "deletions": 1,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
