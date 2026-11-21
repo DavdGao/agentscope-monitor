@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "peterzhang987723",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-21T11:00:16.917426Z",
+  "title": "feat(middleware): add TrajectoryMiddleware for RL/eval rollout capture and verification",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4210#issuecomment-7061602594",
+  "number": 4210,
+  "body": "Confirming this is an intentional feature proposal (rather than a bug report), opened as requested by `pr-guard` on the accompanying implementation PR #4209 (`Fixes #4210`).",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "peterzhang987723",
+    "commenter": "peterzhang987723"
+  },
+  "at_mobiles": []
+}
