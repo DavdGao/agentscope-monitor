@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "peterzhang987723",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-21T09:01:48.860254Z",
+  "title": "feat(middleware): add TrajectoryMiddleware for RL/eval rollout capture and verification",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4209",
+  "number": 4209,
+  "body": "## Motivation\n`agentscope.middleware._tracing.TracingMiddleware` provides OpenTelemetry observability spans, while users running RLVR / agentic RL pipelines, automated evaluations, or prompt/harness o…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "peterzhang987723",
+    "head_sha": "a74afba5381f800c10213cbd0f04319be8cf6323",
+    "base_ref": "main",
+    "additions": 2033,
+    "deletions": 0,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
