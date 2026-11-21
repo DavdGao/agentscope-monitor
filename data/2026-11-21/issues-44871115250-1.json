@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "indexGin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-21T05:29:44.369864Z",
+  "title": "Corrupt queued chat input payloads decoding to scalars are not discarded",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4198",
+  "number": 4198,
+  "body": "### Describe the bug\n\n`decode_input()` in `src/agentscope/app/_chat_input_store.py` restores the\npayload of a reference-backed queued chat input from a JSON string. Its\ndocstring says it omits \"missin…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "indexGin"
+  },
+  "at_mobiles": []
+}
