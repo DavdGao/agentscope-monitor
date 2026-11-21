@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Guo-Yixin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-21T07:31:43.206258Z",
+  "title": "fix(workspace): preserve docker file overwrite metadata",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4208",
+  "number": 4208,
+  "body": "## AgentScope Version\n\n2.0.13dev, based on main `ba9e9d04eb3788b3dc8d8148d27c0948a3b7f43e`.\n\n## Description\n\nFixes #4207.\n\nDocker-backed `Write` and `Edit` currently upload a fresh tar entry with defa…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Guo-Yixin",
+    "head_sha": "847863dc294a6e9a34193026b89d3540a7a23d04",
+    "base_ref": "main",
+    "additions": 409,
+    "deletions": 2,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
