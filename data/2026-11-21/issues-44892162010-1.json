@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "peterzhang987723",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-21T09:59:53.920289Z",
+  "title": "feat(middleware): add TrajectoryMiddleware for RL/eval rollout capture and verification",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4210",
+  "number": 4210,
+  "body": "## Problem / Motivation\n\nAgentScope currently provides `TracingMiddleware` (`src/agentscope/middleware/_tracing/`) for OpenTelemetry observability spans, as well as lifecycle hooks on `MiddlewareBase`…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "peterzhang987723"
+  },
+  "at_mobiles": []
+}
