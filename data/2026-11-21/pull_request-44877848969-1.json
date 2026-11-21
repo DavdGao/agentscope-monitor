@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Guo-Yixin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-21T06:56:08.922002Z",
+  "title": "fix(tool): preserve index arguments through middleware",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4206",
+  "number": 4206,
+  "body": "## AgentScope Version\n\n2.0.13dev, based on main `ba9e9d04eb3788b3dc8d8148d27c0948a3b7f43e`.\n\n## Description\n\nFixes #4205.\n\nA tool parameter named `index` currently binds the middleware chain's private…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Guo-Yixin",
+    "head_sha": "c3c8eee28ab48244704f75d037a1a1ba060fe8c0",
+    "base_ref": "main",
+    "additions": 297,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
