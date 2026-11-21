@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Guo-Yixin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-21T05:46:27.591895Z",
+  "title": "[Bug]: concurrent MCP close calls discard a replacement connection",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4200",
+  "number": 4200,
+  "body": "### Background / Description\n\nTwo overlapping `MCPClient.close()` calls can discard a replacement stateful connection when the first caller reconnects immediately after its close returns. This can hap…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Guo-Yixin"
+  },
+  "at_mobiles": []
+}
