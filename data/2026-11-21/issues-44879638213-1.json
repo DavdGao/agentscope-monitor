@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Guo-Yixin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-21T07:18:43.127727Z",
+  "title": "[Bug]: Docker file edits reset permissions and ownership",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4207",
+  "number": 4207,
+  "body": "## Background / Description\n\nOn main `ba9e9d04eb3788b3dc8d8148d27c0948a3b7f43e`, editing an executable file through `Edit(backend=DockerBackend(...))` succeeds but removes its executable bits. Overwri…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Guo-Yixin"
+  },
+  "at_mobiles": []
+}
