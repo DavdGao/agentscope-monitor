@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Winoren",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-21T05:46:23.454402Z",
+  "title": "fix(tts): reject sse transport for raw openai audio",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4201",
+  "number": 4201,
+  "body": "Fixes #4199\n\n## AgentScope Version\n\n`2.0.13dev` (base `ba9e9d0`)\n\n## Description\n\nOpenAI TTS consumes raw audio in both aggregate and streaming output modes. Passing `stream_format=\"sse\"` previously l…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Winoren",
+    "head_sha": "d9b1336a394ead2ef74d09fd8c9e4d9f618ef6e9",
+    "base_ref": "main",
+    "additions": 37,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
