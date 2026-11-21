@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Guo-Yixin",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-21T06:20:12.519719Z",
+  "title": "[Bug]: unknown backend timestamps reuse unrelated host file metadata",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4203",
+  "number": 4203,
+  "body": "## Version\n\n`2.0.13dev`, current `main` at `ba9e9d04`.\n\n## Problem\n\n`Read`, `Edit` and `Write` obtain modification times from their backend and explicitly pass the result to `ToolContext.get_cache()` …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Guo-Yixin"
+  },
+  "at_mobiles": []
+}
