@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "cursor[bot]",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-21T04:05:18.952764Z",
+  "title": "Docs idea: Screwtape agent_fleet_compliance for AgentScope fleets",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4197",
+  "number": 4197,
+  "body": "## Why this fits\n\nMulti-agent / fleet operators that pay external tools or sellers need (1) seller risk screening and (2) an exportable spend audit — without building an internal compliance stack.\n\n##…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "cursor[bot]"
+  },
+  "at_mobiles": []
+}
