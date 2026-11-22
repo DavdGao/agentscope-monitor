@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "shengzhaowei",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-22T09:22:22.011800Z",
+  "title": "fix(rag): omit tracked deletions in Word table cells",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4216",
+  "number": 4216,
+  "body": "- Branch: `fix/word-table-tracked-deletions` (head `dcbbaf8`)\n- Base: `main` (`ba9e9d0`)\n- Fixes #4214\n## Diffstat\n```\nsrc/agentscope/rag/_parser/_word.py |  9 ++++++++-\ntests/rag_parser_test.py      …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "shengzhaowei",
+    "head_sha": "dcbbaf8cc839eb4c5b9d8b87d939fd8b147d9efa",
+    "base_ref": "main",
+    "additions": 50,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
