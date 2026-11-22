@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "shengzhaowei",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-22T15:54:43.024689Z",
+  "title": "feat(app): emit workspace_changed event when a run finishes",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4228",
+  "number": 4228,
+  "body": "## PR Title Format\n\nfeat(app): emit workspace_changed event when a run finishes\n\n## AgentScope Version\n\n2.0.13dev (base `ba9e9d0`, upstream main at time of writing)\n\n## Description\n\n**Background.** Wh…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "shengzhaowei",
+    "head_sha": "1922344eeb9f22e23b5183d66d2800e9f972cae0",
+    "base_ref": "main",
+    "additions": 336,
+    "deletions": 0,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
