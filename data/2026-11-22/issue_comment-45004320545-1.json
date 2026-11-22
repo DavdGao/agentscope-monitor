@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "gouyu-hou",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-22T08:46:05.141628Z",
+  "title": "Grep tool reports a bare `code 127` and an OS error when ripgrep is not installed",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4212#issuecomment-7076720591",
+  "number": 4212,
+  "body": "Duplicate of the work in #3082, which has been open since 2026-10-01; closing so the fix stays in one place.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "gouyu-hou",
+    "commenter": "gouyu-hou"
+  },
+  "at_mobiles": []
+}
