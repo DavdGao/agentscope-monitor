@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "gouyu-hou",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-22T08:45:59.528622Z",
+  "title": "fix(tool): say ripgrep is missing instead of reporting exit code 127",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4213#issuecomment-7076720057",
+  "number": 4213,
+  "body": "Closing: #3082 already does this — it maps `exit_code == 127` (and `WinError 2`) in `_run_ripgrep` to an install hint and skips the grep tests when `rg` is absent. I did not see it when I filed #4212;…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "gouyu-hou",
+    "commenter": "gouyu-hou"
+  },
+  "at_mobiles": []
+}
