@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "luyunix",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-22T15:31:14.738775Z",
+  "title": "Proposal: add PgVectorStore for the AgentScope 2.x RAG API",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/4227",
+  "number": 4227,
+  "body": "I'd like to contribute a `PgVectorStore` for the current 2.x RAG API. Would this be welcome, and is anyone already working on it? I'm posting in Ideas as directed by the feature-request chooser, befor…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "luyunix"
+  },
+  "at_mobiles": []
+}
