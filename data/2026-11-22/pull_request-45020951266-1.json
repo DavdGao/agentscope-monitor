@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "shengzhaowei",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-22T12:11:07.823085Z",
+  "title": "fix(rag): treat a fully deleted Word paragraph as a blank line",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4223",
+  "number": 4223,
+  "body": "Fixes #4220\n\n## Summary\n\nA paragraph whose only text was tracked-deleted was extracted as `\"\"` but was not recognised as blank, so its blank line was dropped. This breaks the blank-line contract from …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "shengzhaowei",
+    "head_sha": "c455089cfff97b6b94067378a8b04795152f9751",
+    "base_ref": "main",
+    "additions": 45,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
