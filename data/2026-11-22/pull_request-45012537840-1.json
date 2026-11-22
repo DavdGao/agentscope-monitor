@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "yinzhiyan43",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-22T10:27:48.589202Z",
+  "title": "Codex/cross system save confirmation",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4218",
+  "number": 4218,
+  "body": "## PR Title Format\n\nPlease ensure your PR title follows the Conventional Commits format:\n- Format: `<type>(<scope>): <description>`\n- Example: `feat(memory): add redis cache support`\n- Allowed types: …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "yinzhiyan43",
+    "head_sha": "d7fe298ec13882ef68e0a14c8446110316eb4ee8",
+    "base_ref": "main",
+    "additions": 15295,
+    "deletions": 297,
+    "changed_files": 99
+  },
+  "at_mobiles": []
+}
