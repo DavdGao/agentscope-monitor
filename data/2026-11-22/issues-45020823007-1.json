@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "shengzhaowei",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-22T12:09:36.514048Z",
+  "title": "[Bug] HEIC/HEIF 图片被误标为 JPEG",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4221",
+  "number": 4221,
+  "body": "## 问题描述\n\n`_guess_image_media_type()` 只认识 PNG、JPEG、GIF、BMP 签名和 WebP 分支，HEIC/HEIF 图片（`ftyp` 盒子，品牌 `heic` / `heix` / `mif1` / `msf1`，例如 iPhone 照片、苹果平台 Office 文档里内嵌的图片）在没有 `content_type` 时会落入兜底，被标成 `image…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "shengzhaowei"
+  },
+  "at_mobiles": []
+}
