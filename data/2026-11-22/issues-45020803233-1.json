@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "shengzhaowei",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-22T12:09:23.055437Z",
+  "title": "[Bug] 整段被修订删除的段落丢了空行",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4220",
+  "number": 4220,
+  "body": "## 问题描述\n\n修订模式下删掉整段文字后，这个段落在 Word 最终视图里就是一个空段落，按 #2538 / #3401 建立的“保留空行”约定，解析结果里应保留一个空行。但实际解析时这个空行丢了，前后两段直接连在了一起。\n\n## 复现步骤\n\n1. 造一个最小 DOCX，包含三段：`first`、一段只有被删除文字的段落（`<w:del><w:r><w:delText>gone</w:delTe…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "shengzhaowei"
+  },
+  "at_mobiles": []
+}
