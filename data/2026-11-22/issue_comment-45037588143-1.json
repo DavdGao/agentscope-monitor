@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "luyunix",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-22T15:18:54.267972Z",
+  "title": "[Bug]: K8sBackend treats leading-hyphen filenames as tar options",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4225#issuecomment-7081204729",
+  "number": 4225,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "luyunix",
+    "commenter": "luyunix"
+  },
+  "at_mobiles": []
+}
