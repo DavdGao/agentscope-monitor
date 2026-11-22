@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "gouyu-hou",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-22T08:45:08.797982Z",
+  "title": "fix(tool): say ripgrep is missing instead of reporting exit code 127",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4213",
+  "number": 4213,
+  "body": "## Observed behavior\n\nOn a host without ripgrep, `Grep` answers with a POSIX exit code and the operating system's own message. Real output from this Windows machine (`rg` absent from `PATH`, temp dir …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "gouyu-hou",
+    "head_sha": "bdc511c0d02cc8e758748bcd244810ad36b11e47",
+    "base_ref": "main",
+    "additions": 966,
+    "deletions": 935,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
