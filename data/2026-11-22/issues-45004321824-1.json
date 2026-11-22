@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "gouyu-hou",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-22T08:46:11.836280Z",
+  "title": "Grep tool reports a bare `code 127` and an OS error when ripgrep is not installed",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4212",
+  "number": 4212,
+  "body": "## What happens\n\n`Grep` runs `rg` through the backend. On a host where ripgrep is not installed (a fresh Windows box, for instance), the tool answers with the raw exit code and the OS's own message, i…",
+  "labels": [
+    "triage/not-a-bug"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "gouyu-hou"
+  },
+  "at_mobiles": []
+}
