@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Winoren",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T09:06:02.635307Z",
+  "title": "fix(rag): cancel sibling knowledge-base searches",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4240",
+  "number": 4240,
+  "body": "Fixes #4239\n\n## AgentScope Version\n\n2.0.13dev, based on `a17937b`.\n\n## Description\n\nWhen one knowledge-base search is cancelled, `asyncio.gather` propagates the cancellation to the caller while the ot…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Winoren",
+    "head_sha": "adb1d650949acaefcfa3cb24ed9de11bf9d58777",
+    "base_ref": "main",
+    "additions": 31,
+    "deletions": 16,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
