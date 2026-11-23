@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T13:09:18.929831Z",
+  "title": "fix(asr): resolve the DashScope realtime ASR endpoint like the other DashScope paths",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4260",
+  "number": 4260,
+  "body": "## Problem\n\n`DashScopeRealtimeASRModel` resolves its WebSocket endpoint with a local helper that keeps only the scheme and host of `base_url`:\n\n```python\ndef _realtime_url(base_url: str) -> str:\n    p…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "dec0e7e233116f45808f752e4e1a598eebe8d89a",
+    "base_ref": "main",
+    "additions": 41,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
