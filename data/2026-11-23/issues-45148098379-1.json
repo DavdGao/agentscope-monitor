@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T09:33:29.115083Z",
+  "title": "[Bug]: chat and embedding model cards reject a card whose parameter_overrides key is empty",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4175",
+  "number": 4175,
+  "body": "## Description\n\nA card that names `parameter_overrides` without giving it a mapping never\nloads:\n\n```yaml\nparameter_overrides:\n```\n\nYAML parses a bare key to `None`, `config.get(\"parameter_overrides\",…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "zuizhuai"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "zuizhuai"
+  },
+  "at_mobiles": []
+}
