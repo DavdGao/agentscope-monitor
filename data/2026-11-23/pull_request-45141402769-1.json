@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Winoren",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T08:47:09.937104Z",
+  "title": "perf(rag): avoid per-character offsets when chunking UTF-8",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4238",
+  "number": 4238,
+  "body": "Fixes #4237\n\n## AgentScope Version\n\n2.0.13dev, based on `a17937b`.\n\n## Description\n\nThe approximate-token chunker builds a Python integer offset for every character before producing the first chunk. R…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Winoren",
+    "head_sha": "905a77c9c2ddac4725487143e3552bc5d71e6d6f",
+    "base_ref": "main",
+    "additions": 43,
+    "deletions": 45,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
