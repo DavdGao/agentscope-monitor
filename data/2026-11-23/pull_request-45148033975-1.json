@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T09:33:03.660291Z",
+  "title": "fix(model-card): drop null parameter overrides in ASR and embedding cards",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4174",
+  "number": 4174,
+  "body": "## Problem\n\nFixes #4173.\n\n`ASRModelCard.from_yaml` and `EmbeddingModelCard.from_yaml` treat a YAML `parameter_overrides` value of `null` as a request to remove that parameter from the generated `param…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "zuizhuai",
+    "head_sha": "389649c57361248491ffd1fe6b140c6e5aafb910",
+    "base_ref": "main",
+    "additions": 50,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
