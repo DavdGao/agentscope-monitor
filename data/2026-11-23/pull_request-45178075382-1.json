@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T12:50:35.620676Z",
+  "title": "fix(formatter): normalize media types before matching in OpenAI data blocks",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4259",
+  "number": 4259,
+  "body": "## Problem\n\n`_OpenAIFormatterBase._format_openai_data_block` matches the raw `source.media_type` and then branches on the raw main type:\n\n```python\nif not any(\n    fnmatch(block.source.media_type, pat…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "5ae13259fb46516f2b15fe053a5b337964b5840a",
+    "base_ref": "main",
+    "additions": 40,
+    "deletions": 5,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
