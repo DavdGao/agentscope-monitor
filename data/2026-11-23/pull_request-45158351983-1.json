@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "thejesh23",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T10:41:21.018743Z",
+  "title": "fix(model): return the validated model from generate_structured_output",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4247",
+  "number": 4247,
+  "body": "## AgentScope Version\n\n2.0.13dev (main @ 83f907c)\n\n## Description\n\nFixes #4246\n\n`_call_api_with_structured_output` validated the tool arguments against a Pydantic `structured_model` but returned the r…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "thejesh23",
+    "head_sha": "b9f59e5e63e6207c1bd1988cbd80809dcd0ff6f0",
+    "base_ref": "main",
+    "additions": 69,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
