@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T10:56:15.670523Z",
+  "title": "fix(agent): keep streamed A2A text in one block across empty status updates",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4249",
+  "number": 4249,
+  "body": "## Problem\n\n`A2AAgent` keeps one text block open while consecutive artifact chunks stream into it (`append=True`). Every `status_update` response is then fed to `_parts_to_events` with its default `la…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "44b4f024463a540117742474cff295b231e4dc96",
+    "base_ref": "main",
+    "additions": 68,
+    "deletions": 6,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
