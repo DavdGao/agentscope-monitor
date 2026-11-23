@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "zuizhuai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T10:07:44.098565Z",
+  "title": "[Bug]: unsupported-audio fallback names its temp file from host MIME tables, so audio/wav and audio/pcm lose their extension on Linux",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4244",
+  "number": 4244,
+  "body": "### Summary\n\nWhen a tool returns media the target provider cannot take, `FormatterBase._convert_unsupported_data_block_to_string` persists the bytes to a temp file and tells the model the path. The fi…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "zuizhuai"
+  },
+  "at_mobiles": []
+}
