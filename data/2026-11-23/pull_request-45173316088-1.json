@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T12:20:20.630073Z",
+  "title": "fix(formatter): normalize media types before matching in Anthropic data blocks",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4258",
+  "number": 4258,
+  "body": "## Problem\n\n`AnthropicChatFormatter._format_anthropic_data_block` matches the raw `source.media_type`:\n\n```python\nsource = block.source\nmedia_type = source.media_type\n\nif not any(\n    fnmatch.fnmatch(…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "28eb7b752a97b785cfbc38813daf95134f7e556c",
+    "base_ref": "main",
+    "additions": 46,
+    "deletions": 10,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
