@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Mzq12138",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T01:47:20.613994Z",
+  "title": "`ChatService.interrupt()` on an idle/unlocked session spawns a full `resume-run` into `ChatRunRegistry`, racing the caller's next `spawn` (\"already has an active chat run in this p",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4231",
+  "number": 4231,
+  "body": "## Environment\n\n- agentscope **2.0.10** (Python, `agentscope.app` service layer), verified on Linux / Python 3.11\n- Message bus: `InMemoryMessageBus` (single process); the same code path applies to Re…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Mzq12138"
+  },
+  "at_mobiles": []
+}
