@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Winoren",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T07:38:56.838043Z",
+  "title": "[Bug]: Ollama embedding batches can silently misalign knowledge-base vectors",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4233#issuecomment-7094548795",
+  "number": 4233,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Winoren",
+    "commenter": "Winoren"
+  },
+  "at_mobiles": []
+}
