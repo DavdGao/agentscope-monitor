@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T07:36:34.351669Z",
+  "title": "[Bug]: OpenAI TTS treats SSE event bytes as audio",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4199",
+  "number": 4199,
+  "body": "### Background\n\n`OpenAITTSModel.synthesize()` forwards `stream_format=\"sse\"` to the OpenAI SDK. The adapter wraps the response body or streamed byte chunks as audio without decoding SSE events. For a …",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "Winoren"
+  },
+  "at_mobiles": []
+}
