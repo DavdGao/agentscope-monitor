@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T13:13:30.382819Z",
+  "title": "fix(scheduler): purge spawned session workspaces when the agent tool deletes a schedule",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4261",
+  "number": 4261,
+  "body": "## Problem\n\n`ScheduleDelete` builds its `SessionService` without a workspace manager:\n\n```python\nsession_service = SessionService(\n    storage=self._storage,\n    message_bus=self._message_bus,\n)\ndelet…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "55f347a6e8ec5f8a85d07fbdcea23b3ab509577d",
+    "base_ref": "main",
+    "additions": 84,
+    "deletions": 0,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
