@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T09:34:37.288088Z",
+  "title": "daytona requirement accepts 2.0.0, a breaking major release",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4080",
+  "number": 4080,
+  "body": "Daytona SDK 2.0.0 is about to become the default release on PyPI. It's a new major version with breaking API changes, and the current requirement (`daytona`) accepts it, so a fresh install of `agentsc…",
+  "labels": [
+    "triage/cannot-reproduce"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "MDzaja"
+  },
+  "at_mobiles": []
+}
