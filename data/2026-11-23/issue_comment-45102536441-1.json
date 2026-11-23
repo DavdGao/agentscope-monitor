@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "xiaoyesoso",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T02:51:23.697345Z",
+  "title": "`ChatService.interrupt()` on an idle/unlocked session spawns a full `resume-run` into `ChatRunRegistry`, racing the caller's next `spawn` (\"already has an active chat run in this p",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4231#issuecomment-7090263351",
+  "number": 4231,
+  "body": "/assign\n\nI reproduced the idle-session race on main: the interrupt registers a resume run even when there are no awaiting tool calls, and an immediate resend can lose the registry slot. I’ll work on m…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Mzq12138",
+    "commenter": "xiaoyesoso"
+  },
+  "at_mobiles": []
+}
