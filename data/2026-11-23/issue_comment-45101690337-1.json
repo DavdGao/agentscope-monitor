@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "xiaoyesoso",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T02:42:11.228780Z",
+  "title": "feat(rag): support RAGFlow in a new `RAGFlowKnowledgeBase` class rather than VDB",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2481#issuecomment-7090141624",
+  "number": 2481,
+  "body": "Hi @Solaris-star, are you still pursuing the RAGFlow knowledge-layer integration, or waiting for maintainer feedback before proceeding? If you’ve stepped back, I can continue from #2722 while preservi…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "DavdGao",
+    "commenter": "xiaoyesoso"
+  },
+  "at_mobiles": []
+}
