@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "thejesh23",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T10:41:40.968320Z",
+  "title": "[Bug]: GoalPipeline example README names a 'passed' verdict field that does not exist",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4248",
+  "number": 4248,
+  "body": "### Background / Description\n\n`examples/pipeline/goal/README.md` says the verifier's verdict \"comes from structured output (`passed` plus a `message` ...)\". There is no `passed` field: `_VerificationR…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "thejesh23"
+  },
+  "at_mobiles": []
+}
