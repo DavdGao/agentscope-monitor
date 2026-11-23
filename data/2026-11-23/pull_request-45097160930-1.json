@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T01:54:33.541794Z",
+  "title": "feat(web-ui): add pipeline voice mode",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4118",
+  "number": 4118,
+  "body": "## AgentScope Version\n\n2.0.13dev\n\n## Description\n\nAdd **Pipeline Voice** to the Web UI so users can hold turn-based voice conversations with separate ASR, chat, and TTS models. Selecting this mode exp…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "cb822e9710bac8673569fd4f685dc726df343dda",
+    "base_ref": "main",
+    "additions": 11492,
+    "deletions": 1360,
+    "changed_files": 78
+  },
+  "at_mobiles": []
+}
