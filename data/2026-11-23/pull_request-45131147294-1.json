@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T07:27:08.399164Z",
+  "title": "fix(rag): measure the same byte budget on both ApproxTokenChunker paths",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4183",
+  "number": 4183,
+  "body": "## Problem\n\n`_split_text` had two different notions of its limit:\n\n```python\nif self._approx_count_tokens(text) <= self.chunk_size:   # bytes // 4, floored\n    return [text]\n...\nchunk_bytes = self.chu…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "Luckyou-d",
+    "head_sha": "09e7f82bf425fd1d1b6bbd3fa07d124f1db03371",
+    "base_ref": "main",
+    "additions": 48,
+    "deletions": 19,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
