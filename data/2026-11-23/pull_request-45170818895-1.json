@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T12:04:23.812105Z",
+  "title": "fix(mem0): anchor the fire-and-forget write-back task",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4257",
+  "number": 4257,
+  "body": "## Problem\n\nWith `await_write=False`, `Mem0Middleware._dispatch_write` starts the write and drops the task:\n\n```python\nasyncio.create_task(_bg())\n```\n\nNothing keeps a reference to the returned task. C…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "980a433c21b3c7f4a226cb041fa6d8bcd9a6336d",
+    "base_ref": "main",
+    "additions": 67,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
