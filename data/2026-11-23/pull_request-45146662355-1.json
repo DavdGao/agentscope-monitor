@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T09:24:11.064869Z",
+  "title": "fix(mcp): preserve replacement ownership after concurrent closes",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4202",
+  "number": 4202,
+  "body": "Fixes #4200.\n\nWhen two callers close an established MCP connection and the first immediately reconnects, the second old close can erase the replacement's lifecycle task and close event. The new server…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Guo-Yixin",
+    "head_sha": "fbcc35a6732ebd5aafe508605ee47425b63c3bcd",
+    "base_ref": "main",
+    "additions": 98,
+    "deletions": 8,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
