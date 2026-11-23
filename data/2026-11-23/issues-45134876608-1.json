@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Winoren",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T07:57:48.361746Z",
+  "title": "[Bug]: WordParser indexes pictures removed by tracked changes",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4235",
+  "number": 4235,
+  "body": "### Background / Description\n\nWith tracked changes enabled, Word can keep a removed picture's drawing and image relationship in the DOCX. `WordParser` skips tracked-deleted and move-source text in bod…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Winoren"
+  },
+  "at_mobiles": []
+}
