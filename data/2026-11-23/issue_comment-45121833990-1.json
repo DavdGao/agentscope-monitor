@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "wang1299",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T06:05:55.679160Z",
+  "title": "ExcelParser conflates boolean and numeric cells in the same column",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4134#issuecomment-7092999377",
+  "number": 4134,
+  "body": "I'd like to help resolve this and request assignment if it is available, while respecting @soyorin33's earlier offer to implement it. Please coordinate ownership before a parallel patch is started.\n\nI…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "soyorin33",
+    "commenter": "wang1299"
+  },
+  "at_mobiles": []
+}
