@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "March-77",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T08:12:22.949401Z",
+  "title": "feat(agent): emit context compression status events",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2147#issuecomment-7095163225",
+  "number": 2147,
+  "body": "I merged current `main` and resolved the compression-test conflict, keeping both the lifecycle event tests and upstream's content-blocking tests. The compression and AG-UI protocol suites passed local…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "March-77",
+    "commenter": "March-77"
+  },
+  "at_mobiles": []
+}
