@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T10:59:26.797443Z",
+  "title": "fix(agent): keep an in-flight tool call open across data-only chunks",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4250",
+  "number": 4250,
+  "body": "## Problem\n\n`Agent._convert_chat_response_to_event` keeps the text and thinking streams alive across a chunk that only carries `DataBlock`s (omni-style audio deltas), but the tool-call stream is not g…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "c963eec4fff1645b213927f225c2238cda714335",
+    "base_ref": "main",
+    "additions": 93,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
