@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T08:02:16.985851Z",
+  "title": "fix(embedding): drop hidden required fields from model cards",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3988",
+  "number": 3988,
+  "body": "## Problem\n\n`EmbeddingModelCard.from_yaml()` removes parameters from\n`parameter_schema[\"properties\"]` when a model card marks them as `null` or\n`hidden`, but it copies the original `required` list unc…",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "397ce433662c53a23816d839229ff03a0ab8be7e",
+    "base_ref": "main",
+    "additions": 55,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
