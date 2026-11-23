@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ai-yang",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T04:16:48.893089Z",
+  "title": "fix(pipeline): stop orchestration after agent interruption",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3603#issuecomment-7091440627",
+  "number": 3603,
+  "body": "@qbc2016 Could you review this when you have a chance? The main point is that an interrupted agent stops the current SOP or GoalPipeline run; the pending step can run again on resume. The [companion d…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "ai-yang",
+    "commenter": "ai-yang"
+  },
+  "at_mobiles": []
+}
