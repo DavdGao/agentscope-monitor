@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Yzzz88",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T08:58:38.982648Z",
+  "title": "fix(sop): settle exhausted attempts before emitting step endings",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3593#issuecomment-7096064683",
+  "number": 3593,
+  "body": "Thank you for your time on this project. Regarding this change (settle exhausted attempts before emitting step endings), when you have a chance to review it, is there any additional context or validat…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Yzzz88",
+    "commenter": "Yzzz88"
+  },
+  "at_mobiles": []
+}
