@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Winoren",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T09:04:52.987423Z",
+  "title": "[Bug]: RAG middleware leaves sibling knowledge-base searches running after cancellation",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4239#issuecomment-7096189178",
+  "number": 4239,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Winoren",
+    "commenter": "Winoren"
+  },
+  "at_mobiles": []
+}
