@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T08:33:11.977295Z",
+  "title": "[Performance]: DashScope realtime ASR retains superseded partial transcripts",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4187",
+  "number": 4187,
+  "body": "### Background\n\nDashScope realtime ASR emits cumulative partial transcripts. The model queues every nonempty partial until the caller reads again, even though that read returns only the latest respons…",
+  "labels": [
+    "triage/not-a-bug"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "Winoren"
+  },
+  "at_mobiles": []
+}
