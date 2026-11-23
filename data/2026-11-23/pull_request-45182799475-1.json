@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T13:19:55.105907Z",
+  "title": "fix(feishu): keep code blocks when flattening post messages",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4263",
+  "number": 4263,
+  "body": "## Problem\n\n`FeishuChannel._parse_post` flattens a `post` (rich-text) message by dispatching on each element's `tag`:\n\n```python\nif tag == \"text\":\n    parts.append(element.get(\"text\", \"\"))\nelif tag ==…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "83625c44a30ae346c285a72ccbda088472ecda9f",
+    "base_ref": "main",
+    "additions": 32,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
