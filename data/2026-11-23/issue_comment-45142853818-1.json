@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Yzzz88",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T08:58:04.233214Z",
+  "title": "fix(rag): preserve PDF page numbers in citations",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4002#issuecomment-7096051953",
+  "number": 4002,
+  "body": "Thank you for your time on this project. Regarding this change (preserve PDF page numbers in citations), when you have a chance to review it, is there any additional context or validation you would li…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Yzzz88",
+    "commenter": "Yzzz88"
+  },
+  "at_mobiles": []
+}
