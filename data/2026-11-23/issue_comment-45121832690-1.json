@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "wang1299",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T06:05:46.702320Z",
+  "title": "ResourceAccessPolicyBase has no by-ID read check; resolve_agent / resolve_credential list every shared resource on each call",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3311#issuecomment-7092998128",
+  "number": 3311,
+  "body": "I'd like to claim this once maintainers approve the contribution scope and make it available for assignment.\n\nI checked main c83bf285071e6a4e8b62137728651410464c7c22. The runtime resolver still uses l…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "xuchaoguo1983",
+    "commenter": "wang1299"
+  },
+  "at_mobiles": []
+}
