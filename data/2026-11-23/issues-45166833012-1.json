@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T11:37:37.167533Z",
+  "title": "[Bug]: FunctionTool passes positional-only arguments as keywords, so such tools always fail",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4167",
+  "number": 4167,
+  "body": "**Describe the bug**\n`FunctionTool` puts positional-only parameters into the input schema by name. For `def add(a: int, b: int, /)`, `_extract_input_schema` lists `a` and `b` as required properties, a…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "67-luck"
+  },
+  "at_mobiles": []
+}
