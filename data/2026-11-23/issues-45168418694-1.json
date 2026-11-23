@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T11:48:12.555951Z",
+  "title": "[Bug]: TIFF and AVIF images are mislabeled as JPEG",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4215",
+  "number": 4215,
+  "body": "## Description\n`_guess_image_media_type()` has no TIFF or AVIF signatures, so both fall through to the `image/jpeg` default. Callers (`ImageParser.parse()` and the Word/PPT `_extract_image_blocks()` p…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "shengzhaowei"
+  },
+  "at_mobiles": []
+}
