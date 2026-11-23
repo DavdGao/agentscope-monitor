@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Winoren",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T07:45:21.986438Z",
+  "title": "fix(embedding): reject mismatched Ollama batch responses",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4234",
+  "number": 4234,
+  "body": "Fixes #4233\n\n## AgentScope Version\n\n2.0.13dev, based on `2f41c49`.\n\n## Description\n\nOllama can return a successful response with a different number of vectors than the batch inputs. When one batch is …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Winoren",
+    "head_sha": "708d13bd60f16a2f15acb4826916d6367cca7ba6",
+    "base_ref": "main",
+    "additions": 93,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
