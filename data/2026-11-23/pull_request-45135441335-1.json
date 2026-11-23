@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Winoren",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T08:02:30.374077Z",
+  "title": "fix(rag): skip pictures removed by Word tracked changes",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4236",
+  "number": 4236,
+  "body": "Fixes #4235\n\n## AgentScope Version\n\n2.0.13dev, based on `2f41c49`.\n\n## Description\n\nWord can retain deleted and move-source images in a DOCX while tracked changes are pending. The image walk was emitt…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Winoren",
+    "head_sha": "9b5655ffb4864f620bfa47c61537a12bba620735",
+    "base_ref": "main",
+    "additions": 102,
+    "deletions": 27,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
