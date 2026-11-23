@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "BlueX888",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T05:42:11.831230Z",
+  "title": "fix(event): keep tool-result DataBlock name on replay",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4232",
+  "number": 4232,
+  "body": "## AgentScope Version\n\n`main` at `c83bf28` (2.0.13dev)\n\n## Description\n\nFixes #4166.\n\n`ToolResultDataDeltaEvent` did not carry `name`, so a tool-result `DataBlock` rebuilt from the event stream lost i…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "BlueX888",
+    "head_sha": "62fd1b76f5524ce4df1d4395afe5512384a29e3e",
+    "base_ref": "main",
+    "additions": 136,
+    "deletions": 1,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
