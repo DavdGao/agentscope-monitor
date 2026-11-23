@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T07:27:22.337896Z",
+  "title": "[Bug]: ApproxTokenChunker exceeds its UTF-8 byte budget on the no-split path",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4092",
+  "number": 4092,
+  "body": "### Problem\n\nApproxTokenChunker uses floor division for its no-split shortcut and an exact UTF-8 byte budget for its splitting path. With chunk_size=32 and overlap=0, a 129-byte section is returned as…",
+  "labels": [
+    "triage/suggest-close"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "Yzzz88"
+  },
+  "at_mobiles": []
+}
