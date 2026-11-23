@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T07:26:48.362948Z",
+  "title": "[Bug]: ApproxTokenChunker exceeds its UTF-8 byte budget on the no-split path",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4092#issuecomment-7094332172",
+  "number": 4092,
+  "body": "Thanks for the clear reproduction. We confirmed that the chunker returns a single 129-byte chunk in this example. The documented estimate is `len(text.encode(\"utf-8\")) // 4`, so the chunk counts as 32…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Yzzz88",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
