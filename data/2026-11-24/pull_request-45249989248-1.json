@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "its-amann",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T19:32:46.739324Z",
+  "title": "fix(formatter): restrict media downloads to public addresses",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4269",
+  "number": 4269,
+  "body": "## AgentScope Version\n\n2.0.13dev\n\n## Description\n\nFixes #3974.\n\nA caller-supplied media URL could make the formatter fetch a private endpoint and include its response in the model request. This also w…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "its-amann",
+    "head_sha": "f6b3d04d030cd5998178b9e626122d1514193253",
+    "base_ref": "main",
+    "additions": 636,
+    "deletions": 39,
+    "changed_files": 10
+  },
+  "at_mobiles": []
+}
