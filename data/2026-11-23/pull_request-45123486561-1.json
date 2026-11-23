@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T06:21:03.828069Z",
+  "title": "fix(state): invalidate file caches when backend timestamps are unknown",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4204",
+  "number": 4204,
+  "body": "Fixes #4203.\n\nWhen a backend cannot report a file's modification time, the file tools pass `mtime=None` to `ToolContext`. Previously this triggered a host-filesystem lookup. An unrelated host file at …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "Guo-Yixin",
+    "head_sha": "d8023bc1f17605bcd46ba92b3754c5b7dc128c28",
+    "base_ref": "main",
+    "additions": 484,
+    "deletions": 30,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
