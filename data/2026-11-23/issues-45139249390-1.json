@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T08:31:10.890331Z",
+  "title": "[Bug]: Gemini tool calls fail for deprecated parameters and pattern-constrained dict keys",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4171",
+  "number": 4171,
+  "body": "### Background / Description\n\n`GeminiChatModel._format_tools` sanitizes the tool schema with `_sanitize_schema_for_gemini` before building the request. Two Pydantic-emitted keywords are still left in …",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "davis0178"
+  },
+  "at_mobiles": []
+}
