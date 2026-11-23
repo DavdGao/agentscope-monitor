@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T11:09:20.760333Z",
+  "title": "fix(model): ignore non-string reasoning_content in Moonshot replies",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4252",
+  "number": 4252,
+  "body": "## Problem\n\n`MoonshotChatModel._parse_completion_response` takes `choice.message.reasoning_content` purely on truthiness and passes it to `ThinkingBlock`:\n\n```python\nreasoning = getattr(choice.message…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "db37c56308553aaa0491ffc5e171fb4be0cacb0f",
+    "base_ref": "main",
+    "additions": 32,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
