@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "stefanielizeth73-art",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T06:49:19.674197Z",
+  "title": "[Feature]: Support retrying indexing jobs after transient SQLite lock errors",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3421#issuecomment-7093703307",
+  "number": 3421,
+  "body": "Thanks for checking. I’m still interested in taking on the explicit retry for failed knowledge-base documents. I’ll wait for the maintainers to confirm the scope before starting so we don’t duplicate …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "fzfzzfzzzfzzzz",
+    "commenter": "stefanielizeth73-art"
+  },
+  "at_mobiles": []
+}
