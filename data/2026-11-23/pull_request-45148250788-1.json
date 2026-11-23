@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T09:34:32.545450Z",
+  "title": "fix(workspace): constrain Daytona to the compatible 0.x SDK",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4241",
+  "number": 4241,
+  "body": "Closes #4080\n\n## Description\n\nA fresh install of `agentscope[workspace-daytona]` resolves Daytona 2.1.0 from PyPI. Workspace initialization then fails while importing `ListSandboxesQuery` and `Sandbox…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "c9c4684c80871a76b8fc6958a28757cf9e9bc187",
+    "base_ref": "main",
+    "additions": 2,
+    "deletions": 1,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
