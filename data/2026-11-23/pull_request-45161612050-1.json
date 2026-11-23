@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T11:03:24.637235Z",
+  "title": "fix(app): force non-previewable workspace files to download",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4251",
+  "number": 4251,
+  "body": "## Problem\n\n`GET /workspace/files` streams a session file back with only `Content-Length` and, when `download=true`, an attachment `Content-Disposition`:\n\n```python\nif download:\n    headers[\"Content-D…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "1a391260ab7b723ded05e5f2137eabe4739ded33",
+    "base_ref": "main",
+    "additions": 71,
+    "deletions": 24,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
