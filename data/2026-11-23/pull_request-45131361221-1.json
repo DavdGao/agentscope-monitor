@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-23T07:28:51.913704Z",
+  "title": "fix(tts): parse gemini audio mime parameters correctly",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4196",
+  "number": 4196,
+  "body": "Fixes #4195\n\n## AgentScope Version\n\n`2.0.13dev` (base `ba9e9d0`)\n\n## Description\n\nGemini TTS rejected quoted PCM parameters and could miss an explicit sample rate when whitespace surrounded the equals…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "Winoren",
+    "head_sha": "d2ff7813acd2840dcadea17fea1c164594b04075",
+    "base_ref": "main",
+    "additions": 27,
+    "deletions": 7,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
