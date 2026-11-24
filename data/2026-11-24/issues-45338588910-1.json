@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-24T06:11:32.805171Z",
+  "title": "[Bug]: RAG middleware leaves sibling knowledge-base searches running after cancellation",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4239",
+  "number": 4239,
+  "body": "### Background / Description\n\nWhen one knowledge-base search is cancelled, RAG middleware propagates `CancelledError` to the caller immediately. The unfinished searches from the same fan-out receive n…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "Winoren"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "Winoren"
+  },
+  "at_mobiles": []
+}
