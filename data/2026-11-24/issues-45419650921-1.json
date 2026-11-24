@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "FFXFF1",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-24T14:56:21.825535Z",
+  "title": "[Bug]: Workspace download tokens are not bound to agent_id, session_id, or endpoint namespace",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4288",
+  "number": 4288,
+  "body": "## Describe the bug\n\n`POST /workspace/files/download-token` and `GET /workspace/files` sign and verify capability tokens using only `(user_id, path)` against the shared `app.state.download_secret`:\n\n`…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "FFXFF1"
+  },
+  "at_mobiles": []
+}
