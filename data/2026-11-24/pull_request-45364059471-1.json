@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "zuizhuai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-24T09:19:25.522969Z",
+  "title": "fix(storage): break created_at ties in session and SOP-run listings",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4287",
+  "number": 4287,
+  "body": "## AgentScope Version\n\n2.0.13dev, main @ e53b1b3\n\nFixes #4286\n\n## Description\n\nSession and SOP-run listings promise \"newest first\" but ordered by `created_at` alone, so rows sharing a timestamp came b…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "zuizhuai",
+    "head_sha": "9554afbed2721d8a2616b29341a76e0c14460147",
+    "base_ref": "main",
+    "additions": 200,
+    "deletions": 9,
+    "changed_files": 4
+  },
+  "at_mobiles": []
+}
