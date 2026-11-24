@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-24T02:41:37.333047Z",
+  "title": "fix(formatter): cap the OpenAI message name at the 64-character API limit",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4272",
+  "number": 4272,
+  "body": "## Problem\n\n`_format_message_name` turns a free-text `Msg.name` into a value the OpenAI API accepts, but it only fixes the character set:\n\n```python\nif not name:\n    return {}\nreturn {\"name\": _INVALID…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "44cc0f69f26cae7b85b7dfeb2ad9aaa7ec98888d",
+    "base_ref": "main",
+    "additions": 20,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
