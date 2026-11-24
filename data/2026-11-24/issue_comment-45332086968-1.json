@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "yuchengpersonal",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-24T05:16:08.720241Z",
+  "title": "fix(tool): state original and omitted lengths in shell truncation notice",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4270#issuecomment-7122782751",
+  "number": 4270,
+  "body": "Closing as superseded by #4192, which implements the same fix (option 1 from #4191) and was merged today. #4192 was already open when I started this work — I missed it while checking the issue, my mis…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "yuchengpersonal",
+    "commenter": "yuchengpersonal"
+  },
+  "at_mobiles": []
+}
