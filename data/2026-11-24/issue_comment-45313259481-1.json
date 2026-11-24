@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "yuchengpersonal",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-24T02:33:41.148819Z",
+  "title": "[Bug]: Bash/PowerShell drop output past 30000 characters without saying how much, and the tool_result_limit offload never sees the rest",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4191#issuecomment-7120261002",
+  "number": 4191,
+  "body": "/assign\n\nI reproduced this on current main with the reporter's script. PR #4270 makes the truncation notice in `Bash` and `PowerShell` (success and error paths) state the original output length and ho…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "fancyboi999",
+    "commenter": "yuchengpersonal"
+  },
+  "at_mobiles": []
+}
