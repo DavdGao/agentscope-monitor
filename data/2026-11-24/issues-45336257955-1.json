@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "zuizhuai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-24T05:51:59.589656Z",
+  "title": "[Bug]: Read's suggested permission rule allows every path when the file has no parent directory",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4276",
+  "number": 4276,
+  "body": "### Describe the bug\n\n`Read.generate_suggestions` builds its suggested rule from the parent directory without escaping it, and falls back to a catch-all when there is no parent:\n\n```python\nparent = se…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "zuizhuai"
+  },
+  "at_mobiles": []
+}
