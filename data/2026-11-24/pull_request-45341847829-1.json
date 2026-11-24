@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-24T06:37:45.748917Z",
+  "title": "fix(formatter): name unsupported-media temp files without the host tables",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4245",
+  "number": 4245,
+  "body": "Closes #4244.\n\n## Problem\n\n`_convert_unsupported_data_block_to_string` saves media the provider cannot take to a temp file and tells the model the path. The suffix comes from `mimetypes.guess_extensio…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "zuizhuai",
+    "head_sha": "cf63565f3c96034e2348fc898c4c251e72438774",
+    "base_ref": "main",
+    "additions": 73,
+    "deletions": 8,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
