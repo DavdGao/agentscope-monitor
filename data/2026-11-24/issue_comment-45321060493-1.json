@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-24T03:40:01.671718Z",
+  "title": "[Bug]: tool-result DataBlock name is lost when replies are rebuilt from the event stream",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4166#issuecomment-7121304570",
+  "number": 4166,
+  "body": "Fixed by #4211. Verified on `main` at `95ce19a8` that both Base64 and URL tool results retain their attachment names when a reply is rebuilt from events. For same-ID Base64 chunks, a later named chunk…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "BlueX888",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
