@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-24T06:41:36.415406Z",
+  "title": "fix(model): ignore non-string reasoning_content in Moonshot replies",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4252#issuecomment-7124190549",
+  "number": 4252,
+  "body": "Could you share the gateway name, model ID, and a redacted raw JSON response from a non-streaming request (`stream: false`)? A real example would help confirm that `choices[0].message.reasoning_conten…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Kiko0301",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
