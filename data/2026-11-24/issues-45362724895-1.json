@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-24T09:11:03.607322Z",
+  "title": "feat(web-ui): track workspace file browsing, previews and text editing in chat",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4285",
+  "number": 4285,
+  "body": "## Background\n\nThis tracks the Web UI and workspace-service implementation in #4284, following the implementation-tracking request in #3227 and the [Office preview discussion](https://github.com/agent…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "qbc2016"
+  },
+  "at_mobiles": []
+}
