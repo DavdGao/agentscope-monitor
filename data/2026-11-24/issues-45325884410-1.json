@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-24T04:22:09.823852Z",
+  "title": "[Performance]: ApproxTokenChunker allocates a Python integer per character",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4237",
+  "number": 4237,
+  "body": "### Background / Description\n\nThe split path constructs a list of cumulative UTF-8 offsets with one Python integer per character. This adds roughly 40 bytes per character in the indexing process, inde…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "Winoren"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "Winoren"
+  },
+  "at_mobiles": []
+}
