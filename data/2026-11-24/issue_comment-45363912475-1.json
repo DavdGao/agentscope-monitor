@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "zuizhuai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-24T09:18:28.090381Z",
+  "title": "[Bug]: session and SOP-run listings leave a created_at tie to the storage engine",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4286#issuecomment-7127227445",
+  "number": 4286,
+  "body": "Taking this one. Plan: append `id` as the secondary sort key in the four SQL listings (`list_sessions`, `list_sessions_by_schedule`, `list_sessions_by_channel`, `list_sop_runs`) and switch the four Re…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "zuizhuai",
+    "commenter": "zuizhuai"
+  },
+  "at_mobiles": []
+}
