@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lucent-io",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-24T17:17:32.734478Z",
+  "title": "feat(rag): add opt-in rank fusion across knowledge bases",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4290",
+  "number": 4290,
+  "body": "## Problem\n\n`RAGMiddleware` supports knowledge bases built with different embedding models. `_search_across()` merges their hits by raw similarity score and truncates the candidate pool before the opt…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "lucent-io"
+  },
+  "at_mobiles": []
+}
