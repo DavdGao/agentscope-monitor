@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "lihongyuan99",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-24T08:02:34.146156Z",
+  "title": "[Bug]: ASR transcription returns 500 for an unsupported filename extension",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4280",
+  "number": 4280,
+  "body": "## Summary\n\n`POST /asr/transcriptions` answers a recording whose filename extension the ASR\nmodel cannot consume with **HTTP 500 Internal Server Error**. The message the\nmodel layer produced — `Unsupp…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "lihongyuan99"
+  },
+  "at_mobiles": []
+}
