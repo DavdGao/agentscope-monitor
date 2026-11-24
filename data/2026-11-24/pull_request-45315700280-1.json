@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-24T02:54:25.075215Z",
+  "title": "fix(realtime): keep the interrupted turn's playout timestamp",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4275",
+  "number": 4275,
+  "body": "## Problem\n\n`TransportBase.clear_audio` is documented to return \"the playback position before audio was cleared\", and `PlayoutPosition.first_played_at` is \"the only timestamp that reflects what the us…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "ecd10cdaadc57cac7f5ee4642139b6f2906e3bf2",
+    "base_ref": "main",
+    "additions": 67,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
