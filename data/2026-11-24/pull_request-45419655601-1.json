@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "FFXFF1",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-24T14:56:30.295492Z",
+  "title": "fix(app): bind workspace download tokens to agent, session, and namespace",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4289",
+  "number": 4289,
+  "body": "## AgentScope Version\n\n`2.0.13.dev0` (`main`)\n\n## Description\n\nFixes #4288\n\n### Problem\n\n`POST /workspace/files/download-token` and `GET /workspace/files` previously signed and verified capability tok…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "FFXFF1",
+    "head_sha": "2da2241644bd2a09c7e7850c08e3173b96e9f2dd",
+    "base_ref": "main",
+    "additions": 151,
+    "deletions": 5,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
