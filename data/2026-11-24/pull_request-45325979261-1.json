@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-24T04:23:12.824999Z",
+  "title": "fix(rag): cancel sibling vector queries when one search fails",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3656",
+  "number": 3656,
+  "body": "## AgentScope Version\n\n2.0.12dev (main at fc3445e)\n\n## Description\n\nFixes #3649.\n\n`KnowledgeBase.search()` fans out one vector query per input with `asyncio.gather`. When one query raised, `gather` re…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "rome-xi",
+    "head_sha": "af836988040adf045eee45d88b704feaa7a5c851",
+    "base_ref": "main",
+    "additions": 214,
+    "deletions": 13,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
