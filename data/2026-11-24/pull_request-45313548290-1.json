@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-24T02:35:59.007819Z",
+  "title": "fix(tool): say how much Bash and PowerShell output was cut",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4192",
+  "number": 4192,
+  "body": "## AgentScope Version\n\n2.0.13dev (`main` at ba9e9d04)\n\n## Description\n\nFixes #4191. Implements option 1 from the issue; happy to switch to option 2 or 3 if maintainers prefer.\n\n**Background.** `Bash` …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "fancyboi999",
+    "head_sha": "c7bb806f0bb7a8e0b387d9484d3ef59b436c0b50",
+    "base_ref": "main",
+    "additions": 227,
+    "deletions": 42,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
