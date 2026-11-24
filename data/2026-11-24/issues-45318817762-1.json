@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-24T03:20:47.799737Z",
+  "title": "[Bug]: WordParser table cells keep tracked-deleted text",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4214",
+  "number": 4214,
+  "body": "## Description\n`WordParser` skips tracked-deleted (`w:del`) runs in paragraph text, but not in table cells. A DOCX with track changes therefore indexes deleted text as live text when the deleted run s…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "shengzhaowei"
+  },
+  "at_mobiles": []
+}
