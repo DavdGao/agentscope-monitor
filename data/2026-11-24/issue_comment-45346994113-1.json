@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "YangJianwen-code",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-24T07:18:46.631137Z",
+  "title": "fix(message-bus): copy payloads in the in-memory bus",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4279#issuecomment-7124847417",
+  "number": 4279,
+  "body": "Closing this as a duplicate of #3741, which @zhangkom opened 19 days earlier as the issue reporter. I checked after the guard bot pointed at it: same three `deepcopy` calls in the same three places, s…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "YangJianwen-code",
+    "commenter": "YangJianwen-code"
+  },
+  "at_mobiles": []
+}
