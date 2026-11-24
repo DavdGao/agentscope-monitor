@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "yuchengpersonal",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-24T05:16:13.721581Z",
+  "title": "fix(tool): state original and omitted lengths in shell truncation notice",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4270",
+  "number": 4270,
+  "body": "## Summary\n\nFixes #4191.\n\n`Bash` and `PowerShell` cut command output at 30000 characters and only appended `... (output truncated)`. The agent could not tell how much it lost, and the agent-level offl…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "yuchengpersonal",
+    "head_sha": "824e2c52b5adcb5f1a3fc30f23fd4f6b659b353c",
+    "base_ref": "main",
+    "additions": 151,
+    "deletions": 17,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
