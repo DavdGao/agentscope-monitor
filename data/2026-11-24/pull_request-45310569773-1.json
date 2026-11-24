@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-24T02:11:55.016253Z",
+  "title": "fix(security): enforce stdio MCP allowlist on from-library route (CVE-2026-123022 gap)",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4181",
+  "number": 4181,
+  "body": "## Problem\n\nThe opt-in stdio command allowlist in #3448 (CVE-2026-123022 / #3312) is checked only on `POST /workspace/mcp`. The other route that starts a caller-influenced stdio process — `POST /works…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "TINGyu123644",
+    "head_sha": "e56481dbe1f678276bdfc5d181d5f189b09f9a83",
+    "base_ref": "main",
+    "additions": 85,
+    "deletions": 23,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
