@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-24T02:51:27.636526Z",
+  "title": "fix(storage): keep a concurrently taken lease when updating a document status",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4274",
+  "number": 4274,
+  "body": "## Problem\n\n`RedisStorage.update_knowledge_document_status` does a plain read-modify-write of the whole document record:\n\n```python\nkey = self._document_key(user_id, knowledge_base_id, document_id)\nra…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "a1188424af780eebda5d9e17a4c5873c876ae805",
+    "base_ref": "main",
+    "additions": 198,
+    "deletions": 15,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
