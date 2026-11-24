@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-24T03:40:22.246467Z",
+  "title": "[Bug] Word 表格单元格里被删除的换行会泄漏成换行符",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4219",
+  "number": 4219,
+  "body": "## 问题描述\n\n`WordParser` 在正文段落里会跳过被修订删除（`w:del`）的内容，但在表格单元格里，被删除的换行符 `<w:br/>` / `<w:cr/>` 仍会被当成真实换行提取出来。同一份带修订的 DOCX，正文段落里的删除是被正确忽略的，表格里却不一致。\n\n## 复现步骤\n\n1. 造一个最小 DOCX，表格的第一个单元格里放：保留文本 `kept` + 被删除的换行 `<w…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "shengzhaowei"
+  },
+  "at_mobiles": []
+}
