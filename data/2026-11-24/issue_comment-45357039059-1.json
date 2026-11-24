@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "zuizhuai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-24T08:32:49.815336Z",
+  "title": "[Bug]: Edit tool rewrites every CRLF line ending to LF",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3498#issuecomment-7126261960",
+  "number": 3498,
+  "body": "Both open PRs for this are currently conflicting with `main`, so neither can merge as it stands:\n\n- #3682 conflicts in `state/_state.py` — `cache_file()` has since gained the `_MtimeSource.HOST` senti…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "294962silent",
+    "commenter": "zuizhuai"
+  },
+  "at_mobiles": []
+}
