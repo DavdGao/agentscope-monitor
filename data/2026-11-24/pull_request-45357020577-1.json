@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "zuizhuai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-24T08:32:41.185427Z",
+  "title": "fix(tool): keep a file's line endings when Edit rewrites it",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4283",
+  "number": 4283,
+  "body": "## AgentScope Version\n\n2.0.13dev, main @ e53b1b3\n\n## Description\n\n`Edit` matches `old_string` against the LF-normalized text and wrote the normalized result back, so a single-line edit turned every `\\…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "zuizhuai",
+    "head_sha": "00691b60c5ed04d64b449cea0a20d170d6cc7535",
+    "base_ref": "main",
+    "additions": 234,
+    "deletions": 4,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
