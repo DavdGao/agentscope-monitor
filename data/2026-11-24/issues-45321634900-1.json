@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-24T03:45:10.715990Z",
+  "title": "[Bug]: Ollama embedding batches can silently misalign knowledge-base vectors",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4233",
+  "number": 4233,
+  "body": "### Background / Description\n\n`OllamaEmbeddingModel` accepts a successful `/api/embed` response with a different number of vectors than the request inputs and can cache it. The base model concatenates…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "Winoren"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "Winoren"
+  },
+  "at_mobiles": []
+}
