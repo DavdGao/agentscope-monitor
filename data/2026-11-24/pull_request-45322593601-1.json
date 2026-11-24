@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-24T03:53:46.794823Z",
+  "title": "fix(workspace): handle leading-hyphen filenames in k8s reads",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4226",
+  "number": 4226,
+  "body": "## AgentScope Version\n\n2.0.13dev; based on main at `ba9e9d04eb3788b3dc8d8148d27c0948a3b7f43e`.\n\n## Description\n\nFixes #4225.\n\n`K8sBackend.read_file()` passes a file's basename directly to tar. Names s…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "lucent-io",
+    "head_sha": "bddd39268d5b48a20fc69fd1989a3c03752a23b7",
+    "base_ref": "main",
+    "additions": 91,
+    "deletions": 0,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
