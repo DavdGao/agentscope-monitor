@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-24T02:39:38.968115Z",
+  "title": "fix(dingtalk): report undelivered recipients of a batch send",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4271",
+  "number": 4271,
+  "body": "## Problem\n\n`_DingTalkOpenAPI._send_message` judges a one-to-one send by the HTTP status and a `code` field:\n\n```python\nif response.status_code >= 400:\n    ...\n    return False\nresult = response.json(…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "30cd5624050bec3d50e288c84a2e03814aae83a6",
+    "base_ref": "main",
+    "additions": 32,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
