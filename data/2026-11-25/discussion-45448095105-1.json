@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "lucent-io",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-24T17:23:57.671143Z",
+  "title": "Proposal: opt-in rank-based fusion across knowledge bases",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/4291",
+  "number": 4291,
+  "body": "Following the triage on [#4290](https://github.com/agentscope-ai/agentscope/issues/4290), I’d like to discuss an opt-in merge strategy for deploying RAGMiddleware with knowledge bases that use differe…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "lucent-io"
+  },
+  "at_mobiles": []
+}
