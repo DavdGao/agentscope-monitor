@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-24T03:25:50.675190Z",
+  "title": "fix(rag): omit tracked-deleted breaks in Word table cells",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4222",
+  "number": 4222,
+  "body": "Fixes #4219\n\n## Summary\n\nA tracked-deleted line break (`<w:br/>` / `<w:cr/>` inside `<w:del>`) in a Word table cell leaked into the extracted text as a newline, rendering as a spurious `<br>` in Markd…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "shengzhaowei",
+    "head_sha": "7a4633135ef5ae82ff3c7f921db05ec2e0d30180",
+    "base_ref": "main",
+    "additions": 39,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
