@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ccclucky",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-25T00:22:03.802956Z",
+  "title": "[Bug]: quoting an option hides chmod 777 / chown -R / kill -9 from the bypass-immune safety check",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3858#issuecomment-7148430471",
+  "number": 3858,
+  "body": "The same quoting loss has a second consequence that the pattern-level fix in #3859 does not cover.\n\n`extract_file_paths` only collects children whose tree-sitter type is `word`. Single-quoted argument…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "ccclucky",
+    "commenter": "ccclucky"
+  },
+  "at_mobiles": []
+}
