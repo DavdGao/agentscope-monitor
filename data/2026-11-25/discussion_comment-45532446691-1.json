@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-25T02:22:29.443449Z",
+  "title": "Proposal: first-class Zhipu AI (GLM) chat model provider",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/4091#discussioncomment-19875801",
+  "number": 4091,
+  "body": "Thanks for checking these differences against the live API. Most have precedents in our existing providers. Moonshot is a good reference for always-on thinking, and Ollama shows how we handle unsuppor…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "qbc2016",
+    "discussion_author": "farfriend"
+  },
+  "at_mobiles": []
+}
