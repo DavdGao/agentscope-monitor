@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "2SinceJuly",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-25T09:37:06.876858Z",
+  "title": "fix(formatter): run media downloads off the event loop",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3929#issuecomment-7158567485",
+  "number": 3929,
+  "body": "Merged current `main` in `dae6bb91`. The only conflict was the import block in `src/agentscope/formatter/_anthropic_formatter.py`: `main` had moved to importing `base64` directly, while this branch re…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "2SinceJuly",
+    "commenter": "2SinceJuly"
+  },
+  "at_mobiles": []
+}
