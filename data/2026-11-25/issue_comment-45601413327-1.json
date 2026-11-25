@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Wilson0511",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-25T11:07:28.581664Z",
+  "title": "fix(formatter): skip assistant-role media where the API rejects it",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3951#issuecomment-7160612113",
+  "number": 3951,
+  "body": "Resolving the direction check I raised above, since it has had no ruling for 13 days: I've **reworked this PR onto the direction the repo has already settled on** — skip with a warning — instead of pr…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Wilson0511",
+    "commenter": "Wilson0511"
+  },
+  "at_mobiles": []
+}
