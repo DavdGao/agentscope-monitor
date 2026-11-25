@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-25T07:14:35.003579Z",
+  "title": "fix(tool): honor an explicitly empty TaskUpdate subject",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4255",
+  "number": 4255,
+  "body": "## Problem\n\n`TaskUpdate.call` decides whether to apply a new subject with a truthiness test:\n\n```python\nif subject:\n    updated_fields.append(\"subject\")\n    _agent_state.tasks_context.tasks[index].sub…",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "7cbf2d8817d28da2550f47e22fcdfab7fcdadc77",
+    "base_ref": "main",
+    "additions": 28,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
