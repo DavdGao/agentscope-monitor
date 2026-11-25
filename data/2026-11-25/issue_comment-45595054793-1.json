@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Wilson0511",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-25T10:26:59.184419Z",
+  "title": "fix(tool): keep instance hint layer visible on Python 3.14",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4149#issuecomment-7159703797",
+  "number": 4149,
+  "body": "Rebased onto current `main` to resolve the conflict with #4146 (which extended `tests/tool_lazy_annotations_test.py` in the same places). No source changes: the only adaptation is that the `__slots__`…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Wilson0511",
+    "commenter": "Wilson0511"
+  },
+  "at_mobiles": []
+}
