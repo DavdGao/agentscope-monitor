@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Forest537",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-25T11:01:30.571372Z",
+  "title": "[Bug]: Two agents writing the same file: both Write calls pass the read-before-write check, and one agent's change is silently lost",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4316#issuecomment-7160477318",
+  "number": 4316,
+  "body": "I'd like to take this one.Could you assign it to me?",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "ljblob",
+    "commenter": "Forest537"
+  },
+  "at_mobiles": []
+}
