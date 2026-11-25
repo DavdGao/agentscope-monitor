@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-25T05:05:21.901480Z",
+  "title": "fix(rag): renew index leases before half their TTL",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4303",
+  "number": 4303,
+  "body": "## Problem\n\n`IndexWorker` derives its heartbeat cadence from the lease TTL:\n\n```python\n# Renewal cadence: refresh while there is still half the lease\n# left so a one-cycle missed renewal doesn't drop …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "3dcc561b473a67262e6d0d98d8cbb71db5e54d1e",
+    "base_ref": "main",
+    "additions": 50,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
