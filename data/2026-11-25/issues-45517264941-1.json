@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ccclucky",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-25T00:20:15.989019Z",
+  "title": "[Bug]: quoted paths in filesystem commands bypass the ACCEPT_EDITS / DONT_ASK working-directory containment check",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4292",
+  "number": 4292,
+  "body": "## Background / Description\n\n`BashCommandParser` only treats a command argument as a path when the tree-sitter child node has type `word`. Shell quoting produces different node types:\n\n- `'../../etc/p…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "ccclucky"
+  },
+  "at_mobiles": []
+}
