@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-25T03:04:02.190325Z",
+  "title": "[Bug]: generate_structured_output returns the raw tool arguments instead of the validated Pydantic model",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4246#issuecomment-7151550700",
+  "number": 4246,
+  "body": "Thanks for the clear example. You can use `report = CityReport.model_validate(result.content)` to get the normalized values and defaults. In your example, `report.city` is `\"Paris\"` and `report.tags` …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "thejesh23",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
