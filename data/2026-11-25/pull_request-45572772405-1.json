@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-25T08:01:58.835713Z",
+  "title": "fix(formatter): skip audio Volcengine cannot encode instead of raising",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4313",
+  "number": 4313,
+  "body": "## Problem\n\n`VolcengineChatFormatter` / `VolcengineMultiAgentFormatter` admit an audio block when its media type matches the configured `input_types` (fnmatch, `audio/*` by default), but the encoder o…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "2bcd2f3ca8a86a6d6311baa20d7d4a344ad6fe85",
+    "base_ref": "main",
+    "additions": 140,
+    "deletions": 9,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
