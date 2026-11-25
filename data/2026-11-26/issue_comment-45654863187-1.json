@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ccclucky",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-25T16:32:06.603887Z",
+  "title": "fix(tool): detect equivalent dangerous command spellings",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3861#issuecomment-7168125536",
+  "number": 3861,
+  "body": "CI note (same as #3772): the pending `Python Unittest Coverage` / `Pre-commit` / `PR Title Check` runs here are still `action_required`, so this PR has no automated test signal yet — a maintainer appr…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "ccclucky",
+    "commenter": "ccclucky"
+  },
+  "at_mobiles": []
+}
