@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-25T10:13:44.434261Z",
+  "title": "fix(rag): report empty documents as indexing errors",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4266",
+  "number": 4266,
+  "body": "## AgentScope Version\n\n`2.0.13dev`, based on `main` at `f25a15bd`.\n\n## Description\n\nFixes #4265.\n\nUploading an empty or whitespace-only TXT can leave the document marked `ready` with zero searchable c…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "lucent-io",
+    "head_sha": "65c4447e534d915489e2d69ecafd5c279ca3fa39",
+    "base_ref": "main",
+    "additions": 49,
+    "deletions": 9,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
