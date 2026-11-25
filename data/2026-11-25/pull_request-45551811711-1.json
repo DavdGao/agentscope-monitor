@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-25T05:11:30.788960Z",
+  "title": "fix(app): fold duplicate access refs to their strongest grant",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4304",
+  "number": 4304,
+  "body": "## Problem\n\n`ResourceAccessService` resolves a cross-owner resource from the **first** ref the policy returns for its id:\n\n```python\nfor ref in await self._list_refs(viewer_id, resource_kind):\n    if …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "c77cb11671c69d06811e69b48f5d3e2eee7f4938",
+    "base_ref": "main",
+    "additions": 129,
+    "deletions": 12,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
