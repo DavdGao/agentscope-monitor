@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ZxlDragonDoctor",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-25T10:23:05.655720Z",
+  "title": "fix(mem0): persist structured reply payloads",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4319",
+  "number": 4319,
+  "body": "## AgentScope Version\n\n2.0.13.dev0\n\n## Description\n\n### Problem\nWhen an Agent returns structured output, Mem0 write-back stores the generic completion sentence from the final message instead of the va…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ZxlDragonDoctor",
+    "head_sha": "123ed97af02f17b24fdfaacb23e7ef4ed71381a1",
+    "base_ref": "main",
+    "additions": 66,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
