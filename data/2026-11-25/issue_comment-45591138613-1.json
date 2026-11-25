@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ZxlDragonDoctor",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-25T10:02:57.836575Z",
+  "title": "[Bug]: Mem0 write-back drops a completed structured reply",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4315#issuecomment-7159142705",
+  "number": 4315,
+  "body": "I can take this issue. I confirmed that `Agent._next_action` puts the validated payload on the final message's `structured_output`, while `Mem0Middleware.on_reply` currently writes only `final_msg.get…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "master1018",
+    "commenter": "ZxlDragonDoctor"
+  },
+  "at_mobiles": []
+}
