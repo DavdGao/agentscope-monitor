@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "ccclucky",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-25T16:31:16.604839Z",
+  "title": "fix(tool): read tree-sitter node text instead of byte offsets",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3772#issuecomment-7168103683",
+  "number": 3772,
+  "body": "Status note: the three CI workflows on this PR (`Python Unittest Coverage`, `Pre-commit`, `PR Title Check`) have been in `action_required` since the branch was pushed — for a first-time contributor's …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "ccclucky",
+    "commenter": "ccclucky"
+  },
+  "at_mobiles": []
+}
