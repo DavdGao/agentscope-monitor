@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-25T07:14:13.051576Z",
+  "title": "fix(tool): honor an explicitly empty TaskUpdate subject",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4255#issuecomment-7155625935",
+  "number": 4255,
+  "body": "Thanks for the PR and the regression test. As discussed in [#2834](https://github.com/agentscope-ai/agentscope/pull/2834#issuecomment-5862498735), `TaskUpdate` intentionally preserves the existing tit…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Kiko0301",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
