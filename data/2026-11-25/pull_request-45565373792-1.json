@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "shengzhaowei",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-25T07:05:15.010765Z",
+  "title": "fix(app): don't end the conversation when ToolOffloadMiddleware offloads a slow tool",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4310",
+  "number": 4310,
+  "body": "Fixes #1711\n\n## Problem\n\nWhen a tool execution exceeds the default timeout (10s), `ToolOffloadMiddleware` offloads it to the background and yields a synthetic `ToolResponse` with state `SUCCESS`. The …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "shengzhaowei",
+    "head_sha": "3cd6b6cfb9743f66cbdadd975e2065d3b66b954e",
+    "base_ref": "main",
+    "additions": 296,
+    "deletions": 100,
+    "changed_files": 9
+  },
+  "at_mobiles": []
+}
