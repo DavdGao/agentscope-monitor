@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-25T04:20:09.228899Z",
+  "title": "fix(workspace): search every partition when removing a skill by name",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4301",
+  "number": 4301,
+  "body": "## Problem\n\n`WorkspaceBase.remove_skill(name, agent_id=None)` documents that `None` searches every partition:\n\n```python\nagent_id (`str | None`, optional):\n    The agent asking. ``None`` searches ever…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "0a54e479d4c5cf0a3b709c4bc5ade870cf4841c7",
+    "base_ref": "main",
+    "additions": 66,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
