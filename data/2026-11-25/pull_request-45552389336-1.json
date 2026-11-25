@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-25T05:16:23.400061Z",
+  "title": "fix(storage): reject a redis pool that decodes nothing",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4305",
+  "number": 4305,
+  "body": "## Problem\n\n`RedisStorage` accepts an externally managed `connection_pool`, but only the pool it creates itself is configured with `decode_responses=True`:\n\n```python\nif self._external_pool is not Non…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "bab0dc5bb71bbc01fa01b8ddf2f773668eb936b6",
+    "base_ref": "main",
+    "additions": 49,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
