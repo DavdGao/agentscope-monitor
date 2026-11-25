@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-25T06:55:55.041314Z",
+  "title": "feat(permission): separate approval modes from tool access restrictions",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4281",
+  "number": 4281,
+  "body": "## AgentScope Version\n\n`2.0.13dev`\n\n## Description\n\nCloses #4282.\n\nThis change lets applications choose who decides a pending request while configuring file access and unattended execution independent…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "eaf7647426c2bf072a933942a47a84d023d5b55b",
+    "base_ref": "main",
+    "additions": 22955,
+    "deletions": 3193,
+    "changed_files": 179
+  },
+  "at_mobiles": []
+}
