@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "laoyyu",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-25T07:59:56.692098Z",
+  "title": "[Bug]: POST /chat accepts client-supplied system and assistant message roles",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/2813#issuecomment-7156483310",
+  "number": 2813,
+  "body": "I am not keeping this assignment: #2815 is already an open implementation for this issue, and my duplicate #4293 is closed. GitHub does not allow me to remove the assignee without triage permission, s…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "YxinMiracle",
+    "commenter": "laoyyu"
+  },
+  "at_mobiles": []
+}
