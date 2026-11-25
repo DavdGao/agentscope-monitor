@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "zuizhuai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-25T01:41:46.729540Z",
+  "title": "[Bug]: Glob spends its result budget inside .git",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4294",
+  "number": 4294,
+  "body": "### What happens\n\n`Glob` walks version control metadata, so a broad pattern in a repository spends its whole result budget inside `.git` and reports none of the project's own files.\n\nReproduced on `ma…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "zuizhuai"
+  },
+  "at_mobiles": []
+}
