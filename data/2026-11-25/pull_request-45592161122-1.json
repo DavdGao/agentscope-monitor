@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "FFXFF1",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-25T10:09:11.130255Z",
+  "title": "fix(formatter): normalize media types before matching in remaining formatters",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4318",
+  "number": 4318,
+  "body": "## AgentScope Version\n\n2.0.13.dev0 (`main` @ `eaf3e32`)\n\n## Description\n\nFixes #4317\n\nFollows up on #4258 (Anthropic) and #4259 (OpenAI) so that all remaining multimodal formatters normalize `block.so…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "FFXFF1",
+    "head_sha": "c3e100b34d0cbd9c70491d14b655fc65ff42979e",
+    "base_ref": "main",
+    "additions": 302,
+    "deletions": 66,
+    "changed_files": 14
+  },
+  "at_mobiles": []
+}
