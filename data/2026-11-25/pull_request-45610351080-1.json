@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-25T12:05:16.618876Z",
+  "title": "fix(realtime): reset session-scoped response state when a session is reopened",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4273",
+  "number": 4273,
+  "body": "## Problem\n\nThe realtime adapters are built to reconnect: `connect()` closes the previous session and opens a new one, and the agent calls it again on the next turn after an idle timeout, a network dr…",
+  "labels": [
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "b7b3143c9bb1360d275a2b6c592bd221d2e463d1",
+    "base_ref": "main",
+    "additions": 169,
+    "deletions": 0,
+    "changed_files": 6
+  },
+  "at_mobiles": []
+}
