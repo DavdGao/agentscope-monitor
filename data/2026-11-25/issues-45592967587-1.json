@@ -1,0 +1,25 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-25T10:14:07.433803Z",
+  "title": "[Bug]: Elasticsearch partial deletion removes the document record and source file",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4267",
+  "number": 4267,
+  "body": "### Prerequisites\n\n- [x] I searched existing issues, discussions, and pull requests for this behavior.\n- [x] This is a bug report.\n\n### Background / Description\n\nDeleting a document from an Elasticsea…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "lucent-io"
+  },
+  "at_mobiles": []
+}
