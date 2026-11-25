@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "shaojunying",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-25T07:36:12.912519Z",
+  "title": "fix(tool): convert FunctionTool arguments into their annotated types",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4312",
+  "number": 4312,
+  "body": "## AgentScope Version\n\n2.0.13dev (main at 62950416)\n\n## Description\n\nFixes #4311\n\n**Problem.** `FunctionTool` generates the input schema from the function signature. A parameter annotated with a pydan…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "shaojunying",
+    "head_sha": "473c4200e755eb322cde9e0ea0223073524e4f3c",
+    "base_ref": "main",
+    "additions": 176,
+    "deletions": 1,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
