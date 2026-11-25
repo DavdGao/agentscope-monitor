@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "laoyyu",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-25T01:30:55.279371Z",
+  "title": "fix(service): reject forged chat input roles",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4293",
+  "number": 4293,
+  "body": "## Summary\n\n- Reject caller-supplied `system` and `assistant` roles at the public chat request boundary.\n- Continue accepting ordinary `user` messages and control events unchanged.\n- Add regression co…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "laoyyu",
+    "head_sha": "2bfa4e807e19aa9ee99241c71241fcdd0ba22e28",
+    "base_ref": "main",
+    "additions": 27,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
