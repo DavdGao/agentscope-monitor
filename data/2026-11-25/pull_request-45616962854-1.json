@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-25T12:46:38.519385Z",
+  "title": "fix(tool): escape Read's suggested parent rule like Write and Edit",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4277",
+  "number": 4277,
+  "body": "Fixes #4276\n\n## Description\n\n`Read.generate_suggestions` built the rule it offers the user from the raw parent directory, and fell back to a catch-all when there was no parent:\n\n```python\npattern = (p…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "zuizhuai",
+    "head_sha": "7e6914f78ceaa83f7b1d028d47d9c212bb397a87",
+    "base_ref": "main",
+    "additions": 93,
+    "deletions": 6,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
