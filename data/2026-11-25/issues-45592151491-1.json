@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "FFXFF1",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-25T10:09:03.758925Z",
+  "title": "[Bug]: Remaining formatters match raw media_type without normalization",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4317",
+  "number": 4317,
+  "body": "### Describe the bug\n\nFollowing #4258 (Anthropic) and #4259 (OpenAI), the remaining multimodal formatters in `src/agentscope/formatter/` still match and emit raw `block.source.media_type` without norm…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "FFXFF1"
+  },
+  "at_mobiles": []
+}
