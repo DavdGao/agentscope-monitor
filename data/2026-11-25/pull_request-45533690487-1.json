@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "zuizhuai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-25T02:32:57.642270Z",
+  "title": "fix(tool): keep Glob out of version-control metadata",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4295",
+  "number": 4295,
+  "body": "## AgentScope Version\n\n2.0.13dev\n\n## Description\n\nFixes #4294\n\n> **Note on the linked issue:** #4294 was auto-closed by the `issue-triage`\n> quota bot (`MAX_OPEN_ISSUES: 5`) seconds after I opened it …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "zuizhuai",
+    "head_sha": "e5e19045b3bddb8b6de6761b49e59affd5d350ae",
+    "base_ref": "main",
+    "additions": 102,
+    "deletions": 6,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
