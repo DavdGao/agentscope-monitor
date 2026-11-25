@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-25T04:02:13.329702Z",
+  "title": "fix(service): make interrupt() on an idle session enqueue nothing",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4299",
+  "number": 4299,
+  "body": "## Problem\n\n`ChatService.interrupt()` documents two paths (issue #4231):\n\n- lock held → publish on the interrupt channel and return;\n- lock free → enqueue a `resume` trigger with a `UserInterruptEvent…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "c916e3b32d369fe3ee9831083f708aae1b3b2235",
+    "base_ref": "main",
+    "additions": 143,
+    "deletions": 5,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
