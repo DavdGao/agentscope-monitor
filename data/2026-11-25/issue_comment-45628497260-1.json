@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Wilson0511",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-25T13:55:27.101391Z",
+  "title": "fix(gemini): close the delegated SDK stream in the parser",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3938#issuecomment-7164482404",
+  "number": 3938,
+  "body": "Re the pr-guard note: this one has no issue of its own. It came out of checking the other providers after #3906 fixed the same leak for Ollama, and the Gemini stream parser turned out to have the iden…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Wilson0511",
+    "commenter": "Wilson0511"
+  },
+  "at_mobiles": []
+}
