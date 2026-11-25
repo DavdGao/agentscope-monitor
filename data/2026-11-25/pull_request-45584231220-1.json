@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-25T09:19:11.613649Z",
+  "title": "fix(realtime): drop malformed client control frames instead of ending the session",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4262",
+  "number": 4262,
+  "body": "## Problem\n\n`RealtimeAgent._on_control` translates Remote DataChannel frames straight into model calls:\n\n```python\nmatch frame.type:\n    case ControlFrameType.TEXT:\n        await self.send(frame.data.…",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "3fc246a16afcf65e7bec1e221392f0c1b55818aa",
+    "base_ref": "main",
+    "additions": 63,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
