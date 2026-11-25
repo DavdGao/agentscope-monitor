@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "shengzhaowei",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-25T06:29:36.940081Z",
+  "title": "[Bug]:ToolOffloadMiddleware Prematurely Terminates Conversation When Tools Are Offloaded",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1711#issuecomment-7154842277",
+  "number": 1711,
+  "body": "/assign\n\nHi @24kGarry — you mentioned on Sep 8 that you were working on a fix for this against latest main. I don't see a PR linked to this issue yet, so I'd like to pick it up: stop the synthetic `SU…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "ljl3937",
+    "commenter": "shengzhaowei"
+  },
+  "at_mobiles": []
+}
