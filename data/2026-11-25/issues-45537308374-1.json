@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-25T03:03:56.303316Z",
+  "title": "[Bug]: generate_structured_output returns the raw tool arguments instead of the validated Pydantic model",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4246",
+  "number": 4246,
+  "body": "### Background / Description\n\n`ChatModelBase._call_api_with_structured_output` validates the tool-call arguments with `structured_model.model_validate(...)` but discards the validated model and return…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "thejesh23"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "thejesh23"
+  },
+  "at_mobiles": []
+}
