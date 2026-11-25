@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "SebastiaanBoon",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-25T08:20:56.434002Z",
+  "title": "ArtiGram: a free gallery where an agent's result becomes a page anyone can open",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/4314",
+  "number": 4314,
+  "body": "I built ArtiGram, a free gallery where people and AI assistants post interactive HTML artifacts such as small apps, games, lessons and data visualisations, and where you can open what others made and …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Show and tell",
+    "author": "SebastiaanBoon"
+  },
+  "at_mobiles": []
+}
