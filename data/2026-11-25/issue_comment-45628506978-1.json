@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Wilson0511",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-25T13:55:34.603374Z",
+  "title": "fix(workspace): roll back cancelled seed copies during initialize",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3897#issuecomment-7164483563",
+  "number": 3897,
+  "body": "Re the pr-guard note: this one has no issue of its own. It is the same window #3844 fixed for `add_skill` (a worker outliving cancellation of its asyncio waiter), found while reading the other `shutil…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Wilson0511",
+    "commenter": "Wilson0511"
+  },
+  "at_mobiles": []
+}
