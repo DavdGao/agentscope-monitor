@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "tree-zby",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-26T08:03:26.081938Z",
+  "title": "Proposal: add a serving-hints middleware for cache-aware inference gateways",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/4320",
+  "number": 4320,
+  "body": "**Problem**\n\nAgents behind an inference gateway (vLLM/SGLang, a multi-tenant proxy, or a prefix-cache router) send requests that look identical at the HTTP layer. The gateway cannot tell which request…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "tree-zby"
+  },
+  "at_mobiles": []
+}
