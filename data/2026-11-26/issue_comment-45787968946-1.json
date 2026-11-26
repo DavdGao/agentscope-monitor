@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-26T09:00:32.059162Z",
+  "title": "fix(tool): keep rg --pre off the read-only fast path",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3671#issuecomment-7187287897",
+  "number": 3671,
+  "body": "Closing this PR to consolidate the `rg --pre` fix in #3765, which also covers `tree -o`. The regression tests there cover both forms of the `--pre` option and confirm that `rg --pretty` still passes t…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Kiko0301",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
