@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion_comment",
+  "event_cn": "Discussion 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-26T08:41:49.324548Z",
+  "title": "feat(vdb): integrate zvec as an optional vector database backend",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/4072#discussioncomment-19916044",
+  "number": 4072,
+  "body": "@chinaux Thanks for putting this together! A PR for `ZvecStore` is welcome. Having a persistent local vector store that runs in-process would be useful for AgentScope users.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "commenter": "qbc2016",
+    "discussion_author": "chinaux"
+  },
+  "at_mobiles": []
+}
