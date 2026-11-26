@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-26T09:00:25.942322Z",
+  "title": "fix(tool): keep rg --pre off the read-only fast path",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3671",
+  "number": 3671,
+  "body": "## Problem\n\n`BashCommandParser.is_read_only_command()` auto-allows any command whose\ntext starts with a known read-only prefix, including `rg`. But ripgrep's\n`--pre <cmd>` option runs `<cmd>` for ever…",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "f9b7c052bc528791d627b2425ebc1424413437fa",
+    "base_ref": "main",
+    "additions": 27,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
