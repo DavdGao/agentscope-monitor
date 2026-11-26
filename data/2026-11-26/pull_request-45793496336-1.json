@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-26T09:36:32.585207Z",
+  "title": "fix(bus): honor try-lock leases in blocking acquisition",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4326",
+  "number": 4326,
+  "body": "## Problem\n\nIn `InMemoryMessageBus`, `try_lock` and `acquire_lock` do not exclude each other: a blocking acquisition enters while an unexpired non-blocking lease is held, overwrites its state, and cle…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "d008287704ef872c7d141b88e5d38abd7fc77281",
+    "base_ref": "main",
+    "additions": 58,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
