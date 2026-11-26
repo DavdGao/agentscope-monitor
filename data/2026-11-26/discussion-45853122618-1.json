@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "lucent-io",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-26T15:51:09.466618Z",
+  "title": "Proposal: OpenTelemetry spans for RAG retrieval stages and fallbacks",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/4331",
+  "number": 4331,
+  "body": "### What is missing today?\n\nWhen a RAG response is slow or uses fewer sources than expected, the current trace does not show whether the time went to embedding, a vector store, or the optional reranke…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "lucent-io"
+  },
+  "at_mobiles": []
+}
