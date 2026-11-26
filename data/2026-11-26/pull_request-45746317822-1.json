@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-26T03:02:32.077478Z",
+  "title": "fix(rag): read shapes wrapped in mc:AlternateContent in PPTParser",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4017",
+  "number": 4017,
+  "body": "## AgentScope Version\n\n`2.0.12dev`, based on `27d8359300f16e44f9d4d7184620480427e067af`.\n\n## Description\n\nFixes #4016.\n\npython-pptx only yields the shape-tree children it knows: `p:sp`, `p:grpSp`, `p:…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "shuxiachai",
+    "head_sha": "49edd0af26f573cc6201b700641a6b814feacbd5",
+    "base_ref": "main",
+    "additions": 256,
+    "deletions": 24,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
