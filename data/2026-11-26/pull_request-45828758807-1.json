@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "shenhui-ui",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-26T13:24:13.565454Z",
+  "title": "fix(tool): follow file symlinks when matching glob leaf segments",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4328",
+  "number": 4328,
+  "body": "## Description\n\nFixes #4327.\n\nPreviously, `Glob`'s standalone helper (`_match_parts` in `src/agentscope/tool/_builtin/_scripts/_glob_helper.py`) checked `entry.is_file(follow_symlinks=False)` for the …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "shenhui-ui",
+    "head_sha": "ef6290d7b031bec18d21252ee4ddfbd27571d11e",
+    "base_ref": "main",
+    "additions": 104,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
