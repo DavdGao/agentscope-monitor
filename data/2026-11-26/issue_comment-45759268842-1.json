@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "zuizhuai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-26T05:05:27.047984Z",
+  "title": "fix(agent): bound max_iters and tool_result_limit to positive values",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3781#issuecomment-7183166969",
+  "number": 3781,
+  "body": "Re-checked against `main` @ `e53b1b3`: `_config.py` has not moved since this branch's base, so the change still applies with no conflict.\n\nTwo things that make it cheap to judge:\n\n**Precedent in the s…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "zuizhuai",
+    "commenter": "zuizhuai"
+  },
+  "at_mobiles": []
+}
