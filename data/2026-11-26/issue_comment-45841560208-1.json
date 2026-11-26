@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "2SinceJuly",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-26T14:41:43.243390Z",
+  "title": "fix(model): keep streamed tool calls separate when the server omits index",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4011#issuecomment-7195182656",
+  "number": 4011,
+  "body": "Re-verified against `main` at `7167d2a2` today (last note here was 2026-11-16).\n\n- **The bug is still on `main`.** `_parse_stream_response()` still keys on `tool_call.index` directly (`src/agentscope/…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "2SinceJuly",
+    "commenter": "2SinceJuly"
+  },
+  "at_mobiles": []
+}
