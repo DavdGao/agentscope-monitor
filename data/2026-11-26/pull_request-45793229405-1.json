@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-26T09:34:39.906953Z",
+  "title": "feat(web-ui): browse, preview and edit workspace files from chat",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4284",
+  "number": 4284,
+  "body": "## AgentScope Version\n\n2.0.13dev\n\n## Description\n\nCloses #4285.\n\nA chat reply can name a generated file even when a script created it and the only `Write` call recorded the helper script. This adds a …",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "qbc2016",
+    "head_sha": "ca95a59761a1568334c7134946557b54c071c79b",
+    "base_ref": "main",
+    "additions": 4567,
+    "deletions": 84,
+    "changed_files": 30
+  },
+  "at_mobiles": []
+}
