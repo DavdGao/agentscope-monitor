@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-26T09:19:13.110228Z",
+  "title": "fix(chat): continue receipt cleanup after lookup failures",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4323",
+  "number": 4323,
+  "body": "## Problem\n\nA storage lookup failure while collecting chat submission receipts aborts the sweep, skipping subsequent receipts. This affects both an immediate failure and a retained lookup that fails a…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "505b9f997bea0f6214a8a2c0321d2977b37e4049",
+    "base_ref": "main",
+    "additions": 66,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
