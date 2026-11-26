@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-26T09:18:04.288636Z",
+  "title": "fix(app): reject credentials without chat models",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4322",
+  "number": 4322,
+  "body": "## Problem\n\nSelecting a classifier-only credential such as TypeSafe for a chat model raises `NotImplementedError` from the credential instead of a configuration error. This can escape the realtime rou…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "628c7aad1484c472ca767c15ebd18dda415aca6b",
+    "base_ref": "main",
+    "additions": 62,
+    "deletions": 3,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
