@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "0204zll",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-26T08:26:35.451956Z",
+  "title": "智能体流程编排问题",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1073#issuecomment-7186593791",
+  "number": 1073,
+  "body": "/assign\n\n我来补一个基于 AgentScope 2.x 的可运行示例，演示固定流程里怎么交接消息：儿子向母亲提出买篮球的请求，母亲预算充足时直接答复，预算不足时将请求转给父亲，再把结果带回给儿子。",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "spy-cn",
+    "commenter": "0204zll"
+  },
+  "at_mobiles": []
+}
