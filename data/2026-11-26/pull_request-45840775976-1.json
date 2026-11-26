@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "shuxiachai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-26T14:37:10.173510Z",
+  "title": "fix(rag): read a text box in a Word table cell once",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4330",
+  "number": 4330,
+  "body": "## AgentScope Version\n\n`2.0.13dev`, based on `7167d2a2d4167fde92f83f410be09d89eb208446`.\n\n## Description\n\nFixes #4329.\n\n`_extract_table_data` read each cell paragraph by collecting every `w:t` under i…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "shuxiachai",
+    "head_sha": "5ec933e1c9cac406ca267ed3f48a56d08cc81583",
+    "base_ref": "main",
+    "additions": 95,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
