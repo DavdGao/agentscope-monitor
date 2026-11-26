@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-26T09:30:20.048730Z",
+  "title": "fix(web): stop WAV playback at the data chunk boundary",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4325",
+  "number": 4325,
+  "body": "## Problem\n\nBoth live WAV players feed every byte after the `data` header to the PCM decoder. A valid WAV with trailing RIFF chunks, such as `LIST` metadata, therefore plays the metadata as audio and …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "095968dae2ed8f3d596a13c1f1d6fb0495f1ea43",
+    "base_ref": "main",
+    "additions": 81,
+    "deletions": 1,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
