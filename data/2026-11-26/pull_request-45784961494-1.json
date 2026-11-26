@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "0204zll",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-26T08:39:17.414349Z",
+  "title": "docs(examples): demonstrate conditional handoffs between agents",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4321",
+  "number": 4321,
+  "body": "Refs #1073.\n\n## Description\n\nThis example answers the fixed-workflow question in the issue. Son asks Mother for a $30 basketball. If she can pay, Son hears her answer directly. If she needs help, Fath…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "0204zll",
+    "head_sha": "2be685ca45cee1185150e133dc0bcab96f42fd19",
+    "base_ref": "main",
+    "additions": 126,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
