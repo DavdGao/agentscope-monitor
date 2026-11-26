@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-26T08:15:33.537074Z",
+  "title": "fix(storage): return SQL record timestamps as UTC-aware",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4298",
+  "number": 4298,
+  "body": "## Problem\n\n`AsyncSQLAlchemyStorage` stores `created_at` / `updated_at` as tz-naive UTC — the module documents it, `_utcnow()` produces it, and `_to_naive_utc()` normalises every caller-supplied datet…",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "b2a823d3abe6bef1a80b2d3cc30ecf47c2305cf0",
+    "base_ref": "main",
+    "additions": 122,
+    "deletions": 30,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
