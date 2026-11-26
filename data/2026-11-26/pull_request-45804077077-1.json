@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-26T10:44:23.063735Z",
+  "title": "fix(tool): stop classifying rg --pre and tree -o as read-only",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3765",
+  "number": 3765,
+  "body": "Fixes #3249\n\n## Problem and root cause\n\n`BashCommandParser._is_single_command_read_only()` treats any command that\nstarts with an entry of `READ_ONLY_COMMANDS` plus a space as read-only. `rg`\nand `tre…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "indexGin",
+    "head_sha": "fd4c6ebfb30534b929526d4dd9791a8027f80b83",
+    "base_ref": "main",
+    "additions": 147,
+    "deletions": 0,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
