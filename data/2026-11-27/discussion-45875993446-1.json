@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "lucent-io",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-26T18:27:10.729995Z",
+  "title": "Proposal: Show inline images in Web UI tool results",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/4333",
+  "number": 4333,
+  "body": "When an MCP tool returns a chart or screenshot, I'd like to see it in the tool result without asking the agent to resend it as a separate attachment.\n\nI reproduced this on [`7167d2a`](https://github.c…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "lucent-io"
+  },
+  "at_mobiles": []
+}
