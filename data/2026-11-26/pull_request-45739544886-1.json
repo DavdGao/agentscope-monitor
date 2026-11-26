@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-26T02:00:58.958173Z",
+  "title": "fix(scheduler): reject an invalid permission_mode in ScheduleCreate",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4297",
+  "number": 4297,
+  "body": "## Problem\n\n`ScheduleCreate` silently replaces an unrecognized permission mode:\n\n```python\ntry:\n    perm_mode = PermissionMode(permission_mode)\nexcept ValueError:\n    perm_mode = PermissionMode.DONT_A…",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "c38e751abf5a31736de10f553b0b8b9d25d75293",
+    "base_ref": "main",
+    "additions": 35,
+    "deletions": 2,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
