@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-26T09:21:46.153977Z",
+  "title": "fix(chat): use the agent name for synthesized failure replies",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4324",
+  "number": 4324,
+  "body": "## Problem\n\nIf a chat run fails before emitting a reply, its synthetic failure message uses the agent ID as the speaker. Normal replies use the agent's display name, so the failure appears under a dif…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "655f14b27782dda17f9cf3fc1a43aa3726f36d09",
+    "base_ref": "main",
+    "additions": 148,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
