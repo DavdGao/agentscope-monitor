@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "jadelike-wine",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T16:52:44.488283Z",
+  "title": "[Bug]: examples/console injects workspace instructions into the system prompt twice",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4360",
+  "number": 4360,
+  "body": "﻿## Description\n\n`examples/console/main.py` manually concatenates `await workspace.get_instructions()` into the agent's `system_prompt` at line 61, while also passing `offloader=workspace` at line 85.…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "jadelike-wine"
+  },
+  "at_mobiles": []
+}
