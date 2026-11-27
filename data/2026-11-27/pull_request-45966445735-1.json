@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T08:32:37.760177Z",
+  "title": "fix(tts): close DashScope client after setup failure",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4352",
+  "number": 4352,
+  "body": "## Problem\n\nIf the DashScope realtime TTS WebSocket connects but `update_session` fails, `connect()` raises before setting `_connected`. Context-manager cleanup does not run, and `close()` returns ear…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "9abde62a76cfdd0ca5f1aaedd6b2da232bc4e579",
+    "base_ref": "main",
+    "additions": 52,
+    "deletions": 5,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
