@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "laoyyu",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T00:39:44.843163Z",
+  "title": "fix(task): restore dependencies when reopening completed task",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4334",
+  "number": 4334,
+  "body": "Fixes #3505\n\n## Summary\n\n- Restore each dependent's `blocked_by` edge when a completed task is reopened as `pending` or `in_progress`.\n- Keep the existing behavior that completing a task removes it fr…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "laoyyu",
+    "head_sha": "617415ae9323edfd4273de8bbb77239441cb4a77",
+    "base_ref": "main",
+    "additions": 54,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
