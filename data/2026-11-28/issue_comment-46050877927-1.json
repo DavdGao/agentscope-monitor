@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "yang0228",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T18:37:48.765994Z",
+  "title": "fix(workspace): expose Daytona auto-stop interval",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3283#issuecomment-7225689599",
+  "number": 3283,
+  "body": "Hi @qbc2016, since you recently worked on Daytona SDK compatibility in #4241, could you take a look at this focused fix for #3277? It keeps the provider default when `auto_stop_interval` is omitted an…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "yang0228",
+    "commenter": "yang0228"
+  },
+  "at_mobiles": []
+}
