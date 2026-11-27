@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T09:48:39.847443Z",
+  "title": "[Bug]: SOPEngine emits a pending step ending after the attempt budget is exhausted",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3592",
+  "number": 3592,
+  "body": "### Prerequisites\n\n- Searched existing issues and PRs for SOP_STEP_ENDED, SOP phase/pending, attempts, budget, and exhaustion.\n- Reproduced on current main at 68da5fbc32e9cca8cbe248688328db34adaa7cb2.…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "Yzzz88"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "Yzzz88"
+  },
+  "at_mobiles": []
+}
