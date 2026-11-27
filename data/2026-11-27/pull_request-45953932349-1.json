@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "Winoren",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T06:45:54.657020Z",
+  "title": "fix(agent): shield context compression through repeated cancellation",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4339",
+  "number": 4339,
+  "body": "Fixes #4338\n\n## AgentScope Version\n\n2.0.13dev, based on `7167d2a`.\n\n## Description\n\nThe context-compression update was shielded only until the caller's first cancellation. The subsequent direct await …",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Winoren",
+    "head_sha": "a8152eb1ec8075cc79079eb5b16e8f989da512a7",
+    "base_ref": "main",
+    "additions": 46,
+    "deletions": 5,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
