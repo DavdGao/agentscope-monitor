@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "amirkhakshour",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T23:25:30.433072Z",
+  "title": "fix(sop): judge the work when a parked verifier is resumed with a message",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4365",
+  "number": 4365,
+  "body": "Fixes #4364.\n\n## AgentScope Version\n\n`2.0.13dev`, rebased onto `main` at `b76f2726`.\n\n## Description\n\n`SOPStep._question` passed any non-`None` input straight to the verifier. That is correct for a re…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "amirkhakshour",
+    "head_sha": "bad172f00fcc8281fcf7a6eeb143677aa5c9058e",
+    "base_ref": "main",
+    "additions": 39,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
