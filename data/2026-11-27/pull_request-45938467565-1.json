@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T04:11:32.877565Z",
+  "title": "fix(model): send \"none\" as-is instead of wrapping it in allowed_tools",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4308",
+  "number": 4308,
+  "body": "## Problem\n\n`OpenAIResponseModel._format_tools` wraps any `ToolChoice` carrying a `tools` list in the `allowed_tools` form:\n\n```python\nmode = tool_choice.mode\nif mode not in _TOOL_CHOICE_LITERAL_MODES…",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "2e0270bc1740ae1b7d188aec56670f9c150b1143",
+    "base_ref": "main",
+    "additions": 20,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
