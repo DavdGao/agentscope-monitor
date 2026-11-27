@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "xiaoyesoso",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T04:15:50.869977Z",
+  "title": "Proposal: opt-in PowerPoint speaker notes extraction in PPTParser",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/4348",
+  "number": 4348,
+  "body": "### Use case\n\nTraining and maintenance decks often put instructions in PowerPoint speaker notes rather than on the slide itself. When these decks are parsed for a knowledge base, the search index can …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "xiaoyesoso"
+  },
+  "at_mobiles": []
+}
