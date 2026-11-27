@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Mzq12138",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T07:49:36.055237Z",
+  "title": "`ChatService.interrupt()` on an idle/unlocked session spawns a full `resume-run` into `ChatRunRegistry`, racing the caller's next `spawn` (\"already has an active chat run in this p",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4231#issuecomment-7212850016",
+  "number": 4231,
+  "body": "Agreed — land the idle fix first and track the remaining behavior separately.\n\nThree points on how I'd scope it:\n\n- The idle fix should not go in with the stale-snapshot regression reported on #4299. …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Mzq12138",
+    "commenter": "Mzq12138"
+  },
+  "at_mobiles": []
+}
