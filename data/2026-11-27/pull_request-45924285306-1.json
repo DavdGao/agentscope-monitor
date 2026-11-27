@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Winoren",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T01:44:36.402696Z",
+  "title": "fix(agent): validate external tool results before committing the batch",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4343",
+  "number": 4343,
+  "body": "Fixes #4342\n\n## AgentScope Version\n\n2.0.13dev, based on `7167d2a`.\n\n## Description\n\nWhen resuming a parked reply with multiple external execution results, the Agent was validating and committing each …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Winoren",
+    "head_sha": "8ff7d7ab61127381d4d46b3939206d7c07d26357",
+    "base_ref": "main",
+    "additions": 60,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
