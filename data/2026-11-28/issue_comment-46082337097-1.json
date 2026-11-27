@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "amirkhakshour",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T23:24:47.012053Z",
+  "title": "[Bug]: The Jev classifier asks a question with no instructions when the question omits them",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4362#issuecomment-7230118198",
+  "number": 4362,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "amirkhakshour",
+    "commenter": "amirkhakshour"
+  },
+  "at_mobiles": []
+}
