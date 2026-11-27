@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "liwenjie200543",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T05:12:24.573333Z",
+  "title": "fix(tool): catch quoted mutating find predicates in read-only check",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3063#issuecomment-7210433954",
+  "number": 3063,
+  "body": "Rebased onto `main@c296a8df` (the branch was ~413 commits behind), so `mergeable` is true again and the test matrix is re-running on the new head. The only conflict was where both sides add module-lev…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "liwenjie200543",
+    "commenter": "liwenjie200543"
+  },
+  "at_mobiles": []
+}
