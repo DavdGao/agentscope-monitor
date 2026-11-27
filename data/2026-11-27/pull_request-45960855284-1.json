@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T07:47:21.972209Z",
+  "title": "fix(utils): decode escaped discriminator mapping references",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3723",
+  "number": 3723,
+  "body": "## Summary\n\nFixes #3722. AgentScope 2.0.12dev.\n\nWhen a definition name contains `/` or `~`, schema flattening expands its `$ref` but can leave a discriminator pointing to the removed definition. The i…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "zhangkom",
+    "head_sha": "cbe8fd112aeca2e0aecf2d33cc7e6510708f5ebf",
+    "base_ref": "main",
+    "additions": 98,
+    "deletions": 15,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
