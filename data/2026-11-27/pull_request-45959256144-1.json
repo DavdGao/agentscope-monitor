@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T07:33:31.583819Z",
+  "title": "fix(tool): resolve Bash permission paths from the workspace cwd",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3960",
+  "number": 3960,
+  "body": "## Problem\n\nA workspace-backed `Bash` tool executes in the workspace directory (`LocalWorkspace` wires `Bash(cwd=self.workdir, backend=LocalBackend(workdir=self.workdir))`), but two permission checks …",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ccclucky",
+    "head_sha": "c560e6faa033a42aa2843ed075e356eb53e9c525",
+    "base_ref": "main",
+    "additions": 425,
+    "deletions": 24,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
