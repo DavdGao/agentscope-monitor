@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "Winoren",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T07:19:58.788668Z",
+  "title": "fix(workspace): send the OpenSandbox write mode as decimal 644",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2945",
+  "number": 2945,
+  "body": "Fixes https://github.com/agentscope-ai/agentscope/issues/2904\n\n## What changed\n\n`OpenSandboxBackend.write_file` built its `files.write_files` entry with\n`mode=0o644`. OpenSandbox encodes file permissi…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Winoren",
+    "head_sha": "5813f57c062f792d4d3081d80f00f44ac4a2dfdb",
+    "base_ref": "main",
+    "additions": 44,
+    "deletions": 2,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
