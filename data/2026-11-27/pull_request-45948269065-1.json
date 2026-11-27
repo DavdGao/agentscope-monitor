@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T05:51:37.566807Z",
+  "title": "fix(mem0): do not write back an interrupted reply",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4307",
+  "number": 4307,
+  "body": "## AgentScope Version\n\n2.0.13dev (main at 515befd)\n\n## Description\n\nFixes #4306\n\n**Problem.** `Mem0Middleware` in `static_control` or `both` mode writes the exchange back to mem0 after each reply. Whe…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "shaojunying",
+    "head_sha": "74b86e08f83c5978b993ef7aefa2a569f70bc003",
+    "base_ref": "main",
+    "additions": 33,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
