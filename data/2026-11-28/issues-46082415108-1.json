@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "amirkhakshour",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T23:25:36.368026Z",
+  "title": "[Bug]: SOPEngine re-dispatches a step that never files a verdict without end",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4366",
+  "number": 4366,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing issues and discussions, and this is not a duplicate.\n- [x] This is a bug, not a usage question.\n\n### Background / Description\n\n`SOPEngine.reply_st…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "amirkhakshour"
+  },
+  "at_mobiles": []
+}
