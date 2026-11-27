@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "wang1299",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T13:32:32.268053Z",
+  "title": "fix(rag): preserve mixed boolean and numeric xlsx cells",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4332",
+  "number": 4332,
+  "body": "## AgentScope Version\n\n2.0.13dev, based on main 7167d2a.\n\n## Description\n\nFixes #4134.\n\nWith pandas 2.2.2, an xlsx column containing native True, 1, False, 0 is parsed as True, True, False, False even…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "wang1299",
+    "head_sha": "3eb9524bf7e03f244ed05bb4a278a0ca66fa51d9",
+    "base_ref": "main",
+    "additions": 76,
+    "deletions": 17,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
