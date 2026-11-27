@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "xiaoyesoso",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T04:31:32.935037Z",
+  "title": "[Bug]: Knowledge base fails to index YAML uploads with a generic Content-Type",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4349#issuecomment-7209863506",
+  "number": 4349,
+  "body": "I also reproduced this through the FastAPI upload endpoint on `main` (`c296a8df`), using the existing `KnowledgeBaseUploadFlowTest` setup (local blob store and in-memory Redis/vector fixtures; no live…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "xiaoyesoso",
+    "commenter": "xiaoyesoso"
+  },
+  "at_mobiles": []
+}
