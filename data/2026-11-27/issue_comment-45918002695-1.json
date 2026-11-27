@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "laoyyu",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T00:39:42.955601Z",
+  "title": "fix(task): restore dependencies when reopening completed task",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4334#issuecomment-7206642746",
+  "number": 4334,
+  "body": "Closing as a duplicate of #3506. The existing open PR already implements the same `completed` to `pending`/`in_progress` restoration and covers the same regression path, so this PR should not remain i…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "laoyyu",
+    "commenter": "laoyyu"
+  },
+  "at_mobiles": []
+}
