@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "shuxiachai",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T08:49:11.198176Z",
+  "title": "fix(rag): read equations in Word documents as text",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4354",
+  "number": 4354,
+  "body": "## AgentScope Version\n\n`2.0.13dev`, based on `328efd88a156a87177b9b0385ad9b44bd1ff4728`.\n\n## Description\n\nFixes #4353.\n\nWord stores an equation as OMML, with its characters in `m:t`. `WordParser` coll…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": true,
+    "author": "shuxiachai",
+    "head_sha": "1c905107018d20542d208664e3e733299d8c0b3e",
+    "base_ref": "main",
+    "additions": 437,
+    "deletions": 9,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
