@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T08:29:12.578725Z",
+  "title": "feat(examples): add MLflow OTLP tracing example",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3689",
+  "number": 3689,
+  "body": "## AgentScope Version\n\n2.0.12dev; based on main at `9668b4c90c70cc214e1b7bb65dec2a6e70b90010`.\n\n## Description\n\nFixes #1458.\n\nAdd a runnable example that exports the existing `TracingMiddleware` agent…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "yang0228",
+    "head_sha": "12ab4858e5d5aeb9e9ec244908b8bfa8c37cccc3",
+    "base_ref": "main",
+    "additions": 142,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
