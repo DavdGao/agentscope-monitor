@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T08:51:24.918281Z",
+  "title": "fix(state): keep running tool results unfinished",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4355",
+  "number": 4355,
+  "body": "## Problem\n\nA `TOOL_RESULT_START` event creates a result block in the `RUNNING` state. The agent state queries currently treat the presence of that block as completion, so a submitted call disappears …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "71fcb2c2015411b90fe4694fead375ae3b4eedc8",
+    "base_ref": "main",
+    "additions": 51,
+    "deletions": 6,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
