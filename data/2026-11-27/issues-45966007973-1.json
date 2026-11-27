@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T08:29:19.197009Z",
+  "title": "[Feature]: native MLflow integration for experiment tracking & logging",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1458",
+  "number": 1458,
+  "body": "## Summary\n\nCurrently, AgentScope does not provide built-in support for **MLflow** as a logging/tracking backend. Users who rely on MLflow for experiment management must manually instrument their agen…",
+  "labels": [
+    "state/stale-issue"
+  ],
+  "assignees": [
+    "yang0228"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "Jasonsey"
+  },
+  "at_mobiles": []
+}
