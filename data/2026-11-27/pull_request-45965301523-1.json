@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Kiko0301",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T08:23:45.687017Z",
+  "title": "fix(formatter): preserve Responses API item order",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4351",
+  "number": 4351,
+  "body": "## Problem\n\n`OpenAIResponseFormatter` buffers function calls until the end of a message or a tool result. If later assistant text or reasoning appears between tool calls, the formatter moves it before…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "44289a9093f48308e1e23f2bdb48b11329028ba6",
+    "base_ref": "main",
+    "additions": 82,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
