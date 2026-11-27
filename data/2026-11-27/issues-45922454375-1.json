@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Winoren",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T01:25:21.193627Z",
+  "title": "[Bug]: Agent emits duplicate tool-call lifecycles for interleaved stream deltas",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4340",
+  "number": 4340,
+  "body": "### Background / Description\n\nDuring a model call, a chunk containing a delta for tool call B can omit tool call A even though further deltas for A follow. OpenAI Chat translates provider deltas to sp…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Winoren"
+  },
+  "at_mobiles": []
+}
