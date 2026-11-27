@@ -1,0 +1,23 @@
+{
+  "event_name": "discussion",
+  "event_cn": "Discussion",
+  "emoji": "🗣️",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "xiaoyesoso",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T02:54:42.112818Z",
+  "title": "Preview audio and video files in the chat workspace drawer",
+  "url": "https://github.com/agentscope-ai/agentscope/discussions/4345",
+  "number": 4345,
+  "body": "The chat workspace file panel added in #4284 makes it easy to inspect generated files. Small audio and video files still have to be downloaded and opened separately. Inline playback would let users qu…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "category": "Ideas",
+    "author": "xiaoyesoso"
+  },
+  "at_mobiles": []
+}
