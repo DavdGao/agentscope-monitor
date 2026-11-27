@@ -1,0 +1,27 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T03:23:31.696345Z",
+  "title": "[Bug]: non-ASCII token shifts Bash path extraction, so ACCEPT_EDITS auto-allows dangerous paths and writes outside the working directory",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3771",
+  "number": 3771,
+  "body": "### Background / Description\n\n`BashCommandParser` parses the raw command as UTF-8 bytes\n(`self.parser.parse(bytes(cmd, \"utf8\"))`), so tree-sitter reports\n`Node.start_byte` / `Node.end_byte` as **byte*…",
+  "labels": [
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "ccclucky"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "ccclucky"
+  },
+  "at_mobiles": []
+}
