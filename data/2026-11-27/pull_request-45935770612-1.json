@@ -1,0 +1,33 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T03:43:09.451031Z",
+  "title": "fix(message-bus): support both bytes and str responses from Redis pools",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4302",
+  "number": 4302,
+  "body": "## Problem\n\nWith an external Redis pool using the redis-py default (`decode_responses=False`), Stream field names arrive as bytes. After the atomic drain script reads and deletes an entry, looking up …",
+  "labels": [
+    "pr/awaiting-review",
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "Kiko0301",
+    "head_sha": "5eb199473c2a2c862c170f65ae1d7926d49baae0",
+    "base_ref": "main",
+    "additions": 151,
+    "deletions": 35,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
