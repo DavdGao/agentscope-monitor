@@ -1,0 +1,28 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T06:28:47.671260Z",
+  "title": "[Bug]: Mem0 write-back drops a completed structured reply",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4315",
+  "number": 4315,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this …",
+  "labels": [
+    "Bug",
+    "triage/confirmed"
+  ],
+  "assignees": [
+    "ZxlDragonDoctor"
+  ],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "author": "master1018"
+  },
+  "at_mobiles": []
+}
