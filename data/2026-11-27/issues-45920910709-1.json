@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Winoren",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T01:09:24.536076Z",
+  "title": "[Performance]: DashScope realtime ASR rebuilds the cumulative transcript for unread partials",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4336",
+  "number": 4336,
+  "body": "### Background / Description\n\nDashScope realtime ASR retains only the newest partial response (#4188), but `_handle_result` still joins the entire committed transcript for every provider event. If the…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Winoren"
+  },
+  "at_mobiles": []
+}
