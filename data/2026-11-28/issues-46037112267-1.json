@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "jadelike-wine",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T16:51:43.459668Z",
+  "title": "[Docs]: CONTRIBUTING_zh.md has drifted from CONTRIBUTING.md (typo + 3 missing sentences)",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4358",
+  "number": 4358,
+  "body": "﻿## Description\n\n`CONTRIBUTING_zh.md` has drifted from `CONTRIBUTING.md`. Three confirmed gaps plus one typo:\n\n### 1. Typo at CONTRIBUTING_zh.md:34\n\n`所有人的事件都是宝贵的资源` — should be `时间` (time), matching C…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "jadelike-wine"
+  },
+  "at_mobiles": []
+}
