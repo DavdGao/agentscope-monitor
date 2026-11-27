@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T02:25:26.717148Z",
+  "title": "fix(tool): read tree-sitter node spans as bytes, not characters",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2944",
+  "number": 2944,
+  "body": "## PR Title Format\n\n- `fix(tool): read tree-sitter node spans as bytes, not characters`\n- Type `fix`, scope `tool` (lowercase), subject starts with a lowercase letter.\n\n## AgentScope Version\n\n```\n2.0.…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "aniruddhaadak80",
+    "head_sha": "c4ad776ba41b9def270649e7296759ce524ffc57",
+    "base_ref": "main",
+    "additions": 42,
+    "deletions": 19,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
