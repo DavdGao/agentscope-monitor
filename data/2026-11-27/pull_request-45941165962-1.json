@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "oOtiti",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T04:39:04.564192Z",
+  "title": "fix(app): include UTC offsets in session HTTP responses",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4309",
+  "number": 4309,
+  "body": "## AgentScope Version\n\n2.0.13dev, base 6295041.\n\n## Description\n\nFixes #4296.\n\nSQL session records store naive UTC timestamps. A browser treats a timestamp without an offset as local time, which can d…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "oOtiti",
+    "head_sha": "43b7d1f3162ecd8e5c36e11d567c2e784d3ede14",
+    "base_ref": "main",
+    "additions": 105,
+    "deletions": 6,
+    "changed_files": 5
+  },
+  "at_mobiles": []
+}
