@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T07:22:00.816267Z",
+  "title": "fix(agent): reject negative max_iters and tool_result_limit values",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3781",
+  "number": 3781,
+  "body": "Fixes #3780\n\n## Summary\n\nAdd `ge=0` to `ReActConfig.max_iters` and `ContextConfig.tool_result_limit`. Creating or loading a configuration with a negative value for either field now raises a Pydantic `…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "zuizhuai",
+    "head_sha": "75e1b6bbe910fe51786203f6072d7cd3ea73104c",
+    "base_ref": "main",
+    "additions": 2,
+    "deletions": 0,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
