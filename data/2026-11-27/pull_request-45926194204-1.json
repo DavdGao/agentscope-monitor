@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "ompatil1906",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T02:04:54.014941Z",
+  "title": "fix(agent): validate external tool-result batches before committing any result",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4344",
+  "number": 4344,
+  "body": "Fixes #4342\n\nValidate the entire ExternalExecutionResultEvent batch before committing any result so a later schema failure does not leave earlier tool calls finished.\n\nRegression test added and passin…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "ompatil1906",
+    "head_sha": "65c70a208bcecd6d0f36015c5073b9e470b15af3",
+    "base_ref": "main",
+    "additions": 69,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
