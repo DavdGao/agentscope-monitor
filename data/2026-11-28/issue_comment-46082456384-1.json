@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "amirkhakshour",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T23:26:05.089344Z",
+  "title": "[Bug]: A second SubmitVerdict call for the same submission consumes another attempt",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4368#issuecomment-7230135170",
+  "number": 4368,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "amirkhakshour",
+    "commenter": "amirkhakshour"
+  },
+  "at_mobiles": []
+}
