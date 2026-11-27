@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T07:23:59.575255Z",
+  "title": "[Bug]: Ollama formatter splits parallel tool calls into separate assistant messages, and Ollama drops all but the first",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/3738#issuecomment-7212429158",
+  "number": 3738,
+  "body": "Fixed in #3910. `OllamaChatFormatter` now keeps parallel tool calls in a single assistant message, preserving the calls and any text or images between them. The fix includes regression tests for both …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Fahmid-Arman",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
