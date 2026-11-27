@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "Tong-bit-art",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T02:20:00.167100Z",
+  "title": "fix(app): reject non-user roles when editing queued chat inputs",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3647",
+  "number": 3647,
+  "body": "## Why\n\nFixes #3646.\n\n`PATCH /chat/queue/{item_id}` accepts a complete `Msg` or `list[Msg]` through `UpdateChatQueueItemRequest` without restricting the role. `update_chat_input()` stores that payload…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "Tong-bit-art",
+    "head_sha": "63b64b100898d89116ceee19a623f4d390224e96",
+    "base_ref": "main",
+    "additions": 121,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
