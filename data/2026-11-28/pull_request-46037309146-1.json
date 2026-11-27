@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "jadelike-wine",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T16:53:11.499426Z",
+  "title": "fix(examples): drop manual workspace instructions in console demo",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4361",
+  "number": 4361,
+  "body": "﻿## AgentScope Version\n\n2.0.13dev (main @ b76f2726)\n\n## Description\n\nFixes #4360\n\n`examples/console/main.py` manually concatenated `await workspace.get_instructions()` into the agent's `system_prompt`…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "jadelike-wine",
+    "head_sha": "e100e757d1f4b924ea7412f1c23f51bc07832833",
+    "base_ref": "main",
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
