@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "Winoren",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T01:12:56.519843Z",
+  "title": "[Performance]: DashScope realtime ASR rebuilds the cumulative transcript for unread partials",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4336#issuecomment-7207104248",
+  "number": 4336,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "Winoren",
+    "commenter": "Winoren"
+  },
+  "at_mobiles": []
+}
