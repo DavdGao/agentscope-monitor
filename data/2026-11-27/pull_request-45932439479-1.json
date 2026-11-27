@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T03:09:01.230163Z",
+  "title": "fix(tool): read tree-sitter node spans as bytes, not characters",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/2944",
+  "number": 2944,
+  "body": "## Summary\n\nTree-sitter reports UTF-8 byte offsets, while Python indexes strings by Unicode code point. When a Bash command contained a multibyte character, using those offsets to slice the command st…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "aniruddhaadak80",
+    "head_sha": "cf3633fa90ebf2ae424f81d48f7dece8779c1a01",
+    "base_ref": "main",
+    "additions": 42,
+    "deletions": 19,
+    "changed_files": 3
+  },
+  "at_mobiles": []
+}
