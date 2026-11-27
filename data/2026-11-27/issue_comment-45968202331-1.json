@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T08:46:08.997202Z",
+  "title": "fix(tool): report the exception type when a tool raises without a message",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3666#issuecomment-7213893688",
+  "number": 3666,
+  "body": "Closing this PR as a duplicate of [#3711](https://github.com/agentscope-ai/agentscope/pull/3711). The merged fix handles exceptions with empty messages and includes a regression test for the `TimeoutE…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "ZhuLinsen",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
