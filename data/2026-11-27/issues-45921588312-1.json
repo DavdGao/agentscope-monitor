@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "Winoren",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T01:16:15.174641Z",
+  "title": "[Bug]: Repeated cancellation interrupts Agent context compression after offload",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4338",
+  "number": 4338,
+  "body": "### Background / Description\n\n`Agent.compress_context()` shields its context-update task so that workspace offload, context replacement, summary publication and token accounting can finish together af…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "Winoren"
+  },
+  "at_mobiles": []
+}
