@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T12:20:46.605854Z",
+  "title": "test(model): cover nullable Anthropic usage through the SDK",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3562",
+  "number": 3562,
+  "body": "## AgentScope Version\n\n2.0.12dev, based on `2599410f46250cc7db54948fae378e7282bf9426`.\n\n## Description\n\nRefs #3444 and the merged fix #3453. That fix normalized nullable usage counters in the adapters…",
+  "labels": [
+    "pr/no-linked-issue"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": true,
+    "draft": false,
+    "author": "ydflow",
+    "head_sha": "a505c9e1dd042b456a5dc9240b3f9c4e2fd2db6c",
+    "base_ref": "main",
+    "additions": 56,
+    "deletions": 0,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
