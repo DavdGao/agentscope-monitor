@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "xiaoyesoso",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T03:44:43.852264Z",
+  "title": "[Bug]: ExcelParser fails when pandas treats the ExcelFile.parse deprecation as an error",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4347#issuecomment-7209233669",
+  "number": 4347,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "xiaoyesoso",
+    "commenter": "xiaoyesoso"
+  },
+  "at_mobiles": []
+}
