@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "amirkhakshour",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T23:24:45.104202Z",
+  "title": "[Bug]: The Jev classifier asks a question with no instructions when the question omits them",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4362",
+  "number": 4362,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing issues and discussions, and this is not a duplicate.\n- [x] This is a bug, not a usage question.\n\n### Background / Description\n\n`JevClassifierModel…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "amirkhakshour"
+  },
+  "at_mobiles": []
+}
