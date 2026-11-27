@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "amirkhakshour",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T23:25:07.275235Z",
+  "title": "fix(classifier): default a question's instructions to its name",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4363",
+  "number": 4363,
+  "body": "Fixes #4362.\n\n## AgentScope Version\n\n`2.0.13dev`, rebased onto `main` at `b76f2726`.\n\n## Description\n\nA classifier question's `instructions` field is optional, and the Jev adapter forwarded it as-is. …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "amirkhakshour",
+    "head_sha": "85a43a66eb068e0ed87659449e54a1a5deaf8ab6",
+    "base_ref": "main",
+    "additions": 40,
+    "deletions": 6,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
