@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "amirkhakshour",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T23:26:12.818653Z",
+  "title": "fix(app): charge a verdict to the submission it judged",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4369",
+  "number": 4369,
+  "body": "Fixes #4368.\n\n## AgentScope Version\n\n`2.0.13dev`, rebased onto `main` at `b76f2726`.\n\n## Description\n\n`SubmitVerdict` appended a `VerificationResult` on every call, while the step middleware sends a r…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "amirkhakshour",
+    "head_sha": "c734c2eae28eaef886fdf8c14cee7538bdbf9e58",
+    "base_ref": "main",
+    "additions": 139,
+    "deletions": 6,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
