@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "amirkhakshour",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T23:25:16.926898Z",
+  "title": "[Bug]: A parked SOP verifier resumed with a plain message judges the message, not the submission",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4364",
+  "number": 4364,
+  "body": "### Prerequisites\n\n- [x] I have searched the existing issues and discussions, and this is not a duplicate.\n- [x] This is a bug, not a usage question.\n\n### Background / Description\n\nWhen an SOP step pa…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "amirkhakshour"
+  },
+  "at_mobiles": []
+}
