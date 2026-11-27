@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "xiaoyesoso",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T03:40:25.147947Z",
+  "title": "[Bug]: ExcelParser fails when pandas treats the ExcelFile.parse deprecation as an error",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4347",
+  "number": 4347,
+  "body": "### Prerequisites\n\n- [x] I searched existing issues and pull requests for `ExcelFile.parse` and `Pandas4Warning`. The warning is noted in #4134, but #4134 and its linked PR #4332 address mixed boolean…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "xiaoyesoso"
+  },
+  "at_mobiles": []
+}
