@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "qbc2016",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-27T07:23:46.967995Z",
+  "title": "fix(formatter): keep parallel tool calls in one Ollama assistant message",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3739#issuecomment-7212426373",
+  "number": 3739,
+  "body": "Thanks for the fix. #3910 has already been merged into `main`. It keeps parallel Ollama tool calls in one assistant message, including when text or images appear between calls. I ran that regression t…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "Fahmid-Arman",
+    "commenter": "qbc2016"
+  },
+  "at_mobiles": []
+}
