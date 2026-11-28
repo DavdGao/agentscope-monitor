@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "xiaoyesoso",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-28T04:58:23.498808Z",
+  "title": "[Bug]: Knowledge base fails to index XML uploads with Content-Type text/xml",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4376",
+  "number": 4376,
+  "body": "### Prerequisites\n\n- [x] I searched existing issues, pull requests, and discussions for duplicate reports.\n- [x] This is a bug in the knowledge-base upload flow.\n\n### Background / Description\n\nThe kno…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "xiaoyesoso"
+  },
+  "at_mobiles": []
+}
