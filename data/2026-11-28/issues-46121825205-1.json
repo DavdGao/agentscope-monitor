@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "xiaoyesoso",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-28T07:34:35.456577Z",
+  "title": "[Bug]: Index worker test drops empty Git config values on Windows",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4377",
+  "number": 4377,
+  "body": "### Prerequisites\n\n- [x] I searched the existing issues and discussions for `GIT_CONFIG_VALUE_0`, `PristineCheckoutTest`, and `index_worker_main_test`.\n- [x] This is a bug in the test suite.\n\n### Back…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "xiaoyesoso"
+  },
+  "at_mobiles": []
+}
