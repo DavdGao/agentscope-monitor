@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "2SinceJuly",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-28T08:52:59.041401Z",
+  "title": "test(workspace): read generated Dockerfiles as UTF-8",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4375#issuecomment-7236868104",
+  "number": 4375,
+  "body": "Follow-up with evidence that this is a pre-existing flake rather than something in this diff:\n\n- `main` @ `32c2693a` (push, 2026-11-27) — the `Python Unittest Coverage` workflow **failed**, and the on…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "2SinceJuly",
+    "commenter": "2SinceJuly"
+  },
+  "at_mobiles": []
+}
