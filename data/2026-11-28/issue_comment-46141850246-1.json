@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "jadelike-wine",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-28T11:51:47.630051Z",
+  "title": "docs(contributing): sync CONTRIBUTING_zh.md with CONTRIBUTING.md",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4359#issuecomment-7238829640",
+  "number": 4359,
+  "body": "Closes #4358.\n\nThe linked issue existed before this PR was opened and the description has always carried `Fixes #4358`; the earlier `pr-guard` message looks like it was evaluated before that link was …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "jadelike-wine",
+    "commenter": "jadelike-wine"
+  },
+  "at_mobiles": []
+}
