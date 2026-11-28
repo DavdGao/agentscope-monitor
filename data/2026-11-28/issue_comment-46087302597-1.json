@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "laoyyu",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-28T00:20:06.291805Z",
+  "title": "[Bug]: Date-less time_format is accepted and makes runtime state re-inject on every iteration",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4370#issuecomment-7230828014",
+  "number": 4370,
+  "body": "/assign",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "laoyyu",
+    "commenter": "laoyyu"
+  },
+  "at_mobiles": []
+}
