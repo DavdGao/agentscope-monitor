@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "laoyyu",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-28T01:12:56.609959Z",
+  "title": "fix(agent): validate injection time format",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4371",
+  "number": 4371,
+  "body": "## AgentScope Version\n\n2.0.13dev (`main` at `b76f272`)\n\n## Description\n\nValidate `InjectionConfig.time_format` by round-tripping a fixed probe datetime. The field documentation already requires a form…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "laoyyu",
+    "head_sha": "4fbd8ea250fc612891450e521358c7375d9c8031",
+    "base_ref": "main",
+    "additions": 42,
+    "deletions": 0,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
