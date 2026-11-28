@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "uhhgxg",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-28T02:46:02.559109Z",
+  "title": "test(chat-receipt): pin real-time collection budgets in the lifecycle suite",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4373",
+  "number": 4373,
+  "body": "## Description\n\n### Background\n\n`ChatReceiptLifecycleTest` drives the chat-input recovery sweep with a controlled fake clock, but the sweep itself is still bounded by two **real-world wall-clock budge…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "uhhgxg",
+    "head_sha": "a2ec92eea9c8c4e681d89a0506c1b20c549415b1",
+    "base_ref": "main",
+    "additions": 23,
+    "deletions": 0,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
