@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "its-amann",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-28T16:16:52.552548Z",
+  "title": "fix(formatter): restrict media downloads to public addresses",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4269#issuecomment-7242114303",
+  "number": 4269,
+  "body": "@qbc2016 the test runs on this one got cancelled partway on all three OS jobs, doesn't look like a real failure. could you rerun them and take a look?",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "its-amann",
+    "commenter": "its-amann"
+  },
+  "at_mobiles": []
+}
