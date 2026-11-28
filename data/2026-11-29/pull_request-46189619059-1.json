@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "2SinceJuly",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-28T21:03:57.634632Z",
+  "title": "fix(app): reject non-user roles when editing a queued turn",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4380",
+  "number": 4380,
+  "body": "## Problem\n\n`PATCH /chat/queue/{item_id}` is a second way into the per-session FIFO that bypasses the role boundary of the send path. `UpdateChatQueueItemRequest` accepted any `Msg` role:\n\n```python\nc…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "2SinceJuly",
+    "head_sha": "d861d092ad23c7252b3143c36d126ccd5240d4db",
+    "base_ref": "main",
+    "additions": 100,
+    "deletions": 1,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
