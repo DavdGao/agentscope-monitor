@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "2SinceJuly",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-28T08:53:41.977524Z",
+  "title": "fix(storage): stop PATCH from recreating a concurrently deleted record",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4124#issuecomment-7236877839",
+  "number": 4124,
+  "body": "Status re-check against `main` today (2026-11-28):\n\n- CI is green on this head; the branch is `MERGEABLE`, no conflicts.\n- The race described in the PR body is **still present** in `_schedule.py` on `…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "2SinceJuly",
+    "commenter": "2SinceJuly"
+  },
+  "at_mobiles": []
+}
