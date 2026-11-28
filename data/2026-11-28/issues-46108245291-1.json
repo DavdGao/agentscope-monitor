@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "xiaoyesoso",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-28T04:35:28.919976Z",
+  "title": "[Bug]: Docker build tests fail to decode UTF-8 Dockerfiles under a GBK locale",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4374",
+  "number": 4374,
+  "body": "### Prerequisites\n\n- [x] I searched the existing issues, pull requests, and discussions for this failure.\n- [x] This is a bug in the test suite.\n\n### Background / Description\n\nThe Docker build context…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "xiaoyesoso"
+  },
+  "at_mobiles": []
+}
