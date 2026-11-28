@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "xiaoyesoso",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-28T07:35:19.009450Z",
+  "title": "[Bug]: Index worker test drops empty Git config values on Windows",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4377#issuecomment-7236033444",
+  "number": 4377,
+  "body": "I would like to work on this. I will keep the change scoped to the index worker test, patch only the two environment variables it uses, and verify the ordered reproducer on Windows.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "xiaoyesoso",
+    "commenter": "xiaoyesoso"
+  },
+  "at_mobiles": []
+}
