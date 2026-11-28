@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "uhhgxg",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-28T03:15:20.936180Z",
+  "title": "fix(app): route YAML uploads by extension when MIME info is missing",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4350#issuecomment-7232920314",
+  "number": 4350,
+  "body": "Closing this PR in favor of the active claim on #4349. The issue author has reproduced the bug and is assigned to it, so I will leave the fix to them. Thanks for the repository's first-refusal guard.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "uhhgxg",
+    "commenter": "uhhgxg"
+  },
+  "at_mobiles": []
+}
