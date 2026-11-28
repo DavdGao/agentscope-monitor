@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "2SinceJuly",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-28T04:45:35.095297Z",
+  "title": "test(workspace): read generated Dockerfiles as UTF-8",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4375",
+  "number": 4375,
+  "body": "## Problem\n\n`prepare_build_context()` writes the generated `Dockerfile` as UTF-8 (`src/agentscope/workspace/_docker/_make_dockerfile.py:192`), and the template contains non-ASCII characters (the `—` i…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "2SinceJuly",
+    "head_sha": "6ba0f6d0573cb18c030e17ddc0d8f7889be5bc6a",
+    "base_ref": "main",
+    "additions": 8,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
