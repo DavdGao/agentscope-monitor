@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "mosifu",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-28T11:53:25.486565Z",
+  "title": "test(workspace): read the generated Dockerfile as UTF-8",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4379#issuecomment-7238847820",
+  "number": 4379,
+  "body": "Closing this: #4375 by @2SinceJuly was opened at 04:45 UTC, seven hours before this one, and covers the same four reads — including `workspace_docker_build_test.py:72`, which is the one the issue does…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "mosifu",
+    "commenter": "mosifu"
+  },
+  "at_mobiles": []
+}
