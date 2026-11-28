@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "uhhgxg",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-28T03:14:56.249474Z",
+  "title": "fix(app): route YAML uploads by extension when MIME info is missing",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4350",
+  "number": 4350,
+  "body": "Fixes #4349\n\n## AgentScope Version\n\n`2.0.13dev` (upstream `main` at `c296a8dfba66fc21ea216d7444034676519ed07e`)\n\n## Description\n\nA `.yaml`/`.yml` upload with a missing or generic Content-Type fails to…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "uhhgxg",
+    "head_sha": "2b5b8607d6e888564728fd870e3bff03c05f4538",
+    "base_ref": "main",
+    "additions": 80,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
