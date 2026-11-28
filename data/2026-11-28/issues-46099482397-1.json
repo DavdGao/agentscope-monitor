@@ -1,0 +1,23 @@
+{
+  "event_name": "issues",
+  "event_cn": "Issue",
+  "emoji": "📋",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "uhhgxg",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-28T02:43:57.568497Z",
+  "title": "[Bug]: Chat receipt lifecycle tests flake on macOS CI: real-time collection budgets lapse under runner load",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4372",
+  "number": 4372,
+  "body": "### Background / Description\n\n`ChatReceiptLifecycleTest` drives the chat-input recovery sweep with a controlled fake clock (`agentscope.app._bus_ops.time` and `agentscope.app._chat_receipts.time` are …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "author": "uhhgxg"
+  },
+  "at_mobiles": []
+}
