@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "xiaoyesoso",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-28T07:57:15.900342Z",
+  "title": "[Bug]: Index worker test drops empty Git config values on Windows",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/4377#issuecomment-7236264653",
+  "number": 4377,
+  "body": "The issue is confirmed. I reproduced the ordered Windows failure, verified that the scoped environment patch fixes it, and will submit the focused test change.",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "xiaoyesoso",
+    "commenter": "xiaoyesoso"
+  },
+  "at_mobiles": []
+}
