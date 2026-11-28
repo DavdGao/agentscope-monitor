@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "xiaoyesoso",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-28T07:06:58.789702Z",
+  "title": "[Feature]: support google A2UI",
+  "url": "https://github.com/agentscope-ai/agentscope/issues/1047#issuecomment-7235722840",
+  "number": 1047,
+  "body": "I checked the example link above against current `main` (`b76f2726`). The example added by #1101 and updated by #1167 was removed in #1438. I checked the current `agentscope-samples` tree as well and …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": false,
+    "author": "dengqizhou",
+    "commenter": "xiaoyesoso"
+  },
+  "at_mobiles": []
+}
