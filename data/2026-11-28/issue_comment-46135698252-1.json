@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "liwenjie200543",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-28T10:33:10.268728Z",
+  "title": "fix(tool): catch quoted mutating find predicates in read-only check",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3063#issuecomment-7237967051",
+  "number": 3063,
+  "body": "The full test matrix has finished on the rebased head `81f44db3`: `run` (ubuntu), `test` on ubuntu / macos-26 / windows-latest (3.11) all pass, plus `check-pr-title`.\n\nThe rebase onto `main@c296a8df` …",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "liwenjie200543",
+    "commenter": "liwenjie200543"
+  },
+  "at_mobiles": []
+}
