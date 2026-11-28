@@ -1,0 +1,24 @@
+{
+  "event_name": "issue_comment",
+  "event_cn": "Issue 评论",
+  "emoji": "💬",
+  "action": "created",
+  "action_cn": "新建",
+  "sender": "2SinceJuly",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-28T06:17:01.228951Z",
+  "title": "test(workspace): read generated Dockerfiles as UTF-8",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4375#issuecomment-7235193626",
+  "number": 4375,
+  "body": "The `test (ubuntu-latest, 3.11)` failure is unrelated to this change: the only failing test is `tests/chat_receipt_lifecycle_test.py::ChatReceiptLifecycleTest::test_slow_queries_do_not_starve_later_re…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "is_pr": true,
+    "author": "2SinceJuly",
+    "commenter": "2SinceJuly"
+  },
+  "at_mobiles": []
+}
