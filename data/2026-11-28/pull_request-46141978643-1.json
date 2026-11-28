@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "closed",
+  "action_cn": "关闭",
+  "sender": "mosifu",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-28T11:53:28.632478Z",
+  "title": "test(workspace): read the generated Dockerfile as UTF-8",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4379",
+  "number": 4379,
+  "body": "## Summary\n\nFour reads in the Docker tests take the generated `Dockerfile` with `Path.read_text()` and no encoding, so they decode with whatever the host picked. On a Chinese Windows that is CP936, an…",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "closed",
+    "merged": false,
+    "draft": false,
+    "author": "mosifu",
+    "head_sha": "58ca97c360b2f999984dc28446d7b6d85b69900d",
+    "base_ref": "main",
+    "additions": 4,
+    "deletions": 4,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
