@@ -1,0 +1,30 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "opened",
+  "action_cn": "新建",
+  "sender": "xiaoyesoso",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-28T08:01:05.773268Z",
+  "title": "test(rag): preserve the environment in the index worker test",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/4378",
+  "number": 4378,
+  "body": "## AgentScope Version\n\n2.0.13dev\n\n## Description\n\nOn Windows, `tests/index_worker_main_test.py` used `patch.dict(os.environ, ..., clear=True)` to configure a lowercase `LOG_LEVEL`. When the test resto…",
+  "labels": [],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "xiaoyesoso",
+    "head_sha": "57bb2935a1ee4f52e4a0f99ec40c94629182740a",
+    "base_ref": "main",
+    "additions": 5,
+    "deletions": 3,
+    "changed_files": 1
+  },
+  "at_mobiles": []
+}
