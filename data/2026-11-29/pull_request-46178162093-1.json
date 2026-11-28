@@ -1,0 +1,32 @@
+{
+  "event_name": "pull_request",
+  "event_cn": "Pull Request",
+  "emoji": "🔀",
+  "action": "synchronize",
+  "action_cn": "更新提交",
+  "sender": "inchang-ing",
+  "repo": "agentscope-ai/agentscope",
+  "time": "2026-11-28T18:52:22.774415Z",
+  "title": "fix(app): re-establish the wakeup signal subscription when it ends",
+  "url": "https://github.com/agentscope-ai/agentscope/pull/3770",
+  "number": 3770,
+  "body": "Fixes #3753\n\n## Summary\n\n`WakeupDispatcher._loop` treated the signal subscription as one-shot. When the\npub/sub generator ended -- cleanly after a broker-side drop, or by raising on a\nlost connection …",
+  "labels": [
+    "pr/awaiting-review"
+  ],
+  "assignees": [],
+  "reviewers": [],
+  "changed_paths": [],
+  "extra": {
+    "state": "open",
+    "merged": false,
+    "draft": false,
+    "author": "inchang-ing",
+    "head_sha": "f6ce2d24b00c34d3dcb45882f91952d8395c7302",
+    "base_ref": "main",
+    "additions": 215,
+    "deletions": 12,
+    "changed_files": 2
+  },
+  "at_mobiles": []
+}
